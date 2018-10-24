@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg3024"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="teaching.svg">
+  <defs
+     id="defs3">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3085"
+       is_visible="true"
+       pattern="m 331.55411,363.8826 1,0"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3074"
+       is_visible="true"
+       pattern="M 0,0 1,0"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3882"
+       is_visible="true"
+       pattern="M 0,0 1,0"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3068">
+      <rect
+         style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3070"
+         width="745.60602"
+         height="157.33781"
+         x="-2.7488632"
+         y="-2.1184909"
+         clip-path="none" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3072">
+      <rect
+         clip-path="none"
+         y="895.31543"
+         x="-1.3202919"
+         height="157.33781"
+         width="745.60602"
+         id="rect3074"
+         style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3078">
+      <rect
+         style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3080"
+         width="695.85852"
+         height="1000.1765"
+         x="-1.3202919"
+         y="-0.68991953" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3057">
+      <rect
+         style="opacity:0.9;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect3059"
+         width="340.00003"
+         height="78.571434"
+         x="38.571438"
+         y="16.505043" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="384.80277"
+     inkscape:cy="648.05919"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="false" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4063"
+       width="557.85712"
+       height="461.42859"
+       x="93.571442"
+       y="223.07646"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072" />
+    <rect
+       y="348.66183"
+       x="175.10812"
+       height="132.46429"
+       width="192.57721"
+       id="rect4043"
+       style="fill:#b3d789;fill-opacity:1;stroke:#000000;stroke-width:2"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="317.1879"
+       y="264.44321"
+       id="text3147"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3149"
+         x="317.1879"
+         y="264.44321" /><tspan
+         sodipodi:role="line"
+         id="tspan3151"
+         x="317.1879"
+         y="314.44321" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3233"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3235"><rect
+           id="rect3237"
+           width="444.28571"
+           height="361.42856"
+           x="351.42856"
+           y="562.36218" /></flowRegion><flowPara
+         id="flowPara3239" /></flowRoot>    <path
+       style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:2"
+       d="m 425.17636,370.12314 c 9.50847,0 17.21944,7.711 17.21944,17.21944 0,9.50845 -7.71097,17.21945 -17.21944,17.21945 -9.50844,0 -17.20821,-7.711 -17.20821,-17.21945 0,-9.50844 7.69977,-17.21944 17.20821,-17.21944 z m -68.79928,18.68804 59.87566,17.3988 18.08267,0 50.32425,36.23258 1.03138,21.26646 -41.82663,-20.90772 17.60059,54.00134 -25.35832,0 -8.6994,-34.06894 -7.97074,33.34024 -22.46599,0 15.21277,-60.15593 -55.80624,-26.08701 0,-21.01982 z"
+       id="path3070"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072" />
+    <flowRoot
+       transform="translate(12.69764,-270.78394)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3913"
+       xml:space="preserve"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072"><flowRegion
+         id="flowRegion3915"><rect
+           y="594.76306"
+           x="117.1777"
+           height="65.579414"
+           width="114.6077"
+           id="rect3917" /></flowRegion><flowPara
+         style="font-size:14px;text-align:end;text-anchor:end"
+         id="flowPara3923">visual</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3995"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(212.43723,51.647551)"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072"><flowRegion
+         id="flowRegion3997"><rect
+           id="rect3999"
+           width="263.8934"
+           height="42.007984"
+           x="117.1777"
+           y="594.76306" /></flowRegion><flowPara
+         style="font-size:14px"
+         id="flowPara4055">students</flowPara></flowRoot>    <flowRoot
+       transform="translate(214.41189,-75.331245)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4009"
+       xml:space="preserve"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072"><flowRegion
+         id="flowRegion4011"><rect
+           y="594.76306"
+           x="117.1777"
+           height="24.150835"
+           width="91.036285"
+           id="rect4013"
+           style="text-align:start;text-anchor:start" /></flowRegion><flowPara
+         style="font-size:14px;text-align:start;text-anchor:start"
+         id="flowPara4049">interaction</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4023"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(385.17368,-100.35932)"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072"><flowRegion
+         id="flowRegion4025"><rect
+           id="rect4027"
+           width="113.89342"
+           height="47.722271"
+           x="117.1777"
+           y="594.76306" /></flowRegion><flowPara
+         id="flowPara4031"
+         style="font-size:14px">material</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3969"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(398.75327,-270.78394)"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072"><flowRegion
+         id="flowRegion3971"><rect
+           id="rect3973"
+           width="131.75056"
+           height="59.772312"
+           x="117.1777"
+           y="594.76306" /></flowRegion><flowPara
+         style="font-size:14px"
+         id="flowPara3983">time</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path3017"
+       d="m 243.54373,566.73713 c -14.40941,0 -26.05569,14.14967 -26.05569,31.60332 0,2.80059 0.29945,5.50846 0.86397,8.09409 l 50.38343,0 c 0.56453,-2.58563 0.90945,-5.2935 0.90945,-8.09409 0,-5.06549 -0.98481,-9.85269 -2.73504,-14.09646 -0.99166,-2.40446 14.91382,-44.27733 13.47063,-46.28467 -0.44054,-0.61274 -4.98399,-4.01616 -4.98399,-4.01616 0,0 -16.38865,38.83305 -18.00594,37.60486 -4.01405,-3.04832 -8.76117,-4.81089 -13.84682,-4.81089 z"
+       style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072"
+       sodipodi:nodetypes="ssccssscss" />
+    <path
+       d="m 370.72597,101.05103 a 9.8489876,9.8489876 0 1 1 -19.69797,0 9.8489876,9.8489876 0 1 1 19.69797,0 z"
+       sodipodi:ry="9.8489876"
+       sodipodi:rx="9.8489876"
+       sodipodi:cy="101.05103"
+       sodipodi:cx="360.87698"
+       id="path3019"
+       style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:1.37445986;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       transform="matrix(1.4551171,0,0,1.4551171,-281.55751,403.17151)"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:1.37445986;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3079"
+       sodipodi:cx="360.87698"
+       sodipodi:cy="101.05103"
+       sodipodi:rx="9.8489876"
+       sodipodi:ry="9.8489876"
+       d="m 370.72597,101.05103 a 9.8489876,9.8489876 0 1 1 -19.69797,0 9.8489876,9.8489876 0 1 1 19.69797,0 z"
+       transform="matrix(1.4551171,0,0,1.4551171,-216.77012,431.27375)"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3083"
+       d="m 397.36213,594.83937 c -4.54347,0 -8.81223,1.40679 -12.52779,3.88037 -3.13383,1.45547 -27.56911,15.18691 -27.56911,15.18691 l 0.70698,10.94146 c 0,0 14.48258,-8.83619 14.26901,-6.83043 -0.60936,2.68224 -0.93478,5.50747 -0.93478,8.42501 0,2.80059 0.29945,5.50846 0.86397,8.09409 l 50.38343,0 c 0.56453,-2.58563 0.90945,-5.2935 0.90945,-8.09409 0,-17.45365 -11.69175,-31.60332 -26.10116,-31.60332 z"
+       style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072"
+       sodipodi:nodetypes="sccccsccss" />
+    <path
+       d="m 370.72597,101.05103 a 9.8489876,9.8489876 0 1 1 -19.69797,0 9.8489876,9.8489876 0 1 1 19.69797,0 z"
+       sodipodi:ry="9.8489876"
+       sodipodi:rx="9.8489876"
+       sodipodi:cy="101.05103"
+       sodipodi:cx="360.87698"
+       id="path3085"
+       style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:1.37445986;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       transform="matrix(1.4551171,0,0,1.4551171,-127.73911,431.27375)"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072" />
+    <path
+       style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 473.62008,573.87998 c -14.40941,0 -26.05569,14.14967 -26.05569,31.60332 0,2.80059 0.29945,5.50846 0.86398,8.09409 l 50.38343,0 c 0.56453,-2.58563 0.90945,-5.2935 0.90945,-8.09409 0,-17.45365 -11.69175,-31.60332 -26.10117,-31.60332 z"
+       id="path3089"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:1.37445986;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3091"
+       sodipodi:cx="360.87698"
+       sodipodi:cy="101.05103"
+       sodipodi:rx="9.8489876"
+       sodipodi:ry="9.8489876"
+       d="m 370.72597,101.05103 a 9.8489876,9.8489876 0 1 1 -19.69797,0 9.8489876,9.8489876 0 1 1 19.69797,0 z"
+       transform="matrix(1.4551171,0,0,1.4551171,-51.481165,410.31436)"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072" />
+    <path
+       transform="matrix(0.98761077,0,0,0.67039977,31.0041,49.082921)"
+       inkscape:transform-center-y="1.6759833"
+       inkscape:transform-center-x="-4.1225348"
+       d="m 375.80896,347.01803 c 5.3105,3.92158 2.64577,9.21029 5.72885,15.04765 3.08308,5.83735 8.95348,6.61811 9.19851,13.21508 0.24503,6.59698 -5.55128,7.81106 -8.19284,13.86105 -2.64156,6.04998 0.40815,11.12644 -4.5968,15.43116 -5.00495,4.30471 -9.5681,0.52994 -15.94515,2.23679 -6.37705,1.70685 -8.44452,7.25634 -14.93062,6.02726 -6.4861,-1.22909 -6.37995,-7.15023 -11.69044,-11.07181 -5.3105,-3.92158 -10.9383,-2.07794 -14.02139,-7.9153 -3.08308,-5.83735 1.61245,-9.44613 1.36742,-16.04311 -0.24503,-6.59697 -5.19532,-9.84748 -2.55376,-15.89746 2.64156,-6.04999 8.39062,-4.62892 13.39558,-8.93363 5.00495,-4.30472 4.45984,-10.20167 10.83689,-11.90852 6.37706,-1.70685 8.8505,3.67398 15.3366,4.90306 6.4861,1.22908 10.75666,-2.87379 16.06715,1.04778 z"
+       inkscape:randomized="2.7755576e-17"
+       inkscape:rounded="0.41"
+       inkscape:flatsided="false"
+       sodipodi:arg2="-0.48592416"
+       sodipodi:arg1="-0.93472311"
+       sodipodi:r2="31.223574"
+       sodipodi:r1="36.833141"
+       sodipodi:cy="376.64789"
+       sodipodi:cx="353.92856"
+       sodipodi:sides="7"
+       id="path3132"
+       style="fill:#b7d583;fill-opacity:1;stroke:#000000;stroke-width:2.45793366;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072" />
+    <path
+       transform="matrix(1.4551171,0,0,1.4551171,-129.37786,-266.17654)"
+       d="m 366.42856,414.14789 a 2.5,2.1428571 0 1 1 -5,0 2.5,2.1428571 0 1 1 5,0 z"
+       sodipodi:ry="2.1428571"
+       sodipodi:rx="2.5"
+       sodipodi:cy="414.14789"
+       sodipodi:cx="363.92856"
+       id="path3134"
+       style="fill:#b7d583;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072" />
+    <path
+       transform="matrix(1.4551171,0,0,1.4551171,-120.54316,-254.90417)"
+       sodipodi:type="arc"
+       style="fill:#b7d583;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3136"
+       sodipodi:cx="363.92856"
+       sodipodi:cy="414.14789"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.1428571"
+       d="m 366.42856,414.14789 a 2.5,2.1428571 0 1 1 -5,0 2.5,2.1428571 0 1 1 5,0 z"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072" />
+    <g
+       id="g3946"
+       transform="translate(-105.71429,-100)"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072">
+      <rect
+         style="fill:#b3d789;fill-opacity:1;stroke:#000000;stroke-width:2.18445587"
+         id="rect3157"
+         width="25.862022"
+         height="42.365196"
+         x="931.992"
+         y="-206.06877"
+         transform="matrix(0.85131433,0.524656,0.90400298,-0.42752616,0,0)"
+         inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\lehre\Presenting\pictures\presenters.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\lehre\Presenting\pictures\presenters.png"
+         transform="matrix(0.85131433,0.524656,0.90400298,-0.42752616,0,0)"
+         y="-198.35622"
+         x="923.80212"
+         height="42.365196"
+         width="25.862022"
+         id="rect3155"
+         style="fill:#b3d789;fill-opacity:1;stroke:#000000;stroke-width:2.18445587" />
+      <rect
+         style="fill:#b3d789;fill-opacity:1;stroke:#000000;stroke-width:2.18445587"
+         id="rect3153"
+         width="25.862022"
+         height="42.365196"
+         x="915.61212"
+         y="-190.6436"
+         transform="matrix(0.85131433,0.524656,0.90400298,-0.42752616,0,0)"
+         inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\lehre\Presenting\pictures\presenters.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\lehre\Presenting\pictures\presenters.png"
+         transform="matrix(0.85131433,0.524656,0.90400298,-0.42752616,0,0)"
+         y="-182.93105"
+         x="907.42224"
+         height="42.365196"
+         width="25.862022"
+         id="rect3833"
+         style="fill:#b3d789;fill-opacity:1;stroke:#000000;stroke-width:2.18445587" />
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\lehre\Presenting\pictures\presenters.png"
+         transform="matrix(0.85131433,0.524656,0.90400298,-0.42752616,0,0)"
+         y="-175.21851"
+         x="899.23236"
+         height="42.365196"
+         width="25.862022"
+         id="rect3159"
+         style="fill:#b3d789;fill-opacity:1;stroke:#000000;stroke-width:2.18445587" />
+    </g>
+    <g
+       id="g3941"
+       transform="translate(-43.559324,-102.71356)"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072">
+      <g
+         id="g3937">
+        <path
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+           transform="matrix(2.5939449,0,0,2.5939449,-360.96113,132.73463)"
+           d="m 370.72597,101.05103 c 0,5.43945 -4.40954,9.84899 -9.84899,9.84899 -5.43944,0 -9.84898,-4.40954 -9.84898,-9.84899 0,-5.439443 4.40954,-9.848985 9.84898,-9.848985 5.43945,0 9.84899,4.409542 9.84899,9.848985 z"
+           sodipodi:ry="9.8489876"
+           sodipodi:rx="9.8489876"
+           sodipodi:cy="101.05103"
+           sodipodi:cx="360.87698"
+           id="path3165"
+           style="fill:#b3d789;fill-opacity:1;stroke:#000000;stroke-width:0.77102637;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           sodipodi:type="arc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 575,374.1479 0,22.14285 22.14286,0"
+           id="path3935"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <path
+       inkscape:export-ydpi="149.99072"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       d="m 366.42856,414.14789 a 2.5,2.1428571 0 1 1 -5,0 2.5,2.1428571 0 1 1 5,0 z"
+       sodipodi:ry="2.1428571"
+       sodipodi:rx="2.5"
+       sodipodi:cy="414.14789"
+       sodipodi:cx="363.92856"
+       id="path3957"
+       style="fill:#b7d583;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       transform="matrix(1.4551171,0,0,1.4551171,-111.45178,-243.7925)" />
+    <flowRoot
+       inkscape:export-ydpi="149.99072"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       transform="translate(241.93727,-302.67953)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3959"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3961"><rect
+           y="594.76306"
+           x="117.1777"
+           height="47.722271"
+           width="113.89342"
+           id="rect3963" /></flowRegion><flowPara
+         style="font-size:14px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="flowPara3965">1-2-3</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="149.99072"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       transform="translate(212.18723,-272.14087)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3967"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3969"><rect
+           y="594.76306"
+           x="117.1777"
+           height="59.772312"
+           width="131.75056"
+           id="rect3971" /></flowRegion><flowPara
+         id="flowPara3973"
+         style="font-size:14px">plan</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3975"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(338.29275,-218.5698)"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072"><flowRegion
+         id="flowRegion3977"><rect
+           id="rect3979"
+           width="131.75056"
+           height="59.772312"
+           x="117.1777"
+           y="594.76306" /></flowRegion><flowPara
+         style="font-size:14px"
+         id="flowPara3981">teacher</flowPara></flowRoot>    <g
+       id="g4007"
+       transform="translate(-90,-70)"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-ydpi="149.99072">
+      <g
+         transform="translate(2.5253815,0)"
+         id="g3998">
+        <path
+           transform="matrix(0.79781701,0,0,0.76142617,70.756042,145.19778)"
+           d="m 386.88844,471.01938 c 0,5.85786 -11.53265,10.6066 -25.75889,10.6066 -14.22625,0 -25.75889,-4.74874 -25.75889,-10.6066 0,-5.85787 11.53264,-10.6066 25.75889,-10.6066 14.22624,0 25.75889,4.74873 25.75889,10.6066 z"
+           sodipodi:ry="10.606602"
+           sodipodi:rx="25.75889"
+           sodipodi:cy="471.01938"
+           sodipodi:cx="361.12955"
+           id="path3992"
+           style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:2.566046;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:2.566046;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path3994"
+           sodipodi:cx="361.12955"
+           sodipodi:cy="471.01938"
+           sodipodi:rx="25.75889"
+           sodipodi:ry="10.606602"
+           d="m 386.88844,471.01938 c 0,5.85786 -11.53265,10.6066 -25.75889,10.6066 -14.22625,0 -25.75889,-4.74874 -25.75889,-10.6066 0,-5.85787 11.53264,-10.6066 25.75889,-10.6066 14.22624,0 25.75889,4.74873 25.75889,10.6066 z"
+           transform="matrix(0.79781701,0,0,0.76142617,21.763653,145.19778)" />
+        <path
+           transform="matrix(0.79781701,0,0,0.76142617,119.74845,145.19778)"
+           d="m 386.88844,471.01938 c 0,5.85786 -11.53265,10.6066 -25.75889,10.6066 -14.22625,0 -25.75889,-4.74874 -25.75889,-10.6066 0,-5.85787 11.53264,-10.6066 25.75889,-10.6066 14.22624,0 25.75889,4.74873 25.75889,10.6066 z"
+           sodipodi:ry="10.606602"
+           sodipodi:rx="25.75889"
+           sodipodi:cy="471.01938"
+           sodipodi:cx="361.12955"
+           id="path3996"
+           style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:2.566046;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           sodipodi:type="arc" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4003"
+         d="m 361.39672,495.76812 10e-6,-28.29442 48.9924,28.29442"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4005"
+         d="m 359.39673,467.4737 -46.9924,28.29442"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0.79781701,0,0,0.76142617,73.281433,100.75107)"
+         d="m 386.88844,471.01938 c 0,5.85786 -11.53265,10.6066 -25.75889,10.6066 -14.22625,0 -25.75889,-4.74874 -25.75889,-10.6066 0,-5.85787 11.53264,-10.6066 25.75889,-10.6066 14.22624,0 25.75889,4.74873 25.75889,10.6066 z"
+         sodipodi:ry="10.606602"
+         sodipodi:rx="25.75889"
+         sodipodi:cy="471.01938"
+         sodipodi:cx="361.12955"
+         id="path3990"
+         style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:2.566046;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       sodipodi:nodetypes="sccccsccss"
+       inkscape:export-ydpi="149.99072"
+       inkscape:export-xdpi="149.99072"
+       inkscape:export-filename="/home/krother/Desktop/lehre/Teaching/pictures/teaching.png"
+       style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 308.72353,594.83937 c 4.54347,0 8.81223,1.40679 12.52779,3.88037 3.13383,1.45547 27.56911,15.1869 27.56911,15.1869 l -0.70698,10.94147 c 0,0 -14.48258,-8.83619 -14.26901,-6.83043 0.60936,2.68224 0.93478,5.50747 0.93478,8.42501 0,2.80059 -0.29945,5.50846 -0.86397,8.09409 l -50.38343,0 c -0.56453,-2.58563 -0.90945,-5.2935 -0.90945,-8.09409 0,-17.45365 11.69175,-31.60332 26.10116,-31.60332 z"
+       id="path4016"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

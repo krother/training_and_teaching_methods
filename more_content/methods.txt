@@ -1,0 +1,11 @@
+clapping     trainer claps once every 3 secs, invites other trainees to join, whole room joins --> silence, attention    crowd control
+energize_presenters	hand on stomach. breathe. rub your hands. arms up, swing your arms, get down, get up, turn around, whoo-heee.			presenting, warmup
+one-question-survey	prepare questions on cards. Ask people to stand up, ask someone else a question, then exchange cards and move on.	repeat
+drawing posters	strict time control with counting works.				application
+four corners    hang 4 sheets of flipchart paper on the walls with headings: What did you like about the course? What should be improved? What would you like to learn more about? What will you use in practice? Participants roam and write.    feedback, wrap-up, transfer
+good-bad-slides    Show 20 good and bad slides for 20'' each. Ask participants to take notes. Discuss.    new content, presenting
+good-bad-paragraphs    Distribute 9 pairs of text paragraphs. Give them 15' time to read. Ask for comments.    new content, writing     
+onion model    These 5x wiederholen, jedes Mal etwas dazubauen    speaking, lecture
+klickspiel    Bild in 7 Teile zersaegen, Punkte starten bei 8, pro Klick -1 Punkt, +1 Bildausschnitt    speaking, presenting
+handout austeilen    lesen lassen. Diskussion.    new content
+three part closing    deliver a strong summary; present a call-to-action; and conclude with a powerful closing statement. Develop the habit of saying last what you want your audience to remember most    speaking, closing

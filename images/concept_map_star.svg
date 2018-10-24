@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="concept_map_star.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3015"
+       width="760"
+       height="648.57141"
+       x="-8.5714283"
+       y="198.07646"
+       inkscape:export-filename="/home/krother/Desktop/academis/teaching/concept_map_star.png"
+       inkscape:export-xdpi="90.048599"
+       inkscape:export-ydpi="90.048599" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff2a2a;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2987"
+       sodipodi:sides="6"
+       sodipodi:cx="300"
+       sodipodi:cy="272.36218"
+       sodipodi:r1="94.298805"
+       sodipodi:r2="171.45238"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.0943951"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 300,366.66099 -85.72619,54.18331 4.06103,-101.33271 -89.78722,-47.14941 89.78722,-47.1494 -4.06103,-101.33271 85.72619,54.18331 85.72619,-54.18331 -4.06103,101.33271 89.78722,47.1494 -89.78722,47.1494 4.06103,101.33272 z"
+       transform="translate(65.714286,254.28571)"
+       inkscape:export-filename="/home/krother/Desktop/academis/teaching/concept_map_star.png"
+       inkscape:export-xdpi="90.048599"
+       inkscape:export-ydpi="90.048599" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2989"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
+       transform="translate(-57.142857,5.7142858)"
+       inkscape:export-filename="/home/krother/Desktop/academis/teaching/concept_map_star.png"
+       inkscape:export-xdpi="90.048599"
+       inkscape:export-ydpi="90.048599"><flowRegion
+         id="flowRegion2991"><rect
+           id="rect2993"
+           width="214.28572"
+           height="151.42857"
+           x="311.42856"
+           y="478.07648" /></flowRegion><flowPara
+         id="flowPara2995"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Arial;-inkscape-font-specification:Arial Bold">Super</flowPara><flowPara
+         id="flowPara2997"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Arial;-inkscape-font-specification:Arial Bold">Teachers</flowPara></flowRoot>    <flowRoot
+       transform="translate(65.714284,-193.42857)"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
+       id="flowRoot2999"
+       xml:space="preserve"
+       inkscape:export-filename="/home/krother/Desktop/academis/teaching/concept_map_star.png"
+       inkscape:export-xdpi="90.048599"
+       inkscape:export-ydpi="90.048599"><flowRegion
+         id="flowRegion3001"><rect
+           y="478.07648"
+           x="311.42856"
+           height="151.42857"
+           width="257.14285"
+           id="rect3003" /></flowRegion><flowPara
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="flowPara3011">use interactive methods</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3013"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
+       transform="translate(217.14285,31.428569)"
+       inkscape:export-filename="/home/krother/Desktop/academis/teaching/concept_map_star.png"
+       inkscape:export-xdpi="90.048599"
+       inkscape:export-ydpi="90.048599"><flowRegion
+         id="flowRegion3015"><rect
+           id="rect3017"
+           width="214.28572"
+           height="151.42857"
+           x="311.42856"
+           y="478.07648" /></flowRegion><flowPara
+         id="flowPara3021"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Arial;-inkscape-font-specification:Arial Bold">visualize</flowPara></flowRoot>    <flowRoot
+       transform="translate(-311.42858,31.42857)"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
+       id="flowRoot3025"
+       xml:space="preserve"
+       inkscape:export-filename="/home/krother/Desktop/academis/teaching/concept_map_star.png"
+       inkscape:export-xdpi="90.048599"
+       inkscape:export-ydpi="90.048599"><flowRegion
+         id="flowRegion3027"><rect
+           y="478.07648"
+           x="311.42856"
+           height="151.42857"
+           width="214.28572"
+           id="rect3029" /></flowRegion><flowPara
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="flowPara3031">present</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3035"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
+       transform="translate(-165.71429,-194.28571)"
+       inkscape:export-filename="/home/krother/Desktop/academis/teaching/concept_map_star.png"
+       inkscape:export-xdpi="90.048599"
+       inkscape:export-ydpi="90.048599"><flowRegion
+         id="flowRegion3037"><rect
+           id="rect3039"
+           width="214.28572"
+           height="151.42857"
+           x="311.42856"
+           y="478.07648" /></flowRegion><flowPara
+         id="flowPara3041"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Arial;-inkscape-font-specification:Arial Bold">plan</flowPara><flowPara
+         id="flowPara3043"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Arial;-inkscape-font-specification:Arial Bold">lessons</flowPara><flowPara
+         id="flowPara3045"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Arial;-inkscape-font-specification:Arial Bold" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3052"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
+       transform="translate(-191.42858,216.28572)"
+       inkscape:export-filename="/home/krother/Desktop/academis/teaching/concept_map_star.png"
+       inkscape:export-xdpi="90.048599"
+       inkscape:export-ydpi="90.048599"><flowRegion
+         id="flowRegion3054"><rect
+           id="rect3056"
+           width="245.71429"
+           height="145.71429"
+           x="311.42856"
+           y="478.07648" /></flowRegion><flowPara
+         id="flowPara3058"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Arial;-inkscape-font-specification:Arial Bold">talk about the latest news</flowPara></flowRoot>    <flowRoot
+       transform="translate(79.999987,216.28572)"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
+       id="flowRoot3060"
+       xml:space="preserve"
+       inkscape:export-filename="/home/krother/Desktop/academis/teaching/concept_map_star.png"
+       inkscape:export-xdpi="90.048599"
+       inkscape:export-ydpi="90.048599"><flowRegion
+         id="flowRegion3062"><rect
+           y="478.07648"
+           x="311.42856"
+           height="151.42857"
+           width="214.28572"
+           id="rect3064" /></flowRegion><flowPara
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="flowPara3066">try out a</flowPara><flowPara
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="flowPara3068">Smartboard</flowPara></flowRoot>  </g>
+</svg>

@@ -1,0 +1,136 @@
+
+Last week I found the 'Knowing Knowledge' ebook by George Siemens you gave me this summer and couldn't stop reading. For me this is groundbreaking literature, because:
+
+1) As a trainer, it adds to the mindset I need to make knowledge happen. Act as a learning facilitator, not a funnel.
+
+2) As a businessman, the book makes a strong point that in our age, information is free and therefore content is essentially worthless. Embracing the change and selling context instead of content might give me an edge (I heard of competitors who refuse to share their lesson plans with their clients like in the dark ages).
+
+3) As a scientist, the book encourages me to question the way we publish science, which I consider highly dysfunctional. Are we witnessing a major paradigm shift?
+
+With that said, I am still looking for the ideal tool to collect, recombine, and share pieces of knowledge. Scoop.it is nice but it does not go far enough. I want to do the same with publications, figures, PDFs and parts thereof...
+
+Thanks for the inspiration. If you come across further sources in this direction, please pass them in my direction.
+Knowing Knowledge
+
+KNOWLEDGE IS FLOW
+
+People do not want to visit your content. They want to pull your content
+into their sites, programs, or applications. Sense-making needs to happen
+in their context. This is a profound change.
+
+Sense-making happens in their context. Today, it is about pulling content
+from numerous sites and allowing the individual to repurpose it
+in the format they prefer.
+
+The artist is the individual who sees the magic in learning. They may
+not know exactly why something worked well, but can see (and dare .
+I say, feel?) that the learners are changing, growing, and developing. .
+The artist of learning sees beauty i n the dialogue, i n the i nteraction, .
+in the connections formed between what i s known and what i s becoming
+known. The artist sees (and accepts) the beauty of uncertainty and
+values learning as both a process and a product. In creating a knowledge
+environment, the artist splashes the magic of learning across the entire
+canvas of life. Tools are used like paint brushes to create the desired
+painting of learning. 
+
+We have designed our corporations for stability. Planning cycles, budgeting,
+strategic goals, mission statements—all operate from an assumption
+of knowledge as a stable entity.
+Our organizations should not be stable. They should be adaptable
+p116f
+
+!!!! p118ff
+
+Value is in the ability to create new connections based on existing and
+changing environments.
+
+We can no longer create certainty. Instead, we create patterns, reflective
+of a particular point in time, then we act, but we must remain connected
+to the original source in order to stay current (and we should actually
+feed back into the original source so that both learn).
+
+Clear aims through decentralized means is THE challenge for organizations today. Organizations need to achieve goals, objectives, targets, but they need to achieve them in non-linear ways. The assumption that control determines outcome is a mindset that was questionable in the i ndustrial era…and laughable in the knowledge era.
+
+The central filtering agent is no longer the newspaper, teacher, manager, or institution. It is the individual. Think about what that means to our organizations today. It changes everything. The center has broken apart in other industries—movies, music,
+software; we can expect knowledge and learning will not be immune. 
+
+The capacity for connection forming, becoming aware (of others and
+knowledge), and sustaining exchanges, lies at the heart of knowledge
+exchange today. Our design of methods, organizations, and systems
+benefit most by allowing greatest opportunity for connectivity. The
+capacity to connect produces the capacity to adapt.
+
+We have in the past seen knowledge as an object and learning as a
+product. But knowledge is really more of a stream and learning more
+of a process. A product is a stopped process—consider a book, building .
+a car, a course, a training program, a marketing campaign. 
+
+The end of process is the product. Our internet-era knowledge i s no
+longer suitable as a product—we can continue to revise, connect, and
+alter indefinitely.
+
+ALSO READ: p66ff
+
+Seven broad societal trends are changing the environment in which knowledge
+exists:
+1.	The rise of the individual
+2.	Increased connectedness
+3.	Immediacy and now
+4.	Breakdown and repackaging
+5.	Prominence of the conduit
+6.	Socialization
+7.	Blurring worlds of physical and virtual
+
+We are no longer willing to have others think for us. We want to read
+what concerns us. Listen to what we want. We want only the pieces that
+interest us, and we want to repackage i t so that i t makes sense to us. Repackaging is the personalization of the knowledge
+created by others.
+
+An ecology, a knowledge sharing environment, should have the following
+components: p88ff
+
+
+
+# The Stream of Knowledge
+
+In its abundance, factual information has become worthless. Sometimes even useless.
+Instead, we need knowledge that is both actionable and inspiring. Knowing the right thing at the right time is priceless. But how can we know? What is knowledge anyway?
+
+## What is Knowledge?
+
+Knowledge is of flowing nature, not static. It is a river rather than a mountain. In his book [Knowing Knowledge](), **Author** states: We create knowledge by putting information in a context. Creating context means: We collect, curate and share pieces of information. We collect small pieces of content, like picking pebbles from a stream. We curate by recombining what we found, like arranging the pebbles to a picture. Finally we share our creation with others. Only by combining these three activities, information becomes meaningful. We create knowledge.
+
+## The Shortcomings of current Web Apps
+The web has many tools to collect, curate and share. But for me they are not enough. Take a look at the most popular communication tools: [Twitter] allows you to collect and share information, but you can't curate. You can't group your ten favorite Tweets into a folder that is not washed away in the stream the next morning. The same applies for [LinkedIn] and [Scoop.it]. [Evernote] is great for curating content, but it has no channels for collecting and sharing information; you have to attach them yourself. [email] works well for collecting and sorting information, but you practically can't share anything unless you consider spam a form of delivering value. Finally, tools like [Pinterest] and [Youtube] cover all three activities, but they are limited to pictures and movie clips, respectively. All these tools are useful, but in my opinion they stopped halfways. A tool that would allow efficient creation of knowledge does not exist. And I am angry about that.
+
+
+## The ideal knowledge tool
+
+What would a better tool look like? 
+- First, you could collect pieces of content from a consistent stream of information and save them for later. Or you could ignore it, just like your read or ignore [Twitter]. 
+- Second, you could curate the content you have gathered. You could combine text and any kind of media, add your own content, and group it in a way that makes sense to you. This is what [Evernote] does, what you do on your file system, and even on [Wordpress].
+- Third, you could share the content you created. It becomes available to people who have tapped in your stream, and to those who find it by recommendation or coincidence. This is what the **Publish** and **Retweet** buttons in this world do.
+I believe that a single application in which you collect, curate and share would create a lot of knowledge.
+
+## Conclusion
+[Tim-Berners Lee] said *"The dream behind the Web is of a common information space in which we communicate by sharing information."* The success of the web is made by applications that help you to get the right information at the right time. Applications where knowledge is flowing freely. Because that knowledge is priceless.
+
+
+
+Information is not value. 
+Value is whatever gets you the right information at the right moment.
+
+
+
+My island connected to your island, my ship to your ship.
+
+ideally with a Python API.
+
+I don't want to think "Which website" as much as I don't care for which drop of water I sail on.
+
+The web is a continuum.
+
+Everybody can copy facts: music, videos, books, web pages, hyperlinks.
+Intellectual property is but a small obstacle, at best it slows down the inevitable.
+
+ 
