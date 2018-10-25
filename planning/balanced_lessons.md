@@ -12,11 +12,11 @@ What is the optimal method for experimental research? Obviously, the answer depe
 
 Therefore there is no single best approach, but literally hundreds. The overall setting determines which teaching methods will work best in practice. But how can you systematically construct a teaching unit then?
 
-![teaching phases](images/teaching_phases.png)
+![teaching phases](../images/teaching_phases.png)
 
-Here, I propose a model consisting of four phases. They provide you with a scaffolding that give you a safe structure to construct quality teaching units from 45 minutes to full days. In each well-built seminar and practical course, you will find the four phases **warm-up, introduce content, apply content,** and **wrap-up.
+Here, I propose a model consisting of four phases. They provide you with a scaffolding that give you a safe structure to construct quality teaching units from 45 minutes to full days. In each well-built seminar and practical course, you will find the four phases **warm-up, introduce content, apply content,** and **wrap-up**.
 
-# 1. Warm-up
+### 1. Warm-up
 
 Here, you invite students mentally into your class. You motivate them to learn about the subject and make them ready to think, if necessary (and it should always be necessary). To motivate trainees you can connect the topic at hand to their present knowledge or present a single example of the problem at hand. You can explain the learning goal or give an overview. To make students more active, do a warm-up exercise. Warming up includes as simple things as saying hello (imagine a lecture without; I was told it is very awkward).
 
@@ -31,6 +31,8 @@ Give students a chance to apply their new knowledge actively. They need to exper
 ### 4. Wrap-up
 
 Finally, did your plan work? Are there any open questions? What was the take home message? The wrap-up section is an opportunity for you and your class to reflect the content of the lesson as a whole. Minimally, you should repeat the central content or let your students do that. If you want to spend more time on a wrap-up, you can reach out to related fields: explain similar problems and related topics, discuss the limitations of a method or concept. Give hints where to learn more. Request feedback from your audience. And say goodbye, of course.
+
+## Conclusions
 
 These are the four basic phases of a teaching unit. In the figure you can see that the warm-up and wrap-up parts are generally shorter than the other two (usually 10-20% each). In a single lesson, you may cycle through the four phases once, or several times for different learning goals. This is why the model in the figure is circular. A single cycle should last at least 45', otherwise the pace might be considered too fast. 
 

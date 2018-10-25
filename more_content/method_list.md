@@ -1,3 +1,16 @@
+clapping     trainer claps once every 3 secs, invites other trainees to join, whole room joins --> silence, attention    crowd control
+energize_presenters	hand on stomach. breathe. rub your hands. arms up, swing your arms, get down, get up, turn around, whoo-heee.			presenting, warmup
+one-question-survey	prepare questions on cards. Ask people to stand up, ask someone else a question, then exchange cards and move on.	repeat
+drawing posters	strict time control with counting works.				application
+four corners    hang 4 sheets of flipchart paper on the walls with headings: What did you like about the course? What should be improved? What would you like to learn more about? What will you use in practice? Participants roam and write.    feedback, wrap-up, transfer
+good-bad-slides    Show 20 good and bad slides for 20'' each. Ask participants to take notes. Discuss.    new content, presenting
+good-bad-paragraphs    Distribute 9 pairs of text paragraphs. Give them 15' time to read. Ask for comments.    new content, writing     
+onion model    These 5x wiederholen, jedes Mal etwas dazubauen    speaking, lecture
+klickspiel    Bild in 7 Teile zersaegen, Punkte starten bei 8, pro Klick -1 Punkt, +1 Bildausschnitt    speaking, presenting
+handout austeilen    lesen lassen. Diskussion.    new content
+three part closing    deliver a strong summary; present a call-to-action; and conclude with a powerful closing statement. Develop the habit of saying last what you want your audience to remember most    speaking, closing
+
+
 2D-Abstimmung	Graph mit zwei Fragen auf X-/Y-Achse mit Antworten von 0-100%, durch Magneten beantwortet.
 4 Ecken	Vier Poster hängen in den Ecken, TN laufen die ab und schreiben zu jedem einen Beitrag
 Aquarium	Innenkreis, Außenkreis. Innenkreis diskutiert, Rest hört zu.
@@ -308,7 +321,6 @@ Table Topics
 Süssigkeiten		
 ein Wort	Frage, reihum jeder ein Wort zu Antwort	
 sortieren als Reihe	by programming skill	
-Upside Down		
 Boggle		
 one question survey		
 guess who I am	with ML methods	
@@ -401,7 +413,6 @@ Gästebuch
 Speedboat		
 		
 Energizer		
-Mikrowelle		
 Koffer packen	mit Begriffen + Gesten	
 Koffer packen	mit Bewegungen	
 Ball point game		
@@ -417,18 +428,115 @@ Swordmaster
 Cup song		
 Gebäudeplan		
 Zahlen formen	0 to 20	
-coop arm wrestling		
 binary count		
-penguin skittles		
-Pantomime	sich vorstellen, Frage zum Wochenende	
+Pantomime sich vorstellen
+Frage zum Wochenende	
 		
-Leadership		
-Award tokens		
 Self-checking exercises		
 Wochenplan		
 Future Workshop	MfU p.74	
 Plan B		
 Kanban / Burndown		
-NASA moon landing		
 nine grounds		
-Cynefin		
+
+Fast Ball (3-4 rounds)
+The Cup Song (clap-clap tap-tap-tap clap movecup, clap liftcup tapcup tapdowncup switchhands tap dropcup)
+Kamelrennen
+Pinguinmemory
+Pinguin als Ball
+Blitzlicht
+Caroussel
+Gruppenpuzzle
+Crossing Out
+MC-Questions
+Themenspeicher
+Fist to Five
+Backlog
+Brainstorming
+Panel Discussion
+Speech with gaps
+Koffer packen
+Group posters
+puzzle with molecules
+concept map
+seminar phases
+task board
+retrospectives
+iterations
+PlusMinusInteresting
+Closed Poll
+True or False cards
+Topic cards
+Table Topics
+Grafiz
+Gruppenpuzzle funktioniert prima, Aufgaben klar stellen --> Viel Zeit geben.
+Crossing Out mit Bildchen malen
+learning objects, atoms, formalized items.
+test before & after
+Plakat mit Feldern zu moeglichen Interessen. Chips verteilen.
+wenn <name> ein <auto> wäre wäre er ein <attribut>
+Gruppenpuzzle (Stammgruppe, Gemixt in Expertengruppen wo Materialien bearbeitet werden, Rueckkehr)
+Practicals: work in pairs (lab & computer class)
+Bonus exercises for faster people
+fist2five show 0-5 fingers according to learning success
+ask about pairs of items: what is more important -> priorities
+1D-Plot about how everybody feels
+create matrix (fill table)
+test-after
+assess in follow-up inquiry
+problem-analysis-schema: table 4 columns: 1) what is the problem? 2) What could be reasons? 3) What could be done? 4) What obstacles exist?
+four squares: +/-/opportunities/risks
+Method: Geraeuschdosen, Wortpaare zum Paerchen finden.
+groupwise introduction --> quicker in big groups.
+QAAQ: 2 groups, 2 topics, 1st asks 2nd answers for 5', then reverse
+Fadenkreuz, Feedback markieren fuer 4 Sektoren
+Introduction: 3 Fragen auf Flipchart
+Business Value game; members build their schedule
+Introduction: Hex numbers, explain why you own it.
+
+
+
+Blue BLUE blue b.l.u.e. Gruppenfinden
+Pie chart agenda
+
+Teaching Atoms
+- learning goal
+- problem statement
+- media
+- exercise(s)
+- data
+- learning material
+- methods (tools, programs, teaching methods)
+- lesson plan
+Result is an independent kit to build teaching units of 1-8h length.
+
+Speaking/acting in a circle (1-2-3-4-5-6-7):
+- emphasize one point
+- divide two groups
+- 7 is the superstar
+- sports report
+- cast a magic spell
+- rhythm
+- drama
+- relax on a beach
+- describe a mystery
+
+Lueckenspeech
+
+T/F Each concept map is a:
+- mind map
+- visual representation
+- poster
+- simplification of a subject
+- learning goal
+- derived from the syllabus
+===> write down the definition
+
+READING
+- crosswords:
+       http://www.theteacherscorner.net/printable-worksheets/make-your-own/crossword/crossword-puzzle-maker.php
+	   http://www.edhelper.com/crossword.htm
+       http://www.edhelper.com/Codeword_Puzzle.htm       
+- http://successfulteaching.blogspot.com/search/label/teaching
+
+??? John Dewey style team inquiry learning

@@ -15,27 +15,41 @@ Here I have collected time-tested techniques for making courses and lectures mor
 * [Balanced teaching units](planning/balanced_lessons.md)
 * [Blooms taxonomy](planning/blooms_taxonomy.md)
 * [Blooms action verbs](planning/blooms_action_verbs.md)
+* [Content reduction](planning/content_reduction.md)
 * [Concept Maps](planning/concept-maps.md)
+* [Learning types](planning/learning_types.md)
 * [Training course design](planning/training_course_design.md)
 
 ## Openers
 
 * [Expectations](openers/collect_and_review_expectations.md)
+* [Introduction with items](openers/prop_intro.md)
+* [Guess who I am](openers/guess_who_i_am.md)
+* [Selling your lesson](openers/selling_your_lesson.md)
+* [Early Victory](openers/early_victory.md)
 * [Upside-down](openers/upside_down.md)
 * [Seven Ways to Start a Lecture](openers/seven_ways_to_start.md)
 * [Collect cards](openers/collect_cards_to_open_your_lesson.md)
-* [Guess who I am](openers/guess_who_i_am.md)
+* [Algorithmic games](openers/algorithmic_games.md)
+* [Videos in training](openers/videos_in_training.md)
 
 ## Lectures
 
-* [Progress bar](lectures/progress_bar.md)
 * [Asking questions](lectures/questions.md)
+* [Brainstorming](lectures/brainstorming.md)
+* [Progress bar](lectures/progress_bar.md)
 * [Panel discussion](lectures/panel_discussions.md)
 * [Magnets](lectures/magnets.md)
+
+## Exercises
+
+* [Affinity grouping](lectures/affinity_grouping.md)
+* [Affinity grouping](lectures/coding_kata.md)
 
 ## Practical Transfer
 
 * [Pros and Cons](transfer/pros_and_cons.md)
+* [Transfer methods](transfer/transfer.md)
 
 ## Repeating
 
@@ -60,7 +74,9 @@ Here I have collected time-tested techniques for making courses and lectures mor
 
 ## Energizers
 
+* [Start a Fire](energizers/start_fire.md)
 * [Microwave](energizers/microwave.md)
+* [Protein Folding Dance](energizers/protein_dance.md)
 
 ## Cooldown
 
@@ -68,7 +84,9 @@ Here I have collected time-tested techniques for making courses and lectures mor
 
 ## Miscellaneous
 
+* [Why we need so many training methods](misc/why_methods.md)
 * [Plan B](misc/plan_b.md)
+* [Checklists](misc/checklists.md)
 * [Quotes on Teaching](misc/quotes_teaching.md)
 
 ## License
