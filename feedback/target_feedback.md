@@ -7,4 +7,4 @@
 4. Partimants mark one dot per quadrant
 5. Don't stare at the participants while they place their dots
 
-*Acknowledgement: Marcus Koch (marcuskoch65@aol.com)*
+*Acknowledgement: Marcus Koch*

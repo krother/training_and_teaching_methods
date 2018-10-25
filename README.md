@@ -3,39 +3,73 @@
 
 **by Dr. Kristian Rother**
 
+![](images/teaching.png)
+
 The clock is ticking. Time to prepare a course is short. As a lecturer you should prepare quickly and the result should be solid. Impossible? Certainly not, but challenging.
 
 Here I have collected time-tested techniques for making courses and lectures more interesting.
 
-## Contents
+## Planning
 
-* [](blooms_action_verbs.md)
-* [](check_and_cross.md)
-* [](collect_and_review_expectations.md)
-* [](collect_cards_to_open_your_lesson.md)
-* [](collect-feedback-voting-box.md)
-* [](concept-maps.md)
-* [](construct-well-balanced-teaching-units.md)
-* [](domino.md)
-* [](dot-voting.md)
-* [](feedback_methods.md)
-* [](feedback_props.md)
-* [](fist_or_five.md)
-* [](four-corner-feedback.md)
-* [](guess_who_i_am.md)
-* [](memory.md)
-* [](moderating_magnets.md)
-* [](organizing_panel_discussion.md)
-* [](pros_and_cons.md)
-* [](quotes_teaching.md)
-* [](scrabble.md)
-* [](setting-learning-goals-blooms-taxonomy.md)
-* [](supermarket.md)
-* [](training_course_design.md)
+* [Seven steps to prepare a lesson](planning/seven_steps.md)
+* [Balanced teaching units](planning/balanced_lessons.md)
+* [Blooms taxonomy](planning/blooms_taxonomy.md)
+* [Blooms action verbs](planning/blooms_action_verbs.md)
+* [Concept Maps](planning/concept-maps.md)
+* [Training course design](planning/training_course_design.md)
 
-using-multple-choice-questions.html
-how-use-videos-support-training-session.html
-repeating-carrousel.html
+## Openers
+
+* [Expectations](openers/collect_and_review_expectations.md)
+* [Upside-down](openers/upside_down.md)
+* [Seven Ways to Start a Lecture](openers/seven_ways_to_start.md)
+* [Collect cards](openers/collect_cards_to_open_your_lesson.md)
+* [Guess who I am](openers/guess_who_i_am.md)
+
+## Lectures
+
+* [Progress bar](lectures/progress_bar.md)
+* [Asking questions](lectures/questions.md)
+* [Panel discussion](lectures/panel_discussions.md)
+* [Magnets](lectures/magnets.md)
+
+## Practical Transfer
+
+* [Pros and Cons](transfer/pros_and_cons.md)
+
+## Repeating
+
+* [Domino](repeat/domino.md)
+* [Check and Cross](repeat/check_and_cross.md)
+* [Memory](repeat/memory.md)
+* [Scrabble](repeat/scrabble.md)
+
+## Feedback
+
+* [4-Corner-feedback](feedback/four-corner-feedback.md)
+* [Voting box](feedback/collect-feedback-voting-box.md)
+* [Dot voting](feedback/dot-voting.md)
+* [Feedback props](feedback/feedback_props.md)
+* [Fist or Five](feedback/fist_or_five.md)
+* [Supermarket](feedback/supermarket.md)
+* [Marketplace](feedback/marketplace.md)
+* [Target](feedback/target_feedback.md)
+* [Traffic Light](feedback/traffic_light_feedback.md)
+* [Round Robin questions](feedback/blitzlicht_extra.md)
+* [Feedback methods](feedback/feedback_methods.md)
+
+## Energizers
+
+* [Microwave](energizers/microwave.md)
+
+## Cooldown
+
+* [Finishing moves](energizers/finishing_moves.md)
+
+## Miscellaneous
+
+* [Plan B](misc/plan_b.md)
+* [Quotes on Teaching](misc/quotes_teaching.md)
 
 ## License
 

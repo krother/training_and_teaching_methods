@@ -1,5 +1,5 @@
 
-# Blitz questions
+# Round Robin questions
 
 1. Form a circle
 2. Visualize a few questions to ask**
@@ -18,5 +18,3 @@
 * I found interesting..
 * What I really liked..
 * Something else I want to say..
-
-*Acknowledgement: Marcus Koch (marcuskoch65@aol.com)*

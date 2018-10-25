@@ -3,7 +3,7 @@
 
 A general recipe for preparing lectures, seminars, and practical training:
 
-![seven steps](images/seven_steps.png)
+![seven steps](../images/seven_steps.png)
 
 1. Set a learning goal.
 2. Visualize your structure as a concept map

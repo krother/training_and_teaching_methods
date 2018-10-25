@@ -17,4 +17,4 @@ Give everybody a small metaphorical object they may take home (star, book, tange
 8. Tap the person in front of you on their right shoulder
 9. say "excellent job, well done"
 
-*Acknowledgement: Marcus Koch (marcuskoch65@aol.com)*
+*Acknowledgement: Marcus Koch*

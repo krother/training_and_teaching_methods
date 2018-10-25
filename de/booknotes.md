@@ -1,8 +1,6 @@
 # Random Notes
 
-
-
-Notizen aus Buch ausgeliehen von Prof. Upmeier zu Belzen
+Notizen aus
 
 "Eschenhagen/Kattmann/Rodi. Fachdidaktik Biologie. Aulis Verlag Deubner & Co KG Köln. 1985"
 
@@ -237,9 +235,3 @@ Welche Faktoren wurden bisher nicht oder nur wenig berücksichtigt? Beispielswei
 
 Welche praktisch durchführbaren Möglichkeiten gibt es, Experiment und Seminar stärker zu verknüpfen? Welchen Stellenwert nimmt die Vorlesung als klassisches Lehrmedium an der Universität ein?
 (Hier sollte man vermutlich auf entsprechende Arbeiten zu diesen Themen verwe
-
-
-Danksagungen
-
-Cornelius Frömmel, Frau Steinke, Bettina Ritter-Mamczeck, Elke Michalsky
-

@@ -9,5 +9,4 @@
 4. Repeat
 5. Stop before it gets dull (about 10 statements are sufficient).
 
-*Acknowledgement: Marcus Koch (marcuskoch65@aol.com)*
-
+*Acknowledgement: Marcus Koch*

@@ -1,7 +1,5 @@
 
-# Your Teaching Treasure Box
-
-*September 14th-15th, 2015*
+# Treasure Box
 
 Here you find all the cards we collected in the treasure box during the course. I hope this collection will help you to improve your teaching further, to find more teaching tools and investigate which of them work best for you. 
 
@@ -21,7 +19,7 @@ Here you find all the cards we collected in the treasure box during the course. 
 ## Motivators
 - 4MAT
 - Progress indicator
-- rewards / badges 
+- rewards / badges
 - Prototype
 - repeating tasks in 2+ media (mail, speech, upload)
 
