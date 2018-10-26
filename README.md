@@ -7,15 +7,19 @@
 
 The clock is ticking. Time to prepare a course is short. As a lecturer you should prepare quickly and the result should be solid. Impossible? Certainly not, but challenging.
 
-Here I have collected time-tested techniques for making courses and lectures more interesting.
+This is a collection of my favourite time-tested techniques for teaching programming and to make other courses and lectures more interesting.
+
+If you are a lecturer looking for ideas to spice up your classes and make them more interesting for your students, this might be the right literature for you. 
 
 ## Planning
 
+* [How to teach?](planning/how_to_teach.md)
 * [Seven steps to prepare a lesson](planning/seven_steps.md)
 * [Balanced teaching units](planning/balanced_lessons.md)
 * [Blooms taxonomy](planning/blooms_taxonomy.md)
 * [Blooms action verbs](planning/blooms_action_verbs.md)
 * [Content reduction](planning/content_reduction.md)
+* [Concepts](planning/concepts.md)
 * [Concept Maps](planning/concept-maps.md)
 * [Learning types](planning/learning_types.md)
 * [Training course design](planning/training_course_design.md)
@@ -23,6 +27,7 @@ Here I have collected time-tested techniques for making courses and lectures mor
 ## Openers
 
 * [Expectations](openers/collect_and_review_expectations.md)
+* [4 Expectation questions](openers/4expectations.md)
 * [Introduction with items](openers/prop_intro.md)
 * [Guess who I am](openers/guess_who_i_am.md)
 * [Selling your lesson](openers/selling_your_lesson.md)
@@ -38,6 +43,8 @@ Here I have collected time-tested techniques for making courses and lectures mor
 
 * [Asking questions](lectures/questions.md)
 * [Brainstorming](lectures/brainstorming.md)
+* [Code sniplets](lectures/code_sniplets.md)
+* [Mind Mapping](lectures/mind_mapping.md)
 * [Progress bar](lectures/progress_bar.md)
 * [Panel discussion](lectures/panel_discussions.md)
 * [Magnets](lectures/magnets.md)
@@ -48,6 +55,7 @@ Here I have collected time-tested techniques for making courses and lectures mor
 * [Practical exercises](lectures/practical_exercises.md)
 * [Coding Kata](lectures/coding_kata.md)
 * [Affinity grouping](lectures/affinity_grouping.md)
+* [Student presentations](lectures/student_presentations.md)
 
 ## Practical Transfer
 
@@ -60,6 +68,8 @@ Here I have collected time-tested techniques for making courses and lectures mor
 * [Check and Cross](repeat/check_and_cross.md)
 * [Memory](repeat/memory.md)
 * [Scrabble](repeat/scrabble.md)
+* [MC-questions](repeat/mc_questions.md)
+* [Carrousel](repeat/carrousel.md)
 
 ## Feedback
 
@@ -89,9 +99,15 @@ Here I have collected time-tested techniques for making courses and lectures mor
 
 * [Why we need so many training methods](misc/why_methods.md)
 * [Plan B](misc/plan_b.md)
+* [Troubleshooting](misc/troubleshooting.md)
 * [Checklists](misc/checklists.md)
+* [Equipment](misc/equipment.md)
 * [Quotes on Teaching](misc/quotes_teaching.md)
 * [Links](misc/links.md)
+
+## Acknowledgements
+
+I dedicate this document to Bettina Ritter-Mamczek and Cornelius Frömmel, to whom i owe my skills and passion to teaching.
 
 ## License
 

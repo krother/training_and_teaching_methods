@@ -15,7 +15,7 @@ bis 15
 Ein Sprechball (oder anderer Gegenstand)
 
 ### Wie geht's?
-Stelle eine offene Frage, z.B.: *"Was nimmst Du aus diesem Kurs mit?".
+Stelle eine offene Frage, z.B.: *"Was nimmst Du aus diesem Kurs mit?".*
 
 Reiche den Sprechball herum. Wer den Ball hat, darf einen kurzen Kommentar abgeben.
 

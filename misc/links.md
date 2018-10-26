@@ -32,3 +32,10 @@
 * https://www.screencastify.com/
 * https://appear.in/
 * http://feedvalidator.org/
+
+## Books
+
+* Jark, Werner: Leitfaden zur Unterrischtsvorbereitung [Scriptor]
+* Unterrichtsmethoden [Scriptor]
+* Meyer, Hilbert: Didaktische Modelle [Scriptor]
+* Bönsch, Manfred: Unterrichtsmethoden - kreativ & vielfältig 
