@@ -540,3 +540,107 @@ READING
 - http://successfulteaching.blogspot.com/search/label/teaching
 
 ??? John Dewey style team inquiry learning
+
+
+# Treasure Box
+
+Here you find all the cards we collected in the treasure box during the course. I hope this collection will help you to improve your teaching further, to find more teaching tools and investigate which of them work best for you. 
+
+**To the treasures you are yet to find!**
+
+
+## Preparation Workflow
+- Syllabus
+- Learning Goals
+- Blooms Taxonomy
+- Concept Map
+- 7 +- 2 Rule
+- Phases of a Lesson
+- Lesson Plan
+- Plan B
+
+## Motivators
+- 4MAT
+- Progress indicator
+- rewards / badges
+- Prototype
+- repeating tasks in 2+ media (mail, speech, upload)
+
+## Interactive warm-up / wrap-up
+- check & cross
+- upside-down
+- pros and cons
+- find pairs
+- interactive / student questions
+
+## Working on content
+
+- create material you can use in many ways
+- create a workflow
+- mind mapping
+- students' presentations [bonus points]
+- group work
+- individual work / poster gallery
+- knowledge capacitor
+- Power Point / laptop
+- white board (derivation)
+- discussion
+- book (read a book)
+- student activity (board, exercises)
+- exercises during the lecture
+- text + questions
+
+## Other
+- exercises at home
+- prepare a summary of the class (PDF)
+
+
+Anchors and Priming
+
+4-Mat
+(Bernice McCarthy, 1979)
+People have 4 preferences how they would like to consume knowledge. Taking all four into account in the order 1. Why 2. What 3. How 4. If helps you to address the needs of all participants and at the same time construct an interesting lesson.
+
+Group phases
+(Bruce Tuckman, 1965)
+The needs of a group go through characteristic phases. The goals of each individual change a lot between these phases, and so they require a different kind of leadership. 
+
+hangman
+tabu
+Team-Challenge (wie Buffet, siehe Time Management Lund)
+
+Wer wird Millionär
+
+Quizlet quizlet.com
+Typeform
+Socrative
+Clickers
+Tweetfeed
+
+
+COMPETENCE-BASED-LEARNING:
+- divide your subject into units according to 3 dimensions:
+1st dimension: topics (Python basics, advanced Python patterns, Bio libraries, useful modules, SoftDev)
+2nd dimension: difficulty (I, II, III)
+3rd dimension: Competences, e.g.:
+    * carry out experiments: observe, protocol etc
+    * invent experiments: original thinking, formulating hypotheses
+    * communicate: display results, explain, summarize
+    * orient: find useful methods / get overview / explore unknown technologies
+    * evaluate: rank, discuss, criticise
+- now, organize your course in such a way that each exercise covers a different coordinate in this 3D-space.
+
+PROBLEM SPACE:
+- BioPrinciples + DataSets + Analysis tools.
+- prepare a problem space for each subject
+
+- plot early
+- Etherpad etc.
+- NBGrader
+- chocolate
+- Tabu
+- feedback cards
+- survey before
+- break the code
+- postits for names
+- Feedback: 1Up, 1Down, no repeat

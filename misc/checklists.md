@@ -5,6 +5,7 @@ Things worth thinking about when preparing for a class / tutorial.
 ## Before the seminar
 
 * Do you have set a realistic learning goal?
+* Goal: Find *one* Simple Specific Symbolic Small action your participants will do during the course that promotes their learning
 * Have you done content reduction?
 * Are you using a concept map or another visual overview of your tutorial?
 * Do you have a lesson plan that fits into the given time frame?

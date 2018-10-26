@@ -27,6 +27,7 @@ Here I have collected time-tested techniques for making courses and lectures mor
 * [Guess who I am](openers/guess_who_i_am.md)
 * [Selling your lesson](openers/selling_your_lesson.md)
 * [Early Victory](openers/early_victory.md)
+* [Warmup methods](openers/warmup.md)
 * [Upside-down](openers/upside_down.md)
 * [Seven Ways to Start a Lecture](openers/seven_ways_to_start.md)
 * [Collect cards](openers/collect_cards_to_open_your_lesson.md)
@@ -43,8 +44,10 @@ Here I have collected time-tested techniques for making courses and lectures mor
 
 ## Exercises
 
+* [Methods for small groups](lectures/small_groups.md)
+* [Practical exercises](lectures/practical_exercises.md)
+* [Coding Kata](lectures/coding_kata.md)
 * [Affinity grouping](lectures/affinity_grouping.md)
-* [Affinity grouping](lectures/coding_kata.md)
 
 ## Practical Transfer
 
@@ -88,6 +91,7 @@ Here I have collected time-tested techniques for making courses and lectures mor
 * [Plan B](misc/plan_b.md)
 * [Checklists](misc/checklists.md)
 * [Quotes on Teaching](misc/quotes_teaching.md)
+* [Links](misc/links.md)
 
 ## License
 

@@ -28,3 +28,9 @@ We cannot afford to educate students in a system where they loose what they desp
 If you ask students why they read the textbook, they say it’s to help them understand the lectures. It should be the other way around: students should be coming to class in order to get help understanding the reading!
 
 *Eric Mazur*
+
+----
+
+The best teachers are those who show you where to look, but don't tell you what to see.
+
+*unknown*
