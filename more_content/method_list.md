@@ -644,3 +644,18 @@ PROBLEM SPACE:
 - break the code
 - postits for names
 - Feedback: 1Up, 1Down, no repeat
+
+
+GIVING AWAY RESPONSIBILITY
+- day 2 started with 4 imprompty presentations of 1 minute each.
+- early in the course: lots of theory, strict planning
+- middle, shortening the presentation part, partially to as little as a single drawing on the whiteboard.
+- group puzzle: covering 4 different subjects [PUZZLE FIGURE]: alignments, imaging, plots, R. Each group got a few example scripts, an exercise to implement, and a PDF as a reference. Worked independently with small pieces of advice. Then came back to the original group and explained what they had learned to their colleagues. Following the idea 'the best teacher is someone who just learned himself.' Course trainers orchestrated the process.
+- day 5/I: giving them 13 short scripts, asking each one to explain one of them
+- day 5/II: project
+- BLAST: step-by-step tutorial
+- final round of repeating: giving them a program, letting them 
+- search image
+- count C's
+- exercise graphs
+- sort activator
