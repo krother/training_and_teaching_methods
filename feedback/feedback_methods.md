@@ -23,13 +23,21 @@ Free drawing | Place a sheet of flipchart paper on a table and ask participants 
 
 ### Other
 
-- Typeform
-- Feedback: 1Up, 1Down, no repeat
-- Gästebuch
-- NBGrader
-- 5 cards: I liked.., I find useful, I struggle with, question, suggestion
-- Speedboat
-- Plakat mit Feldern zu moeglichen Interessen. Chips verteilen.
+* Typeform
+* Feedback: 1Up, 1Down, no repeat
+* Gästebuch
+* NBGrader
+* 5 cards: I liked.., I find useful, I struggle with, question, suggestion
+* Speedboat
+* Plakat mit Feldern zu moeglichen Interessen. Chips verteilen.
+* Headlines	TN oder Paare schreiben eine 'Zeitungsüberschrift' zu einem Thema auf
+* Postkarten		
+* Treasure box	hints for the next batch	
+* Pre-Post quiz		
+* Self-checking exercises		
+* Fragen mit Handzeichen	Fragen mit zwei Antworten, durch Handheben abfragen
+* wenn <name> ein <auto> wäre wäre er ein <attribut>
+* ask about pairs of items: what is more important -> priorities
 
 ### Useful questions
 

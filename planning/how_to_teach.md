@@ -74,3 +74,12 @@ Repeating content is essential to ensure successful learning. Furthermore, givin
 A teacher must not make any group member look like an idiot (“to lose their face”). Depending on the cultural context you put the student or yourself into trouble. 
 
 This means: Picking people from the group and questioning them, giving nonconstructive feedback after student presentations are absolute no-gos!
+
+## Some other things yet to document
+
+* Anchors and Priming
+* Weekly projects
+- knowledge capacitor
+* Prototypes (examples that weave a thread through one or more lessons)
+* inductive (concepts -> details -> examples) vs. deductive (example -> detail -> concepts) teaching
+

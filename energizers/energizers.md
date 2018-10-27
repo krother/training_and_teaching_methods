@@ -59,3 +59,10 @@ By master Till
 ### Story cubes
 buy some
 
+### more
+
+ein Wort	Frage, reihum jeder ein Wort zu Antwort
+
+clapping     trainer claps once every 3 secs, invites other trainees to join, whole room joins --> silence, attention    crowd control
+
+energize_presenters	hand on stomach. breathe. rub your hands. arms up, swing your arms, get down, get up, turn around, whoo-heee.			presenting, warmup

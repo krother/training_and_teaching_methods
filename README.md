@@ -44,25 +44,31 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 
 * [Asking questions](lectures/questions.md)
 * [Brainstorming](lectures/brainstorming.md)
+* [Presenting](lectures/presenting.md)
 * [Code sniplets](lectures/code_sniplets.md)
 * [Mind Mapping](lectures/mind_mapping.md)
 * [Progress bar](lectures/progress_bar.md)
 * [Panel discussion](lectures/panel_discussions.md)
+* [Visualizing information](lectures/visuals.md)
 * [Magnets](lectures/magnets.md)
 
 ## Exercises
 
 * [Methods for small groups](lectures/small_groups.md)
 * [Practical exercises](lectures/practical_exercises.md)
+* [Small exercises](lectures/exercises.md)
 * [Coding](lectures/coding.md)
 * [Coding Kata](lectures/coding_kata.md)
 * [Affinity grouping](lectures/affinity_grouping.md)
 * [Student presentations](lectures/student_presentations.md)
+* [Managing groups](lectures/managing_groups.md)
 
 ## Practical Transfer
 
 * [Pros and Cons](transfer/pros_and_cons.md)
 * [Transfer methods](transfer/transfer.md)
+* [Expert rounds](transfer/experts.md)
+* [Open learning formats](transfer/open_learning.md)
 
 ## Repeating
 
