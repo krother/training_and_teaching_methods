@@ -1,5 +1,14 @@
 
-# Finishing Moves
+# Cooldown
+
+* Scrabble
+* Jenga
+* Concept board game
+* Rhetoric board game
+* Excursion
+* Story cubes
+* Question: one word per person as answer
+* Pizza
 
 ### A takeaway
 

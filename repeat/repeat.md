@@ -52,14 +52,19 @@ Create a random 5 x 5 matrix with characters. Give participants 3 minutes to sea
 
 ## more:
 
-2-minute-quiz	Am Ende der Veranstaltung aufschreiben lassen 1.wichtigste Take Home Message 2. Noch offene Frage.
-
-Table Topics		
-Teamquiz	50% questions to team A|B, 50% to all	
-
-Sprachlandschaft	Zentraler Begriff oder Bild kommt in die Mitte; Teilnehmer geben relevante verwandte Begriffe dazu, die im Kreis herumgeschrieben werden.
-
-Ping Pong: 2 groups, 2 topics, 1st asks 2nd answers for 5', then reverse
-
-one-question-survey	prepare questions on cards. Ask people to stand up, ask someone else a question, then exchange cards and move on.	repeat
+* Murmur: speak 1-2 minutes with neighbor about topic (3x)
+* Memory names + topics
+* Tabu
+* Boggle with giant chars
+* Teamquiz	50% questions to team A|B, 50% to all
+* Table Topics
+* pixeled images - picture becomes sharper over time
+* put up infographics in the room
+* one question survey. prepare questions on cards. Ask people to stand up, ask someone else a question, then exchange cards and move on.
+* MC-Quiz (as a formative assessment)
+* guess who I am with Python commands, ML methods etc.
+* Quiz: who wants to be a data scientist
+* Sprachlandschaft	Zentraler Begriff oder Bild kommt in die Mitte; Teilnehmer geben relevante verwandte Begriffe dazu, die im Kreis herumgeschrieben werden.
+* 2-minute-quiz	Am Ende der Veranstaltung aufschreiben lassen 1.wichtigste Take Home Message 2. Noch offene Frage.
+* Ping Pong: 2 groups, 2 topics, 1st asks 2nd answers for 5', then reverse
 

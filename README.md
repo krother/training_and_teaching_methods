@@ -42,6 +42,7 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 
 ## Lectures
 
+* [Lecture methods](lectures/lectures.md)
 * [Asking questions](lectures/questions.md)
 * [Brainstorming](lectures/brainstorming.md)
 * [Presenting](lectures/presenting.md)

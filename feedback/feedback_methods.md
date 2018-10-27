@@ -23,6 +23,7 @@ Free drawing | Place a sheet of flipchart paper on a table and ask participants 
 
 ### Other
 
+
 * Typeform
 * Feedback: 1Up, 1Down, no repeat
 * Gästebuch
@@ -38,6 +39,8 @@ Free drawing | Place a sheet of flipchart paper on a table and ask participants 
 * Fragen mit Handzeichen	Fragen mit zwei Antworten, durch Handheben abfragen
 * wenn <name> ein <auto> wäre wäre er ein <attribut>
 * ask about pairs of items: what is more important -> priorities
+* wish box
+* one up one down
 
 ### Useful questions
 

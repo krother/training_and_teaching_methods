@@ -36,3 +36,14 @@ Locate yourself on a scale 0-100% towards your goal pre and post
 
 Trainer send extra infos two weeks later
 
+### more
+
+* job interview questions
+* collect Pros and cons
+* discuss business case with questions
+* business case memory
+* 4 corners, 4 sheets with questions
+* code review (public or peer)
+* Kata
+* fishbowl/panel with experts
+* recommended reading

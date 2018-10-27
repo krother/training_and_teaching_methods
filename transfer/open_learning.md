@@ -14,3 +14,7 @@ Werkstatt	Auftragskarten im Raum verteilt + Materialien, die die Schüler selbst
 World Cafe	Themen auf Blättern an Vierertischen. Je 1 Gastgeber plus drei wechselnde Gäste. ca. Drei Bearbeitungsrunden, mit jeweils einer Leitfrage
 
 rotierende GA	Jede Gruppe bearbeitet erst ihr Thema, dann durchmischen sich alle Gruppen miteinander. Neuer Auftrag
+
+* team projects
+* split projects
+* Kaggle
