@@ -17,6 +17,24 @@ It is useful to prepare a **lesson plan**, a table listing the topics for a less
 
 A Klingon proverb says: “Planning ends with enemy contact.”. Especially when you start teaching, your time estimates will be plain wrong. Be ready to recognize the moment at which to trash your lesson plan and improvise.
 
+## What does a lesson consist of?
+
+A well-prepared lesson contains:
+
+* a list of around 7 key cocepts
+* a learning goal
+* a problem statement
+* a concept map
+* data
+* media
+* learning material
+* exercises
+* tools (programs, libraries, teaching methods)
+* lesson plan
+
+Material prepared along these categories can be used in many ways. Even if you have half of these, the lesson is already very solid. It makes it much easier to modify one component and re-fit the lesson to another situation (more/less time, bigger/smaller/more experienced group).
+
+
 ## The Classroom
 
 The position of tables, the lectern, projectors, power sockets, screens etc. is crucial. Tables and laptops are psychological barriers that  both students and teachers use to entrench themselves behind. If there are too many barriers, it is difficult to establish a dialogue. 

@@ -28,3 +28,5 @@ whiteboard or flipchart
 This method helps to repeat things if you have 10 minutes left at the end of your lecture,  seminar, or workshop. There is little that can go wrong. At worst, people start a discussion on their own, but this is not so bad after all. The best thing about this wrap-up technique is that you don't need to prepare anything in advance. This is why I always keep the method as an option for Plan B.
 
 You can fine-tune this method by choosing easier or more difficult concepts. If the students differ much in their level of experience, ask the least experienced first.
+
+*Idea: try pictographs instead of words*

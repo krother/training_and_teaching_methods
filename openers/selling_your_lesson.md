@@ -40,3 +40,15 @@ emphasize critical points softly, restate utility.
 
 *Source: Jolles. How to run seminars and workshops*
 
+## Compare: 4Mat
+
+*(Bernice McCarthy, 1979)*
+
+People have 4 preferences how they would like to consume knowledge. Taking all four into account in the order:
+
+* Why
+* What
+* How
+* Interesting bits
+
+If helps you to address the needs of all participants and at the same time construct an interesting lesson.

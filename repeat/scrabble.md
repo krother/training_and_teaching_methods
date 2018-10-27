@@ -27,3 +27,5 @@ As an extra incentive, you may add some bonus fields along the edges.
 ### Comments
 
 The exercise is not to be taken too seriously. You don't need to enforce rules of normal corsswords meticulously. You don't need to stick precisely to a grid when drawing characters either.
+
+I used giant scrabble tiles that made from cardboard.

@@ -21,6 +21,16 @@ Fridge | Take a round answering a question *"What would you tell your (fridge/ca
 | Four Corners | Participants collect answers to a different question in each corner of the room. See [www.academis.eu/posts/four-corner-feedback](http://www.academis.eu/posts/four-corner-feedback) |
 Free drawing | Place a sheet of flipchart paper on a table and ask participants to write or draw a summary of the course. |
 
+### Other
+
+- Typeform
+- Feedback: 1Up, 1Down, no repeat
+- Gästebuch
+- NBGrader
+- 5 cards: I liked.., I find useful, I struggle with, question, suggestion
+- Speedboat
+- Plakat mit Feldern zu moeglichen Interessen. Chips verteilen.
+
 ### Useful questions
 
 Questions you might ask after a training (e.g. using the *four-corner* method include:

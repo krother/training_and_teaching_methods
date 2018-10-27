@@ -28,6 +28,7 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 
 * [Expectations](openers/collect_and_review_expectations.md)
 * [4 Expectation questions](openers/4expectations.md)
+* [Getting to know your participants](openers/getting_to_know.md)
 * [Introduction with items](openers/prop_intro.md)
 * [Guess who I am](openers/guess_who_i_am.md)
 * [Selling your lesson](openers/selling_your_lesson.md)
@@ -53,6 +54,7 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 
 * [Methods for small groups](lectures/small_groups.md)
 * [Practical exercises](lectures/practical_exercises.md)
+* [Coding](lectures/coding.md)
 * [Coding Kata](lectures/coding_kata.md)
 * [Affinity grouping](lectures/affinity_grouping.md)
 * [Student presentations](lectures/student_presentations.md)
@@ -70,6 +72,7 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 * [Scrabble](repeat/scrabble.md)
 * [MC-questions](repeat/mc_questions.md)
 * [Carrousel](repeat/carrousel.md)
+* [more methods for repeating](repeat/repeat.md)
 
 ## Feedback
 
@@ -87,9 +90,11 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 
 ## Energizers
 
+* [YMCA](energizers/ymca.md)
 * [Start a Fire](energizers/start_fire.md)
 * [Microwave](energizers/microwave.md)
 * [Protein Folding Dance](energizers/protein_dance.md)
+* [more energizers](energizers/energizers.md)
 
 ## Cooldown
 
@@ -103,6 +108,7 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 * [Checklists](misc/checklists.md)
 * [Equipment](misc/equipment.md)
 * [Quotes on Teaching](misc/quotes_teaching.md)
+* [Things to try](misc/things_to_try.md)
 * [Links](misc/links.md)
 
 ## Acknowledgements

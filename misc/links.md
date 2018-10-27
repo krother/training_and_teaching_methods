@@ -3,6 +3,8 @@
 
 - Learning How to Learn - online course by Barbara Oakley
 - 10 simple rules for developing a short bioinformatics training course (Via)
+- http://successfulteaching.blogspot.com/search/label/teaching
+
 
 ## Methods
 
