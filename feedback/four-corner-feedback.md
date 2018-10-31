@@ -1,7 +1,7 @@
 
 # Four-Corner Feedback
 
-![Four-Corner-Feedback](images/4corners.png)
+![Four-Corner-Feedback](../images/4corners.png)
 
 **collect feedback on 4 questions**
 

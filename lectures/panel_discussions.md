@@ -42,6 +42,6 @@ Announce that the discussion is near the end. Give each panel member room for so
 
 ## Panel discussions in teaching
 
-![Panel Discussion](/images/panel_discussion.jpg)
+![Panel Discussion](../images/panel_discussion.jpg)
 
 This is a good way to recapitulate or repeat what your students have learned. In that case you split your class into a smaller group (the panel) and a bigger (the audience). Give the audience time to prepare questions while you brief the panel. In case the audience runs out of questions, you might want to have a few spare questions. Don't take the discussion too serious - it is a good occasion to have fun and still do something useful. And after all, your students will exercise for their first real panel discussion.

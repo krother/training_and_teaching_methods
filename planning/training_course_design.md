@@ -35,6 +35,6 @@ Aggregate short blocks if needed. Now you have sessions, with one or more blocks
 
 There must be a final wrap-up  (maybe 1h) at the end of the course. Make a slot in the timetable for it and be prepared to take notes, as some important verbal feedback is very likely to happen at that moment. A course feedback questionnaire should have been filled and collected before the final wrap-up.
 
-![training course design](images/training_course_design.png)
+![training course design](../images/training_course_design.png)
 
 Pedro Fernandes is coordinating the Gulbenkian Training Programme in Bioinformatics. See [gtpb.igc.gulbenkian.pt](gtpb.igc.gulbenkian.pt)

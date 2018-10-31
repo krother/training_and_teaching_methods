@@ -1,7 +1,7 @@
 
 # Feedback Methods
 
-![guest book](images/guestbook.jpg)
+![guest book](../images/guestbook.jpg)
 
 I have a guest book I bring to most of my trainings to collect comments and autographs of participants. There are many other ways to collect feedback at the end of a lesson or course. In this table you find my favourites.
 

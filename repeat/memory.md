@@ -1,7 +1,7 @@
 
 # Memory
 
-![Memory](images/memory_640.jpg)
+![Memory](../images/memory_640.jpg)
 
 **Run through some topics with an entire group.**
 

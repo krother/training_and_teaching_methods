@@ -9,7 +9,7 @@ At the beginning of a five-day programming course, we asked our students to answ
 
 The students wrote down their answers and read them aloud. We attached all cards with answers in the back of the room. During the final session of the course, we asked every student to review and report on their expectations from the first day.
 
-![Expectations](images/expectations.jpg)
+![Expectations](../images/expectations.jpg)
 
 Asking students for their expectations has twofold benefits:
 

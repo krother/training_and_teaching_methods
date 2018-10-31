@@ -1,7 +1,7 @@
 
 # Collect Feedback with a Voting Box
 
-![Voting Box](images/closed_poll_2.png)
+![Voting Box](../images/closed_poll_2.png)
 
 #### Summary
 collect cards with feedback in a box

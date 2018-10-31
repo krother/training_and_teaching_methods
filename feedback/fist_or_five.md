@@ -7,7 +7,7 @@ How well was your explanation understood? How useful was an exercise? Is your cl
 
 *"How much did you learn during the lesson? Please show one to five fingers. Raise your hands!"*
 
-![Fist or Five](images/five.jpg)
+![Fist or Five](../images/five.jpg)
 
 Then we counted how often each number of fingers occurred. This way, the trainees felt more encouraged to provide critical feedback than if you would simply ask:
 

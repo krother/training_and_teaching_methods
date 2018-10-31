@@ -3,7 +3,7 @@
 
 **Recap some keywords.**
 
-![Scrabble](images/scrabble.png)
+![Scrabble](../images/scrabble.png)
 
 ### Time in class
 10'

@@ -1,7 +1,7 @@
 
 # Supermarket
 
-![Supermarket](images/supermarket.png)
+![Supermarket](../images/supermarket.png)
 
 **Quick feedback on the course contents.**
 

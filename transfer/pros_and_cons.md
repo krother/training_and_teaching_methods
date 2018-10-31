@@ -1,7 +1,7 @@
 
 # Collect Pros and Cons from a Discussion
 
-![Pros and Cons](images/pro_con.png)
+![Pros and Cons](../images/pro_con.png)
 
 **Record the outcomes of a discussion.**
 

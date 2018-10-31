@@ -3,8 +3,7 @@
 
 Which topics in a course should be revisited, repeated, or explained in more depth? In many courses, I let participants choose from up to 50 possible options within five minutes. Here is how:
 
-
-![Dot Voting](images/dot_voting.jpg)
+![Dot Voting](../images/dot_voting.jpg)
 
 ### How to do it
 Using sticky dots you can find out quickly what is most relevant to your students. You need to:
