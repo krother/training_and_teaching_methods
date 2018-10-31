@@ -46,12 +46,11 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 * [Asking questions](lectures/questions.md)
 * [Brainstorming](lectures/brainstorming.md)
 * [Presenting](lectures/presenting.md)
+* [Visualizing information](lectures/visuals.md)
 * [Code sniplets](lectures/code_sniplets.md)
 * [Mind Mapping](lectures/mind_mapping.md)
 * [Progress bar](lectures/progress_bar.md)
 * [Panel discussion](lectures/panel_discussions.md)
-* [Visualizing information](lectures/visuals.md)
-* [Magnets](lectures/magnets.md)
 
 ## Exercises
 
