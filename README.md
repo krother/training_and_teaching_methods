@@ -9,7 +9,7 @@ The clock is ticking. Time to prepare a course is short. As a lecturer you shoul
 
 This is a collection of my favourite time-tested techniques for teaching programming and to make other courses and lectures more interesting.
 
-If you are a lecturer looking for ideas to spice up your classes and make them more interesting for your students, this might be the right literature for you. 
+If you are a lecturer looking for ideas to spice up your classes and make them more interesting for your students, this might be the right literature for you.
 
 ## Planning
 
@@ -47,7 +47,6 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 * [Brainstorming](lectures/brainstorming.md)
 * [Presenting](lectures/presenting.md)
 * [Visualizing information](lectures/visuals.md)
-* [Code sniplets](lectures/code_sniplets.md)
 * [Mind Mapping](lectures/mind_mapping.md)
 * [Progress bar](lectures/progress_bar.md)
 * [Panel discussion](lectures/panel_discussions.md)
@@ -58,7 +57,6 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 * [Practical exercises](lectures/practical_exercises.md)
 * [Small exercises](lectures/exercises.md)
 * [Coding](lectures/coding.md)
-* [Coding Kata](lectures/coding_kata.md)
 * [Affinity grouping](lectures/affinity_grouping.md)
 * [Student presentations](lectures/student_presentations.md)
 * [Managing groups](lectures/managing_groups.md)

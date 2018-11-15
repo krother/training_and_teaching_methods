@@ -1,34 +1,87 @@
 
 # Coding
 
-live coding		
+## Using code examples
 
-Showcase program, execute step by step, find 
+### Impressive code
 
-Code im Team lesen	F2F bewerten VerständnisCoding Time	mit Challenges
+Demonstrate a program doing something impressive.
+Execute it step by step and discuss it.
 
-code review (peer or public)
+It helps to have a prepared list of questions.
 
-Kata / public, rotate coder every 5 minutes
+### Comparison
 
-Kata, in pairs
+Prepare two alternative implementations
 
-debug code		
+### Explain code
 
-break the code
+Share short code sniplets to pairs of participants. Let them execute the code and explain how it works. Supplement their reports.
 
-code with gaps		
 
-sort code lines		
+## Live coding
 
-sort code blocks
+According to *Greg Wilson*, live coding is the essence for any programming course.
+Seeing live coding, as opposed to seeing the finished code, transfers many key skills like debugging and seeing that teachers make lots of mistakes, too.
 
-fix unindented code
+There are different ways to do live coding:
 
-compare two alternative implementations
+### Warm-up coding
 
-silent coding on the command line for 5 minuets
+Type something easy for 5-10 minutes that everyone can follow along.
 
-function header only
+### Coding lecture
 
-pseudocode
+Introduce a new concept by writing a new program.
+
+### Coding Challenge
+
+Present a coding task/Kata, wait for suggestions from participants
+
+### Hotseat Kata
+
+Present a coding task, rotate the person coding every 5 minutes. Volunteers only!
+
+### Kata in pairs
+
+Present a coding task, have two people take a hotseat or the entire group work in pairs.
+
+### Refactoring
+
+Clean up an example program together.
+
+### Break the code
+
+Collect various ways to break a program.
+
+## Code Reviews
+
+Like in software engineering, code reviews are an essential skill.
+
+* Read code in a team and assess readability, structure etc.
+* Peer review (participants review each others projects)
+* Review code of your participants and provide feedback (time-consuming)
+
+## Reduced examples
+
+Writing a program from scratch is difficult. It works better to provide a **reduced example**, where a clear problem-solving strategy is made available:
+
+* code with gaps		
+* sort code lines		
+* sort code blocks
+* fix unindented code
+* empty function headers
+* sequence of small tasks
+* pseudocode
+* fix buggy code
+
+
+## Online Coding Katas
+
+Places to find online coding exercises
+
+* [Checkio](https://checkio.org/)
+* [Codingbat](http://codingbat.com/)
+* [Codewars](http://www.codewars.com)
+* [Coding Dojo](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue) – group Kata
+* [Rosalind](http://rosalind.info) – bioinformatics
