@@ -13,7 +13,7 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 
 ## Planning
 
-* [How to teach?](planning/how_to_teach.md)
+* [How to teach programming?](planning/how_to_teach.md)
 * [Seven steps to prepare a lesson](planning/seven_steps.md)
 * [Balanced teaching units](planning/balanced_lessons.md)
 * [Blooms taxonomy](planning/blooms_taxonomy.md)
@@ -24,25 +24,17 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 * [Learning types](planning/learning_types.md)
 * [Training course design](planning/training_course_design.md)
 
-## Openers
+## Getting Started
 
-* [Expectations](openers/collect_and_review_expectations.md)
-* [4 Expectation questions](openers/4expectations.md)
-* [Getting to know your participants](openers/getting_to_know.md)
-* [Introduction with items](openers/prop_intro.md)
-* [Guess who I am](openers/guess_who_i_am.md)
-* [Selling your lesson](openers/selling_your_lesson.md)
-* [Early Victory](openers/early_victory.md)
-* [Warmup methods](openers/warmup.md)
-* [Upside-down](openers/upside_down.md)
-* [Seven Ways to Start a Lecture](openers/seven_ways_to_start.md)
-* [Collect cards](openers/collect_cards_to_open_your_lesson.md)
-* [Algorithmic games](openers/algorithmic_games.md)
-* [Videos in training](openers/videos_in_training.md)
+* [The first minute](getting_started/the_first_minute.md)
+* [Getting to know each other](getting_started/getting_to_know.md)
+* [Managing Expectations](getting_started/expectations.md)
+* [Warming up](getting_started/warmup.md)
 
 ## Lectures
 
 * [Lecture methods](lectures/lectures.md)
+* [Videos in training](lectures/videos_in_training.md)
 * [Asking questions](lectures/questions.md)
 * [Brainstorming](lectures/brainstorming.md)
 * [Presenting](lectures/presenting.md)
