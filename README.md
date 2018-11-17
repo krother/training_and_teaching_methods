@@ -94,13 +94,11 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 
 ## Miscellaneous
 
-* [Why we need so many training methods](misc/why_methods.md)
 * [Plan B](misc/plan_b.md)
 * [Troubleshooting](misc/troubleshooting.md)
 * [Checklists](misc/checklists.md)
 * [Equipment](misc/equipment.md)
 * [Quotes on Teaching](misc/quotes_teaching.md)
-* [Things to try](misc/things_to_try.md)
 * [Links](misc/links.md)
 
 ## Acknowledgements
