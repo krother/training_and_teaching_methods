@@ -78,22 +78,13 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 * [Target](feedback/target_feedback.md)
 * [Traffic Light](feedback/traffic_light_feedback.md)
 * [Round Robin questions](feedback/blitzlicht_extra.md)
-* [Feedback methods](feedback/feedback_methods.md)
-
-## Energizers
-
-* [YMCA](energizers/ymca.md)
 * [Start a Fire](energizers/start_fire.md)
-* [Microwave](energizers/microwave.md)
-* [Protein Folding Dance](energizers/protein_dance.md)
-* [more energizers](energizers/energizers.md)
-
-## Cooldown
-
-* [Finishing moves](energizers/finishing_moves.md)
+* [Feedback methods](feedback/feedback_methods.md)
 
 ## Miscellaneous
 
+* [Energizers](misc/energizers.md)
+* [Finishing](misc/finishing_moves.md)
 * [Plan B](misc/plan_b.md)
 * [Troubleshooting](misc/troubleshooting.md)
 * [Checklists](misc/checklists.md)
