@@ -1,7 +1,5 @@
 
-# Setting Learning Goals with Blooms Taxonomy
-
-## Learning goals
+# Learning goals
 
 **A learning goal states what students will be able to *do*
 after a lesson.**
@@ -9,6 +7,13 @@ after a lesson.**
 Learning goals are your starting point for preparing lessons. They
 differ from a **syllabus**, which is a list of topics. Given a syllabus,
 you can start creating learning goals.
+
+* A syllabus is not a set of learning goals
+* Set learning goals with Bloom levels in mind (aim higher!).
+* Set learning goals that you can assess.
+* Make your learning goals explicit.
+* Make your goals the students' learning goals, by matching Bloom levels of your goals to your instruction, assignments, review, and assessments.
+* Specific learning outcomes are more easily assessable than broad learning goals.
 
 
 ## Example:
@@ -21,6 +26,8 @@ formulate as learning goals:
 * Students can define N- and O-glycosidic bonds.
 * Students can calculate the energy gained from glucose.
 * Students can evaluate whether their own nutrition is healthy.
+
+## Setting Learning Goals with Blooms Taxonomy
 
 Three basic categories of goals can be distinguished:
 
@@ -56,3 +63,82 @@ good path to successful teaching.
 
 ![Blooms Taxonomy](../images/blooms_taxonomy.png)
 
+
+## Action Verbs for setting Learning Objectives
+
+*according to the six levels of Blooms Taxonomy*
+
+### 1. Knowledge
+
+* define
+* identify
+* indicate
+* list
+* name
+* review
+* recognize
+* show
+* repeat
+* state
+
+### 2. Comprehension
+
+* classify
+* describe
+* draw
+* explain
+* illustrate
+* paraphrase
+* represent
+* summarize
+
+### 3. Application
+
+* calculate
+* demonstrate
+* estimate
+* instruct
+* measure
+* perform
+* record
+* solve
+* use
+
+### 4. Analysis
+* analyse
+* compare
+* contrast
+* differentiate
+* examine
+* investigate
+
+### 5. Synthesis
+
+* challenge
+* compose
+* conclude
+* create
+* derive
+* design
+* discuss
+* organize
+* plan
+* propose
+* rank
+* select
+
+### 6. Evaluate
+
+* advocate
+* assess
+* critique
+* decide
+* defend
+* evaluate
+* judge
+* recommend
+* suggest
+
+
+This list was influenced by Bloom, Taxonomy of Educational Objectives Handbook (1956) and
+LeBrun and Johnstone (1994:162).

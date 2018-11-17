@@ -14,21 +14,17 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 ## Planning
 
 * [How to teach programming?](planning/how_to_teach.md)
-* [Seven steps to prepare a lesson](planning/seven_steps.md)
-* [Balanced teaching units](planning/balanced_lessons.md)
-* [Blooms taxonomy](planning/blooms_taxonomy.md)
-* [Blooms action verbs](planning/blooms_action_verbs.md)
-* [Content reduction](planning/content_reduction.md)
-* [Concepts](planning/concepts.md)
-* [Concept Maps](planning/concept-maps.md)
-* [Learning types](planning/learning_types.md)
-* [Training course design](planning/training_course_design.md)
+* [Participants](planning/participants.md)
+* [Preparing lessons](planning/preparing_lessons.md)
+* [Setting learning goals](planning/goals.md)
+* [Concept Maps](planning/concept_maps.md)
+* [Course design](planning/training_course_design.md)
 
 ## Getting Started
 
 * [The first minute](getting_started/the_first_minute.md)
 * [Getting to know each other](getting_started/getting_to_know.md)
-* [Managing Expectations](getting_started/expectations.md)
+* [Managing expectations](getting_started/expectations.md)
 * [Warming up](getting_started/warmup.md)
 
 ## Lectures
