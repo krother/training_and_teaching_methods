@@ -3,6 +3,8 @@
 
 *Collect quick feedback in a large group*
 
+Hand out 3 red/yellow/green cards, participants take turns in making a statement about the course and show their agreement by holding up a card.
+
 1. Every participant gets a red, yellow and green card
 2. One participant formulates a statement regarding the course
 3. Others indicate their level of agreement (green=full, yellow=partial, red=none)

@@ -1,31 +1,22 @@
 
-# Coding
-
-### Refactoring
-
-Clean up an example program together.
-
-### Break the code
-
-Collect various ways to break a program.
+# Teaching software engineering
 
 ## Code Reviews
 
-Like in software engineering, code reviews are an essential skill.
+In software engineering, code reviews are an essential skill. It is a useful technique in teaching as well.
 
 * Read code in a team and assess readability, structure etc.
 * Peer review (participants review each others projects)
 * Review code of your participants and provide feedback (time-consuming)
 
-## Reduced examples
+## Refactoring
 
-Writing a program from scratch is difficult. It works better to provide a **reduced example**, where a clear problem-solving strategy is made available:
+Clean up an example program together.
 
-* code with gaps		
-* sort code lines		
-* sort code blocks
-* fix unindented code
-* empty function headers
-* sequence of small tasks
-* pseudocode
-* fix buggy code
+## Coding tools
+
+I find tools like git, pytest, Docker, Travis etc more difficult to teach than programming. Mostly you would follow a step-by-step instruction to get everything running.
+
+A crucial part in these is to make clear *why* a tool is useful. Start with the problem. You could even create a table with different engineering/maintenance problems and fill in solutions together.
+
+I think the key is to learn a few techniques well before adding others.

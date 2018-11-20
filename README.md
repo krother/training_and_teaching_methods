@@ -41,9 +41,10 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 
 ## Coding Exercises
 
-* [Coding](coding_exercises/coding.md)
-* [Live Coding](coding_exercises/live_coding.md)
+* [Live coding](coding_exercises/live_coding.md)
+* [Facilitating exercises](coding_exercises/reduced_examples.md)
 * [Kata](coding_exercises/kata.md)
+* [Other coding exercises](coding_exercises/coding.md)
 
 ## Other Exercises
 

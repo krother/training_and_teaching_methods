@@ -122,3 +122,8 @@ Show a brief video for priming. See the according chapter in **Lectures**.
 
 ### Repeat content from the last lesson
 All methods from the chapter **Repeating** apply.
+
+### Break the code
+
+Collect various ways to break a program.
+
