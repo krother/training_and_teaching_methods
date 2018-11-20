@@ -37,14 +37,19 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 * [Visualizing information](lectures/visuals.md)
 * [Mind Mapping](lectures/mind_mapping.md)
 * [Progress bar](lectures/progress_bar.md)
-* [Panel discussion](lectures/panel_discussions.md)
+* [Using Code examples](lectures/code_examples.md)
 
-## Exercises
+## Coding Exercises
+
+* [Coding](coding_exercises/coding.md)
+* [Live Coding](coding_exercises/live_coding.md)
+* [Kata](coding_exercises/kata.md)
+
+## Other Exercises
 
 * [Methods for small groups](lectures/small_groups.md)
 * [Practical exercises](lectures/practical_exercises.md)
 * [Small exercises](lectures/exercises.md)
-* [Coding](lectures/coding.md)
 * [Affinity grouping](lectures/affinity_grouping.md)
 * [Student presentations](lectures/student_presentations.md)
 * [Managing groups](lectures/managing_groups.md)
@@ -53,7 +58,7 @@ If you are a lecturer looking for ideas to spice up your classes and make them m
 
 * [Pros and Cons](transfer/pros_and_cons.md)
 * [Transfer methods](transfer/transfer.md)
-* [Expert rounds](transfer/experts.md)
+* [Using expert knowledge](transfer/experts.md)
 * [Open learning formats](transfer/open_learning.md)
 
 ## Repeating

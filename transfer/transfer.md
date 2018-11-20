@@ -44,6 +44,7 @@ Trainer send extra infos two weeks later
 * business case memory
 * 4 corners, 4 sheets with questions
 * code review (public or peer)
-* Kata
-* fishbowl/panel with experts
 * recommended reading
+* lean coffee
+* Ad-hoc-debate	One person expresses an idea, the next contradicts
+* Erfahrungsabfrage	Wichtig bei Praktikern, Leuten die nicht bei 0 anfangen. Karten, Poster usw.
