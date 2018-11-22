@@ -1,5 +1,5 @@
 
-# Plan B: When Things go Wrong
+# How to teach when your plan doesn't work?
 
 No matter how well you prepare, things will go wrong. Especially at the beginning. Students may not respond well to a certain exercise, things take much longer than expected, or you may run out of material. This is completely normal. You just need to be aware of the moment when you abandon your original plan. 
 It is good to have something prepared as a reserve that you can throw in. With some experience and a little luck, there is a good chance that students won't even notice that you trashed your original plan and started doing something else. Here are a few typical situations and what you can do:

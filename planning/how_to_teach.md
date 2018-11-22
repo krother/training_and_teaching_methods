@@ -1,12 +1,11 @@
 
-# How to teach?
+# How to teach programming?
 
 As a teacher, your job is to get your students to learn efficiently. You cannot force them to do so; it is always the students who decide whether they learn or not. Likewise, you cannot force children to eat. But you decide what is on the menu, and you can make sure it looks tasty.
 
 Once upon a time, a teacher was a source of information. This role is diminishing. Nowadays, students can find out abundant information on the web in no time. But they need your help to not get lost in that abundance! Your role is that of a *learning facilitator*: Show them a path and walk that path with them.
 
 To a student a new, unknown topic looks at first interesting, but also big and intimidating. So the first thing you should do is to chop it up into small parts the students can digest more easily. They have a right to know what is expecting them.
-
 
 ## Myth debunking
 
@@ -28,8 +27,6 @@ To a student a new, unknown topic looks at first interesting, but also big and i
 * It is the job of the instructor to teach us, not make us learn on our own.
 * A detailed syllabus will be more helpful to me in studying for the exams than a set of student learning goals.
 
-
-
 ## Teach concepts
 
 **Don't teach facts, teach concepts.**
@@ -45,7 +42,6 @@ Develop formative assessments for the most important concepts:
 * construct the assessment
 * validate the test (with novices and experts)
 * use the test
-
 
 # Why we need so many training methods?
 
@@ -80,3 +76,31 @@ This means: Picking people from the group and questioning them, giving nonconstr
 * knowledge capacitor
 * Prototypes (examples that weave a thread through one or more lessons)
 * inductive (concepts -> details -> examples) vs. deductive (example -> detail -> concepts) teaching
+
+## Do's and don'ts
+
+### The 10 biggest do's for teachers
+
+* Enjoy teaching
+* Say hello
+* Have a plan
+* Convey a structure
+* Be ready to scrap the plan
+* Dress aproppriately
+* Ask students for their expectations
+* If a student comes to you, they always have a serious issue
+* Leave no one behind. People will pull each other through
+* You don't know everything
+
+### The 10 biggest don'ts for teachers
+
+* don't get personal, ever
+* don't use provocative or toxic phrases
+* don't use discriminative or pejorative language
+* don't say *"maybe", "just", "one could" etc.*
+* don't talk for more than 20 minutes
+* don't criticise participants's contributions
+* don't make anyone lose face in the class, ever
+* don't discuss teaching methods during the course
+* don't insist on anyone to say something 
+* don't skip repeating

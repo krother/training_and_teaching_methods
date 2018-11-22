@@ -1,5 +1,5 @@
 
-# Facilitating exercises
+# Facilitating coding exercises
 
 **Coding exercises are a fun thing until you get stuck.**
 
@@ -19,7 +19,7 @@ Probably the easiest way to facilitate a practical exercise is to write down a c
 
 Most of the time that the tutorial is telling the participants exactly what to do, which lines of code to write etc. If they manage to follow the instructions by the letter, they will probably succeed. 
 
-If you want to see a highly developed step-by-step guide, take a look at the **DjangoGirls Tutorial**. This piece has been tested by more than 10000 people. Yet, DjangoGirls keep a high number of coaches around at their events, because most of the participants are total beginners and the tutorial covers a wide range of technologies.
+If you want to see a highly developed step-by-step guide, take a look at the **Django Girls Tutorial**. This piece has been tested by more than 10000 people. Yet, Django Girls keep a high number of coaches around at their events, because most of the participants are total beginners and the tutorial covers a wide range of technologies.
 
 On the positive side, step-by-step exercises keep the class busy and allow you to focus on matters where your full attention is required. Also, they lead to success for most participants quickly.
 
@@ -43,6 +43,18 @@ Writing a program from scratch is difficult. It works better to provide a **redu
 
 Reduced examples are a powerful technique that spice up a lesson and trigger interesting questions.
 
+
+## Programming from a model
+
+Instead of giving a prose description, you can describe the problem using a formalized description or model. This is more difficult than a reduced example, but less difficult than starting with a prose description alone. Ways to describe your model include:
+
+* Flowcharts
+* ER-models
+* UML Class diagrams
+* UML sequence diagrams
+* State diagrams
+* Parnas tables
+* graphs
 
 ## Self-checking exercises
 

@@ -65,8 +65,7 @@ This method benefits from an open room setup.
 
 ### Example:
 
-In the beginning of a bioinformatics course, I used ~10
-cardboard molecules: tRNA, ribosomal subunits, mRNA, ATP. While introducing themselves, the students explained and thereby repeated the molecules that we worked on in the course.
+In the beginning of a bioinformatics course, I used about 10 cardboard molecules: tRNA, ribosomal subunits, mRNA, ATP. While introducing themselves, the students explained and thereby repeated the molecules that we worked on in the course.
 
 ## Introduction Memory
 
@@ -128,6 +127,17 @@ This is a versatile method that produces data that helps you to assess the situa
 * short pantomimic introduction of a hobby or something they did recently (works if the group already knows each other)
 * participants introduce themselves briefly, but insert one lie. The others guess what was wrong (if the group knows each other, good primer for a lesson on conditionals)
 * divide the participants into smaller groups, each group introduces itself by drawing a poster (quicker way to introduce a big group)
+
+
+## How to deal with participants that know each other well
+
+* introduce yourself
+* collecting expectations is super important here
+* distrust your first impression
+* keep the introductions short
+* have participants introduce each other 
+* let them ask questions about you
+
 
 ## Links
 
