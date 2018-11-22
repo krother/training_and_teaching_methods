@@ -25,8 +25,6 @@ Hot tip: get wax crayons to beautify whatever you write/draw.
 
 ### Magnets
 
-![Magnets](../images/magnets.png)
-
 On whiteboards and flipcharts, you can use **magnets** to attach material you would otherwise use pins for. You can do useful things with magnets: Attach **prepared pictures** on-the-fly or things created during the session. The magnets let you **move around cards and other elements**, so you can cluster items, highlight key points, or create a live visualization. Most of all, you don't end up in the sticky tape hell when you have magnets at hand.
 
 However, there are some pitfalls to avoid:
