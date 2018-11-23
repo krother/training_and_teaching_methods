@@ -1,5 +1,5 @@
 
-# Questions in Teaching
+# Asking Questions
 
 ## Fact-based questions
 
@@ -72,3 +72,32 @@ passing the same question around from one person to the other.
 
 
 *Inspired by: Jolles. How to run seminars and workshops*
+
+
+## Brainstorming
+
+**Collect a pool of uncriticized ideas**
+
+### Time in class
+
+5 minutes
+
+### Group size
+
+any
+
+### What you need
+
+something to write on
+
+### How it is done
+
+Write an understandable formulation of a new topic on the board. Ask
+the students for ideas. Write everything on the board they say. Continue
+until they run out of ideas or the board is full. Only after that, add
+from your notes.
+
+### Example
+
+For a subject about *“Data”,* the question could be *“What data do
+programmers need to store?”.*

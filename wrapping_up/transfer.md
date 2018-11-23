@@ -1,4 +1,83 @@
 
+# Transfer Methods
+
+Here are a few methods that help increase retention and practical aplication.
+
+### Discuss goals in advance
+
+Ask participants and stakeholders for goals in advance. Relevant roles include
+
+-   Participants
+-   Team leaders
+-   HR
+-   Trainer
+
+### Question at beginning
+
+Imagine the training was successful. What changes for you?
+
+### 72h Rule
+
+Do the first step within 3 days, even if it is a very small one.
+
+### Tandem
+
+share personal takeaways and goals in pairs
+
+### Upside-down
+
+with constructive deduction
+
+### Scale
+
+Locate yourself on a scale 0-100% towards your goal pre and post
+
+### Follow-up
+
+Trainer send extra infos two weeks later
+
+
+# Collect Pros and Cons from a Discussion
+
+![Pros and Cons](../images/pro_con.png)
+
+**Record the outcomes of a discussion.**
+
+### Time in class
+5-15'
+
+### Group size
+2-50
+
+### What you need
+whiteboard, flipchart, or a big sheet of paper
+
+### How it is done
+
+Write a concept or statement on top of the board. Divide the remainder into two columns labeled **pros/cons, advantages/disadvantages**, or simply **+/-**. You ask the group to provide input for each of the columns. You collect answers, write them down, and moderate the discussion.
+
+### Examples
+
+* Powerpoint makes presentations worse.
+* You can write very fast programs in Python
+* Python vs. Java
+* Using Test-Driven-Development
+
+### Comments
+
+To work well, your group should be familiar with the topic already. You can connect to previous knowledge, or draw conclusions from something you did in your lesson. Alternatively, you can use the Pro-Con method to compare two technologies, two artists, two brands of coffee, or anything you like -just label the columns accordingly. This works perfectly, if your participants worked in two groups, each exploring one of the two contrasting aspects.
+
+The Pro-Con approach helps to prevent a discussion drifting into random directions. This makes it a valuable tool in meetings or decision-making situations. In teaching, it is a good way to wrap up a lesson, because your group needs to recapitulate what they did before. Finally, when you run out of space on the board, it is the right time to end the discussion.
+
+### more
+
+* job interview questions
+* discuss business case with questions
+* business case memory
+* Erfahrungsabfrage	Wichtig bei Praktikern, Leuten die nicht bei 0 anfangen. Karten, Poster usw.
+
+
+
 # Using expert knowledge
 
 Many times, the teacher will not be the person who has all the knowledge. The moments when a participant turns out to be an expert in a particular matter are valuable, an opportunity worth seizing. Give them space to share their knowledge.

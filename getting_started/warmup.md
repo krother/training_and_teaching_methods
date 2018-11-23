@@ -123,7 +123,27 @@ Show a brief video for priming. See the according chapter in **Lectures**.
 ### Repeat content from the last lesson
 All methods from the chapter **Repeating** apply.
 
+
+### Puzzle
+e.g. identification of molecules from structural formulas, with or without options given.
+
+### Match headlines
+Provide a text, let students assign headlines to paragraphs. Here they have to read, and the text may keep them busy for quite a while.
+
+### Find captions
+Provide a graph without a title. Let students find a title and interpret the meaning of the diagram. e.g. “What is the main effect?”
+
+### Finding pairs
+Show two lists of concepts A and B, and let students find out which of them belong together.
+
+### Recall
+Let students discuss a question with their neighbor, then collect results.
+
 ### Break the code
 
 Collect various ways to break a program.
+
+### Team-Challenge
+
+siehe Time Management Lund
 

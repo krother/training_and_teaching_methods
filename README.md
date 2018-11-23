@@ -20,10 +20,10 @@ Whether you are preparing a new course from scratch or a lecturer looking for id
 ## Planning
 
 * [How to teach programming?](planning/how_to_teach.md)
-* [Participants](planning/participants.md)
 * [Preparing lessons](planning/preparing_lessons.md)
 * [Setting learning goals](planning/goals.md)
 * [Concept Maps](planning/concept_maps.md)
+* [Participants](planning/participants.md)
 * [Course design](planning/training_course_design.md)
 
 ## Getting Started
@@ -32,68 +32,28 @@ Whether you are preparing a new course from scratch or a lecturer looking for id
 * [Getting to know each other](getting_started/getting_to_know.md)
 * [Managing expectations](getting_started/expectations.md)
 * [Warming up](getting_started/warmup.md)
-* [Energizers](misc/energizers.md)
 
-## Presenting new Content
+## Introducing new Content
 
-* [Lecture methods](lectures/lectures.md)
-* [Videos in training](lectures/videos_in_training.md)
+* [Structuring concepts](lectures/lectures.md)
 * [Asking questions](lectures/questions.md)
-* [Brainstorming](lectures/brainstorming.md)
 * [Presenting](lectures/presenting.md)
 * [Visualizing information](lectures/visuals.md)
-* [Mind Mapping](lectures/mind_mapping.md)
-* [Progress bar](lectures/progress_bar.md)
 * [Using Code examples](lectures/code_examples.md)
 
 ## Coding Exercises
 
 * [Live coding](coding_exercises/live_coding.md)
 * [Facilitating exercises](coding_exercises/reduced_examples.md)
+* [Debugging](coding_exercises/debugging.md)
 * [Kata](coding_exercises/kata.md)
-* [Teaching software engineering](coding_exercises/coding.md)
 * [Programming projects](coding_exercises/projetcs.md)
 
-## Other Exercises
+## Wrapping up
 
-* [Methods for small groups](lectures/small_groups.md)
-* [Practical exercises](lectures/practical_exercises.md)
-* [Small exercises](lectures/exercises.md)
-* [Affinity grouping](lectures/affinity_grouping.md)
-* [Student presentations](lectures/student_presentations.md)
-* [Managing groups](lectures/managing_groups.md)
-
-## Practical Transfer
-
-* [Pros and Cons](transfer/pros_and_cons.md)
-* [Transfer methods](transfer/transfer.md)
-* [Using expert knowledge](transfer/experts.md)
-* [Open learning formats](transfer/open_learning.md)
-
-## Repeating
-
-* [Domino](repeat/domino.md)
-* [Check and Cross](repeat/check_and_cross.md)
-* [Memory](repeat/memory.md)
-* [Scrabble](repeat/scrabble.md)
-* [MC-questions](repeat/mc_questions.md)
-* [Carrousel](repeat/carrousel.md)
-* [more methods for repeating](repeat/repeat.md)
-
-## Collecting Feedback
-
-* [4-Corner-feedback](feedback/four-corner-feedback.md)
-* [Voting box](feedback/collect-feedback-voting-box.md)
-* [Dot voting](feedback/dot-voting.md)
-* [Feedback props](feedback/feedback_props.md)
-* [Fist or Five](feedback/fist_or_five.md)
-* [Supermarket](feedback/supermarket.md)
-* [Marketplace](feedback/marketplace.md)
-* [Target](feedback/target_feedback.md)
-* [Traffic Light](feedback/traffic_light_feedback.md)
-* [Round Robin questions](feedback/blitzlicht_extra.md)
-* [Start a Fire](energizers/start_fire.md)
-* [Feedback methods](feedback/feedback_methods.md)
+* [Practical Transfer](wrapping_up/transfer.md)
+* [Repeating](wrapping_up/repeat.md)
+* [Collecting Feedback](wrapping_up/feedback.md)
 
 ## Troubleshooting
 
@@ -102,13 +62,13 @@ Whether you are preparing a new course from scratch or a lecturer looking for id
 * [How to deal with technology failures?](troubleshooting/tech_failures.md)
 * [How to handle heterogeneous skill levels?](troubleshooting/heterogeneous.md)
 * [How to handle passive participants?](troubleshooting/passive.md)
+* [How to wake up your class after lunch?](misc/energizers.md)
 * [How to handle aggressive participants?](troubleshooting/aggression.md)
 * [How to teach in an unfamiliar environment?](troubleshooting/paradrop.md)
 * [How to teach a subject you know little about?](troubleshooting/jungle.md)
 
-## Miscellaneous
+## Appendix
 
-* [Finishing your lesson](misc/finishing_moves.md)
 * [Checklists](misc/checklists.md)
 * [Quotes on Teaching](misc/quotes_teaching.md)
 * [Links](misc/links.md)

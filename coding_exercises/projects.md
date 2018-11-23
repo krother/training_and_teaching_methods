@@ -1,5 +1,7 @@
 
-# Student Presentations
+# Projects
+
+# Project Presentations
 
 *Avoid long and boring presentations.*
 
@@ -10,6 +12,8 @@ Here are some ground rules to avoid the latter:
 ## Time limit
 
 Limiting time is the most important one. Make clear what the time limit is.
+
+Lightning talks
 
 ## Announce the talks early
 
