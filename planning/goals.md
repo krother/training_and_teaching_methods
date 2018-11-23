@@ -140,5 +140,4 @@ good path to successful teaching.
 * suggest
 
 
-This list was influenced by Bloom, Taxonomy of Educational Objectives Handbook (1956) and
-LeBrun and Johnstone (1994:162).
+This list was influenced by Bloom, Taxonomy of Educational Objectives Handbook (1956) and LeBrun and Johnstone (1994:162).

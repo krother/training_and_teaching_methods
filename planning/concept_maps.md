@@ -11,6 +11,16 @@ Concept maps can be depicted as mind maps, diagrams, flowcharts, or use a visual
 
 *Concept map for a short lesson on carbohydrates.*
 
+## Concepts
+
+To a student a new, unknown topic looks at first interesting, but also big and intimidating. So the first thing you should do is to chop it up into small parts the students can digest more easily. They have a right to know what is expecting them.
+
+**Don't teach facts, teach concepts.**
+
+A concept is an idea that can be applied in multiple contexts to explain and/or predict outcomes.
+
+**Conceptual understanding** is the ability to apply an idea in multiple contexts to explain and/or predict outcomes.
+
 ## Content Reduction
 
 A good concept map limits itself to the most important aspects of a field. There should be no more than 5-9 points in one map, because of the **working memory limit* of seven plus/minus two** (as described by George Miller). If have more concepts and need more details, you can build an information hierarchy. Zoom into one particular aspect of your concept map and explain it on a separate diagram. Alternatively you can annotate the initial map further as soon as your students have digested the initial map.
