@@ -31,7 +31,7 @@ I have a guest book I bring to most of my trainings to collect comments and auto
 * Plakat mit Feldern zu moeglichen Interessen. Chips verteilen.
 * Headlines	TN oder Paare schreiben eine 'Zeitungsüberschrift' zu einem Thema auf
 * Postkarten		
-* Treasure box	hints for the next batch	
+* Treasure box	hints for the next batch
 * Fragen mit Handzeichen	Fragen mit zwei Antworten, durch Handheben abfragen
 * wenn <name> ein <auto> wäre wäre er ein <attribut>
 * ask about pairs of items: what is more important -> priorities
@@ -90,7 +90,7 @@ small pieces of paper, a box or hat
 
 #### How it is done
 
-Write an open question on the board, e.g.: 
+Write an open question on the board, e.g.:
 
 *“What would you like to learn tomorrow?”*
 
@@ -115,7 +115,7 @@ Using sticky dots you can find out quickly what is most relevant to your student
 2. Explain the task, e.g. *“Stick dots on topics we should repeat tomorrow.”*
 3. Distribute 3-5 dot stickers to each participants. Students will stick on their dots by themselves.
 
-The entire procedure should take less than five minutes. 
+The entire procedure should take less than five minutes.
 
 ### Advantages
 The dot voting procedure works with flipchart paper, cards on a pin board or even post-its. On a big pin wall, you can vote on 50 items simultaneously. You are not restricted to dot stickers. Magnets and even making crosses with pens works well.
@@ -139,7 +139,7 @@ Bring a set of different objects, e.g.:
 * smiley ball
 * heart
 * brain
-* globe 
+* globe
 * spiky ball
 * sports ball
 
@@ -182,7 +182,7 @@ Then we counted how often each number of fingers occurred. This way, the trainee
 
 *"did you understand it or not?"*
 
-Not necessarily do trainees utilize all five fingers. Our course participant Patricia commented: 
+Not necessarily do trainees utilize all five fingers. Our course participant Patricia commented:
 
 *"It is a good feedback and it is immediate. Although I feel sometimes a little bit shy to express my opinion."*
 
@@ -363,13 +363,17 @@ At various other occasions, I used chips to let people vote on a number of alter
 
 ## Other ways to use Poker Chips
 
-1. Evaluate conference talks by putting up boxes labeled
-:-D :-| :-( and a pile of chips.
-2. Assign Story Points to User Story cards – as an alternative to Planning Poker.
-3. Estimate business value in a team – similar to the above.
-4. Choose the top 3 out of 10 alternatives in a meeting
+* Choose the top 3 out of 10 alternatives in a meeting
 by throwing chips on a roulette table-like drawing.
-5. Have newbie programmers simulate an algorithm when teaching them (e.g. tree traversal).
-6. Randomly pick a “volunteer” from your team (put n-1 green chips and 1 red one into a bag, draw).
-7. Put them in a plastic box and make some noise – more useful than you think.
-8. Play poker!
+* Have newbie programmers simulate an algorithm when teaching them (e.g. tree traversal).
+* Randomly pick a “volunteer” from your team (put n-1 green chips and 1 red one into a bag, draw).
+
+
+## Formative assessment
+Develop formative assessments for the most important concepts:
+
+* identify concepts to be tested
+* identify misconceptions
+* construct the assessment
+* validate the test (with novices and experts)
+* use the test

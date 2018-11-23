@@ -63,3 +63,32 @@ A trainers toolbox should include:
 * What media are present? *(whiteboard, projector, flipchart)*
 * Are there any visual obstacles? *(huge screens, pillars)*
 * Can you move tables around?
+
+
+## Do's and don'ts
+
+### The 10 biggest do's for teachers
+
+* Enjoy teaching
+* Say hello
+* Have a plan
+* Convey a structure
+* Be ready to scrap the plan
+* Dress aproppriately
+* Ask students for their expectations
+* If a student comes to you, they always have a serious issue
+* Leave no one behind. People will pull each other through
+* You don't know everything
+
+### The 10 biggest don'ts for teachers
+
+* don't get personal, ever
+* don't use provocative or toxic phrases
+* don't use discriminative or pejorative language
+* don't say *"maybe", "just", "one could" etc.*
+* don't talk for more than 20 minutes
+* don't criticise participants's contributions
+* don't make anyone lose face in the class, ever
+* don't discuss teaching methods during the course
+* don't insist on anyone to say something
+* don't skip repeating

@@ -5,25 +5,28 @@
 
 ![](images/teaching.png)
 
-You are going to conduct a programming course, tutorial or workshop. Of course, you know programming well enough, but do you know teaching as well? 
+You are going to conduct a programming course, tutorial or workshop. Of course, you know programming well, but how about teaching? Isn't teaching something that you can *just do*? Since you have little time, maybe you should not bother with didactic theory and *somehow get the course running*.
 
-Isn't teaching something that some people *just do*? Since the clock is ticking, maybe you should not bother with didactics and *somehow get the course running*.
+But wait – aren't you arguing *against* quick and dirty hacks in programming all the time? Isn't there a craft beyond writing code: adhering to best practices, writing **clean code**, using the right tools and so on?
 
-But wait – aren't you advocating *against* dirty hacks in programming most the time? Isn't there a craft beyond writing code: writing **clean code**, adhering to best practices, using software engineering techniques.
-
-Teaching programming is a craft in its own right, and this document explains you how to do it.
-
-This is a collection of time-tested techniques for teaching programming in an interesting way. I collected them during the past 18 years of teaching.
+Teaching programming is a craft, too. It has its own set of tools. This document helps you to become a better programming teacher.
+It contains time-tested techniques for teaching programming in an interesting way. I collected them during the past 18 years of teaching.
 
 Whether you are preparing a new course from scratch or a lecturer looking for ideas to spice up your classes, this book might be useful for you.
+
+# Contents
+
+* [Preface](planning/preface.md)
 
 ## Planning
 
 * [How to teach programming?](planning/how_to_teach.md)
 * [Preparing lessons](planning/preparing_lessons.md)
+* [Participants](planning/participants.md)
+* [Teachers](planning/teacher.md)
 * [Setting learning goals](planning/goals.md)
 * [Concept Maps](planning/concept_maps.md)
-* [Participants](planning/participants.md)
+* [The classroom](planning/classroom.md)
 * [Course design](planning/training_course_design.md)
 
 ## Getting Started

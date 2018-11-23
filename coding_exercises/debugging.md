@@ -1,6 +1,16 @@
 
 # Debugging
 
+**Coding exercises are a fun thing until you get stuck.**
+
+There are many reasons to prevent your participants from getting stuck as much as possible:
+
+First, you cannot possibly help everybody with everything.
+
+Second, not being in the flow of programming wastes valuable classroom time.
+
+Third, participants react very differently to problems in coding. Some ask for help immediately. Some gnaw away at the problem for a long time. Some refuse to accept help. Some get frustrated easily.
+
 Of course, students need to learn how to get unstuck by themselves. Strategies to teach that skill include:
 
 * take a difficult code example and get unstuck together
@@ -23,4 +33,3 @@ In software engineering, code reviews are an essential skill. It is a useful tec
 * Read code in a team and assess readability, structure etc.
 * Peer review (participants review each others projects)
 * Review code of your participants and provide feedback (time-consuming)
-

@@ -1,15 +1,15 @@
 
 # Facilitating coding exercises
 
-**Coding exercises are a fun thing until you get stuck.**
+If your participants need to do something, they need clear instructions.
 
-There are many reasons to prevent your participants from getting stuck as much as possible:
+An example that does not work well:
 
-First, you cannot possibly help everybody with everything.
+    Implement the quicksort algorithm.
 
-Second, not being in the flow of programming wastes valuable classroom time.
+An example that might work better:
 
-Third, participants react very differently to problems in coding. Some ask for help immediately. Some gnaw away at the problem for a long time. Some refuse to accept help. Some get frustrated easily.
+    Complete the quicksort code. Execute the code on the datasets A and B. Measure how long it takes to complete. Compare the performance to Pythons built-in `sort()` function.
 
 The scientific reasoning behind it is that it is very difficult to develop a problem-solving strategy while you are learning a new concept (see Greg Wilsons book on thirdbit for a detailed explanation). This is why you need to facilitate exercises to keep everybody in the *flow state*.
 
@@ -17,7 +17,7 @@ The scientific reasoning behind it is that it is very difficult to develop a pro
 
 Probably the easiest way to facilitate a practical exercise is to write down a complete sequence of steps necessary to solve a problem.
 
-Most of the time that the tutorial is telling the participants exactly what to do, which lines of code to write etc. If they manage to follow the instructions by the letter, they will probably succeed. 
+Most of the time that the tutorial is telling the participants exactly what to do, which lines of code to write etc. If they manage to follow the instructions by the letter, they will probably succeed.
 
 If you want to see a highly developed step-by-step guide, take a look at the **Django Girls Tutorial**. This piece has been tested by more than 10000 people. Yet, Django Girls keep a high number of coaches around at their events, because most of the participants are total beginners and the tutorial covers a wide range of technologies.
 
@@ -156,4 +156,3 @@ This method is described in more detail in:
 Rother K, Musielak M, Pleus A, Upmeier zu Belzen A, Multi-Stage Learning
 Aids applied to hands-on software training. Brief Bioinform 2010; doi:
 10.1093/bib/bbq024.
-
