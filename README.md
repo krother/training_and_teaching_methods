@@ -16,7 +16,7 @@ Whether you are preparing a new course from scratch or a lecturer looking for id
 
 # Contents
 
-* [Preface](planning/preface.md)
+* [Preface](preface.md)
 
 ## Planning
 
