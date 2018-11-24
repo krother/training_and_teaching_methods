@@ -21,13 +21,12 @@ Whether you are preparing a new course from scratch or a lecturer looking for id
 ## Planning
 
 * [How to teach programming?](planning/how_to_teach.md)
-* [Preparing lessons](planning/preparing_lessons.md)
 * [Participants](planning/participants.md)
 * [Teachers](planning/teacher.md)
+* [The classroom](planning/classroom.md)
 * [Setting learning goals](planning/goals.md)
 * [Concept Maps](planning/concept_maps.md)
-* [The classroom](planning/classroom.md)
-* [Course design](planning/training_course_design.md)
+* [Planning lessons](planning/preparing_lessons.md)
 
 ## Getting Started
 
@@ -72,9 +71,10 @@ Whether you are preparing a new course from scratch or a lecturer looking for id
 
 ## Appendix
 
-* [Checklists](misc/checklists.md)
-* [Quotes on Teaching](misc/quotes_teaching.md)
-* [Links](misc/links.md)
+* [A recipe for designing courses](appendix/training_course_design.md)
+* [Checklists](appendix/checklists.md)
+* [Quotes on Teaching](appendix/quotes_teaching.md)
+* [Links](appendix/links.md)
 
 ## Acknowledgements
 
