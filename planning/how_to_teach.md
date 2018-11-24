@@ -31,7 +31,9 @@ Sometimes you get a list of topics you are expected to cover. However, usually n
 Time determines what you can do in a lesson and what you cannot. How long is your lesson? At what time of day does it take place? Are your lessons taking place in regular intervals or day after day? We will discuss time in chapter **Preparing Lessons**.
 
 ### Room
-The location at which you teach also has a strong influence on the resulting lesson. What is the room layout? What equipment do participants have? What media do you have to visualize things in class? We will look at these aspects in chapter **Room**.
+The location at which you teach and the room layout has a strong influence on the resulting lesson. Tables and laptops act as communication barriers that provide psychological safety but also make it more difficult to establish a dialogue.
+
+What is the room layout? What equipment do participants have? What media do you have to visualize things in class? For a list of aspects to think about, see the chapter **Checklists**.
 
 At least a few of these input parameters will change every time. It follows that you can rarely copy a previous lesson, but have to recompile it at least partially.
 

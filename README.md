@@ -23,8 +23,7 @@ Whether you are preparing a new course from scratch or a lecturer looking for id
 * [How to teach programming?](planning/how_to_teach.md)
 * [Participants](planning/participants.md)
 * [Teachers](planning/teacher.md)
-* [The classroom](planning/classroom.md)
-* [Setting learning goals](planning/goals.md)
+* [Setting Learning goals](planning/goals.md)
 * [Concept Maps](planning/concept_maps.md)
 * [Planning lessons](planning/preparing_lessons.md)
 
