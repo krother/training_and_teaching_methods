@@ -26,14 +26,16 @@ In **deductive instruction**, the teacher introduces and explains new concepts. 
 1. Show the concept map
 2. Explain one or more concepts on it
 3. Show a code example that uses the concept
+4. Execute the code
 
 This is a top-down, theory-based approach that is used by many academic lecturers. It has the advantage that it is not very difficult; you can pull it off even if your concept map is the table of contents of a text book. If you reverse the steps, you put the coding practice into the spotlight (but it is still deductive instruction):
 
 1. Show a code example or do a live coding session
-2. Discuss the concepts used in the code
-3. Unveil your concept map
+2. Execute the code step by step
+3. Discuss the concepts used in the code
+4. Unveil your concept map
 
-In this pattern, your participants may come up with questions that have nothing to do with your concepts, and you need to gently steer the discussion back to the main track.
+In this pattern, your participants may come up with questions that have nothing to do with your concepts, and you need to gently steer the discussion back to the main track. It helps if your example program does something impressive. To guide the discussion it helps to have a prepared list of questions.
 
 Yet another approach is to develop your concept step by step:
 
@@ -57,6 +59,11 @@ They answer a couple of questions about the code. Afterwards you discuss the que
 ### Code examples II
 Divide the class in groups. Each group examines a different programming package/library. After some time they present their package to the class.
 The packages presented are the concepts.
+
+### Comparison
+
+Prepare two alternative implementations for the same problem.
+Let participants find out the key differences. Discuss their pros and cons.
 
 ### Work sheets
 Good for calculating, writing short definitions, drawing.

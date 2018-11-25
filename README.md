@@ -38,9 +38,7 @@ Whether you are preparing a new course from scratch or a lecturer looking for id
 
 * [Structuring concepts](lectures/lectures.md)
 * [Asking questions](lectures/questions.md)
-* [Presenting](lectures/presenting.md)
-* [Visualizing information](lectures/visuals.md)
-* [Using Code examples](lectures/code_examples.md)
+* [Presenting information](lectures/presenting.md)
 
 ## Coding Exercises
 
