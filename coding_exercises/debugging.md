@@ -20,7 +20,6 @@ Of course, students need to learn how to get unstuck by themselves. Strategies t
 Ideally, strategies to get unstuck could be a separate lesson.
 
 
-
 Exercises are an essential part of many teaching situations. Here, four
 different approaches will be explained briefly. They apply to exercises
 carried out in a 'dry' environment: computer classes, calculations,
@@ -33,3 +32,10 @@ In software engineering, code reviews are an essential skill. It is a useful tec
 * Read code in a team and assess readability, structure etc.
 * Peer review (participants review each others projects)
 * Review code of your participants and provide feedback (time-consuming)
+
+
+## Refactoring
+
+Clean up an example program together.
+
+Provide clear instructions: pylint, tests etc.

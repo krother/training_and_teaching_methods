@@ -47,8 +47,7 @@ Whether you are preparing a new course from scratch or a lecturer looking for id
 * [Live coding](coding_exercises/live_coding.md)
 * [Facilitating exercises](coding_exercises/reduced_examples.md)
 * [Debugging](coding_exercises/debugging.md)
-* [Kata](coding_exercises/kata.md)
-* [Programming projects](coding_exercises/projetcs.md)
+* [Programming projects](coding_exercises/projects.md)
 
 ## Wrapping up
 
