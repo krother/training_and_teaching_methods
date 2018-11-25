@@ -19,6 +19,10 @@ Fleming claimed that visual learners have a preference for seeing (think in pict
 
 ## Managing groups
 
+
+### Group work
+Create small groups (2-4 people). Hand out a text or other material. Give a task assignment, e.g. explaing out the method or the main message in the group and presenting it briefly.
+
 Partnerarbeit	Genau 1 Aufgabe
 
 group puzzle:

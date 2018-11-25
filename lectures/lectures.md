@@ -1,61 +1,104 @@
 
 # Structuring concepts
 
-## Structure
+Your lesson is well prepared. You have set goals, structured your topic and created a Concept Map. Now, how do you get your nicely structured concepts into the participants heads?
 
-* show learning goals
-* roadmap
-* concept map
-  * inductive: concept map -> details -> examples
-  * deductive:	example -> details -> concepts
-* knowledge capacitor
+This chapter lists a few approaches you can choose from.
 
-## Introducing new content
+## Explain the learning process
 
-* assign titles to code/images
-* solve programming problems with one-liners
-* read research papers
-* hands-on simulation
-* Myth or fact
-* find pairs
-* groups read code, discuss F2F, present code examples
-* explain code sniplets
-* work on pairs on exactly one task
-* group puzzle with coloured tokens for groups
+Many learners like to know what is expecting them. One effective strategy is to state your learning goals clearly at the start of a lesson:
 
-Textanalyse	Text austeilen oder vorher referenzieren, klare Auftragsstellung, dann Fragen stellen, Diskussion, Präsentation oder andere SVB
+    "Today we will use 4 different data structures."
 
-### Start with why
+Alternatively, you could make the goals transparent in your material or visualize them in the classroom.
 
-I find tools like git, pytest, Docker, Travis etc more difficult to teach than programming. Mostly you would follow a step-by-step instruction to get everything running.
+In a longer course, a higher-level overview is helpful. You could show a table or roadmap that contains the building blocks of your course:
 
-A crucial part in these is to make clear *why* a tool is useful. Start with the problem. You could even create a table with different engineering/maintenance problems and fill in solutions together.
+![](../images/python_roadmap5.png)
 
-Simulation
-- simulation	with stuff	
-- live exercise	simulation with humans	
+A top-level concept map also helps participants to locate the current lesson.
 
-vorbereitete Fragen		
+## Deductive instruction
 
+In **deductive instruction**, the teacher introduces and explains new concepts. This is a teacher-centric approach where you set the pace of learning. The following sequence is an example of deductive instruction:
+
+1. Show the concept map
+2. Explain one or more concepts on it
+3. Show a code example that uses the concept
+
+This is a top-down, theory-based approach that is used by many academic lecturers. It has the advantage that it is not very difficult; you can pull it off even if your concept map is the table of contents of a text book. If you reverse the steps, you put the coding practice into the spotlight (but it is still deductive instruction):
+
+1. Show a code example or do a live coding session
+2. Discuss the concepts used in the code
+3. Unveil your concept map
+
+In this pattern, your participants may come up with questions that have nothing to do with your concepts, and you need to gently steer the discussion back to the main track.
+
+Yet another approach is to develop your concept step by step:
+
+1. State a question
+2. Introduce the concept that answers the question
+3. Repeat until your concept map is complete
+
+This is the most challenging sequence of the above. It requires a very good knowledge of the subject to pick the right questions. On the other hand, it engages the participants strongly; they witness the concepts emerge logically. This sequence calls for a medium where you can draw your concept map step by step. If it works well, you are almost streaming your concepts into the participants. Masters of their art run this kind of deductive instruction as a continuous dialogue with their participants.
+
+## Inductive instruction
+
+In inductive instruction, your participants get to see several training examples until they find common patterns – your concepts. In contrast to deductive instruction, the participants are much more active and in control of the learning process. This has the advantage that you get more immediate feedback of their progress. On the other hand, it is more difficult to prepare.
+
+Some examples how an inductive teaching session could look in practice:
+
+### Code examples I
+
+Participants try out several code examples and discuss them in pairs.
+They answer a couple of questions about the code. Afterwards you discuss the questions with the class and show your concept map as an explanation.
+
+### Code examples II
+Divide the class in groups. Each group examines a different programming package/library. After some time they present their package to the class.
+The packages presented are the concepts.
+
+### Work sheets
+Good for calculating, writing short definitions, drawing.
 schriftliche Aufgaben	Arbeitsblätter mit klarem Arbeitsauftrag
 
-klickspiel    Bild in 7 Teile zersaegen, Punkte starten bei 8, pro Klick -1 Punkt, +1 Bildausschnitt
+### Text analysis
+Participants read a piece of text on programming on their own and answer an open question, e.g.:
 
-build timeline		
-sort headlines		
-fill table	research with material	
-Arbeitsblatt
+    "How did the team in the described project make sure
+    that they were writing quality code?"
 
-Begriffe sortieren	Begriffe sammeln und gruppieren (mit Karten)	
+Afterwards, you collect answers and group them as concepts around your central topic – the concept map is emerging directly from the students' own work.
 
-create matrix (fill table)
-- create a workflow
+### Simulation
+Simlate an algorithm analogously before going into the code. The understanding of its inner workings will be much more immediate.
 
-### Treasure Box
-You can use an object or visual representation of the results of the students work. Seeing what they accomplished motivates them.
+Algorithmic simulations can be done on the board, on paper or choreographed with the participants as live actors – a good occasion for a change of environment.
+
+----
+
+The main difficulty in inductive instruction is to motivate the task and come up with a clear task description. It is possible that it does not go . But the resulting learning effect usually outweighs the risk.
 
 
-## Affinity grouping
+## Priming supports instruction
+
+The use of **Priming** is helpful in both deductive and inductive instruction.
+A well-conducted warm-up exercise does half the work for you: It introduces concepts, problems or makes the participants generally think in the right direction.
+
+You can use all the puzzles, quizzes and games described in chapter **Warming Up** to prime your participants.
+
+
+## Recording results
+* knowledge capacitor
+- live exercise	simulation with humans
+* create a workflow
+* create a timeline
+* calculation exercises on whiteboard
+* fill table - research with material
+* build mind map
+* Python functions: display all, group, prioritize which to explain, group, explain rest
+
+### Affinity grouping
 
 **Structure a lot of information with the group, e.g. for planning a
 longer work session.**
@@ -87,37 +130,8 @@ Ask for titles for each cluster and write them on the board.\
 Afterwards, you can have the group prioritize the groups by voting with
 small objects (magnets, crystals, chips, tokens)
 
-### Comments
+Affinity grouping is a very powerful method that can provide a work plan for one session or an entire week.
 
-This is a very powerful method that can provide a work plan for weeks or
-months.
-
-
-## Work on content
-
-* discuss prepared questions
-* groups create posters, show + tell
-* calculation exercises on whiteboard
-* work sheet
-* fill table - research with material
-* build mind map
-* Python functions: display all, group, prioritize which to explain, group, explain rest
-* build workflow / timeline
-
-
-Some methods that work well with groups of 5-15 people
-
-### Group work
-Create small groups (2-4 people). Hand out a text or other material. Give a task assignment, e.g. explaing out the method or the main message in the group and presenting it briefly.
 
 ### Poster gallery
 Students prepare posters (drawn on big sheets of paper), the posters are hung on the walls and stay visible as a result.
-
-## Work sheets
-Good for calculating, writing short definitions, drawing.
-
-## Learning parcours
-
-Insellernen	mehrere Stationen mit Material, die durchrotiert werden.
-Lernbuffet	Stationen, die nach Belieben angefahren werden können
-Werkstatt	Auftragskarten im Raum verteilt + Materialien, die die Schüler selbständig bearbeiten können. Muß selbstkontrollierbar bleiben.

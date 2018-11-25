@@ -70,6 +70,18 @@ Write down all topics, commands, keywords etc. that are necessary to achieve you
 
 Group the topics, until you have 4-7 clusters. Name each cluster by the **concept** it represents. Move the topics and concepts around until you are happy with the result. Don't cheat and go beyond 7 concepts. Don't worry if your clusters have very different sizes. Also, bear in mind that there is not one single true clustering.
 
+Don't throw away the topics you have collected. They are a great starting point to create material or show a more detailed overview. For example, you could organize the topics of a introductory Python course in the following table:
+
+| data types | control flow | operators | functions | input and output | tools |
+|------------|--------------|-----------|-----------|------------------|-------|
+| integer    | for loops    | arithmetic | `range()`  | `print()` | Python shell |
+| float      | if           | comparison | `abs()`    | `open()`  | IDLE |
+| string     | while        | logical    | `len()`    | `input()` | ...  |
+| ...        |  |  |  |  |  |
+
+The five columns are the main concepts you would place in your Concept Map. The others will be added one by one during your lessons.
+
+
 ### Step 3: Draw the Concept Map
 
 Visualize your clusters as a **mind map**, **flow chart**, **visual metaphor** or any kind of picture, as long as the concepts and title are clearly written. Dare to use color and images!

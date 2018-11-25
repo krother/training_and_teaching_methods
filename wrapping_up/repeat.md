@@ -12,7 +12,7 @@ The board game **Concept** works with any kind of word.
 
 ### Telepathy
 
-Group participants to pairs. Name a topic. Participants write down things around that topic within one minute. 
+Group participants to pairs. Name a topic. Participants write down things around that topic within one minute.
 
 Each pair gets points for words both have on their card.
 
@@ -67,9 +67,16 @@ Hint: use giant printed chars or a screen version.
 * Sprachlandschaft	Zentraler Begriff oder Bild kommt in die Mitte; Teilnehmer geben relevante verwandte Begriffe dazu, die im Kreis herumgeschrieben werden.
 * 2-minute-quiz	Am Ende der Veranstaltung aufschreiben lassen 1.wichtigste Take Home Message 2. Noch offene Frage.
 * Ping Pong: 2 groups, 2 topics, 1st asks 2nd answers for 5', then reverse
+* klickspiel:  Bild in 7 Teile zersaegen, Punkte starten bei 8, pro Klick -1 Punkt, +1 Bildausschnitt
+
+## Learning parcours
+
+Insellernen	mehrere Stationen mit Material, die durchrotiert werden.
+Lernbuffet	Stationen, die nach Belieben angefahren werden können
+Werkstatt	Auftragskarten im Raum verteilt + Materialien, die die Schüler selbständig bearbeiten können. Muß selbstkontrollierbar bleiben.
 
 
-# Repeating in a carrousel
+## Repeating in a carrousel
 
 **dynamic method for repeating**
 
@@ -148,12 +155,12 @@ You can fine-tune this method by choosing easier or more difficult concepts. If 
 
 ### What you need
 
-* cards (A4 paper cut by three). Two cards more than students. 
+* cards (A4 paper cut by three). Two cards more than students.
 * magnets or sticky tape to attach cards on the board.
 
 ### How it is done
 
-Write concepts from the last lesson on the cards (1-2 words), Each student gets a card at random. An additional card gets attached to the board or laid on the ground. Anyone who can explain a connection from his card to an already attached one may place his card in a domino-like manner. Place the first card and explanation yourself. This process continues, until everybody has placed his card. Students may cooperate on difficult topics. 
+Write concepts from the last lesson on the cards (1-2 words), Each student gets a card at random. An additional card gets attached to the board or laid on the ground. Anyone who can explain a connection from his card to an already attached one may place his card in a domino-like manner. Place the first card and explanation yourself. This process continues, until everybody has placed his card. Students may cooperate on difficult topics.
 
 ### Comments
 
@@ -166,7 +173,7 @@ In a class on Object-Oriented Programming for beginners', possible concepts are 
 # Multiple Choice Questions
 
 Starting your lecture with questions helps your audience to warm up.
-Multiple-choice questions allow you to start smoothly even with sleepy students. 
+Multiple-choice questions allow you to start smoothly even with sleepy students.
 
 See [podcast on MC questions](http://www.youtube.com/embed/GaNbZozbDzo)
 
