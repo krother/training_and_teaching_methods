@@ -3,6 +3,7 @@
 
 ## Find out what they need
 
+* take a break
 * ask for their expectations
 * find out whether they are frustrated (too difficult) or bored (too easy)
 * do a longer formative assessment at the end of the lesson and before the next
@@ -32,7 +33,7 @@
 * draw a super nice poster
 * address all senses
 * sweets etc
-* do a small physical exercise / energizer
+* do a small physical exercise / energizer after the break
 
 ## If single participants refuse to participate
 
@@ -42,4 +43,3 @@
 * state your point clearly
 * understand them
 * avoid loaded terms ("roleplay", "groupwork" etc.)
-
