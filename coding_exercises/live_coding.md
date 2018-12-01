@@ -23,13 +23,21 @@ Take short pauses, so that participants can catch up.
 
 ## Coding lecture
 
-It is possible (and not even very difficult) to run an entire lecture as a live coding session.
+It is possible (and not even very difficult) to run an entire lecture as a live coding session. You introduce a new concept by writing a new program from scratch.
 
-Introduce a new concept by writing a new program from scratch.
-
-At the beginning, state the problem clearly and start working through it slowly, step by step. You can explain what you do up front, or stop and ask questions.
+At the beginning, state the problem clearly and start working through it slowly, step by step. Write one line after each other, explain what you do up front, or stop and ask questions. Most importantly, give participants time to catch up.
 
 If it goes well, this form of teaching will converge into a discourse, and at the same time you obtain a working program.
+
+This approach has the advantage of being very tolerant if your participants
+have little experience with the subject, or the subject turns out to be
+difficult. You take them by the hand and guide them to a
+successful completion of the tutorial. On the downside it needs to be
+said that the trainees don’t need to think very much during the
+tutorial. But especially if you don’t know what situation you are going
+to face, this may be a very good choice.
+
+
 
 ## Hints for live coding sessions
 

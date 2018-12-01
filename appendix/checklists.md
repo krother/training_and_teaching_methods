@@ -14,15 +14,35 @@ Things worth thinking about when preparing for a class / tutorial.
 * Have you reserved some time for repeating?
 * At the beginning, don’t forget to say hello.
 
-## When using computers
+## The Classroom
 
-* Check for number of power sockets
-* Check availability of Wifi
-* Test installation of everything in advance
-* Bring all material on a spare USB drive
-* Keep material in the cloud somewhere
-* Know what to do if there is no internet
-* Be ready to improvise
+Think about the training room before. It often determines or limits what is possible to achieve during a tutorial, regardless how good the trainer / trainees are.
+
+* What is the room layout?
+* Are there any visual obstacles? *(huge screens, pillars)*
+* What media are present? *(whiteboard, projector, flipchart)*
+* Do the pens work?
+* Can you move around freely to help the partipants?
+* Do you have a teachers PC?
+* How to connect to the projector?
+* Are there loudspeakers?
+* Do you need a microphone?
+* How to open the windows / turn on the air condition?
+* Can you move tables?
+* Is it possible to arrange chairs in a circle or half-circle?
+* Are participants allowed to eat/drink in the room?
+* Are drinks/food in the room already?
+
+## Computers
+
+* How many computers per participant are there?
+* What operating system is installed?
+* Are there enough power sockets/extension cables?
+* Do you have permission to install software?
+* Did you test installation of everything in advance?
+* What is the Wifi password?
+* Can you plug in a USB drive with spare material?
+* Can you access your material on the web?
 
 ## Written material and slides
 
@@ -40,7 +60,6 @@ Things worth thinking about when preparing for a class / tutorial.
 * Useful acessoires for that are also glue tape, magnets (for attaching stuff on a white board), and scissors.
 * A big roll of paper can be used by trainees to draw posters, mind maps, or results in pairs or small groups (paper is cheaply available e.g. at IKEA).
 * Can you use 2D or 3D models to support your topic?
-# Equipment
 
 A trainers toolbox should include:
 
@@ -57,9 +76,31 @@ A trainers toolbox should include:
 * timer
 * pins
 
-## The room
 
-* Think about the training room before. It often determines or limits what is possible to achieve during a tutorial, regardless how good the trainer / trainees are.
-* What media are present? *(whiteboard, projector, flipchart)*
-* Are there any visual obstacles? *(huge screens, pillars)*
-* Can you move tables around?
+## Do's and don'ts
+
+### The 10 biggest do's for teachers
+
+* Enjoy teaching
+* Say hello
+* Have a plan
+* Convey a structure
+* Be ready to scrap the plan
+* Dress aproppriately
+* Ask students for their expectations
+* If a student comes to you, they always have a serious issue
+* Leave no one behind. People will pull each other through
+* You don't know everything
+
+### The 10 biggest don'ts for teachers
+
+* don't get personal, ever
+* don't use provocative or toxic phrases
+* don't use discriminative or pejorative language
+* don't say *"maybe", "just", "one could" etc.*
+* don't talk for more than 20 minutes
+* don't criticise participants's contributions
+* don't make anyone lose face in the class, ever
+* don't discuss teaching methods during the course
+* don't insist on anyone to say something
+* don't skip repeating

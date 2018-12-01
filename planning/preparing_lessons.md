@@ -1,63 +1,8 @@
 
 # Preparing lessons
 
-## Preparing lessons
-
-The attention of people listening decreases over time. After 20 minutes, many brains switch off unless they have something interesting to do. The trick is to change methods frequently (around every 20 minutes).
-
 A **syllabus**, a list of the topics, is only the first step in preparation. A properly prepared lesson consists of specific **learning objectives** that you can assess (or ideally your participants can assess themselves).
 
-It is useful to prepare a **lesson plan**, a table listing the topics for a lesson, the methods you are going to use and the time you plan for this.
-
-A Klingon proverb says: “Planning ends with enemy contact.”. Especially when you start teaching, your time estimates will be plain wrong. Be ready to recognize the moment at which to trash your lesson plan and improvise.
-
-## What does a lesson consist of?
-
-A well-prepared lesson contains:
-
-* a list of around 7 key cocepts
-* a learning goal
-* a problem statement
-* a concept map
-* data
-* media
-* learning material
-* exercises
-* tools (programs, libraries, teaching methods)
-* lesson plan
-
-Material prepared along these categories can be used in many ways. Even if you have half of these, the lesson is already very solid. It makes it much easier to modify one component and re-fit the lesson to another situation (more/less time, bigger/smaller/more experienced group).
-
-
-## The Classroom
-
-The position of tables, the lectern, projectors, power sockets, screens etc. is crucial. Tables and laptops are psychological barriers that  both students and teachers use to entrench themselves behind. If there are too many barriers, it is difficult to establish a dialogue.
-
-For a more communicative atmosphere, you should move tables aside if possible. The chairs can be arranged in a circle or half-circle. Of course this will only work if you get rid of your defences as well. Employ students to help with rearranging furniture.
-
-## Managing Energy
-
-Create a welcoming atmosphere right from the start.
-
-The way humans work is that they tend to reflect the friendliness and enthusiasm of the leader (you). If a lesson is joyful to you, you will incite the others. If you feel insecure or distracted for whatever reason, it will show as well. It is OK that you are teaching a topic for the first time, and asking for help usually works. But don't tell people why you feel terrible and what bad day you had - that intoxicates the climate.
-
-If you spend some longer period of time with the same people, you normally want to know who they are. In a class, you should at least learn their names. Most students appreciate being adressed by their name. Having everybody introduce himself is an excellent opportunity to probe students' expectations and fears.
-
-If you are sharing handouts, tasks or other material to students, they will get excited and distracted from you immediately. Make sure to tell them what they are expected to do before they receive anything.
-
-Ideally, keep the class in the "flow state" - not too easy, not too difficult. To avoid boredom or frustration. With a heterogeneous group this can be quite challenging.
-
-## Exercises
-
-If your participants need to do something, they need clear instructions.
-
-An example that does not work well:
-
-    Implement the quicksort algorithm.
-
-An example that might work better:
-
-    Complete the quicksort code. Execute the code on the datasets A and B. Measure how long it takes to complete. Compare the performance to Pythons built-in `sort()` function.
 
 ## Recipe
 
@@ -73,6 +18,11 @@ A general recipe for preparing lectures, seminars, and practical training:
 6. Reserve time for repeating.
 7. Have a plan B.
 
+## Writing a lesson plan
+
+It is useful to prepare a **lesson plan**, a table listing the topics for a lesson, the methods you are going to use and the time you plan for this.
+
+When you are new to teaching, your time estimates will be plain wrong. Be ready to recognize the moment at which to trash your lesson plan and improvise.
 
 ## Construct well-balanced Teaching Units
 
@@ -107,8 +57,28 @@ Give students a chance to apply their new knowledge actively. They need to exper
 
 Finally, did your plan work? Are there any open questions? What was the take home message? The wrap-up section is an opportunity for you and your class to reflect the content of the lesson as a whole. Minimally, you should repeat the central content or let your students do that. If you want to spend more time on a wrap-up, you can reach out to related fields: explain similar problems and related topics, discuss the limitations of a method or concept. Give hints where to learn more. Request feedback from your audience. And say goodbye, of course.
 
+#### Repeating
+
+Repeating content is essential to ensure successful learning. Furthermore, giving students the opportunity to show what they have learned already motivates them. In each seminar, some time should be reserved for repeating the last lessons' material. Repeating content is essential to ensure successful learning.
+
 ## Conclusions
 
 These are the four basic phases of a teaching unit. In the figure you can see that the warm-up and wrap-up parts are generally shorter than the other two (usually 10-20% each). In a single lesson, you may cycle through the four phases once, or several times for different learning goals. This is why the model in the figure is circular. A single cycle should last at least 45', otherwise the pace might be considered too fast.
 
 For well-balanced teaching, vary the methods between the phases. For instance as a warm-up you could show a video, do a brainstorming session, or run a quiz before introducing content in a classical presentation. The four phases give you a lot of freedom to teach in your own style, but they help you not to forget any essential parts of the learning process.
+
+## Training methods
+
+How to build a training session using some of the methods above? For sure, you cannot just throw a few training methods together randomly. Is there an ideal arrangement for a particular subject. Unfortunately there is not.
+
+You cannot simply copy the plan from one training to another. Here is why:
+
+* No two training objectives are the same. Your field evolves, and so do training contents.
+* No two trainees are the same. Some know exactly what they want, others want to be entertained.
+* No two groups are the same. Groups can be homogeneous, heterogeneous, lively, silent etc.
+* No two training rooms are the same. Moving a single piece of furniture can influence the training climate considerably.
+* No two trainers are the same. All of you have their individual preferences.
+
+This is why every lesson is a unique performance. Of course, a well-crafted lesson plan helps, and many things are reproducible. But be ready to improvise.
+
+Each training is a new invention! This is what makes training so rewarding.

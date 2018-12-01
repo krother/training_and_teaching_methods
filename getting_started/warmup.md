@@ -23,6 +23,17 @@ To prime participants for a lesson on *associative arrays/dictionaries/database 
 
 To prime a lesson on debugging, you could display a recipe for baking a pizza. Then ask participants to invent ways how to break the recipe.
 
+## Start with why
+
+A crucial part in adult learning is to make clear *why* a concept, command or tool is useful. Start with the problem. You could even create a table with different problems and fill in solutions together. For example:
+
+| problem | bad solution | tool |
+|---------|--------------|------|
+| keep old versions | copy files | git |
+| keep code working | test manually | pytest |
+| readable code | custom standards | pylint |
+
+
 ## Algorithmic games
 
 **Boost motivation before the theory.**
@@ -132,6 +143,7 @@ Provide a text, let students assign headlines to paragraphs. Here they have to r
 
 ### Find captions
 Provide a graph without a title. Let students find a title and interpret the meaning of the diagram. e.g. “What is the main effect?”
+.. assign titles to code/images
 
 ### Finding pairs
 Show two lists of concepts A and B, and let students find out which of them belong together.
@@ -147,3 +159,6 @@ Collect various ways to break a program.
 
 siehe Time Management Lund
 
+### Myth or fact
+
+### Solve programming problems with one-liners

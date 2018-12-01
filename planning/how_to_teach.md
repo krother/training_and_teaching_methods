@@ -1,106 +1,77 @@
-
 # How to teach programming?
 
-As a teacher, your job is to get your students to learn efficiently. You cannot force them to do so; it is always the students who decide whether they learn or not. Likewise, you cannot force children to eat. But you decide what is on the menu, and you can make sure it looks tasty.
+In this chapter, we will look at teaching as a two-step process.
+First, you prepare a lesson – you compile it. Second, you deliver it in the classroom – you execute it:
 
-Once upon a time, a teacher was a source of information. This role is diminishing. Nowadays, students can find out abundant information on the web in no time. But they need your help to not get lost in that abundance! Your role is that of a *learning facilitator*: Show them a path and walk that path with them.
+* Step 1: Prepare a lesson (compile)
+* Step 2: Deliver the lesson (execute)
 
-To a student a new, unknown topic looks at first interesting, but also big and intimidating. So the first thing you should do is to chop it up into small parts the students can digest more easily. They have a right to know what is expecting them.
+The first part of this book focuses on preparation, the rest on delivery.
 
-## Myth debunking
+We can formalize this compilation-execution process more: During **lesson preparation**, you consider the **setting** in which your lesson takes place and compile a **lesson** from it. This **lesson** is then executed during **lesson delivery**, and produces an output of its own.
 
-### Common beliefs in academic teaching staff:
+To describe our teaching process more accurately, we need to find out what the **input of the preparation**, the compiled **lesson** and the **output of a lesson** consist of. In this chapter, you find a list of parts.
 
-* The most efficient and the only practical way to teach a large (>50) class is by lecturing.
-* Students will (or at least should) understand and remember everything they are told in a lecture.
-* The best use of class time is to transmit information by lecturing; time spent on discussion or other activities is less valuable or wasted.
-* The more an instructor covers in a lecture course, the more the students will learn.
-* Students will only learn in a course to the extent that the instructor teaches them (presents and explains the material in lectures).
-* A detailed syllabus is a better way to convey the content of a course than a set of specific student learning goals.
+![](../images/teaching_process.png)
 
-### Common beliefs of students:
+## The setting of your lesson
 
-* Lectures are the only format that makes sense for a large class.
-* If I just attend class regularly, do the assigned reading with a highlighter, take good notes in class, and review them on my own before the exam, I will learn and retain the course material and get a good grade in the course.
-* In a large class, I'm learning most when the instructor is lecturing and I’m taking notes. When an instructor spends class time on discussions or group work rather than presenting the course material, then he is wasting valuable class time.
-* The more the instructor covers in a course, the more I will learn and retain from it.
-* It is the job of the instructor to teach us, not make us learn on our own.
-* A detailed syllabus will be more helpful to me in studying for the exams than a set of student learning goals.
+First, let us look at the input of our teaching process: the setting in which your course takes place. Much like source code, it determines a lot that happens in class. Most of the time you cannot influence it.
 
-## Teach concepts
+### Participants
+Your **participants** (students, learners or however you want to call them) are the main ingredient of any teaching. Everything else (including yourself) is dispensable, but without participants, there is no learning. In chapter **Participants** you will learn to know these important people.  
 
-**Don't teach facts, teach concepts.**
+### Teacher
+You (or whoever will deliver the lesson) have something to say as well. What works for one teacher does not work for the other. If there are multiple teachers or you don't even know who will execute your lesson, the outcome will change again. In chapter **Teachers** you find more about your role.
 
-A concept is an idea that can be applied in multiple contexts to explain and/or predict outcomes.
+### Syllabus
+Sometimes you get a list of topics you are expected to cover. However, usually nobody tells you how much of each topic to cover toA syllabus is raw material that requires work before lessons emerge from it. Often you may modify your syllabus or write it from scratch, which is a good first step before you start with the real preparation. You find more about how to use a syllabus in the chapters **Goals** and **Concept Maps**.
 
-**Conceptual understanding** is the ability to apply an idea in multiple contexts to explain and/or predict outcomes.
+### Time
+Time determines what you can do in a lesson and what you cannot. How long is your lesson? At what time of day does it take place? Are your lessons taking place in regular intervals or day after day? We will discuss time in chapter **Preparing Lessons**.
 
-Develop formative assessments for the most important concepts:
+### Room
+The location at which you teach and the room layout has a strong influence on the resulting lesson. Tables and laptops act as communication barriers that provide psychological safety but also make it more difficult to establish a dialogue.
 
-* identify concepts to be tested
-* identify misconceptions
-* construct the assessment
-* validate the test (with novices and experts)
-* use the test
+What is the room layout? What equipment do participants have? What media do you have to visualize things in class? For a list of aspects to think about, see the chapter **Checklists**.
 
-# Why we need so many training methods?
+At least a few of these input parameters will change every time. It follows that you can rarely copy a previous lesson, but have to recompile it at least partially.
 
-How to build a training session using some of the methods above? For sure, you cannot just throw a few training methods together randomly. Is there an ideal arrangement for a particular subject. Unfortunately there is not.
 
-You cannot simply copy the plan from one training to another. Here is why:
+## What does a lesson consist of?
 
-* No two training objectives are the same. Your field evolves, and so do training contents.
-* No two trainees are the same. Some know exactly what they want, others want to be entertained.
-* No two groups are the same. Groups can be homogeneous, heterogeneous, lively, silent etc.
-* No two training rooms are the same. Moving a single piece of furniture can influence the training climate considerably.
-* No two trainers are the same. All of you have their individual preferences.
+Many novice teachers assume that a lesson consists of everything that participants *see* during its delivery. This assumption is incomplete, like a program is more than what you see on the screen. The parts of a well-prepared lesson are:
 
-This is why every lesson is a unique performance. Of course, a well-crafted lesson plan helps, and many things are reproducible. But be ready to improvise.
+### Learning goals
+**Learning goals** formalize what you want to achieve. They give your entire lesson a clear direction. Ideally, they allow you to check whether your lesson has worked and your participants to assess what they have learned. In that sense, learning goals are the *Unit Tests* of your lesson. In chapter **Learning Goals** we look at goals more closely.
 
-Each training is a new invention! This is what makes training so rewarding.
+### Concept Map
+A **Concept Map** is a structured visualization of a small number of key concepts. You can think of it of a highly reduced version of everything your participants need to know. In chapter **Concept Maps** you learn how to develop Concept Maps and how to use them.
 
-## Repeating
+### Theme
+A theme wraps your entire lesson with one concrete story or problem question. A well-chosen theme that participants can relate to motivates everybody and makes your content generally easier to digest.
+A them could contain of *data*, *a problem question* and some *eye candy*. The idea of themes will be explored in chapter **Projects**.
 
-Repeating content is essential to ensure successful learning. Furthermore, giving students the opportunity to show what they have learned already motivates them. In each seminar, some time should be reserved for repeating the last lessons' material. Repeating content is essential to ensure successful learning.
+### Lesson plan
+A big helper is to write a **lesson plan**, a table describing what will happen during your lesson. A lesson plan also states which **teaching methods** to use. The lesson plan helps you to balance, time and evaluate your lesson. In chapter **Lesson Planning** you will learn more.
 
-## Managing the group
+### Material
+The last thing to prepare is what participants actually see: exercises, code examples, data files, lecture material. What material you need depends on the methods you choose. You will find plenty of methods described in all other parts of the book.
 
-A teacher must not make any group member look like an idiot (“to lose their face”). Depending on the cultural context you put the student or yourself into trouble.
+## Output: Learning progress
+The output of your lesson consists of several things as well:
 
-This means: Picking people from the group and questioning them, giving nonconstructive feedback after student presentations are absolute no-gos!
+* knowledge gained by your participants
+* knowledge gained by you
+* artifacts: programs, diagrams, tables, posters
+* feedback
 
-## Some other things yet to document
+The sum of these becomes the input of your next lesson.
 
-* Anchors
-* Weekly projects
-* knowledge capacitor
-* Prototypes (examples that weave a thread through one or more lessons)
-* inductive (concepts -> details -> examples) vs. deductive (example -> detail -> concepts) teaching
+## Remarks
 
-## Do's and don'ts
+Over a longer course, our initial two-step process becomes a cycle: You prepare, you deliver and repeat.
 
-### The 10 biggest do's for teachers
+I do not use all parts of this process for every lesson. Even a lesson compiled with 2 or 3 of the above components can work very reliably. Sometimes I set decide on the theme or goals in my head without writing them down explicitly. But if you are starting to teach or want to do a very thorough job, creating all aspects completely is a good idea.
 
-* Enjoy teaching
-* Say hello
-* Have a plan
-* Convey a structure
-* Be ready to scrap the plan
-* Dress aproppriately
-* Ask students for their expectations
-* If a student comes to you, they always have a serious issue
-* Leave no one behind. People will pull each other through
-* You don't know everything
-
-### The 10 biggest don'ts for teachers
-
-* don't get personal, ever
-* don't use provocative or toxic phrases
-* don't use discriminative or pejorative language
-* don't say *"maybe", "just", "one could" etc.*
-* don't talk for more than 20 minutes
-* don't criticise participants's contributions
-* don't make anyone lose face in the class, ever
-* don't discuss teaching methods during the course
-* don't insist on anyone to say something 
-* don't skip repeating
+An accurately prepared lesson is reusable in many ways. It is much easier to modify one component and recompile the lesson to another situation (more/less time, bigger/smaller/more experienced group).
