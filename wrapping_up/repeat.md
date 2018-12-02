@@ -1,237 +1,272 @@
 
-# Methods for repeating
+# Repeating
 
+Repeating key concepts in increasing intervals is crucial for learning success (the scientific term for this is *"spaced repetition"*). Thus, repeating is an essential teaching activity that should not be skipped. However, repeating may be difficult to prepare, because you and your participants may be tired at the end of a day/lesson, and repeating easily falls victim to any changes to your plan. Even if everything goes well, your participants may be very eager to code to the very last minute, and interrupting them would be a pity. General strategies to deal with repeating are:
 
-### 20 Questions
+* Point students to material for self-study – works, because most online training resources do a decent job at repeating.
+* Start the next lesson with it – the repetition serves as a warm-up activity
+* Keep it short – one well-planned activity at the end of a lesson may prompt 
 
-One participant draws a card with a concept. The others try to guess what he *"is"* by asking yes/no questions.
+In this chapter, you find a few of my favourite, foolproof methods for repeating.
 
-### Concept
 
-The board game **Concept** works with any kind of word.
+## Scrabble
 
-### Telepathy
+![Scrabble](../images/scrabble.png)
 
-Group participants to pairs. Name a topic. Participants write down things around that topic within one minute.
+| summary     | build a crossword |
+|-------------|-------------------|
+| time        | 10' |
+| preparation |  1' |
+| group size  | 3-30 |
+| material    | whiteboard / flipchart |
 
-Each pair gets points for words both have on their card.
 
-Play 3-4 rounds
+* draw an empty Scrabble board.
+* add a few bonus fields along the edges.
+* write one keyword in the middle of the board.
+* ask the group to suggest more words, add them in a crossword-like manner.
 
-### Quiz
+Don't take this exercise too seriously. You don't need to enforce rules of normal corsswords meticulously. You don't need to stick precisely to a grid when drawing characters either.
 
-Prepare 20 quiz questions from 4-5 categories
+As a variation, I also used giant scrabble tiles that made from cardboard.
 
-Put all on the board / a slide.
 
-Whoever answered a question gets to pick the next category
-
-### Who wants to be a millionaire?
-
-Prepare MC questions and have a quiz show, including 50:50 jokers and the like.
-
-### Crossword
-
-See:
-
-* http://www.theteacherscorner.net/printable-worksheets/make-your-own/crossword/crossword-puzzle-maker.php
-* http://www.edhelper.com/crossword.htm
-* http://www.edhelper.com/Codeword_Puzzle.htm
-
-### Hangman
-
-Write a concept to the board as a sequence of dashes
-
-    _ _ _ _ _ _ _ _
-
-The participants guess characters.
-
-### Boggle
-
-Create a random 5 x 5 matrix with characters. Give participants 3 minutes to search words connected with the topic. Use the original **Scrabble** distribution of characters for your language.
-
-Hint: use giant printed chars or a screen version.
-
-## more:
-
-* Murmur: speak 1-2 minutes with neighbor about topic (3x)
-* Memory names + topics
-* Tabu
-* Teamquiz	50% questions to team A|B, 50% to all
-* Table Topics
-* pixeled images - picture becomes sharper over time
-* put up infographics in the room
-* one question survey. prepare questions on cards. Ask people to stand up, ask someone else a question, then exchange cards and move on.
-* guess who I am with Python commands, ML methods etc.
-* Quiz: who wants to be a data scientist
-* Sprachlandschaft	Zentraler Begriff oder Bild kommt in die Mitte; Teilnehmer geben relevante verwandte Begriffe dazu, die im Kreis herumgeschrieben werden.
-* 2-minute-quiz	Am Ende der Veranstaltung aufschreiben lassen 1.wichtigste Take Home Message 2. Noch offene Frage.
-* Ping Pong: 2 groups, 2 topics, 1st asks 2nd answers for 5', then reverse
-* klickspiel:  Bild in 7 Teile zersaegen, Punkte starten bei 8, pro Klick -1 Punkt, +1 Bildausschnitt
-
-## Learning parcours
-
-Insellernen	mehrere Stationen mit Material, die durchrotiert werden.
-Lernbuffet	Stationen, die nach Belieben angefahren werden können
-Werkstatt	Auftragskarten im Raum verteilt + Materialien, die die Schüler selbständig bearbeiten können. Muß selbstkontrollierbar bleiben.
-
-
-## Repeating in a carrousel
-
-**dynamic method for repeating**
-
-### Time in class
-
-5 minutes
-
-### Group size
-
-10-30
-
-### What you need
-
-space for people to move
-
-### How it is done
-
-You split the class in two groups. Both form two concentric circles or
-two rows facing each other if there is less space. Instruct one group to
-explain one concept to the other, give them roughly 30 seconds. Then
-shift positions so that everybody sees a different face. Now it is the
-other groups' turn to explain. After 5-8 rounds, your group will be well
-activated.
-
-You can put a lot of energy into the movement, see our performance at the
-[Gulbenkian Training Programme in
-Bioinformatics](http://gtpb.igc.gulbenkian.pt/bicourses/)
-
-### Comments
-
-See [video comment](http://www.youtube.com/embed/N0pPOVesDo0)
-
-# Check & Cross
-
-*Repeat something you know the students know well already.*
-
-### Time in class
-10'
-
-### Preparation time
-none
-
-### Group size
-2-25
-
-### What you need
-whiteboard or flipchart
-
-### How it is done
-
-* Clear the board.
-* Write a topic as atitle on top (the title of your lesson).
-* Write 7-15 concepts in random locations on the board.
-* Ask everybody to explain one concept briefly. Moderate the order in which your students take turns (e.g. from left to right). You may participate in the exercise yourself.
-* Cross out each concept that has been explained.
-
-### Comments
-
-This method helps to repeat things if you have 10 minutes left at the end of your lecture,  seminar, or workshop. There is little that can go wrong. At worst, people start a discussion on their own, but this is not so bad after all. The best thing about this wrap-up technique is that you don't need to prepare anything in advance. This is why I always keep the method as an option for Plan B.
-
-You can fine-tune this method by choosing easier or more difficult concepts. If the students differ much in their level of experience, ask the least experienced first.
-
-*Idea: try pictographs instead of words*
-# Domino
-
-**Repeat familiar concepts.**
-
-### Time in class
-15'
-
-### Preparation time
-10'
-
-### Group size
-2-15
-
-### What you need
-
-* cards (A4 paper cut by three). Two cards more than students.
-* magnets or sticky tape to attach cards on the board.
-
-### How it is done
-
-Write concepts from the last lesson on the cards (1-2 words), Each student gets a card at random. An additional card gets attached to the board or laid on the ground. Anyone who can explain a connection from his card to an already attached one may place his card in a domino-like manner. Place the first card and explanation yourself. This process continues, until everybody has placed his card. Students may cooperate on difficult topics.
-
-### Comments
-
-Alternatively (and a nice set-up for an entire lesson) the class can sit in a circle with the empty space in the middle for the Domino.
-
-### Example
-
-In a class on Object-Oriented Programming for beginners', possible concepts are *'Class', 'method', 'inheritance', 'attribute' etc.*
-
-# Multiple Choice Questions
-
-Starting your lecture with questions helps your audience to warm up.
-Multiple-choice questions allow you to start smoothly even with sleepy students.
-
-See [podcast on MC questions](http://www.youtube.com/embed/GaNbZozbDzo)
-
-# Memory
+## Memory
 
 ![Memory](../images/memory.jpg)
 
-**Run through some topics with an entire group.**
+| summary     | repeat concepts with a small group |
+|-------------|------------------------------------|
+| time        | 10' |
+| preparation | 10' |
+| group size  | 2-10 |
+| material    | paper cards |
 
-### Time in class
-10'
-
-### Preparation time
-5'
-
-### Group size
-2-15
-
-### What you need
-small paper cards
-
-### How it is done
-
-Write 10-15 concepts on cards. Place the cards upside-down on a table/whiteboard. Trainees take turns in uncovering a card and explain whatever is written there. This way, you can either *repeat* content, or collect existing knowledge. In any case, do not comment on the answers.
-
-### Comments
+* write the names of participants on cards
+* write 10-15 concepts on cards of a different color
+* place the cards upside-down on a table or attach them
+* one participant turns over a pair of cards (name + concept)
+* the person on the card explains the concept
+* that participant turns over the next pair
+* do not comment on answers
 
 I have used Memory for repeating content at the beginning and end of a lesson. At the beginning, it makes a great warm-up exercise. The memory cards are easy to prepare on-the-fly, so that you can repeat what was done during a workshop at the end of the day.
 
 The main advantage of Memory is that everybody gets to participate. Sometimes, participants feel encouraged to help each other, in which case you can lean back and watch comfortably.
 
-# Scrabble
 
-**Recap some keywords.**
+## Domino
 
-![Scrabble](../images/scrabble.png)
+| summary     | connect familiar concepts |
+|-------------|---------------------------|
+| time        | 10' |
+| preparation | 10' |
+| group size  | 2-15 |
+| material    | paper cards, board or space in the middle |
 
-### Time in class
-10'
 
-### Preparation time
-1'
+* write concepts from the last lesson on the cards
+* create two cards more than there are participants
+* share one card to each participant
+* place the first card on the board
+* anyone who can explain a connection from his card to an already attached one may place his card there
+* continue until everybody has placed his card
 
-### Group size
-3-30
+This activity has a self-balancing mechanism: The more cards are already there, the easier it will be to come up with an explanation. If someone gets really stuck, allow them to swap theirs for a spare card
 
-### What you need
-whiteboard or flipchart
 
-### How it is done
-Draw an empty Scrabble board.
+## Telepathy
 
-Write one keyword in the middle of the board. Ask the group to suggest other keywords in a crossword-like manner.
+| summary     | quick team competition |
+|-------------|------------------------|
+| time        | 15' |
+| preparation | 5' |
+| group size  | 6-20 |
+| material    | something to write |
 
-As an extra incentive, you may add some bonus fields along the edges.
+* group participants to pairs
+* ask participants to write down keywords for that topic within one minute
+* name a topic and start a timer
+* pairs get one point for each concept both participants have written
+* ask for points
+* play 3-4 rounds
 
-### Comments
 
-The exercise is not to be taken too seriously. You don't need to enforce rules of normal corsswords meticulously. You don't need to stick precisely to a grid when drawing characters either.
+## Quiz
 
-I used giant scrabble tiles that made from cardboard.
+| summary     | end-of-course wrap-up |
+|-------------|-----------------------|
+| time        | 45' |
+| preparation | 30' |
+| group size  | 5-50 |
+| material    | well-visible board |
+
+* prepare 20 quiz questions from 4-5 categories
+* place all questions on the board
+* ask one participant to pick a category
+* read the question aloud
+* give your class time to think
+* ask for volunteers to answer the question
+* leave room for explanations and follow-up questions
+* whoever answered a question gets to pick the next category
+
+There are a lot of variations to the quiz theme: teams, jokers, special challenges, sound effects etc. 
+
+
+## 20 Questions
+
+| summary     | funny question-answer game |
+|-------------|----------------------------|
+| time        | 20' |
+| preparation | 10' |
+| group size  | 2-15 |
+| material    | cards with concepts |
+
+* prepare a pile of words related to your lesson
+* mix in a few concepts that are not programming concepts, but have something to do with your lesson
+* one participant draws a card with a concept
+* the others try to guess it by asking yes/no questions
+
+Once your participants figure out what kind of concepts the game contains, they usually build an efficient question hierarchy very quickly.
+
+### Concept board game
+
+With a small group, the board game **Concept** works with programming concepts as well. The same rules as for *20 questions* apply.
+
+
+## Boggle
+
+| summary     | character soup |
+|-------------|----------------|
+| time        | 5' |
+| preparation | 5' |
+| group size  | 2-50 |
+| material    | screen |
+
+* create a random 5 x 5 matrix with characters
+* give participants 3 minutes to write down as many words connected with the topic
+* ask for the longest words 
+
+This exercise connects easily to lessons on strings or tables. You can make creating the random matrix a homework or in-class programming task. Look up the original **Scrabble** distribution of characters for your language on Wikipedia.
+
+
+## Carrousel
+
+| summary     | combined energizer/recap |
+|-------------|--------------------------|
+| time        | 10' |
+| preparation | 1' |
+| group size  | 10-50 |
+| material    | lots of space |
+
+* split the class in two equal groups
+* arrange the groups in two concentric circles or rows facing each other
+* ask one group to explain one concept to the other
+* give them roughly 30 seconds
+* shift positions by one, so that everybody sees a different face
+* now it is the other groups turn to explain
+* play 4-6 rounds
+
+If you have a very energetic group you can have them walk the circle or run around. See recording at the [Gulbenkian Training Programme in Bioinformatics](http://gtpb.igc.gulbenkian.pt/bicourses/)
+and [video comment](http://www.youtube.com/embed/N0pPOVesDo0)
+
+
+## Check & Cross
+
+| summary     | quick ad-hoc recap |
+|-------------|--------------------|
+| time        | 10' |
+| preparation | 1' |
+| group size  | 5-25 |
+| material    | board |
+
+* clear the board.
+* write 7-15 concepts in random locations on the board
+* ask everybody to explain one concept briefly
+* cross out each concept that has been explained
+
+Check & Cross helps to repeat if you have 10 minutes left at the end of your lesson. There is little that can go wrong. At worst, people start a discussion on their own. The best thing about this wrap-up technique is that you don't need to prepare anything in advance. This is why I keep this technique in my emergency kit all the time.
+
+You can fine-tune this method by choosing easier or more difficult concepts. If the students differ much in their level of experience, ask the least experienced first.
+
+
+## Multiple Choice Questions
+
+| summary     | works with huge groups |
+|-------------|------------------------|
+| time        | 10' |
+| preparation | 30' |
+| group size  | 2-500 |
+| material    | screen |
+
+* write 3-5 multiple-choice questions
+* display them for a 1-2 minutes each
+* discuss answers with the group
+
+MC-questions scale up very well. Their main drawback is that it takes time to craft good questions.
+
+
+## Murmur
+
+| summary     | shortest repetition method ever |
+|-------------|---------------------------------|
+| time        | 5' |
+| preparation | 0' |
+| group size  | 2-500 |
+| material    | - |
+
+* ask your class to speak about a topic for 1-2 minutes
+* repeat 3 times
+
+This is an easy, foolproof way to wake up your class
+
+
+## Crossword
+
+Prepare a crossword for homework. Some tools to create one are:
+
+* http://www.theteacherscorner.net/printable-worksheets/make-your-own/crossword/crossword-puzzle-maker.php
+* http://www.edhelper.com/crossword.htm
+* http://www.edhelper.com/Codeword_Puzzle.htm
+
+
+## Infographics
+
+Place cheat sheets / infographics in the room, so that participants see them all the time. You don't have to do anything else, just let the knowledge slowly trickle in.
+
+
+## Hangman
+
+Write a concept to the board as a sequence of dashes
+
+    _ _ _ _ _ _ _ _
+
+* participants guess characters
+* start drawing a hangman if they go wrong
+* you can let participants take over the game completely
+
+
+## Learning parcours
+
+A more difficult technique is to prepare multiple exercises in the room the participants visit. There are two ways to organize it:
+
+* **islands** - participants rotate through stations in small teams
+* **buffet** - participants go and pick whatever they want
+
+A learning parcours allows you to recycle material the participants have already seen – many appreciate that.
+Ideally, the exercises have a self-checking component.
+
+Reserve at least one hour for a learning parcours.
+
+
+## Unfinished ideas
+
+* teamquiz: two teams, 50% questions go to one team, 50% to both (whoever answers faster)
+* interview questions, ask participants to answer one of them in a mini-speech
+* prepare questions on cards; ask participants to move around, ask someone else a question, exchange cards and move on
+* mind-mapping: place a central concept (or concept map) on the board; add other concepts around it together
+* 2-minute-quiz: ask participants to write down a take home message and one open question at the end of the lesson
+* ping-pong: 2 groups, 2 topics, 1st asks 2nd answers for 5', then reverse
+* cut an image in 9 pieces, show 1 piece, count points down as more parts appear until participants guess it
+* smae, but with pixelated images that become sharper over time
