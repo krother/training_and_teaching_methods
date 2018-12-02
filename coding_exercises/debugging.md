@@ -1,6 +1,8 @@
 
 # Debugging
 
+![](../images/talk_bug.png)
+
 **Learning to code is fun until you get stuck.**
 
 Debugging is one of the most difficult programming activities to learn. While there is plenty of well-structured information on all kinds of commands and program structures, there is very little systematic material on debugging. This may be because many experienced programmers learned coding on their own, and debugging is something that they just *"picked up along the way"*. This may work for some of your participants, but many will get stuck during debugging.

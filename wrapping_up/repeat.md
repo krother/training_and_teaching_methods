@@ -174,6 +174,8 @@ and [video comment](http://www.youtube.com/embed/N0pPOVesDo0)
 
 ## Check & Cross
 
+![](../images/crossing_out.png)
+
 | summary     | quick ad-hoc recap |
 |-------------|--------------------|
 | time        | 10' |
@@ -269,4 +271,4 @@ Reserve at least one hour for a learning parcours.
 * 2-minute-quiz: ask participants to write down a take home message and one open question at the end of the lesson
 * ping-pong: 2 groups, 2 topics, 1st asks 2nd answers for 5', then reverse
 * cut an image in 9 pieces, show 1 piece, count points down as more parts appear until participants guess it
-* smae, but with pixelated images that become sharper over time
+* same, but with pixelated images that become sharper over time
