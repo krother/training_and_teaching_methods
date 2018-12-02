@@ -3,7 +3,7 @@
 
 Here are a few methods that help increase retention and practical aplication.
 
-### Discuss goals in advance
+## Discuss goals in advance
 
 Ask participants and stakeholders for goals in advance. Relevant roles include
 
@@ -12,32 +12,39 @@ Ask participants and stakeholders for goals in advance. Relevant roles include
 -   HR
 -   Trainer
 
-### Question at beginning
+## Question at beginning
 
 Imagine the training was successful. What changes for you?
 
-### 72h Rule
+## 72h Rule
 
 Do the first step within 3 days, even if it is a very small one.
 
-### Tandem
+## Tandem
 
 share personal takeaways and goals in pairs
 
-### Upside-down
+## Upside-down
 
 with constructive deduction
 
-### Scale
+## Scale
 
 Locate yourself on a scale 0-100% towards your goal pre and post
 
-### Follow-up
+## Follow-up
 
 Trainer send extra infos two weeks later
 
+## more
 
-# Collect Pros and Cons from a Discussion
+* job interview questions
+* discuss business case with questions
+* business case memory
+* Erfahrungsabfrage	Wichtig bei Praktikern, Leuten die nicht bei 0 anfangen. Karten, Poster usw.
+
+
+## Collect Pros and Cons from a Discussion
 
 ![Pros and Cons](../images/pro_con.png)
 
@@ -69,16 +76,9 @@ To work well, your group should be familiar with the topic already. You can conn
 
 The Pro-Con approach helps to prevent a discussion drifting into random directions. This makes it a valuable tool in meetings or decision-making situations. In teaching, it is a good way to wrap up a lesson, because your group needs to recapitulate what they did before. Finally, when you run out of space on the board, it is the right time to end the discussion.
 
-### more
-
-* job interview questions
-* discuss business case with questions
-* business case memory
-* Erfahrungsabfrage	Wichtig bei Praktikern, Leuten die nicht bei 0 anfangen. Karten, Poster usw.
 
 
-
-# Using expert knowledge
+## Using expert knowledge
 
 Many times, the teacher will not be the person who has all the knowledge. The moments when a participant turns out to be an expert in a particular matter are valuable, an opportunity worth seizing. Give them space to share their knowledge.
 
@@ -89,17 +89,44 @@ But most of the time, your experts will be participants who are just a day or an
 The methods below facilitate mutual sharing of experience.
 
 
-## Fishbowl
+### Fishbowl
 
 The fishbowl is a classic facilitation method. Place the experts in the center and let them discuss a given topic. Place the other participants around them.
 This is a great method for knowledge transfer from a more experienced to a  junior group.
 
 
-## Business cases
+### Business cases
 
 Present a business case. with questions or roles
 
 Collect examples of practical usage with your experts.
+
+
+## Lightning Talks
+
+**Avoid long and boring presentations.**
+
+Giving participants room to present is generally a good idea. It makes participants rethink their own knowledge and helps to spread it laterally through the group. Presentations can be one of the best parts of the course, but it is also risky. To prevent bad presentations to take up a lot of room, establish a few ground rules:
+
+### Time limit
+
+Limiting time is the most important one. Make clear what the time limit is. The *"Lightning Talk"* format seen on many conferences uses a strict limit of 5 minutes. 10 minutes also works, but above that, participants will need lots of time to prepare.
+
+### Announce the talks early
+
+Let your participants know early that they will be presenting and how. Also announce what you expect from presenters. Communicate the rules clearly, especially those on timing.
+
+### Speaker sign-up
+
+Put up a flipchart or board with the speaking slots, so that participants can sign up with their names/talk titles.
+
+### Skip material
+
+Good presentations are spoken freely. Encourage people to show code, notebooks or websites instead of spending a lot of time preparing slides or even handouts.
+
+### Enforce timing
+
+If the group is big or goes overtime notoriously, use a stopwatch or put 1-2 participants in charge of timekeeping.
 
 
 ## Panel Discussion

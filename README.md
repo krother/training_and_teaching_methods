@@ -21,8 +21,6 @@ Whether you are preparing a new course from scratch or a lecturer looking for id
 ## Planning
 
 * [How to teach programming?](planning/how_to_teach.md)
-* [Participants](planning/participants.md)
-* [Teachers](planning/teacher.md)
 * [Learning goals](planning/goals.md)
 * [Concept Maps](planning/concept_maps.md)
 * [Planning lessons](planning/preparing_lessons.md)
@@ -37,7 +35,7 @@ Whether you are preparing a new course from scratch or a lecturer looking for id
 ## Introducing new Content
 
 * [Structuring concepts](lectures/lectures.md)
-* [Asking questions](lectures/questions.md)
+* [Facilitating your group](planning/facilitation.md)
 * [Presenting information](lectures/presenting.md)
 
 ## Coding Exercises
@@ -45,7 +43,6 @@ Whether you are preparing a new course from scratch or a lecturer looking for id
 * [Live coding](coding_exercises/live_coding.md)
 * [Facilitating exercises](coding_exercises/reduced_examples.md)
 * [Debugging](coding_exercises/debugging.md)
-* [Programming projects](coding_exercises/projects.md)
 
 ## Wrapping up
 

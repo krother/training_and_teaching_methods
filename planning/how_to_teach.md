@@ -19,10 +19,10 @@ To describe our teaching process more accurately, we need to find out what the *
 First, let us look at the input of our teaching process: the setting in which your course takes place. Much like source code, it determines a lot that happens in class. Most of the time you cannot influence it.
 
 ### Participants
-Your **participants** (students, learners or however you want to call them) are the main ingredient of any teaching. Everything else (including yourself) is dispensable, but without participants, there is no learning. In chapter **Participants** you will learn to know these important people.  
+Your **participants** (students, learners or however you want to call them) are the main ingredient of any teaching. Everything else (including yourself) is dispensable, but without participants, there is no learning. In chapter **Facilitating your group** you will learn how to handle these important people.  
 
 ### Teacher
-You (or whoever will deliver the lesson) have something to say as well. What works for one teacher does not work for the other. If there are multiple teachers or you don't even know who will execute your lesson, the outcome will change again. In chapter **Teachers** you find more about your role.
+You (or whoever will deliver the lesson) have something to say as well. What works for one teacher does not work for the other. If there are multiple teachers or you don't even know who will execute your lesson, the outcome will change again. This entire book is there to help you.
 
 ### Syllabus
 Sometimes you get a list of topics you are expected to cover. However, usually nobody tells you how much of each topic to cover toA syllabus is raw material that requires work before lessons emerge from it. Often you may modify your syllabus or write it from scratch, which is a good first step before you start with the real preparation. You find more about how to use a syllabus in the chapters **Goals** and **Concept Maps**.
