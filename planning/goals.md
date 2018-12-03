@@ -25,6 +25,8 @@ This goal has a couple of advantages:
 * it gives you a specific guideline how to develop your lesson (draw stuff)
 * it can still be adjusted in difficulty; you can provide beginners with lots of helpful material and give advanced participants the goal and let them figure out the rest
 
+The outcome of this planning phase is a set of learning goals – 1-3 for a one-hour lesson, 4-10 for a one-day training.
+
 
 ## Blooms Taxonomy
 
@@ -54,8 +56,8 @@ A balanced lesson should contain a lot of learning goals **reproducing** knowled
 
 The table below contains keyword you can use to generate ideas for goals on different levels:
 
-| knowledge | comprehension | application  | analysis       | synthesis | evaluate  |
-|-----------|---------------|--------------|----------------|-----------|-----------|
+| 1. knowledge | 2. comprehension | 3. application  | 4. analysis    | 5. synthesis | 6. evaluate  |
+|--------------|------------------|-----------------|----------------|--------------|--------------|
 | define    | describe      | implement    | debug          | compose   | advocate  |
 | identify  | explain       | execute      | compare        | design    | defend    |
 | enumerate | draw          | calculate    | differentiate  | plan      | recommend |

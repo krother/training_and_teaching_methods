@@ -1,10 +1,5 @@
 
-# Preparing lessons
-
-A **syllabus**, a list of the topics, is only the first step in preparation. A properly prepared lesson consists of specific **learning objectives** that you can assess (or ideally your participants can assess themselves).
-
-
-## Recipe
+# Lesson Plans
 
 A general recipe for preparing lectures, seminars, and practical training:
 
