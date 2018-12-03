@@ -1,143 +1,91 @@
 
-# Learning goals
+# Learning Goals
 
-**A learning goal states what students will be able to *do*
-after a lesson.**
+**Learning goals are the Unit Tests of your lesson**
 
-Learning goals are your starting point for preparing lessons. They
-differ from a **syllabus**, which is a list of topics. Given a syllabus,
-you can start creating learning goals.
+Setting learning goals are a good first step during course preparation.
+You would start with the **syllabus**, which is simply a list of topics. A syllabus could contain the topic
 
-* A syllabus is not a set of learning goals
-* Set learning goals with Bloom levels in mind (aim higher!).
-* Set learning goals that you can assess.
-* Make your learning goals explicit.
-* Make your goals the students' learning goals, by matching Bloom levels of your goals to your instruction, assignments, review, and assessments.
-* Specific learning outcomes are more easily assessable than broad learning goals.
+    for loops
+
+You could formulate this topic as an ideal final state:
+
+    The participants can implement for loops
+
+However, this is not a very useful formulation, because it is not *specific* enough to be checked. Essentially, it is a wordy version of the topic from the syllabus. A better definition is:
+**A learning goal describes what students will do during the lesson.**
+Applied to the topic above, a goal could be:
+
+    participants apply for loops to draw geometrical shapes
+
+This goal has a couple of advantages:
+
+* it is easy to communicate to the participants
+* it can be checked easily; you will see whether your participants achieve that goal or not
+* it gives you a specific guideline how to develop your lesson (draw stuff)
+* it can still be adjusted in difficulty; you can provide beginners with lots of helpful material and give advanced participants the goal and let them figure out the rest
 
 
-## Example:
+## Blooms Taxonomy
 
-Given a list of topics from the field of carbohydrates, you could
-formulate as learning goals:
-
-* Students can draw the chemical structure of glucose.
-* Students can recognize fructose, ribose, and saccharose.
-* Students can define N- and O-glycosidic bonds.
-* Students can calculate the energy gained from glucose.
-* Students can evaluate whether their own nutrition is healthy.
-
-## Setting Learning Goals with Blooms Taxonomy
-
-Three basic categories of goals can be distinguished:
-
-### 1. Reproduce
-
-The students can **reproduce** knowledge (define, name, list, explain, draw etc.).
-
-**Example:** *“Students can draw the structure of glucose.”*
-
-### 2. Apply
-
-The students can** apply** a skill or scientific model (calculate, apply, conduct an experiment, observe, record, write etc.).
-
-**Example:** *“Students can calculate the energy gained from glucose.”*
-
-### 3. Evaluate
-
-The students can **evaluate** information (judge, test, or discuss a model).
-
-**Example:** *“Students can evaluate whether their own nutrition is healthy.”*
-
-A balanced lesson should contain a lot of learning goals **reproducing**
-knowledge, less for **applying**, and few for evaluating.
-
-Adult learners usually have their own personal goals. They are a main
-source of their motivation. Finding out what students want and relate
-the learning goals to the students' intrinsic motivation is therefore a
-good path to successful teaching.
-
-## Blooms taxonomy of cognitive domains
-
-**Blooms Taxonomy of Cognitive Domains** is detailed categorization of learning goals. It is a pyramid that stretches from straightforward to very complex activities. When you are setting learning goals, you can use Blooms Taxonomy to make sure you have a well-balanced mixture of activities. E.g. many reproductive, some analytical and few exercises where students apply their judgement.
+**Blooms Taxonomy of Cognitive Domains** is detailed categorization of learning goals. It is a hierarchy that stretches from basic to more complex activities. It contains three main categories:
 
 ![Blooms Taxonomy](../images/blooms_taxonomy.png)
 
+#### Reproduce (levels 1+2)
 
-## Action Verbs for setting Learning Objectives
+Participants repeat something they have seen before, e.g.:
 
-*according to the six levels of Blooms Taxonomy*
+    participants explain a for loop drawing a square
 
-### 1. Knowledge
+#### Apply (levels 3+4)
 
-* define
-* identify
-* indicate
-* list
-* name
-* review
-* recognize
-* show
-* repeat
-* state
+Participants apply a skill or model to a new situation:
 
-### 2. Comprehension
+    participants write a for loop creating a list of numbers
 
-* classify
-* describe
-* draw
-* explain
-* illustrate
-* paraphrase
-* represent
-* summarize
+#### Evaluate (levels 5+6)
 
-### 3. Application
+Participants evaluate information in the context of a topic:
 
-* calculate
-* demonstrate
-* estimate
-* instruct
-* measure
-* perform
-* record
-* solve
-* use
+    participants discuss advantages of for and while loops
 
-### 4. Analysis
-* analyse
-* compare
-* contrast
-* differentiate
-* examine
-* investigate
+A balanced lesson should contain a lot of learning goals **reproducing** knowledge, less for **applying**, and few for evaluating. When setting learning goals, Blooms Taxonomy helps you to choose a well-balanced mixture of activities.
 
-### 5. Synthesis
+The table below contains keyword you can use to generate ideas for goals on different levels:
 
-* challenge
-* compose
-* conclude
-* create
-* derive
-* design
-* discuss
-* organize
-* plan
-* propose
-* rank
-* select
-
-### 6. Evaluate
-
-* advocate
-* assess
-* critique
-* decide
-* defend
-* evaluate
-* judge
-* recommend
-* suggest
+| knowledge | comprehension | application  | analysis       | synthesis | evaluate  |
+|-----------|---------------|--------------|----------------|-----------|-----------|
+| define    | describe      | implement    | debug          | compose   | advocate  |
+| identify  | explain       | execute      | compare        | design    | defend    |
+| enumerate | draw          | calculate    | differentiate  | plan      | recommend |
+| name      | illustrate    | estimate     | examine        | refactor  | judge     |
+| review    | classify      | measure      | investigate    | organize  | assess    |
+| recognize | summarize     | demonstrate  | test           | discuss   | suggest   |
 
 
-This list was influenced by Bloom, Taxonomy of Educational Objectives Handbook (1956) and LeBrun and Johnstone (1994:162).
+## Dimensions of learning goals
+
+If you design a longer course, it is worth thinking of learning goals in a broader perspective. In addition to Blooms Taxonomy, you might consider the level of difficulty:
+
+| difficulty | example |
+|------------|---------|
+| easy       | participants write a for loop without further control structures |
+| medium     | participants write a for loop containing if and continue statements |
+| hard       | participants write nested for loops creating a table |
+
+Another dimension are the *competencies* that you are training:
+
+| competency | example |
+|------------|---------|
+| writing code | participants write a for loop drawing geometrical shapes |
+| reading code | participants debug a program with a for loop |
+| planning | participants draw a flow chart for a for loop |
+| communication | participants explain when for loops are useful |
+
+Together, these dimensions create a 3D matrix of possible goals. Practically, you cannot cover the entire matrix in your lessons. The art of creating a good course is to have goals from many diverse areas of this goal matrix.
+
+
+## References
+
+* Bloom, Taxonomy of Educational Objectives Handbook (1956) and LeBrun and Johnstone (1994:162).
