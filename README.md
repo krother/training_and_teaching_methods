@@ -5,25 +5,17 @@
 
 ![](images/teaching.png)
 
-You are going to conduct a programming course, tutorial or workshop. Of course, you know programming well, but how about teaching? Isn't teaching something that you can *just do*? Since you have little time, maybe you should not bother with didactic theory and *somehow get the course running*.
-
-But wait – aren't you arguing *against* quick and dirty hacks in programming all the time? Isn't there a craft beyond writing code: adhering to best practices, writing **clean code**, using the right tools and so on?
-
-Teaching programming is a craft, too. It has its own set of tools. This document helps you to become a better programming teacher.
-It contains time-tested techniques for teaching programming in an interesting way. I collected them during the past 18 years of teaching.
-
-Whether you are preparing a new course from scratch or a lecturer looking for ideas to spice up your classes, this book might be useful for you.
 
 # Contents
 
-* [Preface](preface.md)
+* [How to teach programming?](preface.md)
 
 ## Planning
 
-* [How to teach programming?](planning/how_to_teach.md)
+* [Preparing lessons](planning/how_to_teach.md)
 * [Learning goals](planning/goals.md)
 * [Concept Maps](planning/concept_maps.md)
-* [Planning lessons](planning/preparing_lessons.md)
+* [Lesson plans](planning/preparing_lessons.md)
 
 ## Getting Started
 
@@ -46,9 +38,9 @@ Whether you are preparing a new course from scratch or a lecturer looking for id
 
 ## Wrapping up
 
-* [Practical Transfer](wrapping_up/transfer.md)
+* [Practical transfer](wrapping_up/transfer.md)
 * [Repeating](wrapping_up/repeat.md)
-* [Collecting Feedback](wrapping_up/feedback.md)
+* [Collecting feedback](wrapping_up/feedback.md)
 
 ## Troubleshooting
 
