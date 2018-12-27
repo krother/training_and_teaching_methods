@@ -1,6 +1,20 @@
 
 # Feedback Methods
 
+![guest book](../images/guestbook.jpg)
+
+Over 4 years, I brought a guest book to my trainings to collect comments and autographs of participants. You might want to collect feedback after a lesson or course for various other reasons:
+
+* find out what your participants learned
+* make your participants aware of what they learned
+* find out what to prepare for the next lesson
+* improve a future edition of your course
+* benchmark different courses against each other
+* help participants to close the course mentally
+
+In this chapter you find my favourite methods.
+
+
 | technique | description |
 |-----------|-------------|
 | Questionnaire | Share and collect a sheet with questions. Very formal but accurate feedback. Provides the best values when other trainers get the same questionnaire and you can compare results. |
@@ -17,11 +31,6 @@ Easy to evaluate, but less immediate than a questionnaire on paper. To prevent y
 * NBGrader
 * [Tweedback](http://twbk.de)
 * [Socrative.com](http://socrative.com)
-
-## Guest book
-![guest book](../images/guestbook.jpg)
-
-I have a guest book I bring to most of my trainings to collect comments and autographs of participants. There are many other ways to collect feedback at the end of a lesson or course. In this table you find my favourites.
 
 ### Other
 
@@ -72,7 +81,7 @@ Questions you might ask after a training (e.g. using the *four-corner* method in
 * What I really liked..
 * Something else I want to say..
 
-# Collect Feedback with a Voting Box
+## Collect Feedback with a Voting Box
 
 ![Voting Box](../images/closed_poll.png)
 
@@ -102,7 +111,7 @@ our ego.
 I often use this kind of poll for getting feedback after the first few days of a course, and prepare the rest of the course to the answers. It is a foolproof method that you can apply spontaneously.
 It works much better than suggestive quesions like *"How do you like the course so far?"*.
 
-# Dot Voting
+## Dot Voting
 
 Which topics in a course should be revisited, repeated, or explained in more depth? In many courses, I let participants choose from up to 50 possible options within five minutes. Here is how:
 
@@ -130,7 +139,7 @@ Dot voting is also used frequently on **Unconferences**, where it scales up to 1
 
 Dot stickers make voting more interactive. The beauty of this method is that, in contrast to a poll with raising hands you give your participants time to think. Also there is a haptic component - you put responsibility literally into the hands of your participants.
 
-# Feedback with Props
+## Feedback with Props
 
 ## Preparations
 
@@ -194,7 +203,7 @@ This feedback is not an objective control of students' knowledge; it gives rathe
 
 The numbers we accumulated over more than a dozen sessions using one consistent method helped us to keep the course on track. The counting itself needed a bit of exercise to do it quickly. When we used the Fist or Five technique for the first time in 2012 with a group of 20 people, we asked for each number from zero to five separately This took a bit longer. For us, the main value of the Fist or Five technique is that it is easy to execute, it is quantitative, it is not stressful, it is immediate and can be repeated many times during a course. We hope you will see lots of 'high fives' in your next course!
 
-# Four-Corner Feedback
+## Four-Corner Feedback
 
 ![Four-Corner-Feedback](../images/4corners.png)
 
@@ -242,8 +251,8 @@ The four-corner method can be used for a number of purposes: Collecting informat
 As a trainer, you can collect all cards in the end and evaluate.
 
 *Acknowledgement: Marcus Koch*
-Start a Fire
-============
+
+## Start a Fire
 
 **Get opinions from students**
 
@@ -323,7 +332,7 @@ As a result, you get feedback focused on the actual contents **and** its practic
 
 If you like, you can bring props into which participants drop notes with their suggestions, e.g. a basket (*and .. er.. a freezer*).
 
-# Target Feedback
+## Target Feedback
 
 1. Draw a target (concentric circles) with four quadrants
 2. Label the quadrants "Atmosphere, Content, Method, Trainer, Usefulness, etc."
@@ -333,7 +342,7 @@ If you like, you can bring props into which participants drop notes with their s
 
 *Acknowledgement: Marcus Koch*
 
-# Traffic Light Feedback
+## Traffic Light Feedback
 
 *Collect quick feedback in a large group*
 
