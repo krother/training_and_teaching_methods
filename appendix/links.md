@@ -1,7 +1,6 @@
 
 # Links and Literature
 
-
 ## Literature / Coursework
 
 * [SW Carpentry Trainer course](https://carpentries.github.io/instructor-training/)
@@ -22,6 +21,7 @@
 
 ## Methods
 
+* [RandoriKata](http://codingdojo.org/RandoriKata/) – writeup of the kata method
 * https://methopedia.eu
 * http://methodenpool.uni-koeln.de/download.html
 * https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/aktivieren-und-motivieren/was-tun-wenns-stockt-im-seminar/
@@ -57,4 +57,4 @@
 * Jark, Werner: Leitfaden zur Unterrischtsvorbereitung [Scriptor]
 * Unterrichtsmethoden [Scriptor]
 * Meyer, Hilbert: Didaktische Modelle [Scriptor]
-* Bönsch, Manfred: Unterrichtsmethoden - kreativ & vielfältig 
+* Bönsch, Manfred: Unterrichtsmethoden - kreativ & vielfältig
