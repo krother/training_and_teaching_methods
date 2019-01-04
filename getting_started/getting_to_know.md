@@ -22,7 +22,7 @@ The introductions should be short to avoid the impression that you are wasting t
 | half-day training | <5 minutes |
 | one-day training  | <15 minutes |
 | one-week course   | 30 minutes |
-| longer course     | 1 hour or more |
+| longer course     | up to 1 hour, possibly split to multiple sessions |
 
 In this chapter, you find several methods to get to know your group.
 
