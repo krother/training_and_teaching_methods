@@ -386,3 +386,5 @@ Develop formative assessments for the most important concepts:
 * construct the assessment
 * validate the test (with novices and experts)
 * use the test
+
+See: [Formative Assessment methods](https://www.edutopia.org/groups/assessment/250941)
