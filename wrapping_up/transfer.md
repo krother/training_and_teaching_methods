@@ -3,6 +3,17 @@
 
 Here are a few methods that help increase retention and practical aplication.
 
+----
+
+## Business Case
+
+1. Draw a business problem on a flipchart (with a nice picture)
+2. Write 5-6 questions on cards
+3. Let pairs chat on one card each for 3-4 minutes
+4. go through the questions together, discuss
+
+----
+
 ## Discuss goals in advance
 
 Ask participants and stakeholders for goals in advance. Relevant roles include
@@ -12,34 +23,47 @@ Ask participants and stakeholders for goals in advance. Relevant roles include
 -   HR
 -   Trainer
 
+----
+
 ## Question at beginning
 
 Imagine the training was successful. What changes for you?
+
+----
 
 ## 72h Rule
 
 Do the first step within 3 days, even if it is a very small one.
 
+----
+
 ## Tandem
 
 share personal takeaways and goals in pairs
+
+----
 
 ## Upside-down
 
 with constructive deduction
 
+----
+
 ## Scale
 
 Locate yourself on a scale 0-100% towards your goal pre and post
+
+----
 
 ## Follow-up
 
 Trainer send extra infos two weeks later
 
+----
+
 ## more
 
 * job interview questions
-* discuss business case with questions
 * business case memory
 * Erfahrungsabfrage	Wichtig bei Praktikern, Leuten die nicht bei 0 anfangen. Karten, Poster usw.
 
@@ -149,7 +173,7 @@ The panel and chairperson should sit behind a table. Without the table the panel
 
 Tell the panel in advance how you are going to start (e.g. by introducing everybody). Tell them what is the time limit for each answer (if any) and how you will remind them if they go over time. Ask them for questions. Be nice to them.
 
-Give the audience time to prepare questions while you brief the panel. 
+Give the audience time to prepare questions while you brief the panel.
 
 ### Step 5: Open the panel
 
@@ -159,8 +183,8 @@ Announce the title, Welcome the experts and guests. Give the experts time to int
 
 Your job will be to moderate the discussion. Keep it flowing, but restrain yourself to add any opinions or content, because that would make your experts look a bit stupid. Focus on creating a good mood instead.
 
-Collect questions from the audience, rephrase them clearly, and pass them to 
-the experts without further comment. Eventually, experts may want to take over questions from each other. 
+Collect questions from the audience, rephrase them clearly, and pass them to
+the experts without further comment. Eventually, experts may want to take over questions from each other.
 In case the audience runs out of questions, you might want to pass a question through each panelist. Also have a few spare questions in stock.
 
 Also see [Exec-Comms](http://www.exec-comms.com/blog/2010/08/02/10-tips-on-moderating-a-panel-discussion/) and [Guy Kawasaki](http://blog.guykawasaki.com/2006/03/how_to_be_a_gre.html#axzz24DP2Qkr5)

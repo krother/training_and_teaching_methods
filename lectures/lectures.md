@@ -5,6 +5,8 @@ Your lesson is well prepared. You have set goals, structured your topic and crea
 
 This chapter lists a few approaches you can choose from.
 
+----
+
 ## Explain the learning process
 
 Many learners like to know what is expecting them. One effective strategy is to state your learning goals clearly at the start of a lesson:
@@ -18,6 +20,8 @@ In a longer course, a higher-level overview is helpful. You could show a table o
 ![](../images/python_roadmap5.png)
 
 A top-level concept map also helps participants to locate the current lesson.
+
+----
 
 ## Deductive instruction
 
@@ -44,6 +48,8 @@ Yet another approach is to develop your concept step by step:
 3. Repeat until your concept map is complete
 
 This is the most challenging sequence of the above. It requires a very good knowledge of the subject to pick the right questions. On the other hand, it engages the participants strongly; they witness the concepts emerge logically. This sequence calls for a medium where you can draw your concept map step by step. If it works well, you are almost streaming your concepts into the participants. Masters of their art run this kind of deductive instruction as a continuous dialogue with their participants.
+
+----
 
 ## Inductive instruction
 
@@ -78,6 +84,7 @@ Participants read a piece of text on programming on their own and answer an open
 Afterwards, you collect answers and group them as concepts around your central topic – the concept map is emerging directly from the students' own work.
 
 ### Simulation
+
 Simlate an algorithm analogously before going into the code. The understanding of its inner workings will be much more immediate.
 
 Algorithmic simulations can be done on the board, on paper or choreographed with the participants as live actors – a good occasion for a change of environment.
@@ -86,6 +93,7 @@ Algorithmic simulations can be done on the board, on paper or choreographed with
 
 The main difficulty in inductive instruction is to motivate the task and come up with a clear task description. It is possible that it does not go . But the resulting learning effect usually outweighs the risk.
 
+----
 
 ## Priming supports instruction
 
@@ -94,51 +102,78 @@ A well-conducted warm-up exercise does half the work for you: It introduces conc
 
 You can use all the puzzles, quizzes and games described in chapter **Warming Up** to prime your participants.
 
+----
 
-## Recording results
-* knowledge capacitor
-- live exercise	simulation with humans
+## Concept artifacts
+
+Your participants will remember concepts that they apply or find useful easily. Others will need *spaced repetition*, recalling these concepts several times. You can enhance the retention of your content by creating *concept artifacts* during the lesson. Here are some examples how to do that.
+
+----
+
+### Explain functions
+
+Fill up gaps in participants' knowledge
+
+* prepare a list of 10-25 functions/modules/commands
+* write all of them to cards
+* ask participants to divide the cards into *known*, *half-known* and *unknown*
+* skip the *known* concepts
+* find one example for each *half-known* concept together
+* reserve the *unknown* concepts for a more thorough explanation
+
+Afterwards, you can group the cards or use them in a knowledge capacitor.
+
+----
+
+### Knowledge capacitor
+
+![capacitor](../images/Learning_piling-up.jpg)
+
+Use a pin wall with cards where you collect important concepts. Ask your participants to structure concepts into categories that you prepare. Because the knowledge capacitor is visible all the time, it enhances retention.
+
+Adding concepts over time to the capacitor also gives participants a feeling of achievement.
+
+If you don't have the space to keep the wall in the classroom, an online spreadsheet is a (weaker) alternative.
+
+----
+
+### Poster gallery
+
+Students prepare posters in small groups. Give them a clear task, e.g.:
+
+* draw a mind map for a given topic
 * create a workflow
 * create a timeline
-* calculation exercises on whiteboard
-* fill table - research with material
-* build mind map
-* Python functions: display all, group, prioritize which to explain, group, explain rest
+* fill a table
+
+If the topic is rather new, you need to provide some guidance in the form of hints, material for research, pictographs that participants can glue together etc. This variant will require a lot of active work and thinking. It will take at least one hour.
+
+If the participants already have knowledge on the subject, the poster serves as a summary (and first repetition). This should take less time (30-40 minutes).
+
+Have the posters drawn on big sheets of paper. Hang the posters up in the classroom, so that they stay visible as a result.
+
+----
 
 ### Affinity grouping
 
-**Structure a lot of information with the group, e.g. for planning a
-longer work session.**
+![](../images/dot_voting.jpg)
 
-### Time in class
+| summary     | structure information with the group |
+|-------------|-------------------|
+| time        | 45' |
+| preparation | 15' |
+| group size  | 2-20 |
+| material    | board, cards, pens, magnets or pins |
 
-45 minutes
+* start with concepts on 20-30 cards (provided by you or from prior brainstorming)
+* attach all cards to the board
+* ask participants to suggest groups of cards
+* wait for suggestions
+* move the cards accordingly
+* moderate the discussion, but don't interfere with the suggestions
+* ask participants to name the clusters
+* attach the cluster names as well
 
-### Group size
+Affinity grouping is a basic moderation method. Structuring concepts is a very powerful way to reinforce learning. Observe closely whether you would have grouped the cards the same way. Note that there is no single correct grouping, but it tells you something about the learning process of your participants.
 
-up to 20
-
-### What you need
-
-* whiteboard or pinboard
-* cards
-* marker pens
-* magnets or pins
-
-### How it is done
-
-Requires having information on a number of cards in random order on the
-board (can be collected by brainstorming). Ask students to suggest how
-these could be clustered. Wait for suggestions and move the cards
-accordingly. Moderate the discussion but don’t interfere with the
-suggestions.
-
-Ask for titles for each cluster and write them on the board.\
-Afterwards, you can have the group prioritize the groups by voting with
-small objects (magnets, crystals, chips, tokens)
-
-Affinity grouping is a very powerful method that can provide a work plan for one session or an entire week.
-
-
-### Poster gallery
-Students prepare posters (drawn on big sheets of paper), the posters are hung on the walls and stay visible as a result.
+Apart from enhancing retention, you can use affinity grouping to plan projects together. You can have participants vote on concepts or ideas that they want to repeat, implement or learn more about (see *dot voting* in the *Feedback* chapter).
