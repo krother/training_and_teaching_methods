@@ -3,10 +3,13 @@
 
 **Learning goals are the Unit Tests of your lesson**
 
-Setting learning goals are a good first step during course preparation.
-You would start with the **syllabus**, which is simply a list of topics. A syllabus could contain the topic
+## What are Learning Goals?
+
+Often you start planning with a **syllabus**, which is simply a list of topics. For instance, your syllabus could contain the topic
 
     for loops
+
+This is not
 
 You could formulate this topic as an ideal final state:
 
@@ -30,7 +33,7 @@ The outcome of this planning phase is a set of learning goals – 1-3 for a one-
 
 ## Blooms Taxonomy
 
-**Blooms Taxonomy of Cognitive Domains** is detailed categorization of learning goals. It is a hierarchy that stretches from basic to more complex activities. It contains three main categories:
+**Blooms Taxonomy** is a textbook technique on learning goals. Blooms Taxonomy categorizes learning goals into a hierarchy according to the *activities* participants perform. These activities range from basic to more complex activities over three levels:
 
 ![Blooms Taxonomy](../images/blooms_taxonomy.png)
 
@@ -81,12 +84,20 @@ Another dimension are the *competencies* that you are training:
 | competency | example |
 |------------|---------|
 | writing code | participants write a for loop drawing geometrical shapes |
-| reading code | participants debug a program with a for loop |
+| debugging | participants debug a program with a for loop |
 | planning | participants draw a flow chart for a for loop |
 | communication | participants explain when for loops are useful |
+| teamwork | participants review each others loops |
 
-Together, these dimensions create a 3D matrix of possible goals. Practically, you cannot cover the entire matrix in your lessons. The art of creating a good course is to have goals from many diverse areas of this goal matrix.
+Together, these dimensions create a 3D matrix (a tensor) of possible goals. Practically, you cannot cover the entire matrix in your lessons or even a course. But the goal matrix is a great tool to make sure you have diverse goals in your course.
 
+## Practical Challenges
+
+Setting Learning Goals as the very first thing when preparing a new topic is difficult. Many times, your goal will be *"survive the lesson"* rather than the detailed goals above. It is OK to start with a goal that is not immediately tested. If your goal is *"participants can implement for loops"*, and you do an exercise or recap session involving a loop, you will quickly observe how much they really understood.
+
+When you feel more secure, e.g. after having taught a topic once or twice, you can move to goals that have more similarity with Unit Tests. You notice immediately when your lesson fails a test, and usually your participants need to be less active for you to get the feedback – you already know what to check.
+
+Finally, learning goals help to overcome your own laziness (if you tend to become sloppy because you know the material very well already).
 
 ## References
 
