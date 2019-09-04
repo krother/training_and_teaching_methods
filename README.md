@@ -49,7 +49,7 @@
 * [How to deal with technology failures?](troubleshooting/tech_failures.md)
 * [How to handle heterogeneous skill levels?](troubleshooting/heterogeneous.md)
 * [How to handle passive participants?](troubleshooting/passive.md)
-* [How to wake up your class after lunch?](misc/energizers.md)
+* [How to wake up your class after lunch?](troubleshooting/energizers.md)
 * [How to handle aggressive participants?](troubleshooting/aggression.md)
 * [How to teach in an unfamiliar environment?](troubleshooting/paradrop.md)
 * [How to teach a subject you know little about?](troubleshooting/jungle.md)

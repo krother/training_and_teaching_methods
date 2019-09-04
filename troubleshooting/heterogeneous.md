@@ -5,10 +5,6 @@
 * have bonus exercises for fast participants
 * use the expertise of advanced participants
 
-## World Cafe
-
-Themen auf Blättern an Vierertischen. Je 1 Gastgeber plus drei wechselnde Gäste. ca. Drei Bearbeitungsrunden, mit jeweils einer Leitfrage
-
 ## How do I get everyone on board?
 
 * use Round Robin and similar methods
