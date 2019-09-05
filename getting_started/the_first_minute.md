@@ -8,31 +8,31 @@ The first thing to pay attention to are the people present.
 
 ### Participants
 
-The moment you and at least one participant are in the training room, your lesson starts. Participants will be curious who you are, observe you or take the initative and interact. You may or may not want to interact with them.
+Your lesson starts the moment you and at least one participant are in the training room. Participants will be curious who you are, observe you or take the initative and interact. You may or may not want to interact with them.
 
-If you are not too busy, sitting down and having a chat is a good idea. You could ask about their background, interests or even their names. More importantly, you may want to know how much experience they already have (if you did not find out before the course) and what operating system/Python version/C++ compiler they are using.
+If you are not too busy, sitting down and having a chat is a good idea. You could ask about their background, interests or their names. More importantly, you may want to know how much experience they already have (if you did not survey that before the course) and what operating system/Python editor/C++ compiler they are using.
 
-Sometimes you discover important information that way that the participant would not share in front of the entire group (e.g. things happening behind the scenes at your client or why the previous trainer got fired).
+Sometimes you discover important information that way that the participant would not share in front of the entire group (e.g. why the company really hired you or what kind of project they want to apply their skills to).
 
-In longer courses, participants may approach you before the lesson to ask about homework or that they need to leave earlier or whether they will get certificate XY. I ask the ones with the homework to come back later and answer the others briefly, usually that it is no problem.
+In a longer course, participants frequently approach you with homework or debugging questions before the lesson. Or they tell you they need to leave earlier, or they ask whether you will cover topic XYZ. I ask the ones with the homework to come back later and answer the others briefly, usually that it is no problem.
 
 When you need time for yourself, kindly ask your participants to fill up their cups or water bottles and tell them you will start in X minutes.
 
 ### Organizers
 
-If you are meeting your course organizer, greet them and quickly talk through the most relevant points. If they are good at their job, they will ask what you need quickly and get out of the way. If their job is something different or they are not experienced organizers, you may have to ask. If they are old friends, they may want to talk a lot. In the latter case you need to state firmly that you have a lesson to prepare.
+If you are meeting your course organizer, greet them and quickly talk through the most relevant points. If they are good at their job, they will ask what you need and get out of the way. If their job is something different or they are not experienced organizers, you may have to ask. If they are old friends, they may want to talk a lot. In the latter case you need to state firmly that you have a lesson to prepare.
 
-Points to check include:
-
-* are there any last-minute changes?
-* where can you put your stuff?
-* are they going to introduce you?
-* what is the WIFI code?
-* are there computer passwords etc. you need to know?
-* do you need to know anything about the technology in the room?
-* when are the breaks?
-* do they have a feedback form or similar?
-* where are the restrooms?
+| Checklist |
+|-----------|
+| are there any last-minute changes? |
+| where can you put your stuff? |
+| are they going to introduce you? |
+| what is the WIFI code? |
+| are there computer passwords etc. you need to know? |
+| do you need to know anything about the technology in the room? |
+| when are the breaks? |
+| do they have a feedback form or similar? |
+| where are the restrooms? |
 
 ### Creating a pleasant atmosphere
 
@@ -44,14 +44,15 @@ There are many things you can to make participants feel comfortable before your 
 * display a link to course material
 * place course handouts on the table
 * play music (that is easy to listen to, not too loud)
+* put candies on the table
 
 #### Example
 
-For some time I was teaching biochemistry to medical practicioners. The topic had, mildly speaking, a bad reputation among them. They were (falsely) expecting 10 hours of being bombed with chemical equations. The first thing I did was to write *"Biochemistry"* on the board, drawing a little red heart above the *"i"*. I believe this did a lot to take away the fear and start a fun day.
+For some time I was teaching biochemistry to medical practicioners. The topic had a bad reputation. They were (falsely) expecting 10 hours of being bombed with chemical equations. The first thing I did was to write *"Biochemistry"* on the board, drawing a little red heart above the *"i"*. I believe this did a lot to take away the anxiety and start a fun day.
 
 ## Technology
 
-Setting up everything you need benefits from good planning. For instance, try not to require a long setup right at the beginning, because you might be later than expected or you need to deal with unexpected events.
+Setting up everything you need benefits from good planning. For instance, try not to require a long setup right at the beginning, because you might arrive later than expected or you need to deal with installation problems on the participants machines before doing anything.
 
 Things to check include:
 
@@ -64,9 +65,8 @@ Things to check include:
 * lighting
 * font size
 * microphones
-* your biological parameters (liquids in/out)
 
-It is worth to always have a plan B if the first thing you want to do turns out to fail. If you are unfamiliar with the setting, it is worth to have two: Plan B if some of the technology is working. Plan C if no technology is working and you find yourself teaching with your hands.
+It is worth to always have a plan B if the first thing you want to do fails. If you are unfamiliar with the setting, it is worth to have two: Plan B if some of the technology is working. Plan C if no technology is working and you find yourself teaching with your bare hands.
 
 ## Go!
 
@@ -84,35 +84,32 @@ Here are several ways how you could start a lesson on Python Programming:
 
 ### Example 1
 
-*Hello, I am Kristian, your trainer in the course "Introduction to Python". During the next 5 days, you will learn how to write simple Python programs yourself.
+*Hello, I am Kristian, your trainer in the course "Introduction to Python". During the next 5 days, you will learn how to write simple Python programs yourself.*
 
-Today we will cover the following topics:
-
-1. ..*
+*Today we will cover the following topics: ...*
 
 ### Example 2
 
-*Good Morning. My name is Dr. Kristian Rother and I am your Python trainer. My job here is to teach you programming. My job will also be to prepare you for the final exam. Because of that, we will do two things today:
+*Good Morning. My name is Dr. Kristian Rother and I am your Python trainer. My job here is to teach you programming. My job will also be to prepare you for the final exam. Because of that, we will do two things today:*
 
-* First, write a program.
-* Second, go through some exam questions.*
+* *First, write a program.*
+* *Second, go through some exam questions.*
 
 ### Example 3
 
-*Good morning. Yesterday, I got a phonecall from my brother. He told me about a memory leak in his machine learning pipeline. It was in TensorFlow, in Keras, using VGG-16.
+*Good morning. Yesterday, I got a phonecall from my brother. He told me about a memory leak in his machine learning pipeline. It was in TensorFlow, in Keras, using VGG-16.*
 
-Let's check how you would find out that there is a memory leak.*
-
-(of course only if that is a real story).
+*Let's check how you would find out that there is a memory leak.
+(of course only if that is a real story).*
 
 ### Example 4
 
 *Hello. Today I would like to start with a question.
-Who of you has written a class before?*
+Who of you has written a Python class before?*
 
 ### Example 5
 
-*Hello. Our topic today are "functions". I would like to start right away and have brought an example (displays code on screen). Please talk to the people next to you for a few minutes about what the code on the screen does.*
+*Hello. Our topic today is "functions". I would like to start right away and have brought an example (displays code on screen). Please talk to the people next to you for a few minutes about what the code on the screen does.*
 
 ### Example 6
 
