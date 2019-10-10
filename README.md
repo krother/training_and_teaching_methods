@@ -59,7 +59,6 @@
 * [A recipe for designing courses](appendix/training_course_design.md)
 * [Checklists](appendix/checklists.md)
 * [Quotes on Teaching](appendix/quotes_teaching.md)
-* [Programming Courses](appendix/courses.md)
 * [Links](appendix/links.md)
 
 ## Acknowledgements
