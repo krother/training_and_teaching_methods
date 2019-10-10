@@ -21,7 +21,7 @@
 
 * [RandoriKata](http://codingdojo.org/RandoriKata/) – writeup of the kata method
 * [Methopedia](https://methopedia.eu)
-* [CS Unplugged](CSUnplugged.org) – offline methods
+* [CS Unplugged](https://www.CSUnplugged.org) – offline methods
 * [MathManiacs](http://mathmaniacs.org/lessons/index.html) – overlap with CS Unplugged (Mike Fellows)
 * [Methodenpool Cologne](http://methodenpool.uni-koeln.de/download.html) – in German
 * [Aktivieren und Motivieren](https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/aktivieren-und-motivieren/was-tun-wenns-stockt-im-seminar/) – in German
@@ -50,7 +50,7 @@
 
 ## Tools
 
-* [Jupyter Education Forum](groups.google.com/d/forum/jupyter-education)
+* [Jupyter Education Forum](http://groups.google.com/d/forum/jupyter-education)
 * [Repl.it](http://repl.it) – Write and execute Python code in a browser
 * [Socrative](https://www.socrative.com/) – quiz tool
 * [PollEverywhere](https://www.polleverywhere.com/) – quiz tool

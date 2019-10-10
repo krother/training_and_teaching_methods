@@ -37,7 +37,7 @@ There must be a final wrap-up  (maybe 1h) at the end of the course. Make a slot 
 
 ![training course design](../images/course_design.png)
 
-Pedro Fernandes is coordinating the Gulbenkian Training Programme in Bioinformatics. See [gtpb.igc.gulbenkian.pt](gtpb.igc.gulbenkian.pt)
+Pedro Fernandes is coordinating the Gulbenkian Training Programme in Bioinformatics. See [gtpb.igc.gulbenkian.pt](http://gtpb.igc.gulbenkian.pt)
 
 
 ### Process
