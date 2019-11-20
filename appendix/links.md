@@ -8,6 +8,9 @@
 * [Journal of Open Source Education](http://jose.theoj.org/)
 * [10 simple rules for developing a short bioinformatics training course](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3203054/)
 * Hattie (2009) visible-Learning – “What teachers do matters”.
+* [Lesson Study](http://www.americanradioworks.org/segments/a-different-approach-to-teacher-learning-lesson-study/)
+* [Lesson Study II](http://www.lessonstudygroup.net/lg/conference/-478445411.pdf
+https://people.neilon.software/)
 
 ## Courses
 
@@ -19,7 +22,6 @@
 
 ## Methods
 
-* [RandoriKata](http://codingdojo.org/RandoriKata/) – writeup of the kata method
 * [Methopedia](https://methopedia.eu)
 * [CS Unplugged](https://www.CSUnplugged.org) – offline methods
 * [MathManiacs](http://mathmaniacs.org/lessons/index.html) – overlap with CS Unplugged (Mike Fellows)
@@ -29,6 +31,7 @@
 
 
 ## Teaching Programming to Kids
+
 * [Rapid Router](https://www.codeforlife.education/rapidrouter/) – 100 Blockly programming exercises
 * [Programmieren mit der Maus](https://programmieren.wdrmaus.de/) – Blockly programming tutorial in German
 * [Lightbot](http://lightbot.com/) – programming a small robot
@@ -50,6 +53,7 @@
 
 ## Tools
 
+* [Jupyter notebooks in teaching](https://jupyter4edu.github.io/jupyter-edu-book/)
 * [Jupyter Education Forum](http://groups.google.com/d/forum/jupyter-education)
 * [Repl.it](http://repl.it) – Write and execute Python code in a browser
 * [Socrative](https://www.socrative.com/) – quiz tool

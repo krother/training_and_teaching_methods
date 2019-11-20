@@ -35,6 +35,7 @@
 * [Live coding](coding_exercises/live_coding.md)
 * [Facilitating exercises](coding_exercises/reduced_examples.md)
 * [Debugging](coding_exercises/debugging.md)
+* [Coding Kata](coding_exercises/coding_kata.md)
 
 ## Wrapping up
 
