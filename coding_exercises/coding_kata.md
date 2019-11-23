@@ -76,6 +76,7 @@ There are many places where you can find online coding Katas for self-study:
 * [Checkio](https://checkio.org/)
 * [Codingbat](http://codingbat.com/)
 * [Codewars](http://www.codewars.com)
+* [Cryptopals](https://cryptopals.com/)
 * [Coding Dojo](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue) – group Kata
 * [Rosalind](http://rosalind.info) – bioinformatics
 
