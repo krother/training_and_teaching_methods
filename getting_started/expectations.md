@@ -27,7 +27,7 @@ It takes asking participants for their expectations and a bit of sales skills. H
 * point out where the levels are located in the room (on a 1-5 scale)
 * give the group some time to sort
 * ask some representative members to describe their experience, starting from the beginners
-* ask 1-2 extra questions, e.g. what is their background and what they would like to learn 
+* ask 1-2 extra questions, e.g. what is their background and what they would like to learn
 * in the end, introduce yourself
 
 If you have a big group, it may help to mark the scale in the room
@@ -162,3 +162,12 @@ content from the previous lesson.
 **Example:** Completing an almost complete program and executing it.
 
 *Source: The early victory strategy is based on the teaching of Sun Tzu.*
+
+----
+
+## Some more expectation questions
+
+* What are you curious about?
+* What is your main challenge?
+* If we had only one day, what should we do?
+* What do you hope to do after the course?

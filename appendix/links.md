@@ -75,6 +75,7 @@ https://people.neilon.software/)
 - [Project Euler](https://projecteuler.net/) – mathematical problem solving
 - [Coder Dojo](https://coderdojo.com) – catalog of dojos worldwide
 - [Homepage Nicco Kunzmann](http://niccokunzmann.github.io/)
+- [Gewissensbits](gewissensbits.gi.de) – case studies for ethics (German)
 
 ## Books
 
