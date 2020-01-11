@@ -45,6 +45,7 @@
 
 ## Troubleshooting
 
+* [How to teach with little time to prepare?](troubleshooting/no_prep.md)
 * [How to be a less nervous teacher?](troubleshooting/nervousness.md)
 * [How to teach when your plan doesn't work?](troubleshooting/plan_b.md)
 * [How to deal with technology failures?](troubleshooting/tech_failures.md)
