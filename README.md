@@ -29,6 +29,7 @@
 * [Structuring concepts](lectures/lectures.md)
 * [Facilitating your group](planning/facilitation.md)
 * [Presenting information](lectures/presenting.md)
+* [Online Teaching](lectures/online_teaching.md)
 
 ## Coding Exercises
 
