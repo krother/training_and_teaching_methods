@@ -1,13 +1,15 @@
 
 # Teaching Online
 
-![elements of successful online teaching](../images/online_teaching.png)
-
 **Online teaching is difficult.** With any communication tool, the nonverbal feedback from your participants is less direct. It is much harder to create an engaging, high-quality experience. It requires more planning and certainly is more tiring.
 
 So why should we bother at all? First, online teaching is much cheaper than booking a training room and having trainers or even participants travel around. Second, I am writing this post in quarantine during the Corona pandemic, and it is my only option to teach at all.
 
 Here are some tips to make it work:
+
+![elements of successful online teaching](../images/online_teaching.png)
+
+----
 
 ## 1. Have an Agenda
 
@@ -27,6 +29,8 @@ Create a fine-grained schedule with blocks of 20' max. Leave time for participan
 
 Share this agenda with your participants before the lesson. It does a great deal to show that you know what you are doing (and have thought about it).
 
+----
+
 ## 2. Check the Technology
 
 Technology is still a brittle element of communication. Here are some things that you might want to check before:
@@ -45,6 +49,8 @@ Technology is still a brittle element of communication. Here are some things tha
 
 You will need to establish some discipline in communication: ask people to mute their microphones while not speaking and abstain from commenting on everything.
 
+----
+
 ## 3. Reduce Content
 
 You have to accept that you will cover less content online compared to a face-to-face class of equal length. The content you have needs to be more clear as well. Use a [Concept Map](http://www.academis.eu/posts/teaching/planning/concept_maps.md) that explains your topic in one picture. Stick to a maximum of 7 concepts rigorously. If you manage to get these 7 points across during a lesson, it is already an achievement.
@@ -56,6 +62,8 @@ A good strategy to present content within the confinements of online media is:
 * say what you have said
 
 This presentation strategy is said to have been developed for military briefings, and it might help you as well to get your message across.
+
+----
 
 ## 4. Talk Less
 
@@ -76,6 +84,8 @@ Also, it is very hard to listen productively for more than 2 hours. Most importa
 * give them exercises that can be completed with one line of code
 
 .. and use them.
+
+----
 
 ## 5. Try Flipped Class
 
