@@ -8,15 +8,15 @@
 
 # Contents
 
-* [How to teach programming?](preface.md)
+* [How to teach programming?](how_to_teach.md)
 
 ## Planning
 
 * [The Teaching Process](planning/teaching_process.md)
-* [Preparing lessons](planning/how_to_teach.md)
+* [Preparing lessons](planning/preparing_lessons.md)
 * [Learning goals](planning/goals.md)
 * [Concept Maps](planning/concept_maps.md)
-* [Lesson plans](planning/preparing_lessons.md)
+* [Lesson plans](planning/lesson_plans.md)
 
 ## Getting Started
 
