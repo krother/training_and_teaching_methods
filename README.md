@@ -12,6 +12,7 @@
 
 ## Planning
 
+* [The Teaching Process](planning/teaching_process.md)
 * [Preparing lessons](planning/how_to_teach.md)
 * [Learning goals](planning/goals.md)
 * [Concept Maps](planning/concept_maps.md)
