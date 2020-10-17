@@ -46,7 +46,7 @@ But what *are* the parts of a lesson you need to prepare?
 
 To give new teachers some guidance, I prepared the following checklist:
 
-![Lesson Checklist](checklist.svg)
+![Lesson Checklist](../images/checklist.svg)
 
 I have to admit that I do not use this checklist every time I prepare teaching. But I use it when things get difficult. It helps to avoid failure rather than achieve excellence.
 
