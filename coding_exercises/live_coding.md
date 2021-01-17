@@ -37,7 +37,7 @@ said that the trainees don’t need to think very much during the
 tutorial. But especially if you don’t know what situation you are going
 to face, this may be a very good choice.
 
-
+----
 
 ## Hints for live coding sessions
 
@@ -52,7 +52,7 @@ Participants are very likely to come up with questions during a live coding sess
 ### Should I share results?
 Many participants like to review your code later. Others lose track and would like to catch up.
 
-Share your session afterwards (an interactive notebook or the IPython `%hist` command do a great job hear).
+Share your session afterwards (an interactive notebook or the IPython `%hist` command do a great job hereo).
 
 ### May I look up things in the documentation?
 
@@ -62,6 +62,6 @@ This is not a problem, rather a benefit. Participants will see *how* and *where*
 
 Empowering them that it is OK not to know everything is an important lesson.
 
-### Can I cut+paste code sniplets?
+### Can I cut-and-paste code sniplets?
 
 In the same way, you may use prepared code samples, especially if it is a complicated piece of code. There is a tradeoff though: do not paste too much at the same time, so that you do not go too fast.

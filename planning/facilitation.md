@@ -14,6 +14,8 @@ But learning to program is something else than attentively listening and taking 
 
 It is easy to get lost in the abundant information. Here, participants need your help. Your role is that of a *learning facilitator*: Show them a path and walk that path with them.
 
+----
+
 ## Welcoming
 
 Create a welcoming atmosphere right from the start.
@@ -22,16 +24,18 @@ The way humans work is that they tend to reflect the friendliness and enthusiasm
 
 If you spend some longer period of time with the same people, you normally want to know who they are. In a class, you should at least learn their names. Most students appreciate being adressed by their name. Having everybody introduce himself is an excellent opportunity to probe students' expectations and fears.
 
+----
+
 ## Respect
 
 A teacher must not make any group member look like an idiot (“to lose their face”). Depending on the cultural context you put the student or yourself into trouble.
 
 This means: Picking people from the group and questioning them, giving nonconstructive feedback after student presentations are absolute no-gos!
 
+Respect is to be given to all skill levels: A task that one person does in 5 minutes may take another person several hours. The difference between the two can be as little as 1-2 weeks of experience.
+To give respect to both, you must **appreciate progress**.
 
-## Skill levels
-
-advanced vs. beginners, homogenous vs. mixed
+----
 
 ## Learning Types
 
@@ -44,6 +48,7 @@ One widely used categorization of learning styles is **Fleming's VARK model** (s
 
 Fleming claimed that visual learners have a preference for seeing (think in pictures; visual aids that represent ideas using methods other than words, such as graphs, charts, diagrams, symbols, etc.). Auditory learners best learn through listening (lectures, discussions, tapes, etc.). Tactile/kinesthetic learners prefer to learn via experience—moving, touching, and doing (active exploration of the world; science projects; experiments, etc.). Its use in instruction allows teachers to prepare classes that address each of these areas. Students can also use the model to identify their preferred learning style and maximize their educational experience by focusing on what benefits them the most.
 
+----
 
 ## Managing groups
 
@@ -64,6 +69,7 @@ Arbeitsteilige GA	Jede Gruppe tut etwas anderes (in der Vorbereitung tückischer
 
 Blue BLUE blue b.l.u.e. Gruppenfinden
 
+----
 
 ## Managing Energy
 
@@ -71,86 +77,13 @@ If you are sharing handouts, tasks or other material to students, they will get 
 
 The attention of people listening decreases over time. After 20 minutes, many brains switch off unless they have something interesting to do. The trick is to change methods frequently (around every 20 minutes).
 
+----
+
 ## Motivation
 
 Ideally, keep the class in the "flow state" - not too easy, not too difficult. To avoid boredom or frustration. With a heterogeneous group this can be quite challenging.
 
-
-
-## Asking Questions
-
-### Fact-based questions
-
-*“Which software is most commonly used for creating spreadsheets?"*
-
-* answer is right or wrong
-* dangerous (not stimulating up to intimidating)
-* work better during repeating sessions
-
-### Opinion-based questions
-
-*"What is your opinion on Excel?"*
-
-* safe
-* everybody can answer them
-* reduce anxiety
-* answers may lack substance
-* is a 'temperature check'
-
-### Comparison-based questions
-
-*"How would you compare Excel and OpenOffice?"*
-
-* more substance
-* complex
-* encourage discussion
-
-### Experience-based questions
-
-*“What have you done with Excel so far?"*
-
-* safe
-* connect course contents to the real world
-* motivating
-
-### Case-history-based questions
-
-*“You have a table containing 1000 rows and 5 columns. You need to show the most frequently occurring elements for each column. How can you show this information in one diagram?"*
-
-* very complex
-* answer requires application of skills
-
-### Questions guided at single participants
-
-* very risky and discouraging. Don't do it!
-* work better if presented as a round of questions to everybody, quiz etc.
-* if you need to assign questions to single participants, use a random mechanism.
-* if you ask a question, tell the name at the end, so that the other participants will think, too.
-
-### Overhead question
-
-directed to everybody
-
-* not risky at all.
-* asymmetric participation is typical.
-
-### Relay question
-
-passing the same question around from one person to the other.
-
-* good to involve everybody.
-* gets boring with more than 10 participants
-
-### Reverse technique
-
-*“What would you say?”*
-
-* participant asks the question
-* you redirect the question back to the trainee or relay to the group.
-
-
-*Inspired by: Jolles. How to run seminars and workshops*
-
+----
 
 ## Brainstorming
 

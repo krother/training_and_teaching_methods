@@ -55,9 +55,10 @@ Only if there is no possibility for them to make any progress, pull them off a t
 
 ### List frequent bugs
 
-In aviation, there are "operational procedures" that provide simple instructions what to check when something unexpected happens (e.g. an engine is buring). You can borrow this concept and create a list of typical bugs. Start with a clear description of the problem and enumerate the most probable countermeasures, e.g.: 
+In aviation, there are "operational procedures" that provide simple instructions what to check when something unexpected happens (e.g. an engine is buring). You can borrow this concept and create a list of typical bugs. Start with a clear description of the problem and enumerate the most probable countermeasures, e.g.:
 
-    The program fails to open a file
+    :::text
+    problem: The program fails to open a file
 
     - check the name of the file for typos
     - print the complete path + filename

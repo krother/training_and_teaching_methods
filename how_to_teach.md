@@ -4,11 +4,9 @@ You are going to conduct a programming course, tutorial or workshop. Of course, 
 
 * *prepare lots of slides*
 * *take the slides into class*
-* *figure out how much you can cover in the time given*
+* *cover as much as possible in the time given*
 
-Isn't that how everybody teaches anyway?
-
-## Teaching is a craft
+Isn't that how everybody teaches?
 
 Imagine you would apply the same approach to programming:
 
@@ -16,20 +14,25 @@ Imagine you would apply the same approach to programming:
 * *get it running somehow*
 * *debug things on the fly*
 
-Of course you know that programming is a craft, and **the way of the software craftsperson should not look like this!**
-There are established practices like version control, testing and refactoring that produce clean, maintainable code.
+Of course you know that **the way of the software craftsperson does not look like this!**
+Programming is a craft.
+There are practices like version control, testing and refactoring that produce clean, maintainable code.
 
-These are common practices of every professional developer, yet a beginner is not aware they exist.
-Also, many of these practices do not result in more code.
+These are established practices every professional developer uses.
+Yet a beginner programmer is not aware they exist.
 
 With teaching it is the same.
 
-## Who is this book for?
+**Teaching is a craft.**
 
-This book helps you to become a better programming teacher. I wrote it to support junior or part-time teachers without a formal background in education.
+## Who is this guide for?
+
+This guide is an introduction to the craft of teaching programming.
+
+It helps you to become a better programming teacher. I wrote it to support junior or part-time teachers without a formal background in education.
 It covers what to do before you enter the classroom, what to do inside and what to do after your lesson ends.
 
-The book covers time-tested techniques for teaching programming in an interesting way that I collected over the past 20 years.
+The chapters covers time-tested techniques for teaching programming in an interesting way that I collected over the past 20 years.
 You can use them as a guide to create a course from scratch or fish for ideas to spice up your classes.
 
 ## What do you need to get started?

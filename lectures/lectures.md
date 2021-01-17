@@ -11,6 +11,7 @@ This chapter lists a few approaches you can choose from.
 
 Many learners like to know what is expecting them. One effective strategy is to state your learning goals clearly at the start of a lesson:
 
+    :::text
     "Today we will use 4 different data structures."
 
 Alternatively, you could make the goals transparent in your material or visualize them in the classroom.
@@ -78,6 +79,7 @@ schriftliche Aufgaben	Arbeitsblätter mit klarem Arbeitsauftrag
 ### Text analysis
 Participants read a piece of text on programming on their own and answer an open question, e.g.:
 
+    :::text
     "How did the team in the described project make sure
     that they were writing quality code?"
 
