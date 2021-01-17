@@ -52,22 +52,83 @@ Fleming claimed that visual learners have a preference for seeing (think in pict
 
 ## Managing groups
 
+There are a couple of different **social forms** that you could use in classes:
+
+### Individual assignments
+Some students prefer that, because they can organize themselves freely.
+However, it also leaves them stuck more easily.
+This should not be the only social form you are using.
+
+### Work in pairs
+This is probably the easiest to organize.
+Give a task to pairs. Make sure the task is *very clear*.
+
+Quite often, the chemistry within some pairs will be much better than in others.
+A few people simply can't stand each other.
+Strictly limit the time for pair assignments while getting a feeling for a group,
 
 ### Group work
 Create small groups (2-4 people). Hand out a text or other material. Give a task assignment, e.g. explaing out the method or the main message in the group and presenting it briefly.
 
-Partnerarbeit	Genau 1 Aufgabe
+There are two important variations of group work: either all groups get **same task** or **different tasks**. The latter gives participants more responsibility and potentially superior results.
+The former is less work to organize and generally safer.
 
-group puzzle:
-covering 4 different subjects [PUZZLE FIGURE]: alignments, imaging, plots, R. Each group got a few example scripts, an exercise to implement, and a PDF as a reference. Worked independently with small pieces of advice. Then came back to the original group and explained what they had learned to their colleagues. Following the idea 'the best teacher is someone who just learned himself.' Course trainers orchestrated the process.
+Give the same task to each group if you haven't used this social form a lot.
 
-Gruppenpuzzle (Stammgruppe, Gemixt in Expertengruppen wo Materialien bearbeitet werden, Rueckkehr), Aufgaben klar stellen --> Viel Zeit geben.
+### Group Puzzle
 
-Arbeitsgleiche GA	Gleicher Arbeitsauftrag für alle
+This is a more interesting form that allows you to cover **a lot** of content.
+Here is how it works:
 
-Arbeitsteilige GA	Jede Gruppe tut etwas anderes (in der Vorbereitung tückischer)
+#### Preparations
 
-Blue BLUE blue b.l.u.e. Gruppenfinden
+You need:
+
+* a moderately complex task that requires combining multiple topics (e.g. "modify the colors in a photograph")
+* 3-4 topics (e.g. *"RGB colors", "modifying Numpy arrays", "reading and writing images", "image formats")
+* some reading material for each topic (1-2 pages, an example script etc.)
+
+Ideally, the task is open-ended and tolerates some creative tinkering.
+
+#### Part 1: Task Teams
+
+* Assign people to teams of (3-4) people
+* All teams get the same task (a more complex one)
+* Let them chat for 5' to clarify the task
+* Do a short Q & A
+* Announce the topics and ask each group to assign at least one person to each topic.
+
+#### Part 2: Topic Teams
+
+Now comes the puzzle aspect. The teams regroup:
+
+* the people for each topic get together
+* they work on the material and work on a **simple** task (e.g. "read the text and create RGB colors for the rainbow")
+* let them work on the task for a while (30' at least)
+* be ready to troubleshoot
+
+The trick is that every student now carries a lot of responsibility for their own team.
+At the same time, they are never alone!
+
+#### Part 3: Coming back
+
+Finally, everybody goes back to their original team:
+
+* everybody summarizes what they learned to their teammates
+* start solving the task
+* give them plenty of time for that
+
+Following the idea 'the best teacher is someone who just learned himself.' Course trainers orchestrated the process.
+
+### How to assign pairs / groups
+
+Try any of the following:
+
+* use an obvious criterion (location in the classroom)
+* randomize (drawing colored blips from a bag, using the Zoom Breakout funtionality, ``random.choice()`` etc.)
+* Let students self-organize (risky if there are outsiders or tensions in the group; less risky with groups of 4+)
+
+Do not fidget around and try to predict good groups by yourself. You'll probably be wrong anyway.
 
 ----
 
