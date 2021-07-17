@@ -9,12 +9,14 @@
 
 Often you start planning with a **syllabus**, which is simply a list of topics. For instance, your syllabus could contain the topic
 
+    :::text
     for loops
 
 This is not a learning goal. At best it is a topic for your lesson.
 
 You could formulate this topic as an ideal final state:
 
+    :::text
     The participants understand for loops
 
 However, this is not very useful as a goal.
@@ -29,6 +31,7 @@ Essentially, it is a wordy version of the topic from the syllabus.
 
 Let's make the learning goal **testable**:
 
+    :::text
     participants use a for loop to draw multiple squares
 
 This goal is specific enough that you can test it *informally*: If you come by a participants computer, you see whether there are multiple squares on the screen or not.
@@ -37,6 +40,7 @@ This way, you have a simple way to unit-test your lesson: if the participants re
 But it gets even better: a good learning goal is specific enough that participants can self-assess.
 They could get the information:
 
+    :::text
     The goal of todays lesson is to draw multiple squares with a for loop.
 
 Knowing the goal gives them the chance to reach it *by themselves* and go home with the feeling of accomplishment.
@@ -80,6 +84,7 @@ Applied to the `for` loop lesson, we can formulate three goals:
 
 Participants repeat something they have seen before, e.g.:
 
+    :::text
     participants explain a for loop drawing a row of square
 
 The majority of your goals should be on that level.
@@ -88,12 +93,14 @@ The majority of your goals should be on that level.
 
 Participants apply a skill or model to a new situation:
 
+    :::text
     participants write a for loop creating squares with a range of colors.
 
 #### Evaluate (levels 5+6)
 
 Participants evaluate information in the context of a topic:
 
+    :::text
     participants discuss advantages of for and while loops
 
 A balanced lesson should contain a lot of learning goals **reproducing** knowledge, less for **applying**, and few for evaluating. When setting learning goals, Blooms Taxonomy helps you to choose a well-balanced mixture of activities.
@@ -136,7 +143,7 @@ One.
 
 #### How about an entire training day?
 
-A full one-day training fits 4-8 goals.
+A full one-day training fits 3-5 goals.
 
 If the day includes an intense planning / evaluation session, these can have their own goals.
 
