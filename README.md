@@ -21,9 +21,11 @@
 ## Getting Started
 
 * [The first minute](getting_started/the_first_minute.md)
+* [Priming](getting_started/priming.md)
 * [Getting to know each other](getting_started/getting_to_know.md)
 * [Managing expectations](getting_started/expectations.md)
 * [Warming up](getting_started/warmup.md)
+* [Warming up an onsite class](getting_started/warmup_onsite.md)
 
 ## Introducing new Content
 
