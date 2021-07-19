@@ -11,6 +11,7 @@
 ## Fundamentals
 
 * [Teaching is a Craft](fundamentals/teaching_craft.md)
+* [The Students](fundamentals/students.md)
 * [The Teacher](fundamentals/teacher.md)
 
 ## Planning

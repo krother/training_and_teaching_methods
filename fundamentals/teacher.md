@@ -21,7 +21,8 @@ First of all, a teacher is rather a generalist. In a generic course on programmi
 Second, the field of IT evolves quickly and your will find yourself learning along with your students.
 Third, it is OK for a programmer not to know everything. That is a crucial message to convey to students.
 
-There are of course scenarios where in-depth knowledge is important, e.g. when you are specifically invited as an expert on e.g. *"two-factor authentication"* and you will get sophisticated questions from other experienced programmers. Also, in an academic lecture you may be expected to connect to the latest research. But you may find yourself in a tradeoff between detail and being understandable, and I believe a teacher should always prefer the latter.
+An experienced practitioner is an excellent fit for short lectures and tutorials on their topic (up to 1-2 days).
+This is where very deep knowledge is useful, e.g. when you talk as an expert on *"two-factor authentication"* to other experienced programmers. A typical question the participants have is *"How is this used in practice?"*. Similarly, in an academic lecture you may be expected to connect to the latest research. But you may find yourself in a tradeoff between detail and being understandable, and I believe a teacher should always prefer the latter.
 
 ----
 
@@ -34,7 +35,7 @@ Such misconceptions manifest in beliefs like *"teaching is a talent you are born
 To me, *"knowing how to teach"* means knowing **teaching methods**.
 A teaching method is a tool that you can use during a lesson or preparation.
 For instance, a **slide presentation** is a teaching method, a **multiple choice question** is another.
-An exerienced teacher knows hundreds of methods.
+An exerienced teacher knows hundreds of methods. They excel in running longer courses and keep the motivation of participants up even if the audienc is very heterogeneous.
 A beginner teacher should have a few that they are comfortable with.
 
 A programming teacher needs teaching methods for:
@@ -61,6 +62,7 @@ You may need to act as a referee when conflicts occur.
 All of these are classical leadership skills you may also find in a management role.
 The stakes in teaching are maybe not as high as in a project worth millions.
 But teaching a group over a longer time has a lasting impact on their life and career.
+As a teacher you might receive a great deal of support with the leadership part from course organizers and other support staff. They can take a lot of work off your plate and help mitigate difficult situations.
 
 ----
 
@@ -75,6 +77,7 @@ I am a bit critical of the phrase, because I read it in applications a lot.
 It usually meant that the applicant had very little methodical teaching knowledge.
 But they got something fundamental right: you need to care about teaching.
 
+I have seen junior teachers become the most passionate teachers when they were teaching a course they attended not long ago. This helped them to build a close connection with participants quickly.
 In my opinion the passion for teaching means that you have genuine love for human beings, to help and enable people, even if you don't like them a lot, or won't ever see them again.
 This love for human beings goes a long way to build a respectful teacher-student relationship.
 
@@ -101,7 +104,7 @@ You want to grow your students to become better than you thought possible.
 To allow them to surpass your expectations, you must allow yourself to be imperfect. If you convey, or even *think* your skills are out of their reach, you are denying them the chance to become better.
 After all, you are looking up stuff on StackOverflow, are you?
 
-Do not judge what your participants should or should not do. You cannot read their minds. Give them encouraging exercises and helpful feedback and earn their trust. You cannot force them to learn either. It is the student who decides whether to learn or not. The only thing you can do is to decide what is on the menu, propose something and make interesting. And to try again and again if it didn't work.
+Do not judge what your participants should or should not do. You cannot read their minds. Give them encouraging exercises and helpful feedback and earn their trust. You cannot force them to learn either. It is the student who decides whether to learn or not. The only thing you can do is to decide what is on the menu, propose something and make it interesting. And to try again and again if it didn't work.
 
 Do not judge whether your students are fit to be programmers either. I have written useful programs with 10000 lines and with 10 lines. Who knows what programming skills we will need in the future? Is it enough to have computational literacy? Is everybody going to be a programmer? Or nobody? Prepare your students as good as you can and let them find out as the future unfolds.
 
