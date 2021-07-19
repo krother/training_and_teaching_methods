@@ -8,15 +8,18 @@
 
 # Contents
 
-* [How to teach programming?](how_to_teach.md)
+## Fundamentals
+
+* [Teaching is a Craft](fundamentals/teaching_craft.md)
+* [The Teacher](fundamentals/teacher.md)
 
 ## Planning
 
 * [The Teaching Process](planning/teaching_process.md)
-* [Preparing lessons](planning/preparing_lessons.md)
-* [Learning goals](planning/goals.md)
+* [Preparing Lessons](planning/preparing_lessons.md)
+* [Learning Goals](planning/goals.md)
 * [Concept Maps](planning/concept_maps.md)
-* [Lesson plans](planning/lesson_plans.md)
+* [Lesson Plans](planning/lesson_plans.md)
 
 ## Getting Started
 
@@ -71,7 +74,7 @@
 
 ## Acknowledgements
 
-I dedicate this document to Bettina Ritter-Mamczek and Cornelius Frömmel, to whom i owe my skills and passion to teaching.
+I dedicate this document to Bettina Ritter-Mamczek and Cornelius Frömmel, to whom i owe my skills and passion to teaching. Greg Wilson has been a constant source of inspiration, and his fantastic Teach Tech Together helped me to decide what not to write. The actual contect was influenced a lot by discussions with Pedro Fernandes, Allegra Via and the members of GOBLET. I would like to thank Janick Mathy, Jasmin Touati and NobleProg for providing training opportunities and feedback that allowed me to fine-tune my teaching methods. Finally, I would like to thank the following teachers at the Spiced Academy for fruitful exchange: David Friedman, Matt, Ivana Matijevic, Paul Wlodkowski, Tom Gadsby, Stefan Roth, Pete Anderson, Merle Fischer, Alistair, Ugur Ural, Malte Bonart, Paula Gonzalez, Gesa Johannsen, Sam McGuire, Sara Maras, Carmine Somma, Dina Deifallah and Kiran Challa.
 
 ## License
 
