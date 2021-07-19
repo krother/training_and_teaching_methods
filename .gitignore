@@ -6,4 +6,5 @@ names.zip
 de/challenges/movie/mencoder.exe
 Gemfile.lock
 _site/*
+_build/*
 book.pdf
