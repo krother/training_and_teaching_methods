@@ -67,7 +67,7 @@ At least a few of these input parameters will change every time.
 * Are there enough power sockets/extension cables?
 * What media are present? *(whiteboard, projector, flipchart, pin boards)*
 * What adapter does the projector have? *(ask twice, this one can be a showstopper)*
-* Do the pens work? *(default is `no`, bring a spare pen)
+* Do the pens work? *(default is `no`, bring a spare pen)*
 * How are the acoustics? Do you have to talk very loudly? Is there an echo?
 * Do you need a microphone?
 * Are there loudspeakers? *(for yourself or for playing audio)*
