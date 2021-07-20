@@ -14,36 +14,6 @@ Things worth thinking about when preparing for a class / tutorial.
 * Have you reserved some time for repeating?
 * At the beginning, don’t forget to say hello.
 
-## The Classroom
-
-Think about the training room before. It often determines or limits what is possible to achieve during a tutorial, regardless how good the trainer / trainees are.
-
-* What is the room layout?
-* Are there any visual obstacles? *(huge screens, pillars)*
-* What media are present? *(whiteboard, projector, flipchart)*
-* Do the pens work?
-* Can you move around freely to help the partipants?
-* Do you have a teachers PC?
-* How to connect to the projector?
-* Are there loudspeakers?
-* Do you need a microphone?
-* How to open the windows / turn on the air condition?
-* Can you move tables?
-* Is it possible to arrange chairs in a circle or half-circle?
-* Are participants allowed to eat/drink in the room?
-* Are drinks/food in the room already?
-
-## Computers
-
-* How many computers per participant are there?
-* What operating system is installed?
-* Are there enough power sockets/extension cables?
-* Do you have permission to install software?
-* Did you test installation of everything in advance?
-* What is the Wifi password?
-* Can you plug in a USB drive with spare material?
-* Can you access your material on the web?
-
 ## Written material and slides
 
 * A good one-page handout can help a lot when used during a tutorial, often more than a thick stack of paper.

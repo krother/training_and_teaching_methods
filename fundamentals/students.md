@@ -2,6 +2,8 @@
 # The Students
 
 The first and last thing to keep in mind as a teacher is your audience.
+Students are the main ingredient of any teaching.
+Everything else (including yourself) is dispensible, but without students, there is no learning.
 I will refer to them as **students** or **participants** throughout the book.
 With a working student-teacher relationship everything else becomes much easier.
 An audience that trusts you will be much more forgiving of the many little mistakes you will inevitably make.
@@ -98,7 +100,17 @@ Working on fun programming exercises, having an entertaining instructor and a gr
 
 ----
 
-As a teacher, you will be better at meeting some of these needs than othes.
+As a teacher, you will be better at meeting some of these needs than others.
 It is OK to be bad at some, and to tell your students.
 They will find out quickly what you can provide for them.
 Being clear what needs you are good helping with helps you establish a healthy student-teacher relationship.
+
+----
+
+## Exercise Questions
+
+* How big is the group? Does that make preparations rather easy or challenging?
+* What can you learn about your participants before preparing?
+* How heterogeneous or homogeneous is the group?
+* What is their previous state of knowledge?
+* If you have taught a group already, can you assume they can do everything from the previous lesson?

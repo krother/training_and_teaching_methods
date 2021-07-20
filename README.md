@@ -11,12 +11,13 @@
 ## Fundamentals
 
 * [Teaching is a Craft](fundamentals/teaching_craft.md)
+* [The Teaching Process](fundamentals/teaching_process.md)
 * [The Students](fundamentals/students.md)
 * [The Teacher](fundamentals/teacher.md)
+* [Check External Factors](fundamentals/external_factors.md)
 
 ## Planning
 
-* [The Teaching Process](planning/teaching_process.md)
 * [Preparing Lessons](planning/preparing_lessons.md)
 * [Learning Goals](planning/goals.md)
 * [Concept Maps](planning/concept_maps.md)
