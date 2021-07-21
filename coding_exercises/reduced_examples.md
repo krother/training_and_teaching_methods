@@ -1,17 +1,24 @@
 
-# Facilitating coding exercises
+# Facilitating Coding Exercises
 
 If your participants need to do something, they need clear instructions.
 
-An example that does not work well:
+An example that does not work well with beginners:
 
+    :::text
     Implement the quicksort algorithm.
 
 An example that might work better:
 
-    Complete the quicksort code. Execute the code on the datasets A and B. Measure how long it takes to complete. Compare the performance to Pythons built-in `sort()` function.
+    :::text
+    1. Complete the quicksort code using given code samples.
+    2. Execute the code on the datasets A and B.
+    3. Measure how long the program takes to complete.
+    4. Compare the performance to Pythons built-in `sort()` function.
 
-The scientific reasoning behind it is that it is very difficult to develop a problem-solving strategy while you are learning a new concept (see Greg Wilsons book on thirdbit for a detailed explanation). This is why you need to facilitate exercises to keep everybody in the *flow state*.
+The scientific reasoning behind it is that it is very difficult to develop a problem-solving strategy while you are learning a new concept (see Greg Wilsons book for a detailed explanation). This is why you need to facilitate exercises to keep everybody in the *flow state*.
+
+----
 
 ## Step-by-Step tutorials
 
@@ -25,6 +32,7 @@ On the other hand, following a step-by-step guide is not very challenging. As a 
 
 Concluding, step-by-step tutorials are a useful method for a first confrontation with a new technology, but not much more.
 
+----
 
 ## Reduced examples
 
@@ -41,6 +49,7 @@ Writing a program from scratch is difficult. It works better to provide a **redu
 
 Reduced examples are a powerful technique that spice up a lesson and trigger interesting questions.
 
+----
 
 ## Programming from a model
 
@@ -54,6 +63,7 @@ Instead of giving a prose description, you can describe the problem using a form
 * Parnas tables
 * graphs
 
+----
 
 ## Self-checking exercises
 
@@ -70,6 +80,7 @@ Example: see Linux tutorial + image
 
 *Exercises with self-assessment are inspired by the Montessori school of teaching.*
 
+----
 
 ## Knowledge transfer
 
@@ -92,6 +103,7 @@ What is very nice about this method is that you can fit complicated
 subjects into a shorter time box, because the trainees dont have to
 start from zero.
 
+----
 
 ## Use hint cards/web information
 

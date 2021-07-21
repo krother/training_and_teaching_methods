@@ -1,5 +1,5 @@
 
-# Check External Factors
+# External Factors
 
 Programming courses are very sensitive to external factors.
 Like the requirements of a program, these factors determine much of what happens in class.

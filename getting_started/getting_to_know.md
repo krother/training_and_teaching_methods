@@ -191,7 +191,6 @@ This is a versatile method that produces data that helps you to assess the situa
 
 * write 3 introduction questions on flipchart.
 * ask pairs to interview each other and then introduce their team partners
-* play the *"name ball"* game to repeat names
 * *"museum"*: ask participants to place one item from their bag on a tray and introduce them with it
 * short pantomimic introduction of a hobby or something they did recently (works if the group already knows each other)
 * participants introduce themselves briefly, but insert one lie. The others guess what was wrong (if the group knows each other, good primer for a lesson on conditionals)

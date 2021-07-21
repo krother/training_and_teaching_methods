@@ -74,7 +74,7 @@ Let participants find out the key differences. Discuss their pros and cons.
 
 ### Work sheets
 Good for calculating, writing short definitions, drawing.
-schriftliche Aufgaben	Arbeitsblätter mit klarem Arbeitsauftrag
+Make sure the instructions are clear.
 
 ### Text analysis
 Participants read a piece of text on programming on their own and answer an open question, e.g.:
@@ -94,15 +94,6 @@ Algorithmic simulations can be done on the board, on paper or choreographed with
 ----
 
 The main difficulty in inductive instruction is to motivate the task and come up with a clear task description. It is possible that it does not go . But the resulting learning effect usually outweighs the risk.
-
-----
-
-## Priming supports instruction
-
-The use of **Priming** is helpful in both deductive and inductive instruction.
-A well-conducted warm-up exercise does half the work for you: It introduces concepts, problems or makes the participants generally think in the right direction.
-
-You can use all the puzzles, quizzes and games described in chapter **Warming Up** to prime your participants.
 
 ----
 

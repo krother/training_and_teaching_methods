@@ -14,7 +14,7 @@
 * [The Teaching Process](fundamentals/teaching_process.md)
 * [The Students](fundamentals/students.md)
 * [The Teacher](fundamentals/teacher.md)
-* [Check External Factors](fundamentals/external_factors.md)
+* [External Factors](fundamentals/external_factors.md)
 
 ## Planning
 
@@ -35,15 +35,15 @@
 ## Introducing new Content
 
 * [Structuring concepts](lectures/lectures.md)
-* [Facilitating your group](planning/facilitation.md)
-* [Presenting information](lectures/presenting.md)
+* [Live coding](lectures/live_coding.md)
+* [Visual Media](lectures/presenting.md)
 * [Questions](lectures/questions.md)
 * [Online Teaching](lectures/online_teaching.md)
 
 ## Coding Exercises
 
-* [Live coding](coding_exercises/live_coding.md)
-* [Facilitating exercises](coding_exercises/reduced_examples.md)
+* [Facilitating Coding Exercises](coding_exercises/reduced_examples.md)
+* [Group Assignments](coding_exercises/group_assignments.md)
 * [Debugging](coding_exercises/debugging.md)
 * [Coding Kata](coding_exercises/coding_kata.md)
 
