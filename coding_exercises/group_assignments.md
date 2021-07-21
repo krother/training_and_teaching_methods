@@ -42,6 +42,8 @@ This allows you to manage the risk.
 
 ## Group assignments
 
+![](../images/groups.png)
+
 Create small groups (2-4 people). Hand out a text or other material.
 Explaing them the assignment, but have it written in the text as well.
 There are two important variations of group assignments:
