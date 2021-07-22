@@ -9,16 +9,19 @@
 
 ## Why Feedback?
 
-You might want to collect feedback after a lesson or course for various other reasons:
+There are two main types of feedback:
 
+**Normative Feedback** – to fine-tune a course while it is running:
+
+* find out what to prepare for the next lesson
 * find out what your participants learned
 * make your participants aware of what they learned
-* find out what to prepare for the next lesson
 * improve a future edition of your course
-* benchmark different courses against each other
 * help participants to close the course mentally
 
-In this chapter you find my favourite methods.
+**Formative Feedback** – collect more objective information to benchmark different courses against each other. Also see [Formative Assessment methods](https://www.edutopia.org/groups/assessment/250941).
+
+Most of the methods in this chapter you find my favourite methods.
 
 ----
 
@@ -310,25 +313,11 @@ The feedback you get is focused on the actual contents **and** its practical app
 There is a plethora of online feedback tools. They are easy to evaluate, but less immediate than a questionnaire on paper. My favourites are:
 
 * Typeform
-* NBGrader (graded Jupyter notebooks)
+* Feedback Spreadsheet
 * [Tweedback](http://twbk.de)
 * [Socrative.com](http://socrative.com)
 
 To prevent your survey landing in the trash bin allocate time before the end of the training to fill the form.
-
-----
-
-## Formative assessment
-
-Develop formative assessments for the most important concepts:
-
-* identify concepts to be tested
-* identify misconceptions
-* construct the assessment
-* validate the test (with novices and experts)
-* use the test
-
-See: [Formative Assessment methods](https://www.edutopia.org/groups/assessment/250941)
 
 ----
 
@@ -347,5 +336,4 @@ Things I didn't write out in detail or haven't tried yet:
 | Headlines	| write a one-line news title on the question of the day |
 | Postcards | pick a postcard that expresses your mood and explain why |
 | Treasure box | collect hints for the follow-up course |
-| Poll | Ask a series of binary questions |
 | Hot or Not | ask about pairs of items: which is more important -> priorities |
