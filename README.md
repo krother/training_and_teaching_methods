@@ -49,6 +49,7 @@
 
 ## Wrapping up
 
+* [Student Presentations](wrapping_up/student_presentations.md)
 * [Practical transfer](wrapping_up/transfer.md)
 * [Repeating](wrapping_up/repeat.md)
 * [Collecting feedback](wrapping_up/feedback.md)
