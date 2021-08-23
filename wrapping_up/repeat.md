@@ -5,10 +5,50 @@ Repeating key concepts in increasing intervals is crucial for learning success (
 
 * Point students to material for self-study – works, because most online training resources do a decent job at repeating.
 * Start the next lesson with it – the repetition serves as a warm-up activity
-* Keep it short – one well-planned activity at the end of a lesson may prompt 
+* Keep it short – one well-planned activity at the end of a lesson may prompt
 
 In this chapter, you find a few of my favourite, foolproof methods for repeating.
 
+----
+
+## Check & Cross
+
+![](../images/crossing_out.png)
+
+| summary     | quick ad-hoc recap |
+|-------------|--------------------|
+| time        | 10' |
+| preparation | 1' |
+| group size  | 5-25 |
+| material    | board |
+
+* clear the board.
+* write 7-15 concepts in random locations on the board
+* ask everybody to explain one concept briefly
+* cross out each concept that has been explained
+
+Check & Cross helps to repeat if you have 10 minutes left at the end of your lesson. There is little that can go wrong. At worst, people start a discussion on their own. The best thing about this wrap-up technique is that you don't need to prepare anything in advance. This is why I keep this technique in my emergency kit all the time.
+
+You can fine-tune this method by choosing easier or more difficult concepts. If the students differ much in their level of experience, ask the least experienced first.
+
+----
+
+## Multiple Choice Questions
+
+| summary     | works with huge groups |
+|-------------|------------------------|
+| time        | 10' |
+| preparation | 30' |
+| group size  | 2-500 |
+| material    | screen |
+
+* write 3-5 multiple-choice questions
+* display them for a 1-2 minutes each
+* discuss answers with the group
+
+MC-questions scale up very well. Their main drawback is that it takes time to craft good questions.
+
+----
 
 ## Scrabble
 
@@ -31,6 +71,7 @@ Don't take this exercise too seriously. You don't need to enforce rules of norma
 
 As a variation, I also used giant scrabble tiles that made from cardboard.
 
+----
 
 ## Memory
 
@@ -55,6 +96,7 @@ I have used Memory for repeating content at the beginning and end of a lesson. A
 
 The main advantage of Memory is that everybody gets to participate. Sometimes, participants feel encouraged to help each other, in which case you can lean back and watch comfortably.
 
+----
 
 ## Domino
 
@@ -75,6 +117,7 @@ The main advantage of Memory is that everybody gets to participate. Sometimes, p
 
 This activity has a self-balancing mechanism: The more cards are already there, the easier it will be to come up with an explanation. If someone gets really stuck, allow them to swap theirs for a spare card
 
+----
 
 ## Telepathy
 
@@ -92,6 +135,7 @@ This activity has a self-balancing mechanism: The more cards are already there, 
 * ask for points
 * play 3-4 rounds
 
+----
 
 ## Quiz
 
@@ -111,8 +155,32 @@ This activity has a self-balancing mechanism: The more cards are already there, 
 * leave room for explanations and follow-up questions
 * whoever answered a question gets to pick the next category
 
-There are a lot of variations to the quiz theme: teams, jokers, special challenges, sound effects etc. 
+There are a lot of variations to the quiz theme: teams, jokers, special challenges, sound effects etc.
 
+----
+
+## Bar Quiz
+
+Prepare a PDF with 10-15 quiz questions.
+Each question has a **point value**.
+It can include many types of questions:
+
+* Multiple Choice
+* Pair Puzzle
+* One-word answers
+* sort the lines / words
+* Debugging
+* Find a word matched by the given RegEx
+* Trivia (identify the person in the picture)
+* Estimates (how many lines of code did Guido van Rossum contribute to cPython?)
+
+Divide the class into teams. Give them 30-45 minutes to work on the tasks.
+Depending on the difficulty, allow them to use the internet or not.
+Have them hand their written answers to the next team to count points
+
+Determine a winner.
+
+----
 
 ## 20 Questions
 
@@ -130,10 +198,7 @@ There are a lot of variations to the quiz theme: teams, jokers, special challeng
 
 Once your participants figure out what kind of concepts the game contains, they usually build an efficient question hierarchy very quickly.
 
-### Concept board game
-
-With a small group, the board game **Concept** works with programming concepts as well. The same rules as for *20 questions* apply.
-
+----
 
 ## Boggle
 
@@ -146,10 +211,11 @@ With a small group, the board game **Concept** works with programming concepts a
 
 * create a random 5 x 5 matrix with characters
 * give participants 3 minutes to write down as many words connected with the topic
-* ask for the longest words 
+* ask for the longest words
 
 This exercise connects easily to lessons on strings or tables. You can make creating the random matrix a homework or in-class programming task. Look up the original **Scrabble** distribution of characters for your language on Wikipedia.
 
+----
 
 ## Carrousel
 
@@ -171,58 +237,7 @@ This exercise connects easily to lessons on strings or tables. You can make crea
 If you have a very energetic group you can have them walk the circle or run around. See recording at the [Gulbenkian Training Programme in Bioinformatics](http://gtpb.igc.gulbenkian.pt/bicourses/)
 and [video comment](http://www.youtube.com/embed/N0pPOVesDo0)
 
-
-## Check & Cross
-
-![](../images/crossing_out.png)
-
-| summary     | quick ad-hoc recap |
-|-------------|--------------------|
-| time        | 10' |
-| preparation | 1' |
-| group size  | 5-25 |
-| material    | board |
-
-* clear the board.
-* write 7-15 concepts in random locations on the board
-* ask everybody to explain one concept briefly
-* cross out each concept that has been explained
-
-Check & Cross helps to repeat if you have 10 minutes left at the end of your lesson. There is little that can go wrong. At worst, people start a discussion on their own. The best thing about this wrap-up technique is that you don't need to prepare anything in advance. This is why I keep this technique in my emergency kit all the time.
-
-You can fine-tune this method by choosing easier or more difficult concepts. If the students differ much in their level of experience, ask the least experienced first.
-
-
-## Multiple Choice Questions
-
-| summary     | works with huge groups |
-|-------------|------------------------|
-| time        | 10' |
-| preparation | 30' |
-| group size  | 2-500 |
-| material    | screen |
-
-* write 3-5 multiple-choice questions
-* display them for a 1-2 minutes each
-* discuss answers with the group
-
-MC-questions scale up very well. Their main drawback is that it takes time to craft good questions.
-
-
-## Murmur
-
-| summary     | shortest repetition method ever |
-|-------------|---------------------------------|
-| time        | 5' |
-| preparation | 0' |
-| group size  | 2-500 |
-| material    | - |
-
-* ask your class to speak about a topic for 1-2 minutes
-* repeat 3 times
-
-This is an easy, foolproof way to wake up your class
-
+----
 
 ## Crossword
 
@@ -232,43 +247,32 @@ Prepare a crossword for homework. Some tools to create one are:
 * http://www.edhelper.com/crossword.htm
 * http://www.edhelper.com/Codeword_Puzzle.htm
 
+----
 
 ## Infographics
 
 Place cheat sheets / infographics in the room, so that participants see them all the time. You don't have to do anything else, just let the knowledge slowly trickle in.
 
-
-## Hangman
-
-Write a concept to the board as a sequence of dashes
-
-    _ _ _ _ _ _ _ _
-
-* participants guess characters
-* start drawing a hangman if they go wrong
-* you can let participants take over the game completely
-
+----
 
 ## Learning parcours
 
-A more difficult technique is to prepare multiple exercises in the room the participants visit. There are two ways to organize it:
-
-* **islands** - participants rotate through stations in small teams
-* **buffet** - participants go and pick whatever they want
+A more difficult technique is to prepare multiple exercises in the room the participants visit. Participants rotate through stations in small teams
 
 A learning parcours allows you to recycle material the participants have already seen – many appreciate that.
 Ideally, the exercises have a self-checking component.
 
 Reserve at least one hour for a learning parcours.
 
+----
 
-## Unfinished ideas
+## Extra ideas
 
-* teamquiz: two teams, 50% questions go to one team, 50% to both (whoever answers faster)
+* teamquiz: two teams, 50% of the questions go to one team, 50% to both (whoever answers faster)
 * interview questions, ask participants to answer one of them in a mini-speech
 * prepare questions on cards; ask participants to move around, ask someone else a question, exchange cards and move on
 * mind-mapping: place a central concept (or concept map) on the board; add other concepts around it together
 * 2-minute-quiz: ask participants to write down a take home message and one open question at the end of the lesson
-* ping-pong: 2 groups, 2 topics, 1st asks 2nd answers for 5', then reverse
 * cut an image in 9 pieces, show 1 piece, count points down as more parts appear until participants guess it
 * same, but with pixelated images that become sharper over time
+* play the **Concept** board game with a small group and programming concepts

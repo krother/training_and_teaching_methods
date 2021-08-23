@@ -1,13 +1,15 @@
 
 # Coding Kata
 
-A **Coding Kata** is a ritualized coding task to rehearse coding skills together.
+A **Coding Kata** is a coding challenge to rehearse coding skills together.
 
 A **Coding Kata** could be:
 
-* Write a *"Hello, World"* message
+* Write a *"Hello, World"* program
 * Calculate numbers from the *Fibonacci series*
 * Find the exit from a maze
+
+----
 
 ## How to run a Kata?
 
@@ -20,7 +22,7 @@ A **Coding Kata** could be:
 
 ### 1. Pick a Challenge
 
-* Go to [Coding Challenges on academis.eu](http://www.academis.eu/blog/tags/python_challenges_EN) and pick a challenge.
+* Go to [www.academis.eu](http://www.academis.eu/) and pick a challenge from one of the sections.
 * If you do this for the first time, the *"Postcard"* and *"Baby Name Generator"* are easy to facilitate.
 * Read through the challenge and make sure you understand the task
 * Announce the task to the group
@@ -28,7 +30,7 @@ A **Coding Kata** could be:
 
 ### 2. Set a time limit
 
-* A good time limit is between 10 minutes (for a ⭐ or a warmup exercise) and 45 minutes (a ⭐⭐⭐ challenge) in a group of beginners.
+* A good time limit is between 10 minutes (for a one-star or warmup exercise) and 45 minutes (a three-star challenge) in a group of beginners.
 * Announce the time limit
 * Make sure the timer is clearly visible
 
@@ -44,6 +46,8 @@ A **Coding Kata** could be:
 * Ask every group to share their code on a public channel (git, Slack)
 * Project the code on a screen
 * Ask them to explain their code and/or give a live demo
+
+----
 
 ## Variations
 
@@ -69,6 +73,8 @@ There are several ways to run a Coding Kata:
 * After 5 minutes, the pilot is released, the copilot is promoted, and a new person fills in the empty seat.
 * Repeat for the entire time box
 
+----
+
 ## Online Kata
 
 There are many places where you can find online coding Katas for self-study:
@@ -80,11 +86,15 @@ There are many places where you can find online coding Katas for self-study:
 * [Coding Dojo](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue) – group Kata
 * [Rosalind](http://rosalind.info) – bioinformatics
 
+----
+
 ## Where does the word "Kata" come from?
 
 A **Kata** is a well-defined ritualized exercise. In martial arts, the student is expected to perform an exact sequence of movements. Programmers have borrowed the concept for coding exercises.
 
 Unfortunately we don't have an established system where you get colored belts (or hoodies or base caps) after completing a certain Kata. We should work on that.
+
+----
 
 ## Further Reading
 

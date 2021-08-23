@@ -1,24 +1,22 @@
 
 # Warming Up
 
-Warming up is very important in a programming course, because it protects your participants from frustration. The goal is give your participants a feeling of achievement at the very beginning. All warmup techniques have in common that every participant must be able to do them successfully.
-Warm-up could take place while introducing a new topic, or to repeat content from the previous lesson.
+Warming up is very important in a programming course, because it protects your participants from frustration.
+The goal is give your participants a feeling of achievement at the very beginning.
+Every participant must be able to complete your warm-up activities **easily**.
+If you have to think whether an activity might be too challenging, it is too difficult.
+
+Warming up can have a couple of functions:
+
+* **Priming** them for a new topic. I believe this is the most important one.
+* repeat concepts from a previous lesson
+* make them familiar with exam questions
+* help the class to know each other and grow into a team
+* make time for students to arrive before you start the main content
+
+Warming up should be short. Make sure you get to the main part after 10-20 minutes.
 
 Below, you find methods I have used for warming up. Most methods contain an interactive component, because programming is a team sport.
-
-----
-
-## Priming
-
-**Priming** is a central aspect of warm-up techniques. It is a neuropsychological concept that can be expressed as: *"directing the attention of people to a particular field."* Priming helps your participants understanding a concept, because they will start looking in the right area of their brain. Priming reaches out to related concepts, so you can make heavy use of all kinds of metaphors and analogies. The brain will copy and adapt these concepts, which is much faster than rewriting them.
-
-**Priming is the brain equivalent to Ctrl-C + Ctrl-V from StackOverflow.**
-
-What does that mean in practice? It means that instead of using the first warm-up method that you come across, prime your participants towards the *concept* that follows right afterwards.
-
-Priming can be achieved by a rich variety of activities: questions, quizzes, practical examples, short videos, cartoons and many more.
-
-**Example:** To prime participants for a lesson on debugging, you could display a recipe for baking a pizza. Then ask participants to invent ways how to break the recipe.
 
 ----
 
@@ -31,40 +29,6 @@ A crucial part in adult learning is to make clear *why* a concept, command or to
 | keep old versions | copy files | git |
 | keep code working | test manually | pytest |
 | readable code | custom standards | pylint |
-
-----
-
-## Algorithmic games
-
-**Boost motivation before the theory.**
-
-Invent a paper version of an algorithm that you need to explain. Write
-down the instructions as pseudocode. Give out items representing
-the data, so that the trainees will be able to ”execute” the program.
-
-In most cases, even a simplified representation allows experiments on
-execution time, order of exercution etc.
-
-### Example: tree traversal
-
-An exercise for a tree traversal algorithm. At least seven students
-arrange themselves as a binary tree (because they have only two arms to
-point at each other). Requires a ball or small object, which the trainer
-gives to the root node when everybody knows the instructions. You can
-give numbers or pseudonyms to the nodes (works better than the real
-names for some reason).
-
-    Pseudocode:
-
-    1. If you get the ball from behind:
-       - call your name.
-       - give the ball to the person at your left arm.
-
-    2. If you get the ball from your left:
-       - give it to the person at your right arm.
-
-    3. If you get the ball from your right:
-       - give it to the person behind you.
 
 ----
 
@@ -91,36 +55,6 @@ Write a question on the board that asks for the opposite of what you want to tea
 
 ----
 
-## Brainstorming with cards
-
-| Where | course |
-|-------|--------|
-| time  | 10'    |
-| preparation time  | 5'    |
-| group size | 2-25 |
-| material | board, pens, 1-3 cards per student |
-
-### How it is done
-
-Ask an open question on your topic, e.g. *"What programming languages do you know?"*. Write the question on the board or use a prepared slide. Share the moderation cards to pairs of students. Give them up to five minutes to collect their thoughts. Then collect the cards, read them aloud, and attach them on the board. If you get duplicates, put them up as well (to avoid trashing someones input). You can ask a volunteer to help you with the attaching.
-
-At the beginning of a lesson, this method is a powerful opener, because it connects to existing knowledge. You can use it in a follow-up lesson to repeat content or start something new by connecting to everyday experience. Just make sure your question triggers more than one answer.
-
-### Comments
-
-The extra effort with the cards is justified only if you use the resulting cards during your lesson. Possible continuations are to cluster the cards on the board, explore a few of them deeper, or add a new conceptual layer to them. For instance, if your new topic in the above example were "lesson planning" you could connect the above example to a new topic with the question *"In what parts of a lesson are the methods applicable?"* The cards can be nicely sorted into categories of the new topic.
-
-Collecting cards is a basic, very formidable facilitation method. You can also use it to find about your students' expectations or simply to introduce everybody. Handling the cards is not completely straightforward, there are small pitfalls such as getting your students to write readable. As a moderator, you can write the cards yourselves, but to activate your class it is better if they get moving.
-
-----
-
-## Code example
-
-1. Display a code example
-2. Let participants talk about it for 5 minutes.
-
-----
-
 ## Code with mistakes
 
 1. Display a piece of code with three bugs
@@ -134,26 +68,54 @@ Tell or read an instructive story. These can be your own stories, or general pro
 
 ----
 
+## Storytelling
+
+Ask participants to tell a story from their own experience.
+It does not have to be a technical one.
+
+**Example:**
+
+To introduce a bicycle project, ask:
+
+    :::text
+    Please tell a bicycle story.
+
+
+----
+
 ## Open question
 
 Start with an open question and give people 2' to think. Collect a few answers.
+
+**Example question:**
+
+    :::text
+    Why would you want to use a database?
 
 ----
 
 ## Yes/no questions
 
-Involve the group by raising hands on the options.
+Involve the group by raising hands on the options or present the questions through an online tool.
 
 ----
 
 ## Show a video
+
 Show a brief video for priming. See the according chapter in **Lectures**.
 
 ----
 
-## Repeat content from the last lesson
+## Cartoons
 
-All methods from the chapter **Repeating** apply.
+Show a cartoon.
+Ask the participants to explain it or ask what it has to do with topic X.
+
+Good sources of material are:
+
+* [xkcd.com](https://xkcd.com/)
+* [phdcomics.com](http://phdcomics.com)
+* [classicprogrammerpaintings.com](https://classicprogrammerpaintings.com/)
 
 ----
 
@@ -169,7 +131,10 @@ Provide a text, let students assign headlines to paragraphs. Here they have to r
 ----
 
 ## Find captions
-Provide an uncommented piece of code. Let students assign titles to the paragraph (prepared ones).
+
+1. Display an uncommented code example
+2. Present 1-3 questions about the code
+3. Let participants talk about it for 5 minutes in small groups.
 
 ----
 
@@ -177,6 +142,7 @@ Provide an uncommented piece of code. Let students assign titles to the paragrap
 
 Solve a small programming problem with 5-10 lines. Provide participants with comments but no code:
 
+    :::text
     # 1. activate the plotting library
     ...
     # 2. create a numbers from 1-20 (x)
@@ -187,3 +153,38 @@ Solve a small programming problem with 5-10 lines. Provide participants with com
     ...
     # 5. save the plot to a file
     ...
+
+----
+
+# Teaser Gallery
+
+1. Display multiple images (up to 20) in the classroom or in an online medium.
+2. Ask each participant to pick an image and explain why they picked it.
+
+Besides warming up the group, you may receive some information about their background or experience.
+The activity is very much open ended and mainly makes the participants feel welcome.
+
+**Example:**
+
+At the beginning of a Machine Learning course, you could show images like:
+
+* a line plot
+* a self-driving car
+* a rainbow flag
+* a robot
+* a person with an anti-ai-camo mask
+* Andrew Ng
+* Ada Lovelace
+* the Fibonacci spiral
+
+----
+
+## Exam question
+
+Present one exam question. Give students time to work on it together
+
+----
+
+## Repeat content from the last lesson
+
+All methods from the chapter **Repeating** apply.

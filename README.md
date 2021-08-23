@@ -8,40 +8,48 @@
 
 # Contents
 
-* [How to teach programming?](how_to_teach.md)
+## Fundamentals
+
+* [Teaching is a Craft](fundamentals/teaching_craft.md)
+* [The Teaching Process](fundamentals/teaching_process.md)
+* [The Students](fundamentals/students.md)
+* [The Teacher](fundamentals/teacher.md)
+* [External Factors](fundamentals/external_factors.md)
 
 ## Planning
 
-* [The Teaching Process](planning/teaching_process.md)
-* [Preparing lessons](planning/preparing_lessons.md)
-* [Learning goals](planning/goals.md)
+* [Preparing Lessons](planning/preparing_lessons.md)
+* [Learning Goals](planning/goals.md)
 * [Concept Maps](planning/concept_maps.md)
-* [Lesson plans](planning/lesson_plans.md)
+* [Lesson Plans](planning/lesson_plans.md)
 
 ## Getting Started
 
 * [The first minute](getting_started/the_first_minute.md)
+* [Priming](getting_started/priming.md)
 * [Getting to know each other](getting_started/getting_to_know.md)
 * [Managing expectations](getting_started/expectations.md)
 * [Warming up](getting_started/warmup.md)
+* [Warming up an onsite class](getting_started/warmup_onsite.md)
 
 ## Introducing new Content
 
 * [Structuring concepts](lectures/lectures.md)
-* [Facilitating your group](planning/facilitation.md)
-* [Presenting information](lectures/presenting.md)
+* [Live coding](lectures/live_coding.md)
+* [Visual Media](lectures/presenting.md)
 * [Questions](lectures/questions.md)
 * [Online Teaching](lectures/online_teaching.md)
 
 ## Coding Exercises
 
-* [Live coding](coding_exercises/live_coding.md)
-* [Facilitating exercises](coding_exercises/reduced_examples.md)
+* [Facilitating Coding Exercises](coding_exercises/reduced_examples.md)
+* [Group Assignments](coding_exercises/group_assignments.md)
 * [Debugging](coding_exercises/debugging.md)
 * [Coding Kata](coding_exercises/coding_kata.md)
 
 ## Wrapping up
 
+* [Student Presentations](wrapping_up/student_presentations.md)
 * [Practical transfer](wrapping_up/transfer.md)
 * [Repeating](wrapping_up/repeat.md)
 * [Collecting feedback](wrapping_up/feedback.md)
@@ -69,7 +77,7 @@
 
 ## Acknowledgements
 
-I dedicate this document to Bettina Ritter-Mamczek and Cornelius Frömmel, to whom i owe my skills and passion to teaching.
+I dedicate this document to Bettina Ritter-Mamczek and Cornelius Frömmel, to whom i owe my skills and passion to teaching. Greg Wilson has been a constant source of inspiration, and his fantastic book Teach Tech Together helped me to decide what not to write. The actual contect was influenced a lot by discussions with Pedro Fernandes, Allegra Via and the members of GOBLET. I would like to thank Janick Mathy, Jasmin Touati and NobleProg for providing training opportunities and feedback that allowed me to fine-tune my teaching methods. Finally, I would like to thank the following teachers at the Spiced Academy for fruitful exchange: David Friedman, Matt, Ivana Matijevic, Paul Wlodkowski, Tom Gadsby, Stefan Roth, Pete Anderson, Merle Fischer, Alistair, Ugur Ural, Malte Bonart, Paula Gonzalez, Gesa Johannsen, Sam McGuire, Sara Maras, Carmine Somma, Dina Deifallah and Kiran Challa.
 
 ## License
 

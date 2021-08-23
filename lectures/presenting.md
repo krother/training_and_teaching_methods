@@ -1,7 +1,8 @@
 
-# Presenting information
+# Visual Media
 
-### Pin board
+Most lessons will require you to
+## Pin board
 
 One of the most useful visual media are pin boards. You can use it to attach paper cards or posters using pin needles. It allows you to combine prepared with ad-hoc content and to rearrange items on the fly.
 
@@ -9,10 +10,9 @@ Methodically, it is a versatile medium usable for many types of brainstorming, r
 
 Most classrooms don't have a pin board, but if you have or can get a pin board or wall, it gives you a lot of space to organize thoughts.
 
-git Pappmodell
+----
 
-
-### Whiteboard
+## Whiteboard
 
 Whiteboards are great because your class can witness the process of creation. When explaining math, this is invaluable. Because you can wipe it quickly while presenting it also provides a lot of effective space.
 
@@ -20,26 +20,17 @@ A legible font and space allocation needs a bit of exercise. If you start using 
 
 Make sure to keep the whiteboard markers separate from your permanent markers.
 
-### Flipchart
+You can use a whiteboard to collect and sort post-its, if the room is small enough for them to be legible. I used to use magnets a lot, but they tend to ruin every surface over time.
+
+----
+
+## Flipchart
 
 Hot tip: get wax crayons to beautify whatever you write/draw.
 
 Ideally find a place to attach the finished flipcharts somewhere.
 
-### Magnets
-
-On whiteboards and flipcharts, you can use **magnets** to attach material you would otherwise use pins for. You can do useful things with magnets: Attach **prepared pictures** on-the-fly or things created during the session. The magnets let you **move around cards and other elements**, so you can cluster items, highlight key points, or create a live visualization. Most of all, you don't end up in the sticky tape hell when you have magnets at hand.
-
-However, there are some pitfalls to avoid:
-
-* Get good magnets of 3-4 cm diameter. Too weak or too strong magnets ruin your day.
-* Before your session, align the magnets on the side of the board. This avoids that you play with them in your hands.
-* **Never pull a magnet across the surface of a whiteboard**. It ruins them more than a permanent marker.
-* Keep the magnets separate from your electronic equipment, especially your laptops hard disk.
-* Try not to mix colors, they confuse. Sometimes I use single big red magnet to highlight things on the board - e.g. the current point of an agenda.
-
-With these things in mind, magnets are a useful little helper that make your day at the board a pleasant one.
-
+----
 
 ## Mind Maps
 
@@ -60,6 +51,7 @@ As a variation, have students draw mind maps and compare them (good reflection e
 
 This big family of methods is for sorting a multitude of concepts in student's heads. There is a multitude of variations: Connect the words by lines, arrows, arrange them to a network, or cluster them.
 
+----
 
 ## Videos
 
@@ -122,20 +114,7 @@ audience a set of small speakers should be sufficient, but laptop
 speakers clearly are not. Taken together, I found showing short videos a versatile method to spice
 up a training.
 
-### Other
-
-* interactive notebooks
-* git with moveable parts
-* asciinema		
-* Etherpad etc.
-* Slack
-* props
-
-### Controversial statement
-Say something obviously wrong (slowly, suggestively, and make a loong break), or controversial (e.g. “to make a good seminar, you need many PowerPoint slides”) to start a heated discussion.
-
-### Challenge question
-Make your audience think by asking a challenging question .
+----
 
 ### Dramaturgy of presentations
 Read about how theater plays, shows, or books are structured to have a rising tension and climax.
@@ -143,26 +122,24 @@ Read about how theater plays, shows, or books are structured to have a rising te
 ### Yes/No poll
 Find out what students know/think by raising their hand.
 
-### Catchy title
-Use a title that expresses your main goal. Also use a title for all diagrams, tasks, etc.
+### Acronym
+Create an acronym, where the first characters stand for important concepts.
+The acronym can be visualized nicely.
 
+Example: **SOLID Object-Oriented Design**:
 
-Keynote	In einem Satz das Ziel der Lehrveranstaltung nennen. Sollte in jeder Stunde vorkommen.
+    :::text
+    S - Single-responsiblity Principle
+    O - Open-closed Principle
+    L - Liskov Substitution Principle
+    I - Interface Segregation Principle
+    D - Dependency Inversion Principle
 
-draw an acronym  Eye-Catcher mit Wort, dessen Anfangsbuchstaben für Fachbegriffe stehen.
+Please use this tool sparingly.
+Forcing an acronym into every lesson is **B**loated, **A**rguably-not-helpful, **D**istracting.
 
-onion model    These 5x wiederholen, jedes Mal etwas dazubauen    speaking, lecture
-
-Speech with gaps
-
-Lehrgespräch	Hier zeigt sich wer ein Meister ist. Kurzes Modell, dann Dialog. Fragen. What would happen if.
-
-master Foo stories		
-
-Develop the habit of saying last what you want your audience to remember most    speaking, closing
-
-repeating tasks in 2+ media (mail, speech, upload)
-
+## Onion model
+Repeat your main concept five times, every time adding something new.
 
 ### Contrast pictures
 Show two pictures showing different concepts (e.g. healthy/disease). Ask students to compare them & describe the differences.
@@ -170,7 +147,9 @@ Show two pictures showing different concepts (e.g. healthy/disease). Ask student
 ### Fix learning goals
 Summarize goals at the beginning
 
-## Tip: display a progress bar
+----
+
+## Progress bar
 
 Display how much of a lesson is over.
 
@@ -181,10 +160,14 @@ Display how much of a lesson is over.
 | group size | all |
 | material | board or slides |
 
-## Description
+### Description
 
 Write the outline of your presentation on the board or a slide. Attach a marker to the first item before your start. Advance it while you go through your talk. If you have little space, you can -replace the outline by a 0-100% scale or a series of circles that get filled as the presentation proceeds. The advancing progress bar helps your audience to keep focused because they know how much they still have to endure.
 
-## Variation
+### Variation
 
 Use physical props to display the items on your agenda
+
+----
+
+Once upon a time, a teacher was the main source of information in the classroom. But today, course participants find information on any programming topic or entire courses themselves in no time. In comparison, lecturing is an ineffective method to convey information: You have to guess what information your participants are looking for, prepare it in the right granularity and convey it at the right pace. It's a risky business.

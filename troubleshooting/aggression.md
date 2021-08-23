@@ -15,6 +15,8 @@
 
 ## How to deal with aggressive/annoying participants
 
+![](../images/agro.jpg)
+
 * "Shields up", it is nothing personal. It has nothing to do with you
 * do you have a Code of Conduct?
 * do the students know the CoC?
