@@ -171,8 +171,9 @@ Participants and teachers rate their expertise in 5 areas on a scale of 1-5, e.g
 * Machine Learning
 
 Collect the numbers on the board or an electronic table.
+The data can be used right away for a programming exercise on data structures, databases or plotting.
 
-This is a versatile method that produces data that helps you to assess the situation. You can repeat the exercise at the end of the course (to measure progress), or use the table right afterwards (as part of a programming exercise on data structures, databases, plotting etc.).
+This is a versatile method that produces data that helps you to assess the situation. You can repeat the exercise at the end of the course and let students compare the data.
 
 ----
 
@@ -196,6 +197,7 @@ This is a versatile method that produces data that helps you to assess the situa
 * short pantomimic introduction of a hobby or something they did recently (works if the group already knows each other)
 * participants introduce themselves briefly, but insert one lie. The others guess what was wrong (if the group knows each other, good primer for a lesson on conditionals)
 * divide the participants into smaller groups, each group introduces itself by drawing a poster (quicker way to introduce a big group)
+* let the group sort itself by programming experience (in the room)
 
 ----
 

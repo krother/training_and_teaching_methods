@@ -13,8 +13,11 @@
    height="500"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="4mat.svg">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="4mat.svg"
+   inkscape:export-filename="/home/kristian/projects/teaching_programming/images/4mat_EN.png"
+   inkscape:export-xdpi="149.952"
+   inkscape:export-ydpi="149.952">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -22,17 +25,17 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="65.662847"
-     inkscape:cy="109.5209"
+     inkscape:cx="-192.1943"
+     inkscape:cy="103.80661"
      inkscape:document-units="px"
-     inkscape:current-layer="g3139"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1533"
-     inkscape:window-height="845"
-     inkscape:window-x="67"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
@@ -53,42 +56,42 @@
      id="layer1"
      transform="translate(0,-552.36218)">
     <rect
-       style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:1.36499238;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3069"
        width="230.72769"
        height="230.72769"
-       x="9.332613"
-       y="581.86102"
+       x="20.761185"
+       y="577.57532"
        inkscape:export-filename="/home/krother/Desktop/courses/teaching/pictures/4mat.png"
        inkscape:export-xdpi="124.41"
        inkscape:export-ydpi="124.41" />
     <rect
-       y="581.86102"
-       x="241.42529"
+       y="577.57532"
+       x="252.85387"
        height="230.72769"
        width="230.72769"
        id="rect3071"
-       style="fill:#aaeeff;fill-opacity:1;stroke:#000000;stroke-width:1.36499238;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#aaeeff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="/home/krother/Desktop/courses/teaching/pictures/4mat.png"
        inkscape:export-xdpi="124.41"
        inkscape:export-ydpi="124.41" />
     <rect
-       style="fill:#ffccaa;fill-opacity:1;stroke:#000000;stroke-width:1.36499238;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffccaa;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3073"
        width="230.72769"
        height="230.72769"
-       x="241.42529"
-       y="813.95459"
+       x="252.85387"
+       y="809.66888"
        inkscape:export-filename="/home/krother/Desktop/courses/teaching/pictures/4mat.png"
        inkscape:export-xdpi="124.41"
        inkscape:export-ydpi="124.41" />
     <rect
-       y="813.95459"
-       x="9.332613"
+       y="809.66888"
+       x="20.761185"
        height="230.72769"
        width="230.72769"
        id="rect3075"
-       style="fill:#c6e9af;fill-opacity:1;stroke:#000000;stroke-width:1.36499238;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#c6e9af;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="/home/krother/Desktop/courses/teaching/pictures/4mat.png"
        inkscape:export-xdpi="124.41"
        inkscape:export-ydpi="124.41" />
@@ -97,7 +100,7 @@
        inkscape:export-filename="/home/krother/Desktop/courses/teaching/pictures/4mat.png"
        inkscape:export-xdpi="124.41"
        inkscape:export-ydpi="124.41"
-       transform="matrix(0.90825065,0,0,0.90825065,-114.76367,382.74787)">
+       transform="matrix(0.90825065,0,0,0.90825065,-103.3351,378.46216)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -137,7 +140,7 @@
     </g>
     <g
        id="g3103"
-       transform="matrix(0.90825065,0,0,0.90825065,129.2838,382.74787)"
+       transform="matrix(0.90825065,0,0,0.90825065,140.71237,378.46216)"
        inkscape:export-filename="/home/krother/Desktop/courses/teaching/pictures/4mat.png"
        inkscape:export-xdpi="124.41"
        inkscape:export-ydpi="124.41">
@@ -197,7 +200,7 @@
            id="flowPara3165"
            style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>    </g>
     <g
-       transform="matrix(0.90825065,0,0,0.90825065,129.2838,616.24)"
+       transform="matrix(0.90825065,0,0,0.90825065,140.71237,611.95429)"
        id="g3121"
        inkscape:export-filename="/home/krother/Desktop/courses/teaching/pictures/4mat.png"
        inkscape:export-xdpi="124.41"
@@ -253,37 +256,37 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="153.54297"
-         y="299.83398"
+         x="166.12602"
+         y="295.11533"
          id="text115"><tspan
            sodipodi:role="line"
-           x="153.54297"
-           y="299.83398"
+           x="166.12602"
+           y="295.11533"
            id="tspan113"><tspan
-             x="153.54297"
-             y="299.83398"
+             x="166.12602"
+             y="295.11533"
              style="font-weight:bold;font-size:40px;line-height:1.25;font-family:sans-serif"
              id="tspan111">How</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="152.98828"
-         y="351.34375"
+         x="165.57133"
+         y="346.62509"
          id="text125"><tspan
            sodipodi:role="line"
-           x="152.98828"
-           y="351.34375"
+           x="165.57133"
+           y="346.62509"
            id="tspan119"><tspan
-             x="152.98828"
-             y="351.34375"
+             x="165.57133"
+             y="346.62509"
              style="font-size:32px;line-height:1.25;font-family:sans-serif"
              id="tspan117">will the </tspan></tspan><tspan
            sodipodi:role="line"
-           x="152.98828"
-           y="391.34375"
+           x="165.57133"
+           y="386.62509"
            id="tspan123"><tspan
-             x="152.98828"
-             y="391.34375"
+             x="165.57133"
+             y="386.62509"
              style="font-size:32px;line-height:1.25;font-family:sans-serif"
              id="tspan121">course work?</tspan></tspan></text>
     </g>
