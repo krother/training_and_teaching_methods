@@ -1,5 +1,5 @@
 
-# How to wake up your class after lunch?
+# How to wake up your class?
 
 Here are my favourite **energizers** – physical activities that get people from their chairs.
 They don't fulfill any purpose other than waking up people.
@@ -39,7 +39,7 @@ This works great a the beginning of the course or as a feedback method.
 
 ## Binary count
 
-Count to 15 using your fingers.
+Count to 15 using the fingers of one of your hands.
 
 ----
 
@@ -66,7 +66,7 @@ A super quick energizer. The microwave has three levels:
 2. **HMMMM** - like level 1 and aditionally turn around once.
 3. **Bing!** - Jump, raise your arm, point to the ceiling and make a noise like „bing!“
 
-*by Celestine Kleinesper at EuroPython 2017*
+*presented by Celestine Kleinesper at EuroPython 2017*
 
 ----
 
@@ -108,14 +108,6 @@ Variation: pairs of participants build the plane using one hand each
 * add more balloons
 
 *brought to me by my Sensei Till*
-
-----
-
-## Story cubes
-
-This is an exercise for small groups (5 or fewer participants).
-
-Buy some story cubes, roll them and have
 
 ----
 ## Crowd control

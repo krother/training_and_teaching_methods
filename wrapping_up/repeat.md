@@ -273,6 +273,3 @@ Reserve at least one hour for a learning parcours.
 * prepare questions on cards; ask participants to move around, ask someone else a question, exchange cards and move on
 * mind-mapping: place a central concept (or concept map) on the board; add other concepts around it together
 * 2-minute-quiz: ask participants to write down a take home message and one open question at the end of the lesson
-* cut an image in 9 pieces, show 1 piece, count points down as more parts appear until participants guess it
-* same, but with pixelated images that become sharper over time
-* play the **Concept** board game with a small group and programming concepts

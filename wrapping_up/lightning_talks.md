@@ -1,22 +1,13 @@
 
-# Student Presentations
+# Lightning Talks
 
-At the end of a course project, it is common practice to have students present their outcomes.
-Giving participants room to present is generally a good idea.
-But, especially with a bigger group, you want to avoid that part to become long and boring.
-The **Lightning Talk** format is a refreshing alternative.
-
-----
-
-## Lightning Talks
-
-Lightning Talks are a format seen on many conferences.
-They promote short, refreshing, diverse talks.
-To make the format work, establish a few ground rules:
+At the end of a course project, is generally a good idea to have students present their outcomes.
+It makes participants rethink their own knowledge and helps to spread it laterally through the group. Presentations can be one of the best parts of the course, but it is also risky. To prevent bad presentations to take up a lot of room, establish the **Lightning Talk** format seen on many conferences.
+It requires a few ground rules:
 
 ### Time limit
 
-Limiting time is the most important one. Use a strict limit of 5 minutes.
+**Use a strict limit of 5 minutes.** Make clear what the time limit is. The *"Lightning Talk"* format seen on many conferences uses a strict limit of 5 minutes.
 If possible, use a timer that the speaker sees all the time.
 To enforce time, put 1-2 participants in charge of timekeeping and have them wave a flag or start clapping.
 
@@ -28,7 +19,7 @@ Let your participants know early that they will be presenting and how. Also anno
 
 Put up a flipchart or board with the speaking slots, so that participants can sign up with their names/talk titles.
 An online channel works as well.
-If presenting is mandatory, use a random number generator to determine the speaking order.
+If presenting is mandatory, you could use a random number generator to determine the speaking order.
 
 ### Any topic is fine
 
@@ -37,6 +28,4 @@ Whatever interesting things they found on the way is worth sharing.
 
 ### Skip material
 
-For a 5-minute talk you don't need to prepare a slide deck or handout.
-One or two visuals are usually enough.
-Good presentations are spoken freely.
+Good presentations are spoken freely. Encourage people to show code, notebooks or websites instead of spending a lot of time preparing slides or even handouts.

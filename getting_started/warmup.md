@@ -145,7 +145,7 @@ Solve a small programming problem with 5-10 lines. Provide participants with com
     :::text
     # 1. activate the plotting library
     ...
-    # 2. create a numbers from 1-20 (x)
+    # 2. create numbers from 1-20 (x)
     ...
     # 3. create squares of the numbers (y)
     ...
@@ -176,15 +176,3 @@ At the beginning of a Machine Learning course, you could show images like:
 * Andrew Ng
 * Ada Lovelace
 * the Fibonacci spiral
-
-----
-
-## Exam question
-
-Present one exam question. Give students time to work on it together
-
-----
-
-## Repeat content from the last lesson
-
-All methods from the chapter **Repeating** apply.
