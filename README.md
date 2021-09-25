@@ -16,12 +16,16 @@
 * [The Teacher](fundamentals/teacher.md)
 * [External Factors](fundamentals/external_factors.md)
 
+----
+
 ## Planning
 
 * [Preparing Lessons](planning/preparing_lessons.md)
 * [Learning Goals](planning/goals.md)
 * [Concept Maps](planning/concept_maps.md)
 * [Lesson Plans](planning/lesson_plans.md)
+
+----
 
 ## Getting Started
 
@@ -32,6 +36,8 @@
 * [Warming up](getting_started/warmup.md)
 * [Warming up an onsite class](getting_started/warmup_onsite.md)
 
+----
+
 ## Introducing new Content
 
 * [Structuring concepts](lectures/lectures.md)
@@ -40,6 +46,8 @@
 * [Questions](lectures/questions.md)
 * [Online Teaching](lectures/online_teaching.md)
 
+----
+
 ## Coding Exercises
 
 * [Facilitating Coding Exercises](coding_exercises/reduced_examples.md)
@@ -47,12 +55,29 @@
 * [Debugging](coding_exercises/debugging.md)
 * [Coding Kata](coding_exercises/coding_kata.md)
 
+----
+
 ## Wrapping up
 
-* [Student Presentations](wrapping_up/student_presentations.md)
-* [Practical transfer](wrapping_up/transfer.md)
+* [Lightning Talks](wrapping_up/lightning_talks.md)
+* [Facilitated Discussion](wrapping_up/facilitated_discussion.md)
 * [Repeating](wrapping_up/repeat.md)
-* [Collecting feedback](wrapping_up/feedback.md)
+
+----
+
+## Collecting Feedback
+
+* [Dot Voting](feedback/dot_voting.md)
+* [Feedback Props](feedback/props.md)
+* [Start a Fire](feedback/fire.md)
+* [Fist or Five](feedback/fist_or_five.md)
+* [Four Corners](feedback/four_corners.md)
+* [Round Robin Questions](feedback/round_robin.md)
+* [Supermarket](feedback/supermarket.md)
+* [Voting Box](feedback/voting_box.md)
+* [More Feedback Methods](feedback/feedback.md)
+
+----
 
 ## Troubleshooting
 
@@ -63,10 +88,20 @@
 * [How to handle heterogeneous skill levels?](troubleshooting/heterogeneous.md)
 * [How to handle passive participants?](troubleshooting/passive.md)
 * [How to handle participants under pressure?](troubleshooting/under_pressure.md)
-* [How to wake up your class after lunch?](troubleshooting/energizers.md)
+* [How to wake up your class?](troubleshooting/energizers.md)
 * [How to handle aggressive participants?](troubleshooting/aggression.md)
 * [How to teach in an unfamiliar environment?](troubleshooting/paradrop.md)
 * [How to teach a subject you know little about?](troubleshooting/jungle.md)
+
+----
+
+## Advanced Teaching Methods
+
+* [Fishbowl with Experts](advanced/fishbowl.md)
+* [Panel Discussion](advanced/panel_discussion.md)
+* [Group Puzzle](advanced/group_puzzle.md)
+
+----
 
 ## Appendix
 
@@ -81,6 +116,6 @@ I dedicate this document to Bettina Ritter-Mamczek and Cornelius Frömmel, to wh
 
 ## License
 
-(c) 2015 Dr. Kristian Rother
+(c) 2021 Dr. Kristian Rother
 
 Distributed under the conditions of the Creative Commons Attribution Share-Alike License 4.0
