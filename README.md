@@ -59,9 +59,17 @@
 
 ## Wrapping up
 
+* [Multiple Choice Questions](wrapping_up/mc_questions.md)
+* [20 Questions](wrapping_up/twenty_questions.md)
+* [Check & Cross](wrapping_up/check_cross.md)
+* [Memory](wrapping_up/memory.md)
+* [Scrabble](wrapping_up/scrabble.md)
+* [Domino](wrapping_up/domino.md)
+* [Telepathy](wrapping_up/telepathy.md)
+* [Quizzes](wrapping_up/quiz.md)
 * [Lightning Talks](wrapping_up/lightning_talks.md)
 * [Facilitated Discussion](wrapping_up/facilitated_discussion.md)
-* [Repeating](wrapping_up/repeat.md)
+* [More Recap Methods](wrapping_up/repeat.md)
 
 ----
 
