@@ -24,17 +24,27 @@
 * [Learning Goals](planning/goals.md)
 * [Concept Maps](planning/concept_maps.md)
 * [Lesson Plans](planning/lesson_plans.md)
+* [Priming](planning/priming.md)
 
 ----
 
-## Getting Started
+## Connecting with your Students
 
-* [The first minute](getting_started/the_first_minute.md)
-* [Priming](getting_started/priming.md)
-* [Getting to know each other](getting_started/getting_to_know.md)
-* [Managing expectations](getting_started/expectations.md)
-* [Warming up](getting_started/warmup.md)
-* [Warming up an onsite class](getting_started/warmup_onsite.md)
+* [The first minute](connecting/the_first_minute.md)
+* [Managing expectations](connecting/expectations.md)
+* [Mood Cards](connecting/mood_cards.md)
+* [Getting to know each other](connecting/getting_to_know.md)
+
+
+## Warming Up
+
+* [One-Liners](getting_started/one_liners.md)
+* [Buggy Code](getting_started/buggy_code.md)
+* [Upside-Down](getting_started/upside_down.md)
+* [Brainstorming](getting_started/brainstorming.md)
+* [Puzzles](getting_started/puzzles.md)
+* [Stories](getting_started/stories.md)
+* [More Warmup Methods](getting_started/warmup.md)
 
 ----
 
@@ -44,6 +54,7 @@
 * [Live coding](lectures/live_coding.md)
 * [Visual Media](lectures/presenting.md)
 * [Questions](lectures/questions.md)
+* [Algorithmic Games](lectures/algorithmic_games.md)
 * [Online Teaching](lectures/online_teaching.md)
 
 ----
@@ -120,7 +131,7 @@
 
 ## Acknowledgements
 
-I dedicate this document to Bettina Ritter-Mamczek and Cornelius Frömmel, to whom i owe my skills and passion to teaching. Greg Wilson has been a constant source of inspiration, and his fantastic book Teach Tech Together helped me to decide what not to write. The actual contect was influenced a lot by discussions with Pedro Fernandes, Allegra Via and the members of GOBLET. I would like to thank Janick Mathy, Jasmin Touati and NobleProg for providing training opportunities and feedback that allowed me to fine-tune my teaching methods. Finally, I would like to thank the following teachers at the Spiced Academy for fruitful exchange: David Friedman, Matt, Ivana Matijevic, Paul Wlodkowski, Tom Gadsby, Stefan Roth, Pete Anderson, Merle Fischer, Alistair, Ugur Ural, Malte Bonart, Paula Gonzalez, Gesa Johannsen, Sam McGuire, Sara Maras, Carmine Somma, Dina Deifallah and Kiran Challa.
+I dedicate this document to Bettina Ritter-Mamczek and Cornelius Frömmel, to whom i owe my skills and passion to teaching. Greg Wilson has been a constant source of inspiration, and his fantastic book Teach Tech Together helped me to decide what not to write. The actual contect was influenced a lot by discussions with Pedro Fernandes, Allegra Via and the members of GOBLET. I would like to thank Janick Mathy, Jasmin Touati and NobleProg for providing training opportunities and feedback that allowed me to fine-tune my teaching methods. Finally, I would like to thank the following teachers at the Spiced Academy for fruitful exchange: David Friedman, Matt Fowler, Ivana Matijevic, Paul Wlodkowski, Tom Gadsby, Stefan Roth, Pete Anderson, Merle Fischer, Alistair Quinn, Ugur Ural, Malte Bonart, Paula Gonzalez, Gesa Johannsen, Sam McGuire, Sara Maras, Marija Vlajic, Carmine Somma, Dina Deifallah and Kiran Challa.
 
 ## License
 
