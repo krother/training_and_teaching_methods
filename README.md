@@ -30,9 +30,12 @@
 
 ## Connecting with your Students
 
-* [The first minute](connecting/the_first_minute.md)
 * [Managing expectations](connecting/expectations.md)
+* [The first minute](connecting/the_first_minute.md)
+* [Selling your Lesson](connecting/selling.md)
 * [Mood Cards](connecting/mood_cards.md)
+* [Four Questions](connecting/four_questions.md)
+* [Scale](connecting/scale.md)
 * [Getting to know each other](connecting/getting_to_know.md)
 
 
