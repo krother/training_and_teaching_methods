@@ -32,8 +32,6 @@ https://people.neilon.software/)
 
 ## Teaching Programming to Kids
 
-Tynker Codemoji
-
 * [Rapid Router](https://www.codeforlife.education/rapidrouter/) – 100 Blockly programming exercises
 * [Computer Science Fun for Kids](https://www.hp.com/ca-en/shop/Offer.aspx?p=computer-science-fun-for-kids) – links curated by HP
 * [Programmieren mit der Maus](https://programmieren.wdrmaus.de/) – Blockly programming tutorial in German
