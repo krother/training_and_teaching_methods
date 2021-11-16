@@ -32,17 +32,21 @@ https://people.neilon.software/)
 
 ## Teaching Programming to Kids
 
+Tynker Codemoji
+
 * [Rapid Router](https://www.codeforlife.education/rapidrouter/) – 100 Blockly programming exercises
+* [Computer Science Fun for Kids](https://www.hp.com/ca-en/shop/Offer.aspx?p=computer-science-fun-for-kids) – links curated by HP
 * [Programmieren mit der Maus](https://programmieren.wdrmaus.de/) – Blockly programming tutorial in German
 * [Lightbot](http://lightbot.com/) – programming a small robot
 * [Scratch](https://scratch.mit.edu/) – programming environment by MIT
 * [ScratchJr](http://scratchjr.org/) – programming for 6-7 year olds (iOS/Android only)
+* [Codemoji](https://codemoji.com/) – online playground for learning HTML + CSS
+* [Tynker](https://www.tynker.com/) – online coding platform with many prepared lessons
 * [Scottie Go](https://scottiego.com) – haptic programming game in English, Polish and Korean (commercial)
 * [Unplugged Classroom activities](https://teachinglondoncomputing.org/resources/inspiring-unplugged-classroom-activities/)
 - [Open Tech School Intro to Python](http://opentechschool.github.io/python-beginners/)
 * [Code + Go Robot Mouse](https://www.learningresources.com/code-gor-robot-mouse-activity-set)
 * [Lego Education](https://education.lego.com/de-de)
-* [Space Alert Board Game](https://www.boardgamegeek.com/boardgame/38453/space-alert) – with time pressure, very difficult, good game for geeks
 
 ## Flipped Class
 
