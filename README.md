@@ -119,6 +119,7 @@
 
 ## Advanced Teaching Methods
 
+* [Tricks with Bricks](advanced/tricks_with_bricks.md)
 * [Fishbowl with Experts](advanced/fishbowl.md)
 * [Panel Discussion](advanced/panel_discussion.md)
 * [Group Puzzle](advanced/group_puzzle.md)
