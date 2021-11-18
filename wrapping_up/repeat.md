@@ -12,3 +12,10 @@ Here are a few extra methods for repeating.
 * Infographics:  Place cheat sheets / infographics in the room, so that participants see them all the time. You don't have to do anything else, just let the knowledge slowly trickle in.
 * ask 3 participants to summarize the lesson in 60 seconds.
 * leaning parcours: place 8-10 small + easy exercises in the room, let students move around and complete them
+* share links to online videos / online events / web pages for recap
+* teacher draws diagram showing the main concepts from the day
+* fill-in-blanks exercises
+* debug a prepared piece of code
+* show a piece of code, let students anticipate the output
+* prepare a question pool of easy questions
+* ask them for their questions (and preserve the right not to answer them)

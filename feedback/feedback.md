@@ -43,3 +43,9 @@ Things I did not write out in detail or haven't tried yet:
 | Postcards | pick a postcard that expresses your mood and explain why |
 | Treasure box | collect hints for the follow-up course |
 | Hot or Not | ask about pairs of items: which is more important -> priorities |
+| more.. same.. less..  | let students collect items in the three columns, then vote. Also: Start Stop Continue |
+| Draw it  | ask students to draw their new superpower / the week  |
+| Weather  | quick temperature check on the mood of students: sunny, cloudy, rain, wind, snow |
+| Plus / Delta  | collect items in two categories: *"more of it"* and *"change"* |
+| One Word | summarize a lesson in one word. See [www.funretrospectives.com/one-word-before-leaving/](http://www.funretrospectives.com/one-word-before-leaving/) |
+| Closing ritual | [Appreciations](https://luis-goncalves.com/agile-retrospective-appreciations/) |
