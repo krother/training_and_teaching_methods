@@ -25,6 +25,7 @@
 * [Concept Maps](planning/concept_maps.md)
 * [Lesson Plans](planning/lesson_plans.md)
 * [Priming](planning/priming.md)
+* [Example Lesson: Create Tables in SQL](penguin_lesson/README.md)
 
 ----
 
