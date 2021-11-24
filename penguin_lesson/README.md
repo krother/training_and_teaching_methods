@@ -9,8 +9,8 @@
 
 ----
 
-In this article, I want to bring together all elements of planning in a single lesson.
-I chose the SQL **CREATE TABLE** statement as a topic, because I assume most of you will understand it.
+In this article, I want to bring together all elements of lesson planning in a complete description of a single lesson.
+As a lesson topic, I chose the SQL **CREATE TABLE** statement as a topic, because I assume most of you will understand it.
 In the following, I will describe the parts of the lesson, their use and explain a bit why it is designed the way it is.
 
 **You find a teaching-ready description of the lesson in :::file penguin_lesson.zip **
