@@ -11,7 +11,9 @@
 ## Fundamentals
 
 * [Teaching is a Craft](fundamentals/teaching_craft.md)
+* [Why Programming is difficult to teach](fundamentals/why_programming_is_difficult_to_teach.md)
 * [The Teaching Process](fundamentals/teaching_process.md)
+* [Types of Students](fundamentals/types_of_students.md)
 * [The Students](fundamentals/students.md)
 * [The Teacher](fundamentals/teacher.md)
 * [External Factors](fundamentals/external_factors.md)
