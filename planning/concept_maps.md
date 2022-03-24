@@ -100,6 +100,13 @@ A Concept Map is a powerful tool, because you can use it in many ways:
 * draw the Concept Map on paper, put it up in class
 * let them work on strongly facilitated exercises and let them draw the concept maps themselves
 * zoom into one particular concept of a concept map learned in a previous lesson.
+* organize content for yourself and other teachers
+* demonstrate to students what is important
+* attach new information next to known things
+* answer conceptual confusion questions ("where does this belong?")
+* zoom in on a particular concept
+* improvise
+
 
 To be useful, it is not enough to show a Concept Map on a slide briefly. Participants need to see it many times to accept it as a central hub around which they construct their knowledge. Ideally, a Concept Map is visible **all the time**.
 

@@ -1,6 +1,8 @@
 
 # The Students
 
+![students](../images/audience.png)
+
 The first and last thing to keep in mind as a teacher is your audience.
 Students are the main ingredient of any teaching.
 Everything else (including yourself) is dispensible, but without students, there is no learning.

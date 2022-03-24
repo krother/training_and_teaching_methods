@@ -20,13 +20,13 @@
 
 ----
 
-## Planning
+## Preparing Lessons
 
 * [Preparing Lessons](planning/preparing_lessons.md)
 * [Learning Goals](planning/goals.md)
 * [Concept Maps](planning/concept_maps.md)
+* [Structure of a Lesson](planning/lesson_structure.md)
 * [Lesson Plans](planning/lesson_plans.md)
-* [Priming](planning/priming.md)
 * [Example Lesson: Create Tables in SQL](penguin_lesson/README.md)
 
 ----
@@ -44,6 +44,7 @@
 
 ## Warming Up
 
+* [Priming](getting_started/priming.md)
 * [One-Liners](getting_started/one_liners.md)
 * [Buggy Code](getting_started/buggy_code.md)
 * [Upside-Down](getting_started/upside_down.md)
