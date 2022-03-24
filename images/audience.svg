@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320.09448"
+   height="180.36218"
+   id="svg3056"
+   version="1.1"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="audience.svg"
+   inkscape:export-filename="/home/kristian/Desktop/teaching_course/01_fundamentals/audience.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs3058">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3169"
+       is_visible="true"
+       pattern="m 0.25,6.6785023 v 3.18407 0.0413 c 0.0286,1.7982597 1.95291,3.2667697 4.30056,3.2667697 2.05282,0 3.79672,-1.12066 4.21786,-2.60514 0.0864,0.009 0.15839,0.0413 0.24811,0.0413 1.07663,0 1.94352,-0.6904697 1.94352,-1.5713497 0,-0.88089 -0.86689,-1.61271 -1.94352,-1.61271 -0.0756,0 -0.13356,0.0344 -0.20676,0.0413 v -0.78568 H 0.25 Z m 8.76653,1.53001 c 0.62751,0 1.11649,0.36221 1.11649,0.82703 0,0.46482 -0.48898,0.82703 -1.11649,0.82703 -0.0716,0 -0.13839,-0.0323 -0.20676,-0.0413 v -1.57136 c 0.0684,-0.009 0.13522,-0.0413 0.20676,-0.0413 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="191.77869"
+     inkscape:cy="125.61421"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-nodes="false"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3061">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-872.00003)">
+    <path
+       style="fill:#b7d583;fill-opacity:1;stroke:#000000;stroke-width:1.36444759;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 68.948695,901.54038 c -17.335516,0 -31.375356,8.36335 -31.375356,18.70434 0,10.12547 13.46075,18.32282 30.296426,18.66222 l -3.10732,21.86386 15.92504,-23.12767 c 11.51496,-2.77438 19.636575,-9.53545 19.636575,-17.39841 0,-10.34099 -14.039835,-18.70434 -31.375365,-18.70434 z"
+       id="path3203"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3017"
+       d="m 126.20584,1001.7191 c -9.90258,0 -17.90625,9.7241 -17.90625,21.7188 0,1.9246 0.20579,3.7856 0.59375,5.5625 h 34.625 c 0.38796,-1.7769 0.625,-3.6379 0.625,-5.5625 0,-11.9947 -8.03492,-21.7188 -17.9375,-21.7188 z"
+       style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <circle
+       id="path3019"
+       style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       cx="126.21754"
+       cy="990.36298"
+       r="9.8489876" />
+    <path
+       style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 170.72967,1001.7191 c -9.90258,0 -17.90625,9.7241 -17.90625,21.7188 0,1.9246 0.20579,3.7856 0.59375,5.5625 h 34.625 c 0.38796,-1.7769 0.625,-3.6379 0.625,-5.5625 0,-11.9947 -8.03492,-21.7188 -17.9375,-21.7188 z"
+       id="path3077"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <circle
+       style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3079"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       cx="170.74136"
+       cy="990.36298"
+       r="9.8489876" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3083"
+       d="m 215.25348,1001.7191 c -9.90258,0 -17.90625,9.7241 -17.90625,21.7188 0,1.9246 0.20579,3.7856 0.59375,5.5625 h 34.625 c 0.38796,-1.7769 0.625,-3.6379 0.625,-5.5625 0,-11.9947 -8.03492,-21.7188 -17.9375,-21.7188 z"
+       style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <circle
+       id="path3085"
+       style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       cx="215.26518"
+       cy="990.36298"
+       r="9.8489876" />
+    <path
+       style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 259.77727,1001.7191 c -9.90258,0 -17.90625,9.7241 -17.90625,21.7188 0,1.9246 0.20579,3.7856 0.59375,5.5625 h 34.625 c 0.38796,-1.7769 0.625,-3.6379 0.625,-5.5625 0,-11.9947 -8.03492,-21.7188 -17.9375,-21.7188 z"
+       id="path3089"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <circle
+       style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3091"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       cx="259.78897"
+       cy="990.36298"
+       r="9.8489876" />
+    <g
+       id="g3110"
+       transform="translate(-205.20711,558.06732)"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3017-7"
+         d="m 255.87465,426.36217 c -7.29496,0 -13.19105,8.35895 -13.19105,18.66971 0,0.51474 0.0172,1.02758 0.046,1.53118 v 24.4721 h 26.31304 v -24.4721 c 0.032,-0.5036 0.046,-1.01644 0.046,-1.53118 0,-10.31076 -5.91911,-18.66971 -13.21408,-18.66971 z"
+         style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:0.79577202;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         transform="translate(-104.80948,314.0598)"
+         style="fill:#90bf40;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path3019-4"
+         cx="360.87698"
+         cy="101.05103"
+         r="9.8489876" />
+    </g>
+    <path
+       sodipodi:type="star"
+       style="fill:#b7d583;fill-opacity:1;stroke:#000000;stroke-width:2.02288508;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3114"
+       sodipodi:sides="7"
+       sodipodi:cx="353.92856"
+       sodipodi:cy="376.64789"
+       sodipodi:r1="36.833141"
+       sodipodi:r2="31.223574"
+       sodipodi:arg1="-0.93472311"
+       sodipodi:arg2="-0.48592416"
+       inkscape:flatsided="false"
+       inkscape:rounded="0.41"
+       inkscape:randomized="2.7755576e-17"
+       d="m 375.80896,347.01803 c 5.3105,3.92158 2.64577,9.21029 5.72885,15.04765 3.08308,5.83735 8.95348,6.61811 9.19851,13.21508 0.24503,6.59698 -5.55128,7.81106 -8.19284,13.86105 -2.64156,6.04998 0.40815,11.12644 -4.5968,15.43116 -5.00495,4.30471 -9.5681,0.52994 -15.94515,2.23679 -6.37705,1.70685 -8.44452,7.25634 -14.93062,6.02726 -6.4861,-1.22909 -6.37995,-7.15023 -11.69044,-11.07181 -5.3105,-3.92158 -10.9383,-2.07794 -14.02139,-7.9153 -3.08308,-5.83735 1.61245,-9.44613 1.36742,-16.04311 -0.24503,-6.59697 -5.19532,-9.84748 -2.55376,-15.89746 2.64156,-6.04999 8.39062,-4.62892 13.39558,-8.93363 5.00495,-4.30472 4.45984,-10.20167 10.83689,-11.90852 6.37706,-1.70685 8.8505,3.67398 15.3366,4.90306 6.4861,1.22908 10.75666,-2.87379 16.06715,1.04778 z"
+       inkscape:transform-center-x="2.3761412"
+       inkscape:transform-center-y="0.96600068"
+       transform="matrix(-0.5692391,0,0,0.38640502,335.61871,807.28431)"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="fill:#b7d583;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3116"
+       transform="scale(-1,1)"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       cx="-139.70345"
+       cy="972.2572"
+       rx="2.5"
+       ry="2.1428571" />
+    <ellipse
+       id="path3118"
+       style="fill:#b7d583;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(-1,1)"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       cx="-133.63202"
+       cy="976.18579"
+       rx="2.5"
+       ry="2.1428571" />
+    <path
+       transform="matrix(-0.5692391,0,0,0.38640502,380.61871,807.28431)"
+       inkscape:transform-center-y="0.96600068"
+       inkscape:transform-center-x="2.3761412"
+       d="m 375.80896,347.01803 c 5.3105,3.92158 2.64577,9.21029 5.72885,15.04765 3.08308,5.83735 8.95348,6.61811 9.19851,13.21508 0.24503,6.59698 -5.55128,7.81106 -8.19284,13.86105 -2.64156,6.04998 0.40815,11.12644 -4.5968,15.43116 -5.00495,4.30471 -9.5681,0.52994 -15.94515,2.23679 -6.37705,1.70685 -8.44452,7.25634 -14.93062,6.02726 -6.4861,-1.22909 -6.37995,-7.15023 -11.69044,-11.07181 -5.3105,-3.92158 -10.9383,-2.07794 -14.02139,-7.9153 -3.08308,-5.83735 1.61245,-9.44613 1.36742,-16.04311 -0.24503,-6.59697 -5.19532,-9.84748 -2.55376,-15.89746 2.64156,-6.04999 8.39062,-4.62892 13.39558,-8.93363 5.00495,-4.30472 4.45984,-10.20167 10.83689,-11.90852 6.37706,-1.70685 8.8505,3.67398 15.3366,4.90306 6.4861,1.22908 10.75666,-2.87379 16.06715,1.04778 z"
+       inkscape:randomized="2.7755576e-17"
+       inkscape:rounded="0.41"
+       inkscape:flatsided="false"
+       sodipodi:arg2="-0.48592416"
+       sodipodi:arg1="-0.93472311"
+       sodipodi:r2="31.223574"
+       sodipodi:r1="36.833141"
+       sodipodi:cy="376.64789"
+       sodipodi:cx="353.92856"
+       sodipodi:sides="7"
+       id="path3120"
+       style="fill:#b7d583;fill-opacity:1;stroke:#000000;stroke-width:2.02288508;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="star"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       transform="scale(-1,1)"
+       id="path3122"
+       style="fill:#b7d583;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       cx="-184.70345"
+       cy="972.2572"
+       rx="2.5"
+       ry="2.1428571" />
+    <ellipse
+       transform="scale(-1,1)"
+       style="fill:#b7d583;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3124"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       cx="-178.63202"
+       cy="976.18579"
+       rx="2.5"
+       ry="2.1428571" />
+    <path
+       sodipodi:type="star"
+       style="fill:#b7d583;fill-opacity:1;stroke:#000000;stroke-width:2.02288508;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3126"
+       sodipodi:sides="7"
+       sodipodi:cx="353.92856"
+       sodipodi:cy="376.64789"
+       sodipodi:r1="36.833141"
+       sodipodi:r2="31.223574"
+       sodipodi:arg1="-0.93472311"
+       sodipodi:arg2="-0.48592416"
+       inkscape:flatsided="false"
+       inkscape:rounded="0.41"
+       inkscape:randomized="2.7755576e-17"
+       d="m 375.80896,347.01803 c 5.3105,3.92158 2.64577,9.21029 5.72885,15.04765 3.08308,5.83735 8.95348,6.61811 9.19851,13.21508 0.24503,6.59698 -5.55128,7.81106 -8.19284,13.86105 -2.64156,6.04998 0.40815,11.12644 -4.5968,15.43116 -5.00495,4.30471 -9.5681,0.52994 -15.94515,2.23679 -6.37705,1.70685 -8.44452,7.25634 -14.93062,6.02726 -6.4861,-1.22909 -6.37995,-7.15023 -11.69044,-11.07181 -5.3105,-3.92158 -10.9383,-2.07794 -14.02139,-7.9153 -3.08308,-5.83735 1.61245,-9.44613 1.36742,-16.04311 -0.24503,-6.59697 -5.19532,-9.84748 -2.55376,-15.89746 2.64156,-6.04999 8.39062,-4.62892 13.39558,-8.93363 5.00495,-4.30472 4.45984,-10.20167 10.83689,-11.90852 6.37706,-1.70685 8.8505,3.67398 15.3366,4.90306 6.4861,1.22908 10.75666,-2.87379 16.06715,1.04778 z"
+       inkscape:transform-center-x="2.3761412"
+       inkscape:transform-center-y="0.96600068"
+       transform="matrix(-0.5692391,0,0,0.38640502,426.69014,807.28431)"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="fill:#b7d583;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3128"
+       transform="scale(-1,1)"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       cx="-230.7749"
+       cy="972.2572"
+       rx="2.5"
+       ry="2.1428571" />
+    <ellipse
+       id="path3130"
+       style="fill:#b7d583;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(-1,1)"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       cx="-224.70346"
+       cy="976.18579"
+       rx="2.5"
+       ry="2.1428571" />
+    <path
+       transform="matrix(-0.5692391,0,0,0.38640502,472.76157,807.28431)"
+       inkscape:transform-center-y="0.96600068"
+       inkscape:transform-center-x="2.3761412"
+       d="m 375.80896,347.01803 c 5.3105,3.92158 2.64577,9.21029 5.72885,15.04765 3.08308,5.83735 8.95348,6.61811 9.19851,13.21508 0.24503,6.59698 -5.55128,7.81106 -8.19284,13.86105 -2.64156,6.04998 0.40815,11.12644 -4.5968,15.43116 -5.00495,4.30471 -9.5681,0.52994 -15.94515,2.23679 -6.37705,1.70685 -8.44452,7.25634 -14.93062,6.02726 -6.4861,-1.22909 -6.37995,-7.15023 -11.69044,-11.07181 -5.3105,-3.92158 -10.9383,-2.07794 -14.02139,-7.9153 -3.08308,-5.83735 1.61245,-9.44613 1.36742,-16.04311 -0.24503,-6.59697 -5.19532,-9.84748 -2.55376,-15.89746 2.64156,-6.04999 8.39062,-4.62892 13.39558,-8.93363 5.00495,-4.30472 4.45984,-10.20167 10.83689,-11.90852 6.37706,-1.70685 8.8505,3.67398 15.3366,4.90306 6.4861,1.22908 10.75666,-2.87379 16.06715,1.04778 z"
+       inkscape:randomized="2.7755576e-17"
+       inkscape:rounded="0.41"
+       inkscape:flatsided="false"
+       sodipodi:arg2="-0.48592416"
+       sodipodi:arg1="-0.93472311"
+       sodipodi:r2="31.223574"
+       sodipodi:r1="36.833141"
+       sodipodi:cy="376.64789"
+       sodipodi:cx="353.92856"
+       sodipodi:sides="7"
+       id="path3132"
+       style="fill:#b7d583;fill-opacity:1;stroke:#000000;stroke-width:2.02288508;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="star"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       transform="scale(-1,1)"
+       id="path3134"
+       style="fill:#b7d583;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       cx="-276.84631"
+       cy="972.2572"
+       rx="2.5"
+       ry="2.1428571" />
+    <ellipse
+       transform="scale(-1,1)"
+       style="fill:#b7d583;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3136"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       cx="-270.7749"
+       cy="976.18579"
+       rx="2.5"
+       ry="2.1428571" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 266.58073,953.29678 v 3.18407 0.0413 c 0.0286,1.79826 1.95291,3.26677 4.30056,3.26677 2.05282,0 3.79672,-1.12066 4.21786,-2.60514 0.0864,0.009 0.15839,0.0413 0.24811,0.0413 1.07663,0 1.94352,-0.69047 1.94352,-1.57135 0,-0.88089 -0.86689,-1.61271 -1.94352,-1.61271 -0.0756,0 -0.13356,0.0344 -0.20676,0.0413 v -0.78568 h -8.55977 z m 8.76653,1.53001 c 0.62751,0 1.11649,0.36221 1.11649,0.82703 0,0.46482 -0.48898,0.82703 -1.11649,0.82703 -0.0716,0 -0.13839,-0.0323 -0.20676,-0.0413 v -1.57136 c 0.0684,-0.009 0.13522,-0.0413 0.20676,-0.0413 z"
+       id="path3057"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 267.76902,951.55008 c 4.22597,-1.41787 -1.62517,-2.65115 1.12661,-4.72074"
+       id="path3083-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3085-9"
+       d="m 269.91187,951.55008 c 4.22597,-1.41787 -1.62517,-2.65115 1.12661,-4.72074"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 272.05474,951.55008 c 4.22597,-1.41787 -1.62517,-2.65115 1.12661,-4.72074"
+       id="path3087"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3165"
+       width="14.285714"
+       height="14.285714"
+       x="171.57861"
+       y="946.18579"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 174.25131,949.32661 h 8.9651"
+       id="path3180"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3182"
+       d="m 174.25131,951.31535 h 8.9651"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 174.25131,953.30408 h 8.9651"
+       id="path3184"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3186"
+       d="m 174.25131,955.29281 h 8.9651"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 174.25131,957.28157 h 8.9651"
+       id="path3188"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 221.77057,947.77891 c -1.97244,0 -3.56986,0.9369 -3.59375,3.59375 -0.0239,2.65685 7.14286,7.95089 7.14286,7.95089 0,0 7.09374,-5.45106 7.13839,-7.95089 0.0446,-2.49983 -1.59005,-3.59375 -3.5625,-3.59375 -1.97244,0 -3.5625,1.6213 -3.5625,3.59375 0,-1.97245 -1.59005,-3.59375 -3.5625,-3.59375 z"
+       id="path3190"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="szczscs"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3323"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-240.92139,558.10927)"><flowRegion
+         id="flowRegion3325"
+         style="font-family:sans-serif"><rect
+           id="rect3327"
+           width="57.578693"
+           height="61.619305"
+           x="362.64478"
+           y="350.81125"
+           style="font-size:16px;font-family:sans-serif" /></flowRegion><flowPara
+         id="flowPara3329"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>    <g
+       id="g3509"
+       transform="matrix(0.17334352,0,0,0.17334352,97.230125,884.78321)"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         sodipodi:nodetypes="csscc"
+         inkscape:connector-curvature="0"
+         id="path3496"
+         d="m 235.71875,422.875 c -4.05489,1.85277 -8.51702,2.875 -13.21875,2.875 -18.37491,0 -33.28125,-15.68003 -33.28125,-35.03125 0,-19.35122 14.90634,-35.03125 33.28125,-35.03125 5.22553,-0.22766 13.21875,2.875 13.21875,2.875"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="383.04892"
+         x="181.75816"
+         height="0.76938742"
+         width="47.197956"
+         id="rect3502"
+         style="fill:none;stroke:#000000;stroke-width:5.94489813;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:5.94489813;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3504"
+         width="47.197956"
+         height="0.76938742"
+         x="181.75816"
+         y="396.26321" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot95"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(9.8489877,865.43404)"><flowRegion
+         id="flowRegion97"><rect
+           id="rect99"
+           width="107.07616"
+           height="48.739868"
+           x="41.163715"
+           y="25.051229" /></flowRegion><flowPara
+         id="flowPara101"
+         style="font-size:18.66666603px">{a}</flowPara></flowRoot>  </g>
+</svg>

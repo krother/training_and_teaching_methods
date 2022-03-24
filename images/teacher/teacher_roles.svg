@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.70081"
+   height="1122.5197"
+   id="svg3056"
+   version="1.1"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="teacher_roles.svg">
+  <defs
+     id="defs3058">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         id="path4440"
+         style="fill-rule:evenodd;stroke-width:0.40000001;stroke-linejoin:round"
+         d="M -5.5798962,-2.5815905 1.4126653,-0.01024849 -5.5798966,2.561093 c 1.117119,-1.518119 1.1106821,-3.5951692 4e-7,-5.1426835 z"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path4422"
+         d="M -4.2666667,0 -6.4,2.1333333 1.0666667,0 -6.4,-2.1333333 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.42666668pt"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4035"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3263"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3259"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3255"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3169"
+       is_visible="true"
+       pattern="m 0.25,6.6785023 v 3.18407 0.0413 c 0.0286,1.7982597 1.95291,3.2667697 4.30056,3.2667697 2.05282,0 3.79672,-1.12066 4.21786,-2.60514 0.0864,0.009 0.15839,0.0413 0.24811,0.0413 1.07663,0 1.94352,-0.6904697 1.94352,-1.5713497 0,-0.88089 -0.86689,-1.61271 -1.94352,-1.61271 -0.0756,0 -0.13356,0.0344 -0.20676,0.0413 v -0.78568 H 0.25 Z m 8.76653,1.53001 c 0.62751,0 1.11649,0.36221 1.11649,0.82703 0,0.46482 -0.48898,0.82703 -1.11649,0.82703 -0.0716,0 -0.13839,-0.0323 -0.20676,-0.0413 v -1.57136 c 0.0684,-0.009 0.13522,-0.0413 0.20676,-0.0413 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0968624"
+     inkscape:cx="297.10043"
+     inkscape:cy="777.51664"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-nodes="true"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-smooth-nodes="false" />
+  <metadata
+     id="metadata3061">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       inkscape:export-ydpi="149.98193"
+       inkscape:export-xdpi="149.98193"
+       inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+       y="11.002827"
+       x="534.40051"
+       height="181.29135"
+       width="179.79727"
+       id="rect3257"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06666672" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.13333344"
+       d="m 534.92994,12.061749 h 143.58661 c 0,0 54.93542,31.08783 54.53309,89.696101 -0.40234,58.60827 -54.53309,91.10418 -54.53309,91.10418 H 534.92994 Z"
+       id="rect3013"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczccc"
+       inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+       inkscape:export-xdpi="149.98193"
+       inkscape:export-ydpi="149.98193" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3798"
+       style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\talk_python.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion3800"
+         style="font-family:sans-serif;stroke-width:1.06666672"><rect
+           id="rect3802"
+           width="34.285713"
+           height="33.904762"
+           x="509.71429"
+           y="370.51965"
+           style="font-size:34.13333511px;font-family:sans-serif;stroke-width:1.13777781" /></flowRegion><flowPara
+         id="flowPara3804"
+         style="font-weight:bold;font-size:34.13333511px;line-height:1.25;font-family:sans-serif;stroke-width:1.06666672">?</flowPara></flowRoot>    <g
+       style="stroke:#000000;stroke-width:1.00845134"
+       inkscape:export-ydpi="149.98193"
+       inkscape:export-xdpi="149.98193"
+       inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+       transform="matrix(-1.9156618,-0.51330003,-0.51330003,1.9156618,2557.5522,-51.427051)"
+       id="g4339">
+      <path
+         sodipodi:nodetypes="ssssccs"
+         style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:1.07568145"
+         d="m 901.07373,296.00763 c -3.01378,1.74 -4.06012,2.86113 -5.0379,5.53534 -0.10989,0.30054 -4.03201,-0.0896 -4.37299,1.40277 -0.51696,2.26267 3.33104,3.27249 3.31243,3.61493 -0.12134,2.23439 0.52311,3.6864 1.72515,5.76839 10.04093,13.86761 26.64664,-0.85972 20.688,-11.94423 -3.29883,-5.71374 -10.60095,-7.67603 -16.31469,-4.3772 z"
+         id="path4343"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+         inkscape:export-xdpi="300.03"
+         inkscape:export-ydpi="300.03" />
+    </g>
+    <g
+       style="stroke:#000000;stroke-width:1.04075062"
+       inkscape:export-ydpi="149.98193"
+       inkscape:export-xdpi="149.98193"
+       inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+       transform="matrix(-1.9216899,0,0,1.9216899,2384.2868,-514.75188)"
+       id="g3265">
+      <path
+         inkscape:export-ydpi="300.03"
+         inkscape:export-xdpi="300.03"
+         inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+         inkscape:connector-curvature="0"
+         id="path3267"
+         d="m 861.59202,306.62693 c -1.51118,3.45163 -1.5693,7.14543 -1.81253,10.80838 l 29.36258,13.17563 -29.53663,-7.42365 c 0.17722,3.55978 0.24913,7.11958 1.7038,10.67937 l 27.88035,6.23957 -11.00084,20.11692 c 3.39207,4.4022 9.45204,8.00166 11.46072,7.71756 l 8.7554,-17.16237 14.97684,17.45638 12.95248,-0.34517 -9.42429,-22.46993 -11.7833,-17.50235 -7.82321,-8.78872 z"
+         style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:1.11013401"
+         sodipodi:nodetypes="ccccccccccccccc" />
+    </g>
+    <path
+       style="fill:none;stroke:none;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 54.544348,157.21155 c 210.530982,-44.41701 462.595702,-47.22502 669.753852,0"
+       id="path3097"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+       inkscape:export-xdpi="149.98193"
+       inkscape:export-ydpi="149.98193" />
+    <g
+       style="stroke:#000000;stroke-width:0.89693666"
+       inkscape:export-ydpi="300.03"
+       inkscape:export-xdpi="300.03"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\pull.png"
+       transform="matrix(1.1014593,0,0,1.1014593,-370.77148,441.78986)"
+       id="g3226" />
+    <g
+       id="g1270"
+       transform="translate(-299.05517,8.367123)"
+       inkscape:export-xdpi="299.12726"
+       inkscape:export-ydpi="299.12726">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         id="rect3188"
+         width="179.79727"
+         height="181.29135"
+         x="325.53452"
+         y="33.967453"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-ydpi="149.98193" />
+      <rect
+         style="fill:#cccccc;stroke:none;stroke-width:1.06666672"
+         id="rect3190"
+         width="179.5593"
+         height="48.478565"
+         x="326.62778"
+         y="168.33031"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-ydpi="149.98193" />
+      <path
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.06995094;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 325.9769,55.153212 c -0.65261,-31.486623 181.45711,-31.06618 180.44812,0 L 505.78656,86.35737 H 325.9769 Z"
+         id="rect1203"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.13333344"
+         d="M 506.42502,55.21837 V 215.82675 H 326.06395 V 55.21837 c -0.44607,-31.50235 180.73024,-32.60398 180.36107,0 z"
+         id="rect3192"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         id="g1150"
+         transform="matrix(0.72751771,0,0,0.72751771,-35.41938,-93.53978)"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-ydpi="149.98193">
+        <g
+           id="g1142"
+           transform="matrix(-1.4294522,0,0,1.4294522,1915.2454,-165.54828)"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\pull.png"
+           inkscape:export-xdpi="300.03"
+           inkscape:export-ydpi="300.03"
+           style="stroke:#000000;stroke-width:0.89693666">
+          <path
+             sodipodi:nodetypes="cccccccccccccccccc"
+             style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:0.95673245"
+             d="m 940.75852,289.52368 -9.95522,19.70754 -17.7486,10.30783 H 900.50761 L 883.0079,309.23122 872.31567,289.52368 h -7.74164 l 6.34132,27.69341 16.71624,27.22344 -13.26944,37.95836 h 18.70471 l 13.50292,-23.95327 14.7025,23.44765 h 14.92302 l -8.14112,-37.6096 15.2354,-27.06658 4.7955,-27.69341 z"
+             id="path1140"
+             inkscape:connector-curvature="0"
+             inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+             inkscape:export-xdpi="300.03"
+             inkscape:export-ydpi="300.03" />
+        </g>
+        <g
+           transform="translate(0.82302125)"
+           id="g1148">
+          <circle
+             style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:1.06666672;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle1144"
+             cx="618.22211"
+             cy="271.84982"
+             r="17.282948" />
+        </g>
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1164"
+         style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-ydpi="149.98193"
+         transform="translate(-208.37867,-172.25764)"><flowRegion
+           id="flowRegion1156"
+           style="font-family:sans-serif;stroke-width:1.06666672"><rect
+             id="rect1154"
+             width="155.15308"
+             height="21.764771"
+             x="546.45648"
+             y="224.19037"
+             style="font-family:sans-serif;stroke-width:1.13777781" /></flowRegion><flowPara
+           style="font-style:normal;font-weight:bold;font-size:17.06666756px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0.06400006px;text-anchor:middle;stroke-width:1.06666672"
+           id="flowPara1158">resilience</flowPara><flowPara
+           id="flowPara1160"
+           style="font-style:italic;font-weight:normal;font-size:17.06666756px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Italic';text-align:center;letter-spacing:0.06400006px;text-anchor:middle;stroke-width:1.06666672" /><flowPara
+           id="flowPara1162"
+           style="font-style:italic;font-weight:normal;font-size:17.06666756px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Italic';text-align:center;letter-spacing:0.06400006px;text-anchor:middle;stroke-width:1.06666672" /></flowRoot>    </g>
+    <g
+       id="g1355"
+       transform="translate(-536.48583,205.1764)"
+       inkscape:export-xdpi="299.12726"
+       inkscape:export-ydpi="299.12726"
+       inkscape:export-filename="/home/kristian/Desktop/teaching_course/01_fundamentals/passion.png">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="149.98193"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         id="rect3132"
+         d="M 562.31284,54.72894 H 742.11011 V 236.0203 H 562.31284 Z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06666672" />
+      <g
+         inkscape:export-ydpi="149.98193"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         transform="translate(28.748387,-169.01826)"
+         id="g4195">
+        <path
+           style="fill:#ffe680;stroke:none;stroke-width:1.06666672"
+           d="M 619.78969,379.29574 604.09313,225.02103 h -24.21754 l 32.73853,155.17166 z"
+           id="path4187"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffe680;stroke:none;stroke-width:1.06666672"
+           d="M 603.64466,380.64116 H 593.32978 L 539.96149,225.02103 h 20.18129 z"
+           id="path4189"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4191"
+           d="M 628.75915,379.29574 644.4557,225.02103 h 24.21754 l -32.73853,155.17166 z"
+           style="fill:#ffe680;stroke:none;stroke-width:1.06666672" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4193"
+           d="m 644.90417,380.64116 h 10.31488 l 53.36829,-155.62013 h -20.18129 z"
+           style="fill:#ffe680;stroke:none;stroke-width:1.06666672" />
+      </g>
+      <path
+         inkscape:export-ydpi="149.98193"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect3134"
+         d="m 580.53048,208.82451 h 145.84141 l -3.3499,27.76364 H 583.02355 Z"
+         style="fill:#cccccc;stroke:none;stroke-width:1.06666672" />
+      <path
+         inkscape:export-ydpi="149.98193"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect3136"
+         d="M 562.84227,55.78787 H 743.20333 L 723.02199,236.58815 H 583.02355 Z"
+         style="fill:none;stroke:#000000;stroke-width:2.13333344" />
+      <g
+         inkscape:export-ydpi="149.98193"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         transform="matrix(0.72751771,0,0,0.72751771,200.76941,-78.271918)"
+         id="g4177">
+        <g
+           style="stroke:#000000;stroke-width:0.89693666"
+           inkscape:export-ydpi="300.03"
+           inkscape:export-xdpi="300.03"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\pull.png"
+           transform="matrix(-1.4294522,0,0,1.4294522,1915.2454,-165.54828)"
+           id="g3142">
+          <path
+             inkscape:export-ydpi="300.03"
+             inkscape:export-xdpi="300.03"
+             inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+             inkscape:connector-curvature="0"
+             id="path3144"
+             d="m 943.90316,300.39838 -30.84846,19.14067 h -12.54709 l -33.85202,-20.12063 -3.09229,9.49653 33.21636,35.52558 -22.41751,37.95836 h 18.70471 l 13.50292,-23.95327 14.7025,23.44765 h 14.92302 l -18.71857,-37.6096 28.89308,-33.93978 z"
+             style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:0.95673245"
+             sodipodi:nodetypes="cccccccccccccc" />
+        </g>
+        <g
+           id="g4161"
+           transform="translate(0.82302125)">
+          <circle
+             r="17.282948"
+             cy="271.84982"
+             cx="618.22211"
+             id="path4141"
+             style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:1.06666672;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             id="path4124"
+             d="m 608.6221,277.46336 c 0.94135,4.4475 4.87215,7.8 9.6,7.8 4.725,0 8.65561,-3.35652 9.6,-7.8 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.06666672"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <ellipse
+         ry="5.6953802"
+         rx="28.476902"
+         cy="221.99916"
+         cx="653.02283"
+         inkscape:export-ydpi="149.98193"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         id="path4185"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.36836553" />
+      <flowRoot
+         transform="translate(28.590152,-149.99116)"
+         inkscape:export-ydpi="149.98193"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         id="flowRoot4201"
+         xml:space="preserve"><flowRegion
+           style="font-family:sans-serif;stroke-width:1.06666672"
+           id="flowRegion4203"><rect
+             style="font-family:sans-serif;stroke-width:1.13777781"
+             y="224.19037"
+             x="546.45648"
+             height="44.88916"
+             width="155.99394"
+             id="rect4205" /></flowRegion><flowPara
+           id="flowPara4237"
+           style="font-style:normal;font-weight:bold;font-size:17.06666756px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0.06400006px;text-anchor:middle;stroke-width:1.06666672">passion</flowPara><flowPara
+           style="font-style:italic;font-weight:normal;font-size:17.06666756px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Italic';text-align:center;letter-spacing:0.06400006px;text-anchor:middle;stroke-width:1.06666672"
+           id="flowPara4209"> </flowPara><flowPara
+           style="font-style:italic;font-weight:normal;font-size:17.06666756px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Italic';text-align:center;letter-spacing:0.06400006px;text-anchor:middle;stroke-width:1.06666672"
+           id="flowPara4211" /></flowRoot>      <path
+         style="fill:#dd55ff;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 643.25963,112.58755 c 5.80004,-1.2212 11.49294,-1.15683 17.09481,0 0,0 1.57187,9.53769 2.90753,10.85105 0.93281,0.91723 3.06856,1.24662 3.92468,0 0.85612,-1.24662 -1.07295,-13.03146 -5.73669,-16.53795 -4.90743,-3.68972 -13.25194,-4.32127 -18.39398,-0.96622 -5.19964,3.39263 -8.15725,15.20174 -6.59776,17.41797 0.75298,1.07009 3.31302,1.11291 3.92516,-0.0435 0.76791,-1.45073 2.87625,-10.72131 2.87625,-10.72131 z"
+         id="path1274"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccszaasscc" />
+    </g>
+    <g
+       id="g1310"
+       transform="translate(-225.26292,-225.96965)"
+       inkscape:export-xdpi="299.12726"
+       inkscape:export-ydpi="299.12726">
+      <flowRoot
+         transform="translate(257.29407,44.110429)"
+         style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot3323"
+         xml:space="preserve"><flowRegion
+           style="font-family:sans-serif;stroke-width:1.06666672px"
+           id="flowRegion3325"><rect
+             style="font-size:17.06666756px;font-family:sans-serif;stroke-width:1.13777781px"
+             y="374.19867"
+             x="386.82111"
+             height="65.727257"
+             width="61.417274"
+             id="rect3327" /></flowRegion><flowPara
+           style="font-size:17.06666756px;line-height:1.25;font-family:sans-serif;stroke-width:1.06666672px"
+           id="flowPara3329"> </flowPara></flowRoot>      <rect
+         inkscape:export-ydpi="149.98193"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         y="269.07977"
+         x="462.84106"
+         height="127.77484"
+         width="193.28114"
+         id="rect3247"
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#333333;stroke-width:2.45971942;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.13333344"
+         id="rect3122"
+         width="271.59738"
+         height="180.80029"
+         x="461.83694"
+         y="268.91656"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-ydpi="149.98193" />
+      <g
+         style="stroke:#000000;stroke-width:0.89693666"
+         inkscape:export-ydpi="149.98193"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         transform="matrix(2.2828789,0,0,2.2828789,-1387.313,-376.98806)"
+         id="g3124">
+        <path
+           sodipodi:nodetypes="ssssccs"
+           style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:0.95673245"
+           d="m 901.07373,296.00763 c -3.01378,1.74 -4.06012,2.86113 -5.0379,5.53534 -0.10989,0.30054 -4.03201,-0.0896 -4.37299,1.40277 -0.51696,2.26267 3.33104,3.27249 3.31243,3.61493 -0.12134,2.23439 0.52311,3.6864 1.72515,5.76839 10.04093,13.86761 26.64664,-0.85972 20.688,-11.94423 -3.29883,-5.71374 -10.60095,-7.67603 -16.31469,-4.3772 z"
+           id="path3126"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+           inkscape:export-xdpi="300.03"
+           inkscape:export-ydpi="300.03" />
+      </g>
+      <path
+         sodipodi:nodetypes="ccccccccccccccc"
+         style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:2.13333344"
+         d="m 703.12612,425.26584 8.30104,23.40143 -66.84783,-0.56856 10.79088,-22.83287 h 47.75591 l 4.82224,-30.50407 24.48227,39.7894 0.17718,-40.07405 -20.11717,-31.16282 -16.14247,-11.65298 h -27.75455 l -82.73337,-34.04129 0.0301,23.73018 64.48978,33.3827 4.99025,50.53293"
+         id="path3130"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+         inkscape:export-xdpi="300.03"
+         inkscape:export-ydpi="300.03" />
+      <path
+         transform="matrix(2.2120305,0,0,2.2120305,-1323.3567,-355.1688)"
+         style="fill:none;stroke:#000000;stroke-width:7.71538496;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 903.23278,294.43949 c 0.98507,-0.48079 2.06116,-0.77427 3.15393,-0.86016 2.43565,-0.19143 4.92549,0.68648 6.74269,2.31952 1.81721,1.63305 2.94985,3.99046 3.1492,6.42548 0.1617,1.9751 -0.26302,3.95543 -0.20202,5.93619 0.0305,0.99038 0.18634,1.98832 0.58261,2.89648 0.39627,0.90816 1.04744,1.72415 1.91318,2.20611 1.0804,0.60147 2.46159,0.62504 3.56189,0.0608 1.1003,-0.56425 1.88715,-1.69964 2.02918,-2.928"
+         id="path3261"
+         inkscape:path-effect="#path-effect3263"
+         inkscape:original-d="m 903.23278,294.43949 c 0.76426,-1.09497 2.11943,-0.34291 3.15393,-0.86016 4.81438,-2.40719 8.88016,5.70983 9.89189,8.745 0.95189,2.85566 0.36082,9.10582 2.29377,11.03878 0.48361,0.4836 5.26401,-2.21309 5.59107,-2.86722"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csssc" />
+      <flowRoot
+         transform="matrix(2.2120305,0,0,2.2120305,-1405.7636,-355.1688)"
+         xml:space="preserve"
+         id="flowRoot4037"
+         style="font-style:normal;font-weight:normal;font-size:5.7865386px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43251321"><flowRegion
+           id="flowRegion4039"
+           style="font-family:sans-serif;stroke-width:0.43251321"><rect
+             id="rect4041"
+             width="70.554466"
+             height="27.978497"
+             x="850.81317"
+             y="286.93967"
+             style="font-family:sans-serif;stroke-width:0.20856287" /></flowRegion><flowPara
+           id="flowPara4043"
+           style="font-weight:bold;font-size:8.67980766px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0.02893272px;stroke-width:0.43251321">teaching</flowPara></flowRoot>      <flowRoot
+         style="font-style:normal;font-weight:normal;font-size:5.7865386px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43251321"
+         id="flowRoot1290"
+         xml:space="preserve"
+         transform="matrix(2.2120305,0,0,2.2120305,-1405.7636,-329.94219)"><flowRegion
+           style="font-family:sans-serif;stroke-width:0.43251321"
+           id="flowRegion1286"><rect
+             style="font-family:sans-serif;stroke-width:0.20856287"
+             y="286.93967"
+             x="850.81317"
+             height="27.978497"
+             width="70.554466"
+             id="rect1284" /></flowRegion><flowPara
+           style="font-weight:bold;font-size:8.67980766px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0.02893272px;stroke-width:0.43251321"
+           id="flowPara1288">methods</flowPara></flowRoot>    </g>
+    <g
+       id="g1483"
+       transform="translate(-18.499511,-47.930552)"
+       inkscape:export-xdpi="299.12726"
+       inkscape:export-ydpi="299.12726">
+      <rect
+         style="fill:#cccccc;stroke:none;stroke-width:1.06666672"
+         id="rect3218"
+         width="271.72177"
+         height="48.478577"
+         x="255.16441"
+         y="442.36758"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-ydpi="149.98193" />
+      <rect
+         inkscape:export-ydpi="149.98193"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         y="308.00473"
+         x="254.43353"
+         height="181.8593"
+         width="272.69061"
+         id="rect3220"
+         style="fill:none;stroke:#000000;stroke-width:2.13333344" />
+      <g
+         inkscape:export-ydpi="149.98193"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         transform="matrix(0.89475231,0,0,0.89475231,-225.35977,-292.09652)"
+         id="g5297">
+        <g
+           id="g4382"
+           transform="translate(57.758426,-30.492679)">
+          <circle
+             r="9.9449787"
+             cy="817.78784"
+             cx="564.83325"
+             style="fill:#ffe680;fill-opacity:1;stroke:#000000;stroke-width:1.5999999"
+             id="path4269" />
+          <flowRoot
+             style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+             id="flowRoot4307"
+             xml:space="preserve"><flowRegion
+               style="font-family:sans-serif;stroke-width:1.06666672"
+               id="flowRegion4309"><rect
+                 style="font-family:sans-serif;stroke-width:1.13777781"
+                 y="808.5188"
+                 x="559.88361"
+                 height="24.101021"
+                 width="17.758589"
+                 id="rect4311" /></flowRegion><flowPara
+               style="font-weight:normal;font-size:14.9333334px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;stroke-width:1.06666672"
+               id="flowPara4313">d</flowPara></flowRoot>        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+           d="m 606.52866,704.31768 29.40089,-0.23495"
+           id="path4403"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <g
+           transform="translate(3.289295)"
+           id="g1383">
+          <g
+             transform="translate(29.50199,-38.836999)"
+             id="g4361">
+            <circle
+               style="fill:#ffe680;fill-opacity:1;stroke:#000000;stroke-width:1.5999999"
+               id="path4263"
+               cx="564.83325"
+               cy="742.97467"
+               r="9.9449787" />
+            <flowRoot
+               style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+               id="flowRoot4283"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion4285"
+                 style="font-family:sans-serif;stroke-width:1.06666672"><rect
+                   y="733.62384"
+                   x="559.88361"
+                   height="24.101021"
+                   width="17.758589"
+                   id="rect4287"
+                   style="font-family:sans-serif;stroke-width:1.13777781" /></flowRegion><flowPara
+                 style="font-weight:normal;font-size:14.9333334px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;stroke-width:1.06666672"
+                 id="flowPara4289">a</flowPara></flowRoot>          </g>
+          <g
+             transform="translate(79.436271,-63.519949)"
+             id="g4368">
+            <circle
+               id="path4265"
+               style="fill:#ffe680;fill-opacity:1;stroke:#000000;stroke-width:1.5999999"
+               cx="564.83325"
+               cy="767.91235"
+               r="9.9449787" />
+            <flowRoot
+               xml:space="preserve"
+               id="flowRoot4291"
+               style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+               transform="translate(0,1.879597)"><flowRegion
+                 id="flowRegion4293"
+                 style="font-family:sans-serif;stroke-width:1.06666672"><rect
+                   id="rect4295"
+                   width="17.758589"
+                   height="24.101021"
+                   x="559.88361"
+                   y="758.73828"
+                   style="font-family:sans-serif;stroke-width:1.13777781" /></flowRegion><flowPara
+                 id="flowPara4297"
+                 style="font-weight:normal;font-size:14.9333334px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;stroke-width:1.06666672">b</flowPara></flowRoot>          </g>
+        </g>
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path5229"
+           d="m 658.91737,752.53006 -27.42396,25.55568"
+           style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+        <g
+           transform="translate(-6.4611135,-5.9474558)"
+           id="g1369">
+          <g
+             transform="translate(109.74477,-41.186175)"
+             id="g4375">
+            <circle
+               style="fill:#ffe680;fill-opacity:1;stroke:#000000;stroke-width:1.5999999"
+               id="path4267"
+               cx="564.83325"
+               cy="792.8501"
+               r="9.9449787" />
+            <flowRoot
+               style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+               id="flowRoot4299"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion4301"
+                 style="font-family:sans-serif;stroke-width:1.06666672"><rect
+                   y="783.62854"
+                   x="559.88361"
+                   height="24.101021"
+                   width="17.758589"
+                   id="rect4303"
+                   style="font-family:sans-serif;stroke-width:1.13777781" /></flowRegion><flowPara
+                 style="font-weight:normal;font-size:14.9333334px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;stroke-width:1.06666672"
+                 id="flowPara4305">c</flowPara></flowRoot>          </g>
+          <g
+             transform="translate(18.694308,-91.061602)"
+             id="g4389">
+            <circle
+               style="fill:#ffe680;fill-opacity:1;stroke:#000000;stroke-width:1.5999999"
+               id="path4271"
+               cx="564.83325"
+               cy="842.72552"
+               r="9.9449787" />
+            <flowRoot
+               style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+               id="flowRoot4315"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion4317"
+                 style="font-family:sans-serif;stroke-width:1.06666672"><rect
+                   y="833.18481"
+                   x="559.88361"
+                   height="24.101021"
+                   width="17.758589"
+                   id="rect4319"
+                   style="font-family:sans-serif;stroke-width:1.13777781" /></flowRegion><flowPara
+                 style="font-weight:normal;font-size:14.9333334px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;stroke-width:1.06666672"
+                 id="flowPara4321">e</flowPara></flowRoot>          </g>
+        </g>
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path5039"
+           d="m 651.41444,712.79281 11.56709,22.19469"
+           style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+           d="m 580.90289,736.56577 11.31789,-22.11162"
+           id="path1385"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+           d="M 615.30707,779.40425 587.80004,753.18404"
+           id="path1387"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         transform="matrix(1.1199848,0,0,1.1199848,-47.103309,-56.080468)"
+         id="g1428">
+        <path
+           inkscape:export-ydpi="300.03"
+           inkscape:export-xdpi="300.03"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+           inkscape:connector-curvature="0"
+           id="path3228"
+           d="M 476.32032,438.69692 450.79449,405.52471 H 437.5562 l -38.60275,-17.2536 4.30928,6.3215 -0.42865,3.90735 27.74593,28.72494 -12.88535,44.62248 h 18.56477 l 6.36881,-24.94179 5.83537,24.40832 h 16.44729 l -9.43902,-38.81393 18.53558,20.90354 z"
+           style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:1.00943708"
+           sodipodi:nodetypes="ccccccccccccccc" />
+        <g
+           id="g5280"
+           transform="matrix(0.95790026,0,0,0.95790026,-155.67823,-356.09655)">
+          <g
+             id="g4161-5"
+             transform="matrix(0.76424692,0,0,0.76424692,153.24097,572.29165)">
+            <circle
+               r="17.282948"
+               cy="271.84982"
+               cx="618.22211"
+               id="path4141-6"
+               style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:1.06666672;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          </g>
+          <g
+             transform="translate(0,2.5765862)"
+             id="g5276">
+            <path
+               style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.53865653;stroke-linecap:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+               d="m 624.5,777.8 c 0,-1.10127 -0.8654,-2 -1.96667,-2 h -2.6 c -1.10127,0 -2,0.89873 -2,2 v 1.8 c 0,1.10128 0.89873,2 2,2 h 2.6 c 1.10127,0 1.96667,-0.89872 1.96667,-2 v -1.8 m 1.73333,-0.0667 V 779.5 c 0,1.07068 0.86267,1.93333 1.93334,1.93333 h 2.7 c 1.07066,0 1.93333,-0.86265 1.93333,-1.93333 v -1.76667 c 0,-1.07066 -0.86267,-1.93333 -1.93333,-1.93333 h -2.7 c -1.07067,0 -1.93334,0.86267 -1.93334,1.93333"
+               id="rect5237"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="csssssssccsssssssc" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1.04967451px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 613.26058,773.9018 4.9034,1.97403 h 14.40719 l 5.45138,-1.88795"
+               id="path5241"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+        <path
+           style="fill:#dd55ff;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 435.1208,384.95447 c 5.80004,-1.2212 11.49294,-1.15683 17.09481,0 0,0 1.57187,9.53769 2.90753,10.85105 0.93281,0.91723 3.06856,1.24662 3.92468,0 0.85612,-1.24662 -1.07295,-13.03146 -5.73669,-16.53795 -4.90743,-3.68972 -13.25194,-4.32127 -18.39398,-0.96622 -5.19964,3.39263 -8.15725,15.20174 -6.59776,17.41797 0.75298,1.07009 3.31302,1.11291 3.92516,-0.0435 0.76791,-1.45073 2.87625,-10.72131 2.87625,-10.72131 z"
+           id="path1272"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccszaasscc" />
+      </g>
+      <flowRoot
+         transform="matrix(2.2120305,0,0,2.2120305,-1483.7286,-305.70745)"
+         xml:space="preserve"
+         id="flowRoot1290-3"
+         style="font-style:normal;font-weight:normal;font-size:5.7865386px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43251321"><flowRegion
+           id="flowRegion1286-6"
+           style="font-family:sans-serif;stroke-width:0.43251321"><rect
+             id="rect1284-7"
+             width="70.554466"
+             height="27.978497"
+             x="850.81317"
+             y="286.93967"
+             style="font-family:sans-serif;stroke-width:0.20856287" /></flowRegion><flowPara
+           id="flowPara1288-5"
+           style="font-weight:bold;font-size:8.67980766px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0.02893272px;stroke-width:0.43251321">expertise</flowPara></flowRoot>    </g>
+    <rect
+       inkscape:export-ydpi="300.01199"
+       inkscape:export-xdpi="300.01199"
+       inkscape:export-filename="/home/kristian/Desktop/teaching_course/01_fundamentals/facilitation.png"
+       y="465.25058"
+       x="235.09314"
+       height="181.8593"
+       width="272.69061"
+       id="rect1540"
+       style="fill:none;stroke:#000000;stroke-width:2.13333344" />
+    <flowRoot
+       transform="matrix(2.2120305,0,0,2.2120305,-1568.9633,-154.38759)"
+       xml:space="preserve"
+       id="flowRoot1642"
+       style="font-style:normal;font-weight:normal;font-size:5.7865386px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43251321"
+       inkscape:export-filename="/home/kristian/Desktop/teaching_course/01_fundamentals/facilitation.png"
+       inkscape:export-xdpi="300.01199"
+       inkscape:export-ydpi="300.01199"><flowRegion
+         id="flowRegion1638"
+         style="font-family:sans-serif;stroke-width:0.43251321"><rect
+           id="rect1636"
+           width="70.554466"
+           height="27.978497"
+           x="850.81317"
+           y="286.93967"
+           style="font-family:sans-serif;stroke-width:0.20856287" /></flowRegion><flowPara
+         id="flowPara1640"
+         style="font-weight:bold;font-size:8.67980766px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0.02893272px;stroke-width:0.43251321">facilitation</flowPara></flowRoot>    <path
+       style="fill:#ffe680;fill-opacity:1;stroke:#000000;stroke-width:1.31;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 371.4375 513.97852 C 329.55421 513.97852 295.60156 525.70513 295.60156 540.16992 C 295.60156 540.62179 295.6357 541.07133 295.70117 541.51758 C 295.76505 541.95292 295.86163 542.38497 295.98633 542.81445 C 295.99089 542.83017 295.99536 542.84562 296 542.86133 C 296.06238 543.07235 296.15367 543.28072 296.23047 543.49023 C 296.31802 543.72903 296.39592 543.96834 296.50195 544.20508 C 296.58421 544.38877 296.68996 544.56955 296.7832 544.75195 C 296.91519 545.01013 297.03965 545.26988 297.19336 545.52539 C 297.30315 545.70787 297.43591 545.8873 297.55664 546.06836 C 297.71735 546.3094 297.87096 546.55062 298.05078 546.78906 C 298.20087 546.98809 298.37389 547.18371 298.53711 547.38086 C 298.725 547.60782 298.90628 547.83615 299.11133 548.06055 C 299.27055 548.23479 299.44971 548.40548 299.61914 548.57812 C 299.85407 548.81753 300.08362 549.05869 300.33789 549.29492 C 300.53997 549.48267 300.76246 549.66588 300.97656 549.85156 C 301.21676 550.05988 301.45191 550.26897 301.70703 550.47461 C 301.94695 550.668 302.20411 550.85787 302.45703 551.04883 C 302.73167 551.2562 303.00324 551.46355 303.29297 551.66797 C 303.5302 551.83533 303.7821 552.00068 304.0293 552.16602 C 304.35147 552.38152 304.67288 552.59663 305.01172 552.80859 C 305.29302 552.98456 305.59021 553.15662 305.88281 553.33008 C 306.19995 553.51808 306.51356 553.70759 306.84375 553.89258 C 307.15298 554.06584 307.47442 554.2357 307.79492 554.40625 C 308.16781 554.60468 308.54181 554.80142 308.92969 554.99609 C 309.23159 555.14761 309.54463 555.29612 309.85547 555.44531 C 310.25334 555.63629 310.65219 555.8266 311.06445 556.01367 C 311.4094 556.1702 311.7643 556.32478 312.11914 556.47852 C 312.52847 556.65587 312.93907 556.8323 313.36133 557.00586 C 313.74782 557.16471 314.1439 557.32096 314.54102 557.47656 C 314.94959 557.63665 315.35968 557.7946 315.7793 557.95117 C 316.19241 558.10533 316.61349 558.25752 317.03711 558.4082 C 317.47481 558.56389 317.91459 558.71919 318.36328 558.87109 C 318.54024 558.93101 318.70807 558.99342 318.88672 559.05273 C 320.99679 559.75331 313.9578 572.01574 316.29102 572.62891 C 318.52434 573.21582 330.12128 562.15828 332.53906 562.6582 C 332.79989 562.71213 333.07505 562.75767 333.33789 562.81055 C 334.28925 563.00191 335.25143 563.18796 336.22852 563.36523 C 336.67975 563.44711 337.13331 563.52666 337.58984 563.60547 C 338.61255 563.782 339.64887 563.95052 340.69727 564.11133 C 341.01172 564.15956 341.32003 564.21102 341.63672 564.25781 C 342.99374 564.45833 344.3712 564.64487 345.76758 564.81836 C 346.13966 564.86459 346.51783 564.9069 346.89258 564.95117 C 348.00825 565.08296 349.135 565.20622 350.27344 565.32031 C 350.66016 565.35907 351.0463 565.39692 351.43555 565.43359 C 352.75837 565.55825 354.09278 565.67131 355.44336 565.77148 C 355.62732 565.78513 355.80774 565.80127 355.99219 565.81445 C 357.4785 565.92068 358.98325 566.01024 360.5 566.08594 C 360.93682 566.10774 361.37721 566.12531 361.81641 566.14453 C 362.96699 566.19489 364.12495 566.23524 365.29102 566.26758 C 365.77821 566.28109 366.26415 566.29632 366.75391 566.30664 C 368.30458 566.3393 369.86303 566.36133 371.4375 566.36133 C 373.01197 566.36133 374.57237 566.3393 376.12305 566.30664 C 376.61272 566.29632 377.09881 566.28109 377.58594 566.26758 C 378.752 566.23524 379.90997 566.19489 381.06055 566.14453 C 381.49974 566.12531 381.94014 566.10774 382.37695 566.08594 C 383.89371 566.01024 385.39845 565.92068 386.88477 565.81445 C 387.06922 565.80127 387.24964 565.78513 387.43359 565.77148 C 388.78417 565.67131 390.11859 565.55825 391.44141 565.43359 C 391.83065 565.39692 392.21679 565.35907 392.60352 565.32031 C 393.74195 565.20622 394.8687 565.08296 395.98438 564.95117 C 396.35913 564.9069 396.7373 564.86459 397.10938 564.81836 C 398.50576 564.64487 399.88321 564.45833 401.24023 564.25781 C 401.55692 564.21102 401.86524 564.15956 402.17969 564.11133 C 403.22808 563.95052 404.2644 563.782 405.28711 563.60547 C 405.74365 563.52666 406.19721 563.44711 406.64844 563.36523 C 407.62552 563.18796 408.5877 563.00191 409.53906 562.81055 C 409.80191 562.75767 410.07707 562.71213 410.33789 562.6582 C 412.75567 562.15828 424.35262 573.21582 426.58594 572.62891 C 428.91916 572.01574 421.88016 559.75331 423.99023 559.05273 C 424.16888 558.99342 424.33671 558.93101 424.51367 558.87109 C 424.96237 558.71919 425.40215 558.56389 425.83984 558.4082 C 426.26346 558.25752 426.68454 558.10533 427.09766 557.95117 C 427.51727 557.7946 427.92737 557.63665 428.33594 557.47656 C 428.73306 557.32096 429.12913 557.16471 429.51562 557.00586 C 429.93788 556.8323 430.34848 556.65587 430.75781 556.47852 C 431.11266 556.32478 431.46755 556.1702 431.8125 556.01367 C 432.21676 555.83023 432.60761 555.64423 432.99805 555.45703 C 433.32428 555.30062 433.65234 555.14529 433.96875 554.98633 C 434.33672 554.80144 434.69046 554.6121 435.04492 554.42383 C 435.37865 554.24657 435.71361 554.07081 436.03516 553.89062 C 436.3645 553.70609 436.6778 553.51761 436.99414 553.33008 C 437.28674 553.15662 437.58393 552.98456 437.86523 552.80859 C 438.20408 552.59663 438.52548 552.38152 438.84766 552.16602 C 439.09485 552.00068 439.34675 551.83533 439.58398 551.66797 C 439.87371 551.46355 440.14528 551.2562 440.41992 551.04883 C 440.67284 550.85787 440.93 550.668 441.16992 550.47461 C 441.42504 550.26897 441.66019 550.05988 441.90039 549.85156 C 442.1145 549.66588 442.33698 549.48267 442.53906 549.29492 C 442.79333 549.05869 443.02288 548.81753 443.25781 548.57812 C 443.42724 548.40548 443.6064 548.23479 443.76562 548.06055 C 443.97067 547.83615 444.15196 547.60782 444.33984 547.38086 C 444.50306 547.18371 444.67608 546.98809 444.82617 546.78906 C 445.006 546.55062 445.15961 546.3094 445.32031 546.06836 C 445.44104 545.8873 445.5738 545.70787 445.68359 545.52539 C 445.83731 545.26988 445.96177 545.01013 446.09375 544.75195 C 446.187 544.56955 446.29275 544.38877 446.375 544.20508 C 446.48104 543.96834 446.55894 543.72903 446.64648 543.49023 C 446.72328 543.28072 446.81457 543.07235 446.87695 542.86133 C 446.8816 542.84562 446.88606 542.83017 446.89062 542.81445 C 447.01532 542.38497 447.11191 541.95292 447.17578 541.51758 C 447.24126 541.07133 447.27539 540.62179 447.27539 540.16992 C 447.27538 525.70513 413.3208 513.97852 371.4375 513.97852 z "
+       id="path1711"
+       inkscape:export-filename="/home/kristian/Desktop/teaching_course/01_fundamentals/facilitation.png"
+       inkscape:export-xdpi="300.01199"
+       inkscape:export-ydpi="300.01199" />
+    <g
+       id="g1725"
+       transform="translate(2.0351414)"
+       inkscape:export-filename="/home/kristian/Desktop/teaching_course/01_fundamentals/facilitation.png"
+       inkscape:export-xdpi="300.01199"
+       inkscape:export-ydpi="300.01199">
+      <g
+         style="stroke:#000000;stroke-width:0.65268147;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(1.4455781,0,0,1.4455781,-705.91954,-39.885062)"
+         id="g3942">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3944"
+           d="m 691.19339,447.24912 c -9.90258,0 -17.90625,9.72408 -17.90625,21.71875 0,1.92465 0.20579,3.78558 0.59375,5.5625 h 34.625 c 0.38796,-1.77692 0.625,-3.63785 0.625,-5.5625 0,-11.99467 -8.03492,-21.71875 -17.9375,-21.71875 z"
+           style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:0.90621185;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <circle
+           id="path3946"
+           style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:0.90621185;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           transform="translate(330.3281,334.84193)"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           cx="360.87698"
+           cy="101.05103"
+           r="9.8489876" />
+      </g>
+      <g
+         id="g1717"
+         transform="matrix(1.4455781,0,0,1.4455781,-553.66708,-39.885062)"
+         style="stroke:#000000;stroke-width:0.65268147;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+           style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:0.90621185;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 691.19339,447.24912 c -9.90258,0 -17.90625,9.72408 -17.90625,21.71875 0,1.92465 0.20579,3.78558 0.59375,5.5625 h 34.625 c 0.38796,-1.77692 0.625,-3.63785 0.625,-5.5625 0,-11.99467 -8.03492,-21.71875 -17.9375,-21.71875 z"
+           id="path1713"
+           inkscape:connector-curvature="0" />
+        <circle
+           r="9.8489876"
+           cy="101.05103"
+           cx="360.87698"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+           transform="translate(330.3281,334.84193)"
+           style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:0.90621185;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1715" />
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.31;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 358.0407,514.53091 c -1.55493,8.66958 -2.36899,18.57072 3.50155,22.94341 4.08139,3.04005 9.09804,-3.54384 14.75978,-3.90453 5.66175,-0.36069 9.49597,2.18108 9.52062,8.51802 0.0246,6.33693 -4.30355,8.27741 -9.52062,8.51802 -5.21709,0.24058 -11.26531,-3.50134 -14.56428,0.0604 -3.744,4.04222 -3.72355,9.4489 -2.50422,15.25998"
+       id="path1731"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cszzzsc"
+       inkscape:export-filename="/home/kristian/Desktop/teaching_course/01_fundamentals/facilitation.png"
+       inkscape:export-xdpi="300.01199"
+       inkscape:export-ydpi="300.01199" />
+    <g
+       id="g1867"
+       transform="translate(-20.05721,61.995012)"
+       inkscape:export-filename="/home/kristian/Desktop/teaching_course/01_fundamentals/humlity.png"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299">
+      <rect
+         inkscape:export-ydpi="149.98193"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         y="533.96271"
+         x="573.65863"
+         height="59.437836"
+         width="179.5593"
+         id="rect1191"
+         style="fill:#cccccc;stroke:none;stroke-width:1.18109643" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.13333344"
+         id="rect1193"
+         width="180.36108"
+         height="285.23572"
+         x="572.85687"
+         y="308.16479"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/speaker_types.png"
+         inkscape:export-xdpi="149.98193"
+         inkscape:export-ydpi="149.98193" />
+      <g
+         transform="translate(2.9433151,10.005698)"
+         id="g1837">
+        <path
+           inkscape:export-ydpi="300.03"
+           inkscape:export-xdpi="300.03"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+           inkscape:connector-curvature="0"
+           id="path1199"
+           d="m 602.7578,516.1522 31.62876,-36.41985 h 43.9053 l 36.25283,36.61794 c -10.05092,46.68802 -25.61264,-9.97841 -38.02566,-18.688 l 9.44356,32.45467 c 0,0 32.30211,6.72107 32.43145,20.61867 0.20917,22.47247 -52.51953,14.98713 -61.34918,0.13277 0,0 -55.04773,22.26207 -55.25014,-0.13277 -0.20241,-22.39484 25.46146,-20.61867 25.46146,-20.61867 l 7.13038,-33.29219 c -16.18959,13.08389 -24.81994,62.62291 -31.62876,19.32743 z"
+           style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:1.31000006;stroke-miterlimit:4;stroke-dasharray:none"
+           sodipodi:nodetypes="ccccccsczccc" />
+        <g
+           id="g1826"
+           transform="translate(0,-6.3818395)">
+          <circle
+             r="15.498754"
+             cy="514.30756"
+             cx="655.87128"
+             id="path1780"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+          <flowRoot
+             xml:space="preserve"
+             id="flowRoot1784"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.89693666"
+             transform="matrix(0.83376931,0,0,0.72306313,113.25089,137.54229)"><flowRegion
+               id="flowRegion1786"><rect
+                 id="rect1788"
+                 width="52.217716"
+                 height="55.441029"
+                 x="642.08447"
+                 y="500.09738" /></flowRegion><flowPara
+               id="flowPara1790"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:C059;-inkscape-font-specification:C059;fill:#000000;stroke:#000000">?</flowPara></flowRoot>        </g>
+        <circle
+           r="19.614052"
+           cy="457.99643"
+           cx="655.87128"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\audience.png"
+           style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:1.30999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1715-5" />
+        <path
+           id="path4124-3"
+           d="m 651.03458,466.95394 c 0.47428,2.24062 2.45458,3.92959 4.83644,3.92959 2.38041,0 4.36064,-1.69099 4.83644,-3.92959 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75999999;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0" />
+      </g>
+      <flowRoot
+         transform="matrix(2.2120305,0,0,2.2120305,-1266.3358,-305.42758)"
+         xml:space="preserve"
+         id="flowRoot1845"
+         style="font-style:normal;font-weight:normal;font-size:5.7865386px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43251321"><flowRegion
+           id="flowRegion1841"
+           style="font-family:sans-serif;stroke-width:0.43251321"><rect
+             id="rect1839"
+             width="70.554466"
+             height="27.978497"
+             x="850.81317"
+             y="286.93967"
+             style="font-family:sans-serif;stroke-width:0.20856287" /></flowRegion><flowPara
+           id="flowPara1847"
+           style="font-weight:bold;font-size:8.67980766px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0.02893272px;stroke-width:0.43251321">humility</flowPara></flowRoot>    </g>
+  </g>
+</svg>
