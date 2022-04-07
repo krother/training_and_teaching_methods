@@ -14,7 +14,7 @@
 * [Why Programming is difficult to teach](fundamentals/why_programming_is_difficult_to_teach.md)
 * [The Teaching Process](fundamentals/teaching_process.md)
 * [Types of Students](fundamentals/types_of_students.md)
-* [The Students](fundamentals/students.md)
+* [What Students are looking for](fundamentals/students.md)
 * [The Teacher](fundamentals/teacher.md)
 * [External Factors](fundamentals/external_factors.md)
 
@@ -51,7 +51,6 @@
 * [Brainstorming](getting_started/brainstorming.md)
 * [Puzzles](getting_started/puzzles.md)
 * [Stories](getting_started/stories.md)
-* [More Warmup Methods](getting_started/warmup.md)
 
 ----
 
@@ -139,7 +138,7 @@
 
 ## Acknowledgements
 
-I dedicate this document to Bettina Ritter-Mamczek and Cornelius Frömmel, to whom i owe my skills and passion to teaching. Greg Wilson has been a constant source of inspiration, and his fantastic book Teach Tech Together helped me to decide what not to write. The actual contect was influenced a lot by discussions with Pedro Fernandes, Allegra Via and the members of GOBLET. I would like to thank Janick Mathy, Jasmin Touati and NobleProg for providing training opportunities and feedback that allowed me to fine-tune my teaching methods. Finally, I would like to thank the following teachers at the Spiced Academy for fruitful exchange: David Friedman, Matt Fowler, Ivana Matijevic, Paul Wlodkowski, Tom Gadsby, Stefan Roth, Pete Anderson, Merle Fischer, Alistair Quinn, Ugur Ural, Malte Bonart, Paula Gonzalez, Gesa Johannsen, Sam McGuire, Sara Maras, Marija Vlajic, Carmine Somma, Dina Deifallah and Kiran Challa.
+I dedicate this document to Bettina Ritter-Mamczek and Cornelius Frömmel, to whom i owe my skills and passion to teaching. Greg Wilson has been a constant source of inspiration, and his fantastic book Teach Tech Together helped me to decide what not to write. The actual contect was influenced a lot by discussions with Pedro Fernandes, Allegra Via and the members of GOBLET. I would like to thank Janick Mathys, Jasmin Touati and NobleProg for providing training opportunities and feedback that allowed me to fine-tune my teaching methods. Finally, I would like to thank the following teachers at the Spiced Academy for fruitful exchange: David Friedman, Matt Fowler, Ivana Matijevic, Paul Wlodkowski, Tom Gadsby, Stefan Roth, Pete Anderson, Merle Fischer, Alistair Quinn, Ugur Ural, Malte Bonart, Paula Gonzalez, Gesa Johannsen, Sam McGuire, Sara Maras, Marija Vlajic, Carmine Somma, Dina Deifallah and Kiran Challa.
 
 ## License
 

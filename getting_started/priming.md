@@ -5,7 +5,7 @@
 
 What does that mean in practice? It means that instead of using the first warm-up method that you come across, prime your participants towards the *concept* that follows right afterwards.
 
-Priming can be achieved by a rich variety of activities: questions, quizzes, practical examples, short videos, cartoons and many more.
+Priming can be achieved by a rich variety of activities: questions, quizzes, practical examples, stories, videos and many more.
 
 ## Example:
 
@@ -30,4 +30,11 @@ Also, you can expect participants to be more active because the priming already 
 
 ----
 
-See the **Warming Up** chapters for more methods that can be used for priming.
+## Methods for Priming
+
+* tell a short story
+* show a brief video in the beginning of your lesson
+* show a cartoon, ask students to explain it. See [xkcd.com](https://xkcd.com/) or [phdcomics.com](http://phdcomics.com)
+* pick one of [classicprogrammerpaintings.com](https://classicprogrammerpaintings.com/)
+* hand out a short program that does something impressive and ask people to run it
+* ask an open question and let participants chat with each other before collecting answers
