@@ -1,6 +1,8 @@
 
 # How to handle passive participants?
 
+![](../images/troubleshooting/sleepy.png)
+
 ## Find out what they need
 
 * take a break

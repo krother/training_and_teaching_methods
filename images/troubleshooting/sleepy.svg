@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="350.36218"
+   id="svg3056"
+   version="1.1"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="sleepy.svg"
+   inkscape:export-filename="/home/kristian/projects/teaching_programming/images/troubleshooting/sleepy.png"
+   inkscape:export-xdpi="137.00108"
+   inkscape:export-ydpi="137.00108">
+  <defs
+     id="defs3058">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3169"
+       is_visible="true"
+       pattern="m 0.25,6.6785023 v 3.18407 0.0413 c 0.0286,1.7982597 1.95291,3.2667697 4.30056,3.2667697 2.05282,0 3.79672,-1.12066 4.21786,-2.60514 0.0864,0.009 0.15839,0.0413 0.24811,0.0413 1.07663,0 1.94352,-0.6904697 1.94352,-1.5713497 0,-0.88089 -0.86689,-1.61271 -1.94352,-1.61271 -0.0756,0 -0.13356,0.0344 -0.20676,0.0413 v -0.78568 H 0.25 Z m 8.76653,1.53001 c 0.62751,0 1.11649,0.36221 1.11649,0.82703 0,0.46482 -0.48898,0.82703 -1.11649,0.82703 -0.0716,0 -0.13839,-0.0323 -0.20676,-0.0413 v -1.57136 c 0.0684,-0.009 0.13522,-0.0413 0.20676,-0.0413 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.84090595"
+     inkscape:cx="336.40002"
+     inkscape:cy="470.77625"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-nodes="true"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-smooth-nodes="false" />
+  <metadata
+     id="metadata3061">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-702)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3323"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(27.351453,456.65035)"><flowRegion
+         id="flowRegion3325"
+         style="font-family:sans-serif"><rect
+           id="rect3327"
+           width="57.578693"
+           height="61.619305"
+           x="362.64478"
+           y="350.81125"
+           style="font-size:16px;font-family:sans-serif" /></flowRegion><flowPara
+         id="flowPara3329"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3798"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(6.7857143,-1.4285714)"
+       inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\talk_python.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion3800"
+         style="font-family:sans-serif"><rect
+           id="rect3802"
+           width="32.142857"
+           height="31.785715"
+           x="471.07144"
+           y="348.79074"
+           style="font-size:32px;font-family:sans-serif" /></flowRegion><flowPara
+         id="flowPara3804"
+         style="font-weight:bold;font-size:32px;line-height:1.25;font-family:sans-serif">?</flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3138"
+       width="685.88562"
+       height="351.56909"
+       x="27.423723"
+       y="240.95575"
+       inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/pictures/plan.png"
+       inkscape:export-xdpi="300.10422"
+       inkscape:export-ydpi="300.10422" />
+    <rect
+       inkscape:export-ydpi="300.10422"
+       inkscape:export-xdpi="300.10422"
+       inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/pictures/plan.png"
+       y="931.75946"
+       x="-1.6692631"
+       height="120.43098"
+       width="747.89813"
+       id="rect3259"
+       style="fill:#cccccc;stroke:none" />
+    <g
+       id="g3067"
+       transform="translate(0.44307315,502.05825)"
+       inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/pictures/plan.png"
+       inkscape:export-xdpi="300.10422"
+       inkscape:export-ydpi="300.10422">
+      <g
+         style="fill:#999999;stroke:#000000;stroke-width:0.68075287"
+         inkscape:export-ydpi="149.93236"
+         inkscape:export-xdpi="149.93236"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/build_a_business_first.png"
+         transform="matrix(3.71424,0,0,2.323866,-860.79411,-420.60384)"
+         id="g4397">
+        <rect
+           transform="rotate(90)"
+           style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:0.68075287"
+           id="rect4399"
+           width="27.40259"
+           height="7.1544356"
+           x="377.55096"
+           y="-291.18027" />
+        <rect
+           y="-322.30963"
+           x="377.55096"
+           height="7.1544356"
+           width="27.40259"
+           id="rect3063"
+           style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:0.68075287"
+           transform="rotate(90)" />
+      </g>
+      <g
+         id="g4447"
+         transform="matrix(-2.6050085,-2.6475479,-1.6564752,1.6298598,1552.8517,595.09211)"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/build_a_business_first.png"
+         inkscape:export-xdpi="149.93236"
+         inkscape:export-ydpi="149.93236"
+         style="fill:#999999;stroke:#000000;stroke-width:0.68075287">
+        <path
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           id="rect4449"
+           d="m 285.3681,364.4483 h 32.32489 l 0.59622,15.75531 -37.74911,-1.8794 -24.57315,-39.91667 -20.69555,-4.15656 -1.25842,-15.47134 27.91484,8.04565 z"
+           style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:0.68075287" />
+      </g>
+      <g
+         inkscape:export-ydpi="149.93236"
+         inkscape:export-xdpi="149.93236"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/build_a_business_first.png"
+         transform="matrix(1.28308,0,0,1.28308,-152.58426,-126.98343)"
+         id="g3234">
+        <g
+           style="stroke:#000000;stroke-width:0.89693666"
+           inkscape:export-ydpi="300.03"
+           inkscape:export-xdpi="300.03"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\pull.png"
+           transform="matrix(-1.23845,1.219178,1.219178,1.23845,1002.6279,-1056.6052)"
+           id="g3265">
+          <path
+             inkscape:export-ydpi="300.03"
+             inkscape:export-xdpi="300.03"
+             inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+             inkscape:connector-curvature="0"
+             id="path3267"
+             d="m 894.82672,300.1819 h -11.7629 l -14.78018,19.6814 -10.02562,-22.3287 -8.70728,1.9436 13.98066,32.65145 13.10432,-9.20267 -13.10432,9.20267 -2.60668,-5.44763 c 0,0 -3.18924,0.72017 -6.70876,6.05241 -3.51952,5.33224 -4.68678,14.66702 -4.68678,14.66702 l -5.94543,18.98112 2.02637,27.43192 -10.00509,3.5132 -0.46114,5.28823 15.54656,-2.40508 8.22268,-41.53431 30.29029,-29.2416 -20.35555,10.76868 -3.15228,-4.55105 15.9998,-14.61432 -15.86543,14.48205 3.01791,4.68332 30.13495,-16.0528 -0.84174,-19.5721 z"
+             style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:0.89693666"
+             sodipodi:nodetypes="ccccccccczcccccccccccccccc" />
+        </g>
+        <g
+           id="g4339"
+           transform="matrix(-1.7378588,0,0,1.7378588,1732.0108,-118.39309)"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\pull.png"
+           inkscape:export-xdpi="300.03"
+           inkscape:export-ydpi="300.03"
+           style="stroke:#000000;stroke-width:0.89693666">
+          <path
+             inkscape:export-ydpi="300.03"
+             inkscape:export-xdpi="300.03"
+             inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\title.png"
+             inkscape:connector-curvature="0"
+             id="path4343"
+             d="m 844.75662,277.50715 c -2.82542,1.63125 -3.80636,2.68231 -4.72303,5.18938 -0.10302,0.28176 -3.78001,-0.084 -4.09968,1.3151 -0.48465,2.12125 3.12285,3.06796 3.10541,3.389 -0.11376,2.09474 0.49041,3.456 1.61732,5.40786 9.41338,13.00089 24.98123,-0.80598 19.395,-11.19771 -3.09265,-5.35663 -9.93839,-7.19628 -15.29502,-4.10363 z"
+             style="fill:#80b940;fill-opacity:1;stroke:#000000;stroke-width:0.89693666"
+             sodipodi:nodetypes="ssssccs" />
+        </g>
+      </g>
+      <g
+         transform="matrix(-0.5242387,0,0,0.5242387,585.42209,155.98407)"
+         id="g3056">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5784235;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 530.73384,481.14003 v 16.41975 0.21299 c 0.14741,9.27335 10.07087,16.84623 22.17734,16.84623 10.58607,0 19.5791,-5.77907 21.75086,-13.43432 0.44555,0.0464 0.81679,0.21299 1.27946,0.21299 5.55201,0 10.02244,-3.56064 10.02244,-8.10322 0,-4.54262 -4.47043,-8.3165 -10.02244,-8.3165 -0.38986,0 -0.68876,0.1774 -1.06622,0.21299 v -4.05163 h -44.14144 z m 45.20766,7.89002 c 3.23597,0 5.75757,1.86786 5.75757,4.26487 0,2.39701 -2.5216,4.26486 -5.75757,4.26486 -0.36923,0 -0.71365,-0.16655 -1.06622,-0.21296 v -8.10328 c 0.35271,-0.0464 0.6973,-0.21297 1.06622,-0.21297 z"
+           id="path3799"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\coffee.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:5.156847;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 536.86167,472.13255 c 21.79268,-7.31172 -8.38076,-13.67157 5.80975,-24.34413"
+           id="path3802"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\coffee.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3804"
+           d="m 547.91203,472.13255 c 21.79268,-7.31172 -8.38075,-13.67157 5.80975,-24.34413"
+           style="fill:none;stroke:#000000;stroke-width:5.156847;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\coffee.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:5.156847;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 558.96248,472.13255 c 21.79268,-7.31172 -8.38075,-13.67157 5.80976,-24.34413"
+           id="path3808"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Documents and Settings\Kristian\Pulpit\coffee.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+      </g>
+      <circle
+         inkscape:export-ydpi="149.93236"
+         inkscape:export-xdpi="149.93236"
+         inkscape:export-filename="/home/krother/Desktop/mySpeakerBusiness/build_a_business_first.png"
+         transform="matrix(1.0108888,0,0,1.0108888,-308.1271,14.011176)"
+         id="path4481"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="541.11072"
+         cy="325.41547"
+         r="4.6248779" />
+      <rect
+         transform="matrix(0.89111004,-0.45378727,0.40508407,0.91427944,0,0)"
+         y="411.38641"
+         x="80.676643"
+         height="6.950212"
+         width="18.68749"
+         id="rect3065"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>

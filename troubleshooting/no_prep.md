@@ -1,7 +1,10 @@
 
 # How to teach with little time to prepare?
 
-This is a common situation that can be very scary for beginners. Because you might read this while under time pressure, I will stick to simple, step-by-step recipes.
+Having little time is a common situation that can be very scary for beginners.
+Because you might read this while under time pressure, I will stick to simple, step-by-step recipes.
+
+![](../images/troubleshooting/pressure.png)
 
 ----
 
@@ -21,7 +24,7 @@ Do not waste time. Stick to the following procedure:
 |------|-------------|
 | read code | Go to the repository X. Read the code. Write down 10 questions. |
 | code review | Give a piece of your code to your partner. Read code for 5 minutes. Ask each other questions. |
-| coding challenge | Teacher picks a [Coding Challenge](http://www.academis.eu/blog/tags/python_challenges_EN). Students solve it. May take longer than 20 minutes. |
+| coding challenge | Teacher picks a [Coding Challenge](https://www.academis.eu/python_basics). Students solve it. May take longer than 20 minutes. |
 
 ----
 
@@ -33,7 +36,7 @@ Assuming you know the subject, do a barebones preparation. Take a piece of paper
 2. Write down a goal: *"After the lesson, students will be able to .."*
 3. Write down a maximum of 7 concepts / sub-topics
 4. Draw an image / diagram / mind map that helps you to explain the 7 concepts
-5. Pick a [warmup exercise](http://www.academis.eu/posts/teaching/getting_started/warmup.md) for the first 5 minutes
+5. Pick a warmup exercise for the first 5 minutes
 6. Write down a small task where the students work towards the goal
 
 During the lesson, do the warmup and then draw and explain the diagram, covering the 7 concepts one by one. With the tasks and questions afterwards, you should be able to fill 45 minutes.

@@ -14,7 +14,7 @@
    viewBox="0 0 200 207"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="checklist.svg">
   <defs
      id="defs2" />
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="696.41421"
-     inkscape:cy="512.13281"
+     inkscape:cx="390.13901"
+     inkscape:cy="656.92625"
      inkscape:document-units="mm"
-     inkscape:current-layer="g899"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:object-nodes="true"
-     inkscape:window-width="1373"
-     inkscape:window-height="845"
-     inkscape:window-x="67"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
@@ -79,7 +79,7 @@
            id="tspan925">Checklist</tspan></tspan></text>
     <g
        id="g851"
-       transform="translate(-22.824008,85.385421)">
+       transform="translate(-16.944078,87.523577)">
       <rect
          ry="0.033352956"
          y="59.260574"
@@ -106,7 +106,7 @@
     </g>
     <g
        id="g863"
-       transform="translate(-22.824008,102.42585)">
+       transform="translate(-16.944078,104.56401)">
       <rect
          style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9000001;stroke-dasharray:none;stroke-opacity:1"
          id="rect853"
@@ -133,7 +133,7 @@
     </g>
     <g
        id="g875"
-       transform="translate(-22.824008,119.46627)">
+       transform="translate(-16.944078,121.60443)">
       <rect
          ry="0.033352956"
          y="59.260574"
@@ -160,7 +160,7 @@
     </g>
     <g
        id="g887"
-       transform="translate(-22.824008,136.5067)">
+       transform="translate(-16.944078,138.64486)">
       <rect
          style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9000001;stroke-dasharray:none;stroke-opacity:1"
          id="rect877"
@@ -187,7 +187,7 @@
     </g>
     <g
        id="g899"
-       transform="translate(-22.824008,153.54714)">
+       transform="translate(-16.944078,155.6853)">
       <rect
          ry="0.033352956"
          y="59.260574"
@@ -213,7 +213,7 @@
              id="tspan955">Lesson Plan</tspan></tspan></text>
     </g>
     <g
-       transform="translate(-22.824008,187.62798)"
+       transform="translate(-16.944078,189.76614)"
        id="g911">
       <rect
          style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9000001;stroke-dasharray:none;stroke-opacity:1"
@@ -240,7 +240,7 @@
              id="tspan967">Plan your Opening</tspan></tspan></text>
     </g>
     <g
-       transform="translate(-22.824008,170.58756)"
+       transform="translate(-16.944078,172.72572)"
        id="g923">
       <rect
          style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.9000001;stroke-dasharray:none;stroke-opacity:1"
@@ -266,5 +266,101 @@
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L Italic';stroke-width:0.26458332"
              id="tspan961">Find a Theme</tspan></tspan></text>
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot46"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,16.299168,94.009043)"><flowRegion
+         id="flowRegion48"><rect
+           id="rect50"
+           width="472.75137"
+           height="79.802048"
+           x="154.55334"
+           y="82.326492" /></flowRegion><flowPara
+         id="flowPara52"
+         style="font-style:italic;font-weight:bold;font-size:53.33333588px">Checklist</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,16.837981,121.26115)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot60"
+       xml:space="preserve"><flowRegion
+         id="flowRegion56"><rect
+           y="82.326492"
+           x="154.55334"
+           height="79.802048"
+           width="472.75137"
+           id="rect54" /></flowRegion><flowPara
+         style="font-style:normal;font-weight:normal;font-size:37.33333588px"
+         id="flowPara58">Take home message</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot68"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,16.837981,138.30158)"><flowRegion
+         id="flowRegion64"><rect
+           id="rect62"
+           width="472.75137"
+           height="79.802048"
+           x="154.55334"
+           y="82.326492" /></flowRegion><flowPara
+         id="flowPara66"
+         style="font-style:normal;font-weight:normal;font-size:37.33333588px">Learning goal</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,16.837981,155.342)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot76"
+       xml:space="preserve"><flowRegion
+         id="flowRegion72"><rect
+           y="82.326492"
+           x="154.55334"
+           height="79.802048"
+           width="472.75137"
+           id="rect70" /></flowRegion><flowPara
+         style="font-style:normal;font-weight:normal;font-size:37.33333588px"
+         id="flowPara74">4-7 Concepts</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot84"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,16.837981,223.78718)"><flowRegion
+         id="flowRegion80"><rect
+           id="rect78"
+           width="472.75137"
+           height="79.802048"
+           x="154.55334"
+           y="82.326492" /></flowRegion><flowPara
+         id="flowPara82"
+         style="font-style:normal;font-weight:normal;font-size:37.33333588px">Material</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,16.837981,172.38243)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot92"
+       xml:space="preserve"><flowRegion
+         id="flowRegion88"><rect
+           y="82.326492"
+           x="154.55334"
+           height="79.802048"
+           width="472.75137"
+           id="rect86" /></flowRegion><flowPara
+         style="font-style:normal;font-weight:normal;font-size:37.33333588px"
+         id="flowPara90">Concept map</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot100"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,16.837981,189.42287)"><flowRegion
+         id="flowRegion96"><rect
+           id="rect94"
+           width="472.75137"
+           height="79.802048"
+           x="154.55334"
+           y="82.326492" /></flowRegion><flowPara
+         id="flowPara98"
+         style="font-style:normal;font-weight:normal;font-size:37.33333588px">Lesson plan</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,16.837981,206.20472)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot108"
+       xml:space="preserve"><flowRegion
+         id="flowRegion104"><rect
+           y="82.326492"
+           x="154.55334"
+           height="79.802048"
+           width="472.75137"
+           id="rect102" /></flowRegion><flowPara
+         style="font-style:normal;font-weight:normal;font-size:37.33333588px"
+         id="flowPara106">Theme</flowPara></flowRoot>  </g>
 </svg>

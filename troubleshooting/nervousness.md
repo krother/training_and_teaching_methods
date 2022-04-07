@@ -1,6 +1,8 @@
 
 # How to be a less nervous teacher?
 
+![](../images/troubleshooting/munch.png)
+
 ### Some nervousness is good
 
 Being nervous is normal. Is isn't a bad thing, because it keeps you on your toes and – your attention reaches a maximum. You could even say, that when you are not nervous at all, you shouldn't teach, because you won't be able to transmit the excitement necessary to be a great teacher.
