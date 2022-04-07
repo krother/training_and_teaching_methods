@@ -1,5 +1,5 @@
 
-# The Students
+# What Students are looking for
 
 ![students](../images/audience.png)
 
