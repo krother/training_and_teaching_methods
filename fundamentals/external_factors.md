@@ -43,6 +43,7 @@ Here are a few things to look out for:
 
 * Are you required to track attendance?
 * Is there a feedback process?
+* Is there a syllabus or are you expected to develop one?
 * Are there mandatory exercises for the students?
 * Is there material you are expected to use?
 * Are there any copyright claims on material you create? *(this should be made expensive)*

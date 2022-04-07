@@ -120,58 +120,14 @@ Unfortunately, this is not true about programming.
 
 There is no universally accepted, generic syllabus for programming languages (or language-agnostic programing).
 This is a problem for programming teachers, because a syllabus helps with structuring lessons a lot.
-Think of the syllabus as a flat version of the competencies from the last section.
+Think of the syllabus as detailed list of all the competencies from the last section.
 The syllabus simplifies the many orthogonal competencies into a list-like structure.
 A good syllabus is a great starting point for teachers.
+Unfortunately, most of the time you don't have one.
 
-Creating a good syllabus from scratch is not easy.
-Programming comes with a lot of terminology.
-This terminology contains many words that students have heard in a different context.
-Here is what someone who never coded might see when they read a raw syllabus:
-
-    :::text
-    Introduction to Programming in Zebra
-    ====================================
-
-    - installing Zebra
-    - Hi Planet
-    - the Zebra Hull
-    - integer changeables
-    - yarns
-    - per circles
-    - functions
-    - the never..do..this statement
-    - truncator expressions
-    - file trumpets
-    - rivers and sinks
-    - instagators for scratching the net
-    - citation counting and the trash service
-
-While this syllabus might make perfect sense to you, it requires an effort to translate it to students.
-Here is a shorter version:
-
-    :::text
-    Getting Started with Zebra
-    ==========================
-
-    - installing Zebra on your computer
-    - writing your first program
-    - counting to one billion
-    - cleaning up your code
-    - searching for errors in your program
-    - downloading Wikipedia
-
-Many programming teachers have to write their own syllabus.
-To write a syllabus, you need to:
-
-* identify the competencies you need to teach
-* add sub-points for each of them
-* flatten the syllabus, prioritizing some competencies
-* rewrite the syllabus in words your students understand
-
-Projecting the multi-dimensional competencies of programming into a flat structure is not that easy.
+Crafting a syllabus covering the multi-dimensional competencies of programming is not that easy.
 Unlike primary school math or spoken languages, learning to program is not standardized. The students interests, course formats and programming languages vary a lot. Unlike math, the technologies are also evolving quite rapidly. 
-So we will have to write and regularly review our syllabi ourselves.
+So we will have to write our own syllabi and regularly review and update them.
 
 ----
 
