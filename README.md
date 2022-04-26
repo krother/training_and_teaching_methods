@@ -56,7 +56,8 @@
 
 ## Introducing new Content
 
-* [Structuring concepts](lectures/lectures.md)
+* [Structuring Concepts in Frontal Teaching](lectures/lectures.md)
+* [Alternatives to Frontal Teaching](lectures/alternatives_to_frontal_teaching.md)
 * [Live coding](lectures/live_coding.md)
 * [Visual Media](lectures/presenting.md)
 * [Questions](lectures/questions.md)

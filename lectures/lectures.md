@@ -1,172 +1,140 @@
 
-# Structuring concepts
+# Structuring Concepts in Frontal Teaching
 
-Your lesson is well prepared. You have set goals, structured your topic and created a Concept Map. Now, how do you get your nicely structured concepts into the participants heads?
+Your lesson is well prepared. You have set goals, structured your topic and created a Concept Map.
+Now, how do you get your nicely structured concepts into the participants heads?
 
-This chapter lists a few approaches you can choose from.
+One common strategy is that the teacher introduces and explains new concepts.
+This teacher-centric strategy is commonly known as **deductive instruction**.
+In **deductive instruction** sets the pace of learning and the range of concepts is predefined.
+These properties make deductive insruction very predictable and often an easier choice for beginners. 
+Deductive instruction is often found in lectures, talks and similar.
+
+In this chapter, you find several recipes to structure your concepts cleanly in a frontal lesson.
 
 ----
 
 ## Explain the learning process
 
-Many learners like to know what is expecting them. One effective strategy is to state your learning goals clearly at the start of a lesson:
+Many learners like to know what is expecting them.
+One effective strategy is to state your learning goals clearly at the start of a lesson.
+You might enumerate your main concepts right away, to iterate over them during the lesson:
 
     :::text
-    "Today we will use 4 different data structures."
+    Today we will use 3 new data structures:
 
-Alternatively, you could make the goals transparent in your material or visualize them in the classroom.
+    - stacks
+    - queues
+    - arrays
 
-In a longer course, a higher-level overview is helpful. You could show a table or roadmap that contains the building blocks of your course:
+In a longer course, you may want to show a high-level overview that shows where the new content fits in the bigger picture.
+Students will see what is behind and ahead of them and will recognize their own progress more easily:
 
-![](../images/python_roadmap5.png)
+![](../images/data_structures.png)
 
-A top-level concept map also helps participants to locate the current lesson.
+*overview of data structures, both covered and not covered in the current lesson*
 
-----
-
-## Deductive instruction
-
-In **deductive instruction**, the teacher introduces and explains new concepts. This is a teacher-centric approach where you set the pace of learning. The following sequence is an example of deductive instruction:
-
-1. Show the concept map
-2. Explain one or more concepts on it
-3. Show a code example that uses the concept
-4. Execute the code
-
-This is a top-down, theory-based approach that is used by many academic lecturers. It has the advantage that it is not very difficult; you can pull it off even if your concept map is the table of contents of a text book. If you reverse the steps, you put the coding practice into the spotlight (but it is still deductive instruction):
-
-1. Show a code example or do a live coding session
-2. Execute the code step by step
-3. Discuss the concepts used in the code
-4. Unveil your concept map
-
-In this pattern, your participants may come up with questions that have nothing to do with your concepts, and you need to gently steer the discussion back to the main track. It helps if your example program does something impressive. To guide the discussion it helps to have a prepared list of questions.
-
-Yet another approach is to develop your concept step by step:
-
-1. State a question
-2. Introduce the concept that answers the question
-3. Repeat until your concept map is complete
-
-This is the most challenging sequence of the above. It requires a very good knowledge of the subject to pick the right questions. On the other hand, it engages the participants strongly; they witness the concepts emerge logically. This sequence calls for a medium where you can draw your concept map step by step. If it works well, you are almost streaming your concepts into the participants. Masters of their art run this kind of deductive instruction as a continuous dialogue with their participants.
+It is generally a good idea to make your goals even more transparent by including them in shared material or making them permanently visible in the classroom.
 
 ----
 
-## Inductive instruction
+## Top-Down Deduction
 
-In inductive instruction, your participants get to see several training examples until they find common patterns – your concepts. In contrast to deductive instruction, the participants are much more active and in control of the learning process. This has the advantage that you get more immediate feedback of their progress. On the other hand, it is more difficult to prepare.
+The following recipe is probably the simplest form to deductively introduce coding concepts:
 
-Some examples how an inductive teaching session could look in practice:
+1. show the concept map
+2. explain one or more concepts
+3. show a code example that uses the concepts
+4. execute the code
 
-### Code examples I
+This is a top-down, theory-based approach that is used by many academic lecturers.
+It has the advantage that it is not very difficult to get started with.
+You can implement this recipe even if your concept map is the table of contents of a text book.
 
-Participants try out several code examples and discuss them in pairs.
-They answer a couple of questions about the code. Afterwards you discuss the questions with the class and show your concept map as an explanation.
+If you are a more experienced teacher, this recipe works if you have to improvise: You create the code examples from scratch as you go. All you need is to make the code work and know which concepts you want to cover.
 
-### Code examples II
-Divide the class in groups. Each group examines a different programming package/library. After some time they present their package to the class.
-The packages presented are the concepts.
-
-### Comparison
-
-Prepare two alternative implementations for the same problem.
-Let participants find out the key differences. Discuss their pros and cons.
-
-### Work sheets
-Good for calculating, writing short definitions, drawing.
-Make sure the instructions are clear.
-
-### Text analysis
-Participants read a piece of text on programming on their own and answer an open question, e.g.:
-
-    :::text
-    "How did the team in the described project make sure
-    that they were writing quality code?"
-
-Afterwards, you collect answers and group them as concepts around your central topic – the concept map is emerging directly from the students' own work.
-
-### Simulation
-
-Simlate an algorithm analogously before going into the code. The understanding of its inner workings will be much more immediate.
-
-Algorithmic simulations can be done on the board, on paper or choreographed with the participants as live actors – a good occasion for a change of environment.
+An example of steps 2.-4. is used by [Uncle Bob explaining TDD](https://www.youtube.com/watch?v=58jGpV2Cg50) (the TDD explanation starts around 20:00, the live coding at 45:00).
 
 ----
 
-The main difficulty in inductive instruction is to motivate the task and come up with a clear task description. It is possible that it does not go . But the resulting learning effect usually outweighs the risk.
+## Bottom-Up Deduction
+
+An alternative is to reverse the steps:
+
+1. show a code example that uses the concepts
+2. execute the code
+3. discuss the concepts used in the code
+4. show your concept map
+
+In this recipe, you put the coding practice into the spotlight.
+This is very motivating, especially if your example code does something impressive.
+It is still deductive instruction though.
+When using this recipe, your participants may come up with questions that have nothing to do with your concepts, and you need to gently steer the discussion back to the main track. 
+To guide the discussion you may want to prepare a list of questions that you ask students to think about.
 
 ----
 
-## Concept artifacts
+## Introduce concepts iteratively
 
-Your participants will remember concepts that they apply or find useful easily. Others will need *spaced repetition*, recalling these concepts several times. You can enhance the retention of your content by creating *concept artifacts* during the lesson. Here are some examples how to do that.
+Yet another recipe is to develop your concept map step by step:
+
+1. state a problem question
+2. introduce a new concept that answers the question
+3. show a code example
+4. repeat 1.-3. until your concept map is complete
+
+The advantage of this recipe is that students see the concepts emerge in a logical sequence.
+It engages them more actively.
+At the same time this recipe is more challenging to implement.
+It requires a very good knowledge of the subject to pick the right problem questions and code examples that are not too trivial.
+This type of deductive instruction makes it easy to establish a continuous dialogue with your students.
+
+The iterative recipe works better if you can draw/reveal parts of your concept map as you introduce new concepts.
+It is well apt to explain mathematical concepts on a whiteboard (where step 3 could also be a diagram, equation or proof).
 
 ----
 
-### Explain functions
-
-Fill up gaps in participants' knowledge
-
-* prepare a list of 10-25 functions/modules/commands
-* write all of them to cards
-* ask participants to divide the cards into *known*, *half-known* and *unknown*
-* skip the *known* concepts
-* find one example for each *half-known* concept together
-* reserve the *unknown* concepts for a more thorough explanation
-
-Afterwards, you can group the cards or use them in a knowledge capacitor.
-
-----
-
-### Knowledge capacitor
+## Knowledge capacitor
 
 ![capacitor](../images/Learning_piling-up.jpg)
 
-Use a pin wall with cards where you collect important concepts. Ask your participants to structure concepts into categories that you prepare. Because the knowledge capacitor is visible all the time, it enhances retention.
+A knowledge capacitor helps your students to see what concepts they have learned about.
+Ideally, it is visible throughout the course, e.g. as a pin wall in the classroom.
+If you don't have a pin wall, an online spreadsheet or note app also work.
 
+1. prepare predefined categories (your top-level concepts)
+2. use the categories as headings on the pin wall.
+3. create cards for new concepts
+4. add the new cards to the capacitor (during the wrap-up of each lesson)
+4. use the capacitor for warm-up and recap activities
+
+Because the knowledge capacitor is visible all the time, it enhances retention.
 Adding concepts over time to the capacitor also gives participants a feeling of achievement.
 
-If you don't have the space to keep the wall in the classroom, an online spreadsheet is a (weaker) alternative.
-
 ----
 
-### Poster gallery
+## Sweeping Up
 
-Students prepare posters in small groups. Give them a clear task, e.g.:
+One disadvantage of deductive instruction is that you may miss out some concepts that students care about.
+This is not a big problem, but you may find over time an increasing number of questions asking for clarification.
+For instance, in a course on data structures they might ask:
 
-* draw a mind map for a given topic
-* create a workflow
-* create a timeline
-* fill a table
+    "is a priority queue the same as a queue?"
 
-If the topic is rather new, you need to provide some guidance in the form of hints, material for research, pictographs that participants can glue together etc. This variant will require a lot of active work and thinking. It will take at least one hour.
+    "what is the difference between a balanced tree and a binary tree?"
 
-If the participants already have knowledge on the subject, the poster serves as a summary (and first repetition). This should take less time (30-40 minutes).
+    "could you explain what a frozen set is?"
 
-Have the posters drawn on big sheets of paper. Hang the posters up in the classroom, so that they stay visible as a result.
+When you observe more questions reaching beyond the core concepts, this is a good sign.
+It means your students feel already comfortable enough with the content of the lessons.
+It may be also time to look what other concepts exist.
+The following recipe recipe helps you to fill up gaps in participants' knowledge:
 
-----
+1. prepare a list of 7-25 concepts (data structures, functions)
+2. write all of them to cards
+3. ask participants to sort the cards into *easy*, *medium* and *difficult*
+4. skip the *easy* concepts
+5. find one explanation or code example for each *half-known* concept together
+6. reserve the *difficult* concepts for a more thorough explanation
 
-### Affinity grouping
-
-![](../images/dot_voting.jpg)
-
-| summary     | structure information with the group |
-|-------------|-------------------|
-| time        | 45' |
-| preparation | 15' |
-| group size  | 2-20 |
-| material    | board, cards, pens, magnets or pins |
-
-* start with concepts on 20-30 cards (provided by you or from prior brainstorming)
-* attach all cards to the board
-* ask participants to suggest groups of cards
-* wait for suggestions
-* move the cards accordingly
-* moderate the discussion, but don't interfere with the suggestions
-* ask participants to name the clusters
-* attach the cluster names as well
-
-Affinity grouping is a basic moderation method. Structuring concepts is a very powerful way to reinforce learning. Observe closely whether you would have grouped the cards the same way. Note that there is no single correct grouping, but it tells you something about the learning process of your participants.
-
-Apart from enhancing retention, you can use affinity grouping to plan projects together. You can have participants vote on concepts or ideas that they want to repeat, implement or learn more about (see *dot voting* in the *Feedback* chapter).
+You might add the concepts to a knowledge capacitor to have them properly chunked.
