@@ -4,7 +4,7 @@
 Some time ago, I wanted to support my classes on `git`, `bash` and `pandas` with interactive, haptic activities.
 I bought a box of colored Jenga bricks and labeled them with programming instructions:
 
-![bricks](images/bricks.jpg)
+![bricks](../images/bricks.jpg)
 
 The outcome is a tool that can be used for many activities with little preparation.
 Here are a few ways how they can be used:

@@ -8,7 +8,7 @@ In this chapter, you find a simplified explanation what might be going on and a 
 
 ## A short tour of the brain
 
-![](images/brain_parts.png)
+![](../images/brain_parts.png)
 
 Our brain has two parts that are relevant for teaching:
 

@@ -3,7 +3,7 @@
 
 **An example lesson featuring cute penguins**
 
-![](images/penguin_lesson/penguin_heads.png)
+![](penguin_heads.png)
 
 *Palmerpenguins Artwork by @allison_horst*
 
@@ -45,7 +45,7 @@ The `psql` tool could be replaced by a different tool (e.g. pgadmin4 or an ORM),
 
 ## Concept Map
 
-![](images/penguin_lesson/concept_map.png)
+![](concept_map.png)
 
 #### Explanation:
 
@@ -97,14 +97,14 @@ I wrote the lesson plan **after** developing the code example and exercise you f
 
 ### Material
 
-* image with 3 penguin species (:::file penguin_lesson/penguin_heads.png )
-* example SQL CREATE TABLE statement (:::file penguin_lesson/penguins.sql )
-* concept map (:::file penguin_lesson/concept_map.png )
-* CSV file with small penguin dataset (50 rows, 5 columns) (:::file penguin_lesson/penguins.csv )
-* Excel file with small penguin dataset (:::file penguin_lesson/penguins.xlsx )
-* CSV file with big penguin dataset (:::file penguin_lesson/penguins_big.csv )
-* PDF with exercises (:::file penguin_lesson/exercises.pdf )
-* Faded examples  ():::file penguin_lesson/faded_examples.sql )
+* image with 3 penguin species (:::file penguin_heads.png )
+* example SQL CREATE TABLE statement (:::file penguins.sql )
+* concept map (:::file concept_map.png )
+* CSV file with small penguin dataset (50 rows, 5 columns) (:::file penguins.csv )
+* Excel file with small penguin dataset (:::file penguins.xlsx )
+* CSV file with big penguin dataset (:::file penguins_big.csv )
+* PDF with exercises (:::file exercises.pdf )
+* Faded examples  ():::file faded_examples.sql )
 
 #### Explanation:
 
@@ -230,7 +230,7 @@ Exercises 1.-4. are the minimal path for creating a table. Exercise 5 is for bal
 ## Backup Plans
 
 * exercises 1-4 are easy, 5 gives room for quick students to transfer to a new example
-* use the extra exercises in :::file penguin_lesson/faded_examples.sql
+* use the extra exercises in :::file faded_examples.sql
 * if participants are unfamiliar with relational databases, open the Excel sheet and discuss problems with data consistency
 
 #### Explanation:
