@@ -22,3 +22,9 @@ Write a question on the board that asks for the opposite of what you want to tea
 * “How can I waste memory?”
 * “Name inefficient data structures.”
 
+----
+
+### See also
+
+You found a more in-depth activity on [The Anti-Problem on gamestorming.com](https://gamestorming.com/the-anti-problem/)
+ 

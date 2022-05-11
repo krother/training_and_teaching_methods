@@ -51,6 +51,7 @@
 * [Brainstorming](getting_started/brainstorming.md)
 * [Puzzles](getting_started/puzzles.md)
 * [Stories](getting_started/stories.md)
+* [Theater](getting_started/theater.md)
 
 ----
 
