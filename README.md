@@ -62,6 +62,7 @@
 * [Live coding](lectures/live_coding.md)
 * [Visual Media](lectures/presenting.md)
 * [Questions](lectures/questions.md)
+* [Paper-and-Scissors Worksheets](lectures/paper_and_scissors.md)
 * [Algorithmic Games](lectures/algorithmic_games.md)
 * [Online Teaching](lectures/online_teaching.md)
 
