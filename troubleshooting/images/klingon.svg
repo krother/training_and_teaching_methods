@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="90mm"
+   height="40mm"
+   viewBox="0 0 90 40"
+   version="1.1"
+   id="svg3270"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="klingon.svg"
+   inkscape:export-filename="/home/kristian/projects/online_teaching_survival_guide/images/klingon.png"
+   inkscape:export-xdpi="149.22499"
+   inkscape:export-ydpi="149.22499">
+  <defs
+     id="defs3264" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="101.62928"
+     inkscape:cy="124.40581"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3267">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-257)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,8.0253446,264.14342)"
+       id="g3240">
+      <circle
+         cx="63.460999"
+         cy="51.923"
+         r="5.6259999"
+         id="circle3230" />
+      <circle
+         cx="36.539001"
+         cy="51.923"
+         r="5.6259999"
+         id="circle3232" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 53.719,42.285 c 0,0 11.14,-5.979 14.851,-15.467 0.624,1.029 0.188,12.793 -4.95,14.641 -5.154,1.859 -9.488,0.62 -9.901,0.826 z"
+         id="path3234" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 46.281,42.285 c 0,0 -11.14,-5.979 -14.851,-15.467 -0.624,1.029 -0.188,12.793 4.95,14.641 5.154,1.859 9.488,0.62 9.901,0.826 z"
+         id="path3236" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 89.104,50.323 C 79.387,39.46 90.013,32.437 78.846,16.406 72.284,6.986 62.213,3.438 59.026,2.514 55.957,1.142 52.873,0.385 50,0.385 47.004,0.385 43.796,1.178 40.619,2.62 37.093,3.692 27.488,7.313 21.154,16.407 9.987,32.437 20.613,39.46 10.896,50.323 -1.03,63.649 3.365,84.615 11.857,87.342 c 8.409,2.695 16.612,-0.053 21.87,-2.519 3.261,2.604 6.756,4.448 9.844,5.586 C 46.079,94.771 50,100 50,100 c 0,0 3.912,-5.218 6.421,-9.576 3.113,-1.154 6.587,-3.029 9.816,-5.616 5.257,2.47 13.478,5.235 21.905,2.534 8.493,-2.727 12.887,-23.693 0.962,-37.019 z M 66.098,16.304 c 3.72,4.192 9.726,13.176 8.159,26.245 -0.118,0.983 0.19,1.969 0.848,2.709 0.018,0.02 0.039,0.033 0.057,0.052 -0.325,4.55 -1.112,10.354 -1.996,15.142 -1.312,0.427 -2.293,1.605 -2.389,3.052 -0.314,4.771 -2.11,8.687 -4.63,11.809 C 64.911,70.845 62,65.781 54,65.411 v 5.473 c 0,0 7.3,0.703 10.948,5.813 -3.068,3.273 -6.833,5.521 -9.896,6.82 -2.771,-2.121 -5.033,-6.595 -5.033,-6.595 0,0 -2.239,4.449 -5,6.578 C 41.974,82.188 38.181,79.921 35.112,76.622 38.779,71.582 46,70.884 46,70.884 v -5.473 c -8,0.367 -10.859,5.352 -12.115,9.793 -2.494,-3.117 -4.328,-7.019 -4.703,-11.761 -0.088,-1.109 -0.675,-2.06 -1.549,-2.628 -0.933,-5.178 -1.679,-11.537 -2.17,-16.503 0.237,-0.557 0.351,-1.166 0.273,-1.78 -1.637,-13.1 4.258,-22.007 7.915,-26.15 5.534,-6.269 12.198,-9.075 16.348,-9.075 4.854,10e-4 11.324,3.616 16.099,8.997 z"
+         id="path3238" />
+    </g>
+    <path
+       style="fill:#ea4335;fill-opacity:0.50196081;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 43.475612,263.06042 h 32.878634 c 1.526488,0 2.755394,1.22891 2.755394,2.7554 v 10.89958 c 0,1.52649 -1.228906,2.75539 -2.755394,2.75539 H 43.475612 c -1.526488,0 -2.755393,-1.2289 -2.755393,-2.75539 v -1.79597 l -4.819196,-0.0472 4.819196,-7.37054 v -1.68582 c 0,-1.52649 1.228905,-2.7554 2.755393,-2.7554 z"
+       id="rect3831"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssscccssc" />
+    <g
+       id="g3857"
+       transform="translate(3.4901828,1.1387222)">
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,2.3623512,-3.7797619)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot3833"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3835"><rect
+             y="993.23395"
+             x="150.71428"
+             height="66.151207"
+             width="390.72748"
+             id="rect3837" /></flowRegion><flowPara
+           style="font-size:16px"
+           id="flowPara3839">Heghlu'meH</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3847"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,2.3623512,2.0552456)"><flowRegion
+           id="flowRegion3843"><rect
+             id="rect3841"
+             width="390.72748"
+             height="66.151207"
+             x="150.71428"
+             y="993.23395" /></flowRegion><flowPara
+           id="flowPara3845"
+           style="font-size:16px">QaQ jajvam</flowPara></flowRoot>    </g>
+    <g
+       transform="translate(3.4901828,17.241712)"
+       id="g3876">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3866"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,2.3623512,-3.7797619)"><flowRegion
+           id="flowRegion3862"><rect
+             id="rect3860"
+             width="390.72748"
+             height="66.151207"
+             x="150.71428"
+             y="993.23395" /></flowRegion><flowPara
+           id="flowPara3864"
+           style="font-style:italic;font-size:13.33333397px">(Klingon) today is</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,2.3623512,2.0552456)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot3874"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3870"><rect
+             y="993.23395"
+             x="150.71428"
+             height="66.151207"
+             width="390.72748"
+             id="rect3868" /></flowRegion><flowPara
+           style="font-style:italic;font-size:13.33333397px"
+           id="flowPara3872">a good day to die</flowPara></flowRoot>    </g>
+  </g>
+</svg>
