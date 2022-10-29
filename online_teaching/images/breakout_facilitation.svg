@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="180mm"
+   height="120mm"
+   viewBox="0 0 180 120"
+   version="1.1"
+   id="svg44262"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="breakout_facilitation.svg"
+   inkscape:export-filename="/home/kristian/projects/online_teaching_survival_guide/images/breakout_facilitation.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <defs
+     id="defs44256" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="492.87496"
+     inkscape:cy="325.13501"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata44259">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-177)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot44807"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,9.4438414,185.95244)"><flowRegion
+         id="flowRegion44809"><rect
+           id="rect44811"
+           width="665.71429"
+           height="157.14285"
+           x="8.5714283"
+           y="-8.908886" /></flowRegion><flowPara
+         id="flowPara44813"
+         style="font-weight:bold;font-size:32px">Facilitating breakout activities</flowPara></flowRoot>    <g
+       id="g45108"
+       transform="translate(8.6934525,189.7345)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot43744"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,12.307807,-246.20134)"><flowRegion
+           id="flowRegion43740"><rect
+             id="rect43738"
+             width="359.76871"
+             height="55.454254"
+             x="77.14286"
+             y="1006.0911" /></flowRegion><flowPara
+           id="flowPara43742"
+           style="font-weight:bold;font-size:21.33333397px">Write down and post the task</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,11.865377,-238.18327)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot43752"
+         xml:space="preserve"><flowRegion
+           id="flowRegion43748"><rect
+             y="1006.0911"
+             x="77.14286"
+             height="69.826561"
+             width="451.33578"
+             id="rect43746" /></flowRegion><flowPara
+           style="font-size:21.33333397px"
+           id="flowPara43750">students need to check it when they start</flowPara></flowRoot>    </g>
+    <g
+       id="g45219"
+       transform="translate(0,187.86476)">
+      <circle
+         style="fill:#4285f4;fill-opacity:0.50196078;stroke:#4285f4;stroke-width:1.14410281;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path45025"
+         cx="21.440653"
+         cy="33.679142"
+         r="10.324591" />
+      <g
+         transform="matrix(0.07100373,0,0,0.07100373,-42.950089,19.874343)"
+         id="g5489">
+        <ellipse
+           ry="26.830441"
+           rx="75.060043"
+           cy="891.74359"
+           cx="157.38635"
+           style="fill:#999999;stroke:#000000;stroke-width:7.69455528"
+           id="path3870"
+           transform="matrix(0.49769774,-0.86735054,0.93773634,0.34734789,0,0)" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:5.73101807;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-start:none"
+           d="M 852.5066,276.2 951.90843,108.13275"
+           id="path3868"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.82067847;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 943.4066,124.13889 h 14.58889"
+           id="path3872"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.82067847;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 930.50105,144.9 h 24.12777"
+           id="path3874"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.82067847;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 918.1566,165.66113 h 29.84578"
+           id="path3876"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.82067847;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 905.81216,186.42222 h 31.39308"
+           id="path3878"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.82067847;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 892.9066,207.18334 h 29.14635"
+           id="path3880"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.82067847;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 880.56215,227.94445 h 23.08757"
+           id="path3882"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.82067847;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 943.4066,124.13889 -11.78334,-9.95972"
+           id="path3884"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.82067847;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 930.50105,144.9 914.78993,129.18889"
+           id="path3886"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.82067847;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 918.1566,165.66113 900.20103,147.70557"
+           id="path3888"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.82067847;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 905.81216,186.42222 887.71633,168.32639"
+           id="path3890"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.82067847;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 892.9066,207.18334 876.63438,190.91111"
+           id="path3892"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.82067847;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 880.56215,227.94445 -10.6611,-10.66111"
+           id="path3894"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#000000;stroke:none;stroke-width:1.06666672"
+           d="m 855.02369,277.58434 -4.96101,7.38985 V 274.7081"
+           id="path5487"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+      </g>
+    </g>
+    <g
+       id="g45142"
+       transform="matrix(0.57205138,0,0,0.57205138,9.7106191,200.17746)">
+      <circle
+         r="18.048363"
+         cy="88.26265"
+         cx="20.505209"
+         id="circle45110"
+         style="fill:#4285f4;fill-opacity:0.50196078;stroke:#4285f4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g4081"
+         transform="matrix(0.17500635,0,0,0.17500635,-73.119133,-17.083188)"
+         inkscape:export-filename="/home/krother/Desktop/Academis/pictures/icons/time_management.png"
+         inkscape:export-xdpi="150.2869"
+         inkscape:export-ydpi="150.2869">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:4.23821211;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4083"
+           width="72.192238"
+           height="114.48394"
+           x="498.88071"
+           y="544.7124"
+           inkscape:export-filename="/home/krother/Desktop/Academis/pictures/icons/time_management.png"
+           inkscape:export-xdpi="150.2869"
+           inkscape:export-ydpi="150.2869" />
+        <path
+           style="fill:#808080;stroke:none;stroke-width:1.06666672"
+           d="m 502.14786,564.54187 h 65.62783 c -8.50336,26.54808 -19.75,35.41731 -32.57735,34.86393 -12.98884,0.53189 -24.52205,-7.90687 -33.05048,-34.86393 z"
+           id="path4093"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc"
+           inkscape:export-filename="/home/krother/Desktop/Academis/pictures/icons/time_management.png"
+           inkscape:export-xdpi="150.2869"
+           inkscape:export-ydpi="150.2869" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.82547474;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 571.07292,544.71241 c 0,0 -3.22258,56.44193 -36.3655,56.29916 -33.14292,-0.14275 -35.82673,-56.29916 -35.82673,-56.29916"
+           id="path4085"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="czc"
+           inkscape:export-filename="/home/krother/Desktop/Academis/pictures/icons/time_management.png"
+           inkscape:export-xdpi="150.2869"
+           inkscape:export-ydpi="150.2869" />
+        <path
+           sodipodi:nodetypes="czc"
+           inkscape:connector-curvature="0"
+           id="path4087"
+           d="m 571.07292,659.19635 c 0,0 -3.22258,-56.44193 -36.3655,-56.29917 -33.14292,0.14276 -35.82673,56.29917 -35.82673,56.29917"
+           style="fill:none;stroke:#000000;stroke-width:2.82547474;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:export-filename="/home/krother/Desktop/Academis/pictures/icons/time_management.png"
+           inkscape:export-xdpi="150.2869"
+           inkscape:export-ydpi="150.2869" />
+        <path
+           style="fill:#808080;stroke:#000000;stroke-width:2.82547474;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 518.39403,658.32918 16.58277,-21.5238 c 0,0 17.32199,22.09523 16.56009,21.90475 -0.7619,-0.19047 -33.14286,-0.38095 -33.14286,-0.38095 z"
+           id="path4089"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsc"
+           inkscape:export-filename="/home/krother/Desktop/Academis/pictures/icons/time_management.png"
+           inkscape:export-xdpi="150.2869"
+           inkscape:export-ydpi="150.2869" />
+        <path
+           style="fill:#808080;stroke:#808080;stroke-width:2.82547474;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 534.9768,640.73058 V 597.49081"
+           id="path4091"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/krother/Desktop/Academis/pictures/icons/time_management.png"
+           inkscape:export-xdpi="150.2869"
+           inkscape:export-ydpi="150.2869" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4038"
+           d="m 502.48165,563.67122 h 64.46479"
+           style="fill:#808080;stroke:#000000;stroke-width:2.84216022;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:export-filename="/home/krother/Desktop/Academis/pictures/icons/time_management.png"
+           inkscape:export-xdpi="150.2869"
+           inkscape:export-ydpi="150.2869" />
+      </g>
+    </g>
+    <g
+       transform="translate(8.6934525,214.84978)"
+       id="g45174">
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,12.307807,-246.20134)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot45156"
+         xml:space="preserve"><flowRegion
+           id="flowRegion45152"><rect
+             y="1006.0911"
+             x="77.14286"
+             height="55.454254"
+             width="359.76871"
+             id="rect45150" /></flowRegion><flowPara
+           style="font-weight:bold;font-size:21.33333397px"
+           id="flowPara45154">Timebox the activity</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot45164"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,11.865377,-238.18327)"><flowRegion
+           id="flowRegion45160"><rect
+             id="rect45158"
+             width="451.33578"
+             height="69.826561"
+             x="77.14286"
+             y="1006.0911" /></flowRegion><flowPara
+           id="flowPara45162"
+           style="font-size:21.33333397px">announce a clear time limit</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,11.865377,-230.16517)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot45172"
+         xml:space="preserve"><flowRegion
+           id="flowRegion45168"><rect
+             y="1006.0911"
+             x="77.14286"
+             height="57.041233"
+             width="447.05154"
+             id="rect45166" /></flowRegion><flowPara
+           style="font-size:21.33333397px"
+           id="flowPara45170">notify everybody before the time expires</flowPara></flowRoot>    </g>
+    <g
+       id="g45239"
+       transform="translate(0,187.08867)">
+      <g
+         transform="matrix(0.57205138,0,0,0.57205138,9.7106191,12.158261)"
+         id="g45148">
+        <circle
+           r="18.048363"
+           cy="140.80135"
+           cx="20.505209"
+           id="circle45112"
+           style="fill:#4285f4;fill-opacity:0.50196078;stroke:#4285f4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <g
+           id="g3744"
+           transform="matrix(0.2762762,0,0,0.2762762,327.88439,303.48804)">
+          <rect
+             style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:2.79891706;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect3746"
+             width="41.703159"
+             height="40.99633"
+             x="-1139.1836"
+             y="-594.12592" />
+          <path
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.79891706;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -1131.055,-589.88484 11.3093,30.04043 33.928,-65.38206 -33.2212,51.95225 z"
+             id="path3748"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+      </g>
+      <g
+         transform="translate(8.6934525,56.885416)"
+         id="g45200">
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,12.307807,-246.20134)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot45182"
+           xml:space="preserve"><flowRegion
+             id="flowRegion45178"><rect
+               y="1006.0911"
+               x="77.14286"
+               height="54.025715"
+               width="441.19727"
+               id="rect45176" /></flowRegion><flowPara
+             style="font-weight:bold;font-size:21.33333397px"
+             id="flowPara45180">Post the expected result</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot45190"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,11.865377,-238.18327)"><flowRegion
+             id="flowRegion45186"><rect
+               id="rect45184"
+               width="451.33578"
+               height="69.826561"
+               x="77.14286"
+               y="1006.0911" /></flowRegion><flowPara
+             id="flowPara45188"
+             style="font-size:21.33333397px">teams need to know whether they should</flowPara></flowRoot>        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,11.865377,-230.16517)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot45198"
+           xml:space="preserve"><flowRegion
+             id="flowRegion45194"><rect
+               y="1006.0911"
+               x="77.14286"
+               height="57.041233"
+               width="447.05154"
+               id="rect45192" /></flowRegion><flowPara
+             style="font-size:21.33333397px"
+             id="flowPara45196">explain, post or present their outcomes</flowPara></flowRoot>      </g>
+    </g>
+    <path
+       style="fill:#4285f4;fill-opacity:1;stroke:none;stroke-width:1.50650322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 163.27239,193.05071 c -0.0301,0.0174 -0.0452,1.4542 -0.0522,3.09439 H 6.7212317 v 2.86132 H 163.2202 c 0.007,1.64006 0.0221,3.07698 0.0522,3.09439 0.0784,0.0453 7.83777,-4.43481 7.83777,-4.52531 0,-0.0905 -7.75939,-4.57004 -7.83777,-4.52479 z"
+       id="rect45241"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

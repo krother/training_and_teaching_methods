@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="140mm"
+   viewBox="0 0 210 140"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="4mat.svg"
+   inkscape:export-filename="/home/kristian/projects/online_teaching_survival_guide/images/4mat.png"
+   inkscape:export-xdpi="72.57"
+   inkscape:export-ydpi="72.57">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath853">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect855"
+         width="101.10863"
+         height="71.815475"
+         x="104.8884"
+         y="163.74243" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath859">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect861"
+         width="101.10863"
+         height="71.815475"
+         x="104.88838"
+         y="235.55791" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath865">
+      <rect
+         y="235.55791"
+         x="3.7797699"
+         height="71.815475"
+         width="101.10863"
+         id="rect867"
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath869">
+      <rect
+         y="163.74243"
+         x="3.7797699"
+         height="71.815475"
+         width="101.10863"
+         id="rect871"
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="308.51965"
+     inkscape:cy="42.236411"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g968"
+     showgrid="false"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-157)">
+    <g
+       id="g968"
+       transform="matrix(1,0,0,-1,0,455.81266)">
+      <ellipse
+         transform="translate(0,-7.4835467)"
+         clip-path="url(#clipPath865)"
+         ry="60.098213"
+         rx="97.240952"
+         cy="235.38988"
+         cx="104.80048"
+         id="ellipse863"
+         style="fill:#ea4335;fill-opacity:0.75294118;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         transform="translate(0,-7.4835467)"
+         clip-path="url(#clipPath859)"
+         ry="60.098213"
+         rx="97.240952"
+         cy="235.38988"
+         cx="104.80048"
+         id="ellipse857"
+         style="fill:#fbbc05;fill-opacity:0.75294118;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         transform="translate(0,-7.4835467)"
+         clip-path="url(#clipPath869)"
+         style="fill:#4285f4;fill-opacity:0.75294118;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse829"
+         cx="104.80048"
+         cy="235.38988"
+         rx="97.240952"
+         ry="60.098213" />
+      <ellipse
+         transform="translate(0,-7.4835467)"
+         clip-path="url(#clipPath853)"
+         ry="60.098213"
+         rx="97.240952"
+         cy="235.38988"
+         cx="104.80048"
+         id="path815"
+         style="fill:#34a853;fill-opacity:0.75294118;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 104.80048,167.37428 V 287.91285"
+       id="path817"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 7.4835466,227.90634 H 201.88514"
+       id="path819"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot873"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,17.022733,169.17745)"><flowRegion
+         id="flowRegion875"><rect
+           id="rect877"
+           width="177.85715"
+           height="64.285713"
+           x="185.71428"
+           y="98.419563" /></flowRegion><flowPara
+         id="flowPara879"
+         style="font-weight:bold">WHY</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot900"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,14.544848,155.67708)"><flowRegion
+         id="flowRegion902"><rect
+           id="rect904"
+           width="314.28568"
+           height="68.779366"
+           x="82.14286"
+           y="199.84813" /></flowRegion><flowPara
+         id="flowPara906"
+         style="font-size:32px">should I care?</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,65.398517,169.17745)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot914"
+       xml:space="preserve"><flowRegion
+         id="flowRegion910"><rect
+           y="98.419563"
+           x="185.71428"
+           height="64.285713"
+           width="177.85715"
+           id="rect908" /></flowRegion><flowPara
+         style="font-weight:bold"
+         id="flowPara912">WHAT</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,92.533294,155.67708)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot922"
+       xml:space="preserve"><flowRegion
+         id="flowRegion918"><rect
+           y="199.84813"
+           x="82.14286"
+           height="68.779366"
+           width="314.28568"
+           id="rect916" /></flowRegion><flowPara
+         id="flowPara920"
+         style="font-size:32.0000004px">can I learn?</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,17.022733,209.93605)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot930"
+       xml:space="preserve"><flowRegion
+         id="flowRegion926"><rect
+           y="98.419563"
+           x="185.71428"
+           height="64.285713"
+           width="177.85715"
+           id="rect924" /></flowRegion><flowPara
+         style="font-weight:bold"
+         id="flowPara928">HOW</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,27.370938,195.3219)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot938"
+       xml:space="preserve"><flowRegion
+         id="flowRegion934"><rect
+           y="199.84813"
+           x="82.14286"
+           height="68.779366"
+           width="314.28568"
+           id="rect932" /></flowRegion><flowPara
+         id="flowPara936"
+         style="font-size:32px">will I work?</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot946"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,64.742226,209.93605)"><flowRegion
+         id="flowRegion942"><rect
+           id="rect940"
+           width="177.85715"
+           height="64.285713"
+           x="185.71428"
+           y="98.419563" /></flowRegion><flowPara
+         id="flowPara944"
+         style="font-weight:bold">WHICH</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot954"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,92.672821,195.3219)"><flowRegion
+         id="flowRegion950"><rect
+           id="rect948"
+           width="314.28568"
+           height="68.779366"
+           x="82.14286"
+           y="199.84813" /></flowRegion><flowPara
+         id="flowPara952"
+         style="font-size:32px">highlights can</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,92.672821,207.34903)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot962"
+       xml:space="preserve"><flowRegion
+         id="flowRegion958"><rect
+           y="199.84813"
+           x="82.14286"
+           height="68.779366"
+           width="314.28568"
+           id="rect956" /></flowRegion><flowPara
+         id="flowPara960"
+         style="font-size:32px">I expect?</flowPara></flowRoot>  </g>
+</svg>

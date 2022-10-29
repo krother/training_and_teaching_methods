@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="190mm"
+   height="100mm"
+   viewBox="0 0 190 100"
+   version="1.1"
+   id="svg981"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="example_group_tasks.svg"
+   inkscape:export-filename="/home/kristian/projects/online_teaching_survival_guide/images/example_group_tasks.png"
+   inkscape:export-xdpi="120.32"
+   inkscape:export-ydpi="120.32">
+  <defs
+     id="defs975" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="9.8361506"
+     inkscape:cy="143.47582"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata978">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-197)">
+    <rect
+       style="fill:#fbbc05;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1635"
+       width="176.26425"
+       height="15.902542"
+       x="6.3924856"
+       y="202.7749" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot823"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,20.084366,185.03299)"><flowRegion
+         id="flowRegion825"><rect
+           id="rect827"
+           width="455"
+           height="50"
+           x="100"
+           y="67.519684" /></flowRegion><flowPara
+         id="flowPara829"
+         style="font-weight:bold;font-size:21.33333397px">Example tasks for group work</flowPara></flowRoot>    <g
+       id="g1870"
+       transform="translate(14.552083,99.596726)">
+      <g
+         id="g1854">
+        <ellipse
+           style="fill:#fbbc05;fill-opacity:0.50196078;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path1633"
+           cx="41.174564"
+           cy="142.11337"
+           rx="31.270535"
+           ry="13.76438" />
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,-17.480253,47.321664)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot855"
+           xml:space="preserve"><flowRegion
+             id="flowRegion851"><rect
+               y="299.66254"
+               x="190"
+               height="64.581596"
+               width="265.67224"
+               id="rect849" /></flowRegion><flowPara
+             style="font-style:italic;font-size:16px"
+             id="flowPara853">discuss:</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot1643"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,-29.761673,54.408718)"><flowRegion
+             id="flowRegion1639"><rect
+               id="rect1637"
+               width="265.67224"
+               height="64.581596"
+               x="190"
+               y="299.66254" /></flowRegion><flowPara
+             id="flowPara1641"
+             style="font-style:normal;font-size:16px">what do companies</flowPara></flowRoot>        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,-29.170495,60.645325)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot1651"
+           xml:space="preserve"><flowRegion
+             id="flowRegion1647"><rect
+               y="299.66254"
+               x="190"
+               height="64.581596"
+               width="265.67224"
+               id="rect1645" /></flowRegion><flowPara
+             style="font-style:normal;font-size:16px"
+             id="flowPara1649">use databases for?</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g1839"
+       transform="translate(4.7247023,99.596726)">
+      <ellipse
+         style="fill:#fbbc05;fill-opacity:0.50196078;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse1653"
+         cx="112.42307"
+         cy="142.11337"
+         rx="22.717909"
+         ry="13.76438" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,55.462209,47.321664)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot1661"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1657"><rect
+             y="299.66254"
+             x="190"
+             height="64.581596"
+             width="265.67224"
+             id="rect1655" /></flowRegion><flowPara
+           style="font-style:italic;font-size:16px"
+           id="flowPara1659">debug</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1669"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,48.355666,54.408718)"><flowRegion
+           id="flowRegion1665"><rect
+             id="rect1663"
+             width="265.67224"
+             height="64.581596"
+             x="190"
+             y="299.66254" /></flowRegion><flowPara
+           id="flowPara1667"
+           style="font-style:normal;font-size:16px">a short piece</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,54.330495,60.645325)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot1677"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1673"><rect
+             y="299.66254"
+             x="190"
+             height="64.581596"
+             width="265.67224"
+             id="rect1671" /></flowRegion><flowPara
+           style="font-style:normal;font-size:16px"
+           id="flowPara1675">of code</flowPara></flowRoot>    </g>
+    <g
+       id="g1824"
+       transform="translate(-56.318454,100.77299)">
+      <ellipse
+         ry="13.76438"
+         rx="22.717909"
+         cy="176.19023"
+         cx="85.428848"
+         id="ellipse1679"
+         style="fill:#fbbc05;fill-opacity:0.50196078;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1687"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,30.261157,81.398529)"><flowRegion
+           id="flowRegion1683"><rect
+             id="rect1681"
+             width="265.67224"
+             height="64.581596"
+             x="190"
+             y="299.66254" /></flowRegion><flowPara
+           id="flowPara1685"
+           style="font-style:italic;font-size:16px">read</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,18.773486,88.485583)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot1695"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1691"><rect
+             y="299.66254"
+             x="190"
+             height="64.581596"
+             width="265.67224"
+             id="rect1689" /></flowRegion><flowPara
+           style="font-style:italic;font-size:16px"
+           id="flowPara1693">and summarize</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1703"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,23.297241,94.72219)"><flowRegion
+           id="flowRegion1699"><rect
+             id="rect1697"
+             width="265.67224"
+             height="64.581596"
+             x="190"
+             y="299.66254" /></flowRegion><flowPara
+           id="flowPara1701"
+           style="font-style:normal;font-size:16px">a blog post</flowPara></flowRoot>    </g>
+    <g
+       id="g1809"
+       transform="translate(127.37798,92.226191)">
+      <ellipse
+         style="fill:#fbbc05;fill-opacity:0.50196078;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse1729"
+         cx="26.219948"
+         cy="184.73703"
+         rx="31.270535"
+         ry="13.76438" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-35.609869,89.945314)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot1737"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1733"><rect
+             y="299.66254"
+             x="190"
+             height="64.581596"
+             width="265.67224"
+             id="rect1731" /></flowRegion><flowPara
+           style="font-style:italic;font-size:16px"
+           id="flowPara1735">implement</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1745"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,-40.229742,97.032374)"><flowRegion
+           id="flowRegion1741"><rect
+             id="rect1739"
+             width="265.67224"
+             height="64.581596"
+             x="190"
+             y="299.66254" /></flowRegion><flowPara
+           id="flowPara1743"
+           style="font-style:normal;font-size:16px">a program by a</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-43.888434,103.26897)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot1753"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1749"><rect
+             y="299.66254"
+             x="190"
+             height="64.581596"
+             width="265.67224"
+             id="rect1747" /></flowRegion><flowPara
+           style="font-style:normal;font-size:16px"
+           id="flowPara1751">step-by-step guide</flowPara></flowRoot>    </g>
+    <g
+       id="g1794"
+       transform="translate(-44.086126,84.142039)">
+      <ellipse
+         style="fill:#fbbc05;fill-opacity:0.50196078;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse1755"
+         cx="131.16397"
+         cy="192.82118"
+         rx="22.717909"
+         ry="13.76438" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,73.051757,98.029481)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot1763"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1759"><rect
+             y="299.66254"
+             x="190"
+             height="64.581596"
+             width="265.67224"
+             id="rect1757" /></flowRegion><flowPara
+           style="font-style:italic;font-size:16px"
+           id="flowPara1761">answer</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1771"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,61.330508,105.11654)"><flowRegion
+           id="flowRegion1767"><rect
+             id="rect1765"
+             width="265.67224"
+             height="64.581596"
+             x="190"
+             y="299.66254" /></flowRegion><flowPara
+           id="flowPara1769"
+           style="font-style:normal;font-size:16px">a coding interview</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,71.811522,111.35314)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot1779"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1775"><rect
+             y="299.66254"
+             x="190"
+             height="64.581596"
+             width="265.67224"
+             id="rect1773" /></flowRegion><flowPara
+           style="font-style:normal;font-size:16px"
+           id="flowPara1777">question</flowPara></flowRoot>    </g>
+  </g>
+</svg>

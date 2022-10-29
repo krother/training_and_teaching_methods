@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="130mm"
+   height="67mm"
+   viewBox="0 0 130 67"
+   version="1.1"
+   id="svg3321"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="feedback_barplot.svg"
+   inkscape:export-filename="/home/kristian/projects/online_teaching_survival_guide/images/feedback_barplot.png"
+   inkscape:export-xdpi="149.36716"
+   inkscape:export-ydpi="149.36716">
+  <defs
+     id="defs3315" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="163.55057"
+     inkscape:cy="92.121848"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g45108"
+     showgrid="false"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3318">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-230)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot44807"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,8.5965869,239.45102)"><flowRegion
+         id="flowRegion44809"><rect
+           id="rect44811"
+           width="665.71429"
+           height="157.14285"
+           x="8.5714283"
+           y="-8.908886" /></flowRegion><flowPara
+         id="flowPara44813"
+         style="font-weight:bold;font-size:32px">Polls</flowPara></flowRoot>    <g
+       id="g4005"
+       transform="translate(-29.198383,4.5357143)">
+      <g
+         transform="translate(7.8462069,243.23308)"
+         id="g45108">
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,12.307807,-259.61949)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot43744"
+           xml:space="preserve"><flowRegion
+             id="flowRegion43740"><rect
+               y="1006.0911"
+               x="77.14286"
+               height="50.454285"
+               width="422.62585"
+               id="rect43738" /></flowRegion><flowPara
+             style="font-weight:bold;font-size:21.33333397px"
+             id="flowPara43742">which topic should we revisit?</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3970"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,12.307807,-246.65398)"><flowRegion
+             id="flowRegion3966"><rect
+               id="rect3964"
+               width="359.76871"
+               height="55.454254"
+               x="77.14286"
+               y="1006.0911" /></flowRegion><flowPara
+             id="flowPara3968"
+             style="font-weight:normal;font-size:21.33333397px">moving files</flowPara></flowRoot>        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,12.307807,-230.17236)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot3978"
+           xml:space="preserve"><flowRegion
+             id="flowRegion3974"><rect
+               y="1006.0911"
+               x="77.14286"
+               height="55.454254"
+               width="359.76871"
+               id="rect3972" /></flowRegion><flowPara
+             style="font-weight:normal;font-size:21.33333397px"
+             id="flowPara3976">bash scripting</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3986"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,12.307807,-238.41317)"><flowRegion
+             id="flowRegion3982"><rect
+               id="rect3980"
+               width="359.76871"
+               height="55.454254"
+               x="77.14286"
+               y="1006.0911" /></flowRegion><flowPara
+             id="flowPara3984"
+             style="font-weight:normal;font-size:21.33333397px">file permissions</flowPara></flowRoot>        <rect
+           ry="0"
+           y="32.738285"
+           x="83.107903"
+           height="4.802803"
+           width="39.76392"
+           id="rect851"
+           style="fill:#34a853;fill-opacity:1;stroke:#000000;stroke-width:0.32456735;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="fill:#4285f4;fill-opacity:1;stroke:#000000;stroke-width:0.32456735;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect855"
+           width="20.676126"
+           height="4.802803"
+           x="83.107903"
+           y="25.060646"
+           ry="0" />
+        <rect
+           ry="0"
+           y="40.415928"
+           x="83.107903"
+           height="4.802803"
+           width="11.08498"
+           id="rect857"
+           style="fill:#fbbc05;fill-opacity:1;stroke:#000000;stroke-width:0.32456735;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 83.056789,22.96186 V 47.246831"
+           id="path845"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <path
+       style="fill:#ea4335;fill-opacity:1;stroke:none;stroke-width:1.04158843;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 119.34683,250.08519 H 5.8739869 v 1.9783 H 119.34684 Z"
+       id="rect45241"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>

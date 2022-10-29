@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="plan_parts.svg"
+   inkscape:export-filename="/home/kristian/projects/online_teaching_survival_guide/images/lesson_structure.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="725.75942"
+     inkscape:cy="390.05728"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:none"
+       id="rect3033"
+       width="637.14288"
+       height="627.14288"
+       x="10.49021"
+       y="418.67841"
+       inkscape:export-filename="/home/krother/course_parts.png"
+       inkscape:export-xdpi="135.60538"
+       inkscape:export-ydpi="135.60538" />
+    <g
+       id="g3035"
+       transform="translate(-12.309408,187.39868)"
+       inkscape:export-filename="/home/krother/course_parts.png"
+       inkscape:export-xdpi="135.60538"
+       inkscape:export-ydpi="135.60538">
+      <path
+         sodipodi:end="1.5707963"
+         sodipodi:start="0"
+         transform="translate(12.08535,108.06043)"
+         d="M 577.14285,436.64789 A 247.14285,247.14285 0 0 1 330.00001,683.79074 L 330,436.64789 Z"
+         sodipodi:ry="247.14285"
+         sodipodi:rx="247.14285"
+         sodipodi:cy="436.64789"
+         sodipodi:cx="330"
+         id="path2985"
+         style="fill:#4285f4;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ea4335;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path2995"
+         sodipodi:cx="330"
+         sodipodi:cy="436.64789"
+         sodipodi:rx="247.14285"
+         sodipodi:ry="247.14285"
+         d="M 577.14285,436.64789 A 247.14285,247.14285 0 0 1 330.00001,683.79074 L 330,436.64789 Z"
+         transform="matrix(1,0,0,-1,12.08535,981.64192)"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#34a853;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path2997"
+         sodipodi:cx="330"
+         sodipodi:cy="436.64789"
+         sodipodi:rx="247.14285"
+         sodipodi:ry="247.14285"
+         d="M 577.14285,436.64789 A 247.14285,247.14285 0 0 1 330.00001,683.79074 L 330,436.64789 Z"
+         transform="matrix(-1,0,0,1,670.65677,108.06043)"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963" />
+      <path
+         sodipodi:end="1.5707963"
+         sodipodi:start="0"
+         transform="rotate(180,335.32839,490.82096)"
+         d="M 577.14285,436.64789 A 247.14285,247.14285 0 0 1 330.00001,683.79074 L 330,436.64789 Z"
+         sodipodi:ry="247.14285"
+         sodipodi:rx="247.14285"
+         sodipodi:cy="436.64789"
+         sodipodi:cx="330"
+         id="path2999"
+         style="fill:#fbbc05;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <flowRoot
+         transform="translate(0,20)"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot3001"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3003"
+           style="font-family:sans-serif"><rect
+             y="432.36218"
+             x="362.85715"
+             height="75.714287"
+             width="187.14285"
+             id="rect3005"
+             style="font-family:sans-serif" /></flowRegion><flowPara
+           id="flowPara3007"
+           style="font-size:40px;line-height:1.25;font-family:sans-serif">warm-up</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3009"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(-209.28571,20)"><flowRegion
+           id="flowRegion3011"
+           style="font-family:sans-serif"><rect
+             id="rect3013"
+             width="187.14285"
+             height="75.714287"
+             x="362.85715"
+             y="432.36218"
+             style="font-family:sans-serif" /></flowRegion><flowPara
+           id="flowPara3015"
+           style="font-size:40px;line-height:1.25;font-family:sans-serif">wrap-up</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3017"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(0,144.28571)"><flowRegion
+           id="flowRegion3019"
+           style="font-family:sans-serif"><rect
+             id="rect3021"
+             width="187.14285"
+             height="75.714287"
+             x="362.85715"
+             y="432.36218"
+             style="font-family:sans-serif" /></flowRegion><flowPara
+           id="flowPara3023"
+           style="font-size:40px;line-height:1.25;font-family:sans-serif">theory</flowPara></flowRoot>      <flowRoot
+         transform="translate(-231.19977,144.28571)"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot3025"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3027"
+           style="font-family:sans-serif"><rect
+             y="432.36218"
+             x="362.85715"
+             height="75.714287"
+             width="187.14285"
+             id="rect3029"
+             style="font-family:sans-serif" /></flowRegion><flowPara
+           id="flowPara3031"
+           style="font-size:40px;line-height:1.25;font-family:sans-serif">exercises</flowPara></flowRoot>    </g>
+  </g>
+</svg>
