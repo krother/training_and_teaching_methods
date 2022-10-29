@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="sixpac.svg"
+   inkscape:export-filename="/home/kristian/projects/online_teaching_survival_guide/images/sixpac.png"
+   inkscape:export-xdpi="145.14"
+   inkscape:export-ydpi="145.14">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4695">
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4697"
+         width="108.85714"
+         height="70.303574"
+         x="25.637667"
+         y="102.11299" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="37.581382"
+     inkscape:cy="558.00922"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4596"
+       transform="matrix(0.79744296,0,0,0.79744296,2.6549442,40.880812)">
+      <rect
+         y="15.78571"
+         x="13.607143"
+         height="70.303574"
+         width="108.85714"
+         id="rect815"
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0" />
+      <g
+         transform="translate(-22.613853,-86.327277)"
+         id="g4585">
+        <g
+           id="g4565"
+           transform="matrix(1.454256,0,0,1.454256,-34.290221,-63.32504)">
+          <path
+             inkscape:export-ydpi="150"
+             inkscape:export-xdpi="150"
+             inkscape:export-filename="/home/kristian/projects/academis/static/images/pac.png"
+             d="m 79.018395,142.51838 a 11.27373,11.27373 0 0 1 -12.657438,6.43885 11.27373,11.27373 0 0 1 -8.915319,-11.05381 11.27373,11.27373 0 0 1 8.973074,-11.00697 11.27373,11.27373 0 0 1 12.623551,6.50504 l -10.322933,4.53145 z"
+             sodipodi:end="5.8695423"
+             sodipodi:start="0.41887902"
+             sodipodi:ry="11.27373"
+             sodipodi:rx="11.27373"
+             sodipodi:cy="137.93294"
+             sodipodi:cx="68.71933"
+             sodipodi:type="arc"
+             id="path3227"
+             style="opacity:1;fill:#fbbc05;fill-opacity:1;stroke:#000000;stroke-width:0.51572764;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <circle
+             inkscape:export-ydpi="150"
+             inkscape:export-xdpi="150"
+             inkscape:export-filename="/home/kristian/projects/academis/static/images/pac.png"
+             r="1.3222277"
+             cy="132.48212"
+             cx="67.072952"
+             id="path3229"
+             style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.39687499;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <g
+           id="g4576"
+           transform="translate(0,-0.37101335)">
+          <circle
+             r="3.827009"
+             cy="137.63579"
+             cx="94.450729"
+             id="path4567"
+             style="fill:#fbbc05;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0" />
+          <circle
+             style="fill:#fbbc05;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0"
+             id="circle4569"
+             cx="111.35552"
+             cy="137.63579"
+             r="3.827009" />
+          <circle
+             r="3.827009"
+             cy="137.63579"
+             cx="128.26031"
+             id="circle4571"
+             style="fill:#fbbc05;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4616"
+       transform="matrix(0.79744296,0,0,0.79744296,2.6549442,131.0871)">
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4598"
+         width="108.85714"
+         height="70.303574"
+         x="13.607143"
+         y="8.2019463" />
+      <g
+         id="g4614"
+         transform="translate(-22.613853,-86.327277)">
+        <g
+           transform="matrix(1.454256,0,0,1.454256,-34.290221,-63.32504)"
+           id="g4604">
+          <path
+             style="opacity:1;fill:#fbbc05;fill-opacity:1;stroke:#000000;stroke-width:0.51572764;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="path4600"
+             sodipodi:type="arc"
+             sodipodi:cx="68.71933"
+             sodipodi:cy="132.71806"
+             sodipodi:rx="11.27373"
+             sodipodi:ry="11.27373"
+             sodipodi:start="0.41887902"
+             sodipodi:end="5.8695423"
+             d="m 79.018395,137.3035 a 11.27373,11.27373 0 0 1 -12.657438,6.43886 11.27373,11.27373 0 0 1 -8.915319,-11.05381 11.27373,11.27373 0 0 1 8.973074,-11.00698 11.27373,11.27373 0 0 1 12.623551,6.50504 l -10.322933,4.53145 z"
+             inkscape:export-filename="/home/kristian/projects/academis/static/images/pac.png"
+             inkscape:export-xdpi="150"
+             inkscape:export-ydpi="150" />
+          <g
+             id="g4664"
+             transform="rotate(45,73.31353,129.86587)">
+            <rect
+               ry="0"
+               y="131.71519"
+               x="64.698341"
+               height="1.516221"
+               width="4.6405554"
+               id="rect4658"
+               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.77469265;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0" />
+            <rect
+               transform="rotate(90)"
+               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.77469265;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0"
+               id="rect4660"
+               width="4.6405554"
+               height="1.516221"
+               x="130.15303"
+               y="-67.776726"
+               ry="0" />
+          </g>
+        </g>
+        <g
+           transform="translate(0,-7.9547771)"
+           id="g4612">
+          <circle
+             style="fill:#fbbc05;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0"
+             id="circle4606"
+             cx="94.450729"
+             cy="137.63579"
+             r="3.827009" />
+          <circle
+             r="3.827009"
+             cy="137.63579"
+             cx="111.35552"
+             id="circle4608"
+             style="fill:#fbbc05;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0" />
+          <circle
+             style="fill:#fbbc05;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0"
+             id="circle4610"
+             cx="128.26031"
+             cy="137.63579"
+             r="3.827009" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4636"
+       transform="matrix(0.79744296,0,0,0.79744296,2.6549442,209.19815)">
+      <rect
+         y="15.78571"
+         x="13.607143"
+         height="70.303574"
+         width="108.85714"
+         id="rect4618"
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0" />
+      <g
+         transform="translate(-22.613853,-86.327277)"
+         id="g4634">
+        <g
+           id="g4624"
+           transform="matrix(1.454256,0,0,1.454256,-34.290221,-63.32504)">
+          <path
+             inkscape:export-ydpi="150"
+             inkscape:export-xdpi="150"
+             inkscape:export-filename="/home/kristian/projects/academis/static/images/pac.png"
+             d="m 79.018395,142.51838 a 11.27373,11.27373 0 0 1 -12.657438,6.43885 11.27373,11.27373 0 0 1 -8.915319,-11.05381 11.27373,11.27373 0 0 1 8.973074,-11.00697 11.27373,11.27373 0 0 1 12.623551,6.50504 l -10.322933,4.53145 z"
+             sodipodi:end="5.8695423"
+             sodipodi:start="0.41887902"
+             sodipodi:ry="11.27373"
+             sodipodi:rx="11.27373"
+             sodipodi:cy="137.93294"
+             sodipodi:cx="68.71933"
+             sodipodi:type="arc"
+             id="path4620"
+             style="opacity:1;fill:#fbbc05;fill-opacity:1;stroke:#000000;stroke-width:0.51572764;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <circle
+             inkscape:export-ydpi="150"
+             inkscape:export-xdpi="150"
+             inkscape:export-filename="/home/kristian/projects/academis/static/images/pac.png"
+             r="1.3222277"
+             cy="132.48212"
+             cx="67.072952"
+             id="circle4622"
+             style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.39687499;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4686"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fbbc05;fill-opacity:1;stroke:#000000;stroke-width:0.94488192"
+         transform="matrix(0.30297056,0,0,0.30297056,-23.4094,-180.71367)"><flowRegion
+           id="flowRegion4688"
+           style="fill:#fbbc05;fill-opacity:1;stroke:#000000;stroke-width:0.94488192"><rect
+             id="rect4690"
+             width="265.16507"
+             height="53.285583"
+             x="296.98486"
+             y="742.19727"
+             style="fill:#fbbc05;fill-opacity:1;stroke:#000000;stroke-width:0.94488192" /></flowRegion><flowPara
+           id="flowPara4692"
+           style="stroke-width:1.88976383">\xe2\x80</flowPara></flowRoot>    </g>
+    <g
+       id="g4656"
+       transform="matrix(0.79744296,0,0,0.79744296,101.13547,209.19815)">
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4638"
+         width="108.85714"
+         height="70.303574"
+         x="13.607143"
+         y="15.78571" />
+      <g
+         id="g4654"
+         transform="translate(-12.03052,-86.327277)"
+         clip-path="url(#clipPath4695)">
+        <g
+           transform="matrix(1.454256,0,0,1.454256,40.171089,-63.32504)"
+           id="g4644">
+          <path
+             style="opacity:1;fill:#fbbc05;fill-opacity:1;stroke:#000000;stroke-width:0.51572764;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="path4640"
+             sodipodi:type="arc"
+             sodipodi:cx="68.71933"
+             sodipodi:cy="137.93294"
+             sodipodi:rx="11.27373"
+             sodipodi:ry="11.27373"
+             sodipodi:start="0.41887902"
+             sodipodi:end="5.8695423"
+             d="m 79.018395,142.51838 a 11.27373,11.27373 0 0 1 -12.657438,6.43885 11.27373,11.27373 0 0 1 -8.915319,-11.05381 11.27373,11.27373 0 0 1 8.973074,-11.00697 11.27373,11.27373 0 0 1 12.623551,6.50504 l -10.322933,4.53145 z"
+             inkscape:export-filename="/home/kristian/projects/academis/static/images/pac.png"
+             inkscape:export-xdpi="150"
+             inkscape:export-ydpi="150" />
+          <circle
+             style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.39687499;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle4642"
+             cx="67.072952"
+             cy="132.48212"
+             r="1.3222277"
+             inkscape:export-filename="/home/kristian/projects/academis/static/images/pac.png"
+             inkscape:export-xdpi="150"
+             inkscape:export-ydpi="150" />
+        </g>
+      </g>
+      <rect
+         y="15.78571"
+         x="13.607143"
+         height="70.303574"
+         width="108.85714"
+         id="rect4684"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       id="g4760"
+       transform="matrix(-0.79744296,0,0,0.79744296,209.64467,125.03948)">
+      <rect
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4742"
+         width="108.85714"
+         height="70.303574"
+         x="13.607143"
+         y="15.78571" />
+      <g
+         id="g4758"
+         transform="translate(-22.613853,-86.327277)">
+        <g
+           transform="matrix(1.454256,0,0,1.454256,-34.290221,-63.32504)"
+           id="g4748">
+          <path
+             style="opacity:1;fill:#34a853;fill-opacity:1;stroke:#000000;stroke-width:0.51572764;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="path4744"
+             sodipodi:type="arc"
+             sodipodi:cx="68.71933"
+             sodipodi:cy="137.93294"
+             sodipodi:rx="11.27373"
+             sodipodi:ry="11.27373"
+             sodipodi:start="0.41887902"
+             sodipodi:end="5.8695423"
+             d="m 79.018395,142.51838 a 11.27373,11.27373 0 0 1 -12.657438,6.43885 11.27373,11.27373 0 0 1 -8.915319,-11.05381 11.27373,11.27373 0 0 1 8.973074,-11.00697 11.27373,11.27373 0 0 1 12.623551,6.50504 l -10.322933,4.53145 z"
+             inkscape:export-filename="/home/kristian/projects/academis/static/images/pac.png"
+             inkscape:export-xdpi="150"
+             inkscape:export-ydpi="150" />
+          <circle
+             style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.39687499;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle4746"
+             cx="67.072952"
+             cy="132.48212"
+             r="1.3222277"
+             inkscape:export-filename="/home/kristian/projects/academis/static/images/pac.png"
+             inkscape:export-xdpi="150"
+             inkscape:export-ydpi="150" />
+        </g>
+        <g
+           transform="translate(0,-0.37101335)"
+           id="g4756">
+          <circle
+             style="fill:#34a853;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0"
+             id="circle4750"
+             cx="94.450729"
+             cy="137.63579"
+             r="3.827009" />
+          <circle
+             r="3.827009"
+             cy="137.63579"
+             cx="111.35552"
+             id="circle4752"
+             style="fill:#34a853;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0" />
+          <circle
+             style="fill:#34a853;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0"
+             id="circle4754"
+             cx="128.26031"
+             cy="137.63579"
+             r="3.827009" />
+        </g>
+      </g>
+      <rect
+         style="fill:#34a853;fill-opacity:1;stroke:#000000;stroke-width:0.62700415;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4782"
+         width="7.9600067"
+         height="7.9600067"
+         x="-109.64506"
+         y="47.012627"
+         transform="scale(-1,1)" />
+      <rect
+         transform="scale(-1,1)"
+         y="47.012627"
+         x="-92.719566"
+         height="7.9600067"
+         width="7.9600067"
+         id="rect4784"
+         style="fill:#34a853;fill-opacity:1;stroke:#000000;stroke-width:0.62700415;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:#34a853;fill-opacity:1;stroke:#000000;stroke-width:0.62700415;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4786"
+         width="7.9600067"
+         height="7.9600067"
+         x="-75.710289"
+         y="47.012627"
+         transform="scale(-1,1)" />
+    </g>
+    <g
+       id="g4780"
+       transform="matrix(0.79744296,0,0,0.79744296,101.13547,40.880812)">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:5.19999981;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4762"
+         width="108.85714"
+         height="70.303574"
+         x="13.607143"
+         y="15.78571" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4788"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-8.6267579,-9.0714286)"><flowRegion
+         id="flowRegion4790"><rect
+           id="rect4792"
+           width="398.11606"
+           height="54.949238"
+           x="81.428574"
+           y="451.09113" /></flowRegion><flowPara
+         id="flowPara4794"
+         style="font-size:24.00000191px">teacher: OK</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,89.660843,-9.0714286)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4802"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4798"><rect
+           y="451.09113"
+           x="81.428574"
+           height="58.989849"
+           width="367.81146"
+           id="rect4796" /></flowRegion><flowPara
+         style="font-size:24px"
+         id="flowPara4800">student #1: nothing works</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-8.6267579,75.118473)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4810"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4806"><rect
+           y="451.09113"
+           x="81.428574"
+           height="54.949238"
+           width="398.11606"
+           id="rect4804" /></flowRegion><flowPara
+         style="font-size:24.00000191px"
+         id="flowPara4808">student #2: crashes</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4818"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,89.699082,75.118473)"><flowRegion
+         id="flowRegion4814"><rect
+           id="rect4812"
+           width="398.11606"
+           height="54.949238"
+           x="81.428574"
+           y="451.09113" /></flowRegion><flowPara
+         id="flowPara4816"
+         style="font-size:24.00000191px">student #3: weird output</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,89.699082,157.70476)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4826"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4822"><rect
+           y="451.09113"
+           x="81.428574"
+           height="54.949238"
+           width="398.11606"
+           id="rect4820" /></flowRegion><flowPara
+         style="font-size:24.00000191px"
+         id="flowPara4824">student #5: done &amp; bored</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4834"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-8.7814427,157.70476)"><flowRegion
+         id="flowRegion4830"><rect
+           id="rect4828"
+           width="398.11606"
+           height="54.949238"
+           x="81.428574"
+           y="451.09113" /></flowRegion><flowPara
+         id="flowPara4832"
+         style="font-size:24.00000191px">student #4: unicode issue</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4836"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion4838"><rect
+           id="rect4840"
+           width="688.92401"
+           height="137.38075"
+           x="62.629459"
+           y="43.676765" /></flowRegion><flowPara
+         id="flowPara4842"
+         style="font-weight:bold">What happens when students</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,0,19.243406)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4850"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4846"><rect
+           y="43.676765"
+           x="62.629459"
+           height="137.38075"
+           width="688.92401"
+           id="rect4844" /></flowRegion><flowPara
+         style="font-weight:bold"
+         id="flowPara4848">install programs in class:</flowPara></flowRoot>  </g>
+</svg>
