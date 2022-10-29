@@ -23,6 +23,7 @@
 ## Preparing Lessons
 
 * [Preparing Lessons](planning/preparing_lessons.md)
+* [How to decide what to teach?](planning/decide_what_to_teach.md)
 * [Learning Goals](planning/goals.md)
 * [Concept Maps](planning/concept_maps.md)
 * [Structure of a Lesson](planning/lesson_structure.md)
@@ -50,7 +51,7 @@
 * [Upside-Down](getting_started/upside_down.md)
 * [Brainstorming](getting_started/brainstorming.md)
 * [Puzzles](getting_started/puzzles.md)
-* [Stories](getting_started/stories.md)
+* [Storytelling](getting_started/storytelling.md)
 * [Theater](getting_started/theater.md)
 
 ----
@@ -64,13 +65,13 @@
 * [Questions](lectures/questions.md)
 * [Paper-and-Scissors Worksheets](lectures/paper_and_scissors.md)
 * [Algorithmic Games](lectures/algorithmic_games.md)
-* [Online Teaching](lectures/online_teaching.md)
 
 ----
 
 ## Coding Exercises
 
 * [Facilitating Coding Exercises](coding_exercises/reduced_examples.md)
+* [How to prevent Installation Problems?](coding_exercises/prevent_install_failure.md)
 * [Group Assignments](coding_exercises/group_assignments.md)
 * [Debugging](coding_exercises/debugging.md)
 * [Coding Kata](coding_exercises/coding_kata.md)
@@ -107,6 +108,19 @@
 
 ----
 
+## Online Teaching
+
+* [Online Teaching](lectures/online_teaching.md)
+* [How to save preparation time?](online_teaching/save_preparation_time.md)
+* [How to start an online lesson?](online_teaching/start_class.md)
+* [How to create engaging coding exercises?](online_teaching/engaging_coding_exercises.md)
+* [How to select material for self-study?](online_teaching/self_study_material.md)
+* [How to encourage students to work together?](online_teaching/students_work_together.md)
+* [How to get instant feedback from students?](online_teaching/instant_feedback.md)
+
+
+----
+
 ## Troubleshooting
 
 * [How to teach with little time to prepare?](troubleshooting/no_prep.md)
@@ -114,6 +128,7 @@
 * [How to teach when your plan doesn't work?](troubleshooting/plan_b.md)
 * [How to deal with technology failures?](troubleshooting/tech_failures.md)
 * [How to handle heterogeneous skill levels?](troubleshooting/heterogeneous.md)
+* [How to react if students show disruptive behavior?](troubleshooting/disruptive_behavior.md)
 * [How to handle passive participants?](troubleshooting/passive.md)
 * [How to handle participants under pressure?](troubleshooting/under_pressure.md)
 * [How to wake up your class?](troubleshooting/energizers.md)
