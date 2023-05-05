@@ -11,7 +11,7 @@
 ## Fundamentals
 
 * [Teaching is a Craft](fundamentals/teaching_craft.md)
-* [Why Programming is difficult to teach](fundamentals/why_programming_is_difficult_to_teach.md)
+* [Programming is difficult to teach](fundamentals/programming_is_difficult_to_teach.md)
 * [The Teaching Process](fundamentals/teaching_process.md)
 * [Types of Students](fundamentals/types_of_students.md)
 * [What Students are looking for](fundamentals/students.md)
@@ -23,7 +23,7 @@
 ## Preparing Lessons
 
 * [Preparing Lessons](planning/preparing_lessons.md)
-* [How to decide what to teach?](planning/decide_what_to_teach.md)
+* [Decide what to teach](planning/decide_what_to_teach.md)
 * [Learning Goals](planning/goals.md)
 * [Concept Maps](planning/concept_maps.md)
 * [Structure of a Lesson](planning/lesson_structure.md)

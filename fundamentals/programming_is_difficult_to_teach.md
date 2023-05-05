@@ -1,19 +1,22 @@
 
-# Why Programming is difficult to teach
+# Programming is difficult to teach
 
 ![](../images/confucius.png)
 
-Teaching is a very old profession but teaching programming is special.
-There are a few specific challenges that many programming teachers face.
-In this chapter I would like to cover four of them.
+Teaching is a very old profession.
+A lot has been written about theory and practice of teaching.
+Most of it is valid when you teach programming, so reading a book on education is a good idea.
+However, teaching programming is special.
+There are specific challenges that many programming teachers face.
+In this chapter I would like to point out four of them.
 
 ----
 
 ## Challenge #1: Programming is difficult to learn
 
-Consider an introductory Python course. 
-As a classroom project, students are analyzing a table with penguins.
-You would like them to write programs like this:
+Consider you are teaching an introductory Python course. 
+As a classroom project, your students will analyze a table with penguins.
+You would like them to write a small program like this one:
 
     :::python3
     # count all Adelie penguins
@@ -24,56 +27,60 @@ You would like them to write programs like this:
     
     print(f'There are {ade} Adelie penguins in the file.')
 
-What difficulties might a student face learning to write a Python program like this?
-As you well know, there are many things that are not easy when you do them for the first time:
+What difficulties might a student face learning to write this Python program?
+As you well know, there are many things that are not easy when someone is programming for the first time:
 
 * set up their Python environment properly
 * decompose the problem into elementary steps
-* grasp the abstraction behind the for loop
-* combine the for loop with a conditional statement (another abstraction)
+* grasp the abstraction behind a `for` loop
+* combine the `for` loop with a conditional statement (another abstraction)
 * type in the instructions correctly
 
-In all these steps, tiny details matter. Getting one tiny detail wrong can ruin everything.
+In all these steps, tiny details matter.
+Getting one tiny detail wrong can ruin everything.
 In this aspect, learning to program is fundamentally different from e.g. learning a spoken language.
-The following variations of the above code lines are non-trivial mistakes for many beginners:
+The following variations of the above program contains several bugs that are non-trivial for many beginners:
 
-    :::python3
-    ade = 1
+    # count all Adelie penguins
+    ade == 0
+    for line in 'penguins.csv':
+        if line in 'Adelie':
+            ade + 1
+            print('There are {ade} Adelie penguins in the file.')
 
-    ade + 1
-
-    if line in 'Adelie':
-
-    print(f'There are {ade} Adelie penguins in the file.')
-
-Each of these lines breaks the program in one way or another.
-Understanding why a particular line is correct requires a lot of context (syntax, other lines of code, input data, function signatures etc.). All of that context is necessary to make a program work. 
+Each line contains a bug that breaks the program in one way or another.
+Understanding why a particular line is correct requires a lot of context (syntax, other lines of code, input data, function signatures etc.).
+A student of programming needs the entire context to make a program work. 
 This is what makes programming difficult to learn.
 
 ----
-## Challenge #2: Programming requires many Competencies
+
+## Challenge #2: Programming requires many competencies
 
 To count the penguins in Python, you could also use the `pandas` library.
-`pandas` is a popular analysis tool in the Python world. It gets the control flow statements (`for` and `if`) out of the way:
+`pandas` is a popular analysis tool in the Python world.
+Essentially, `pandas` simplifies your code.
+It gets the control flow statements (`for` and `if`) out of the way:
 
+    # count all Adelie penguins
     import pandas as pd
 
-    df = pd.read_csv('penguins.csv', sep=',')
-    adelie = df.loc[df['species'] == 'Adelie']
-    print(len(adelie))
+    df = pd.read_csv('penguins.csv')
+    adelie = df[df['species'] == 'Adelie']
+    print(adelie.shape[0])
 
 This is doable and solves the problem at hand. The code counts penguins.
 But which of the two penguin counter programs is better?
 
-* The first program with the `for` loop, uses only basic language features. It will work on any Python machine including browser-based implementations and tiny computers like the MicroBit. The first program is easy to read for anyone who used a different imperative programing language before.
-* The second program using `pandas`, gives your student a powerful data analysis tool. There exists an entire ecosystem around `pandas` that makes common analytics tasks easy. There are many examples one can copy-paste. On the other hand, `pandas` code is not always easy to read. And does it guide students towards generic programming skills?
+* The first program with the `for` loop, uses only basic language features. It will work in any Python environment. The first program is easy to understand for anyone who used a different imperative programming language before.
+* The second program using `pandas`, gives your student a powerful data analysis tool. There exists an entire ecosystem around `pandas` that makes common analytics tasks easy. There are many examples one can copy-paste. On the other hand, `pandas` code is not always easy to read.
 
 Both implementations have their pros and cons. 
-A programmer needs to be able to recognize these pros and cons. 
+A programmer needs to be able to weigh these pros and cons against each other all the time.
 So in addition to writing code, programming requires **reading and evaluating code**, an additional, orthogonal skill.
 
-A senior programmer might state that both implementations are bad, because there are no Unit Tests. A senior programmer might also say that if the program is running in a proper test infrastructure, the implementation does not matter much.
-If you think about programming from that angle, you discover **testing code**, another skill orthogonal to programming.
+A senior programmer might state that both implementations are bad, because there are no Unit Tests.
+**Testing code** is another skill orthogonal to programming.
 
 There are more of these orthogonal skills that I will for now refer to as **Competencies**.
 
@@ -105,14 +112,14 @@ But in my opinion, teaching programming is **all about finding that balance**.
 
 ## Challenge #3: There is no universal syllabus
 
-I once had the pleasure to attend a meeting of math teachers at a German primary school.
-There were 13 math teachers and two interested parents, both of which happend to be Python programmers (coincidence?).
+I once had the pleasure to attend a meeting of math teachers at a primary school.
+There were 10 math teachers and two interested parents, both of which happend to be Python programmers (a coincidence?).
 The teachers discussed strategies to work with students who lag behind in arithmetics (adding/subtracting integers up to 20).
 One of the teachers pulled out a box full of postcards. Each postcard contained an exercise tailored at a specific sub-problem that students typically face (e.g. adding `9`) and short instruction for the teachers, so they could show the student what to do and then help the rest of the class.
 
-I was impressed. The material addressed a teaching situation that all of the 13 math teachers had experienced.
+I was impressed. The material addressed a teaching situation that all of the math teachers had experienced.
 The solution came from a publisher that specialized on that kind of material.
-I realized that it has advantages when 1 million students (roughly 100 million worldwide) learn the same content each year, and the content is very stable.
+I realized that it has advantages when millions of students learn the same content each year, and the content is very stable.
 
 **There is a complete, detailed syllabus for primary school math.**
 It is regularly updated, books refer to it, teachers use it. Parents can download (and understand) it.
@@ -133,14 +140,19 @@ So we will have to write our own syllabi and regularly review and update them.
 
 ## Challenge #4: Non-linear skill growth
 
-*"things that took me 2 days a year ago now take me 10 minutes"*
+*"Things that took me 2 days a year ago now take me 10 minutes"*
+
+(anonymous former course participant)
 
 ![non-linear skill growth](../images/expo.png)
 
-People learning to program often progress impressively. A few weeks of experience makes them write similar code 10x faster than before or solve problems that seemed insurmountable. My impression is that this steep learning curve persists for a long time (see figure). Practically it means that most programming classes will be highly heterogeneous in the amount of code that students write. 
+People learning to program often progress impressively.
+A few weeks of experience makes them write similar code 10x faster than before or solve problems that seemed insurmountable.
+My impression is that this steep learning curve persists for a long time (see figure).
+Practically it means that most programming classes will be highly heterogeneous in the amount of code that students write. 
 
 Students would benefit from locating themselves on the learning curve. However, there is no straightforward metric for programming skill (such as the time for running 5 km) or a benchmark system (like the A1, A2.. C level system for learning languages).
-Most of the time, an emerging programmer is in the dark how far they are on the path to mastery.
+Most of the time, the learning programmer is in the dark where they are on the path to mastery.
 
 The heterogeneity and lack of a metric create a perception bias: one student has the impression that another student is much more advanced, when they really are only a couple of days apart on the same learning path. This perception bias promotes all kinds of side effects like *impostor syndrome* and can generate a lot of stress.
 

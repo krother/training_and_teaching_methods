@@ -6,7 +6,7 @@
 The first and last thing to keep in mind as a teacher is your audience.
 Students are the main ingredient of any teaching.
 Everything else (including yourself) is dispensible, but without students, there is no learning.
-I will refer to them as **students** or **participants** throughout the book.
+I will refer to learners as **students** or **participants** throughout this book.
 With a working student-teacher relationship everything else becomes much easier.
 An audience that trusts you will be much more forgiving of the many little mistakes you will inevitably make.
 On the other hand, all planning is futile if your plan does not meet the needs of the audience.
@@ -19,25 +19,30 @@ Your typical audience brings a broad mixture of expectations.
 
 The needs of participants can be any of:
 
-### Facts
+## Facts
 
     :::text
-    "How can I write my own functions?"
+    "How can I implement a function?"
 
 The technical skill is the predominant interest in most programming classes.
 But it is very rare that this is the *only* need of a participant.
 
-### Guidance
+----
+
+## Guidance
 
     :::text
     "What should I learn next?"
 
-Participants who already have some relevant programming experience often want to learn more independently.
-They want to find out about the details themselves, but are looking for guidance what to focus on.
-I frequently found it best to give such a student the name of a programming concept, library or some other keyword.
-They would focus on that and come back with impressive examples a few days later that can be shared with the entire class.
+Participants who already have some programming experience often want to continue learning themselves.
+They want to explore the details independently, but feel overwhelmed by the variety of options.
+These students are looking for guidance what to focus on.
+I frequently found it is best to give such a student the name of a programming concept, library or some other keyword.
+Frequently they come back with impressive examples a few days later that can be shared with the entire class.
 
-### Feedback
+----
+
+## Feedback
 
     :::text
     "Is my way of coding OK?"
@@ -53,8 +58,9 @@ A typical comment that helps them could be something like:
     "Yes, your functions are very well structured.
     But in Python we usually do not end every line with a semicolon."
 
+----
 
-### Community
+## Community
 
     :::text
     "I want to see what others do."
@@ -64,7 +70,9 @@ Some students come with very project ideas and look for cooperation partners.
 Most are social learners who want to work on assignments together.
 To satisfy this need, it also helps to point out where students can connect to the programming community after the course.
 
-### Solutions
+----
+
+## Real-world Solutions
 
     :::text
     "I want to move my project forward."
@@ -74,7 +82,9 @@ This need is usually very strong, regardless whether it is a Bachelor thesis or 
 With this type of particpant, it pays off to find out early on what the project is about.
 You can make them very happy with a conversation on the side and pointing out what parts of the course will be most useful for them.
 
-### Inspiration
+----
+
+## Inspiration
 
     :::text
     "I want to learn how it is to work as a developer."
@@ -83,7 +93,9 @@ An emerging programmer might be looking for ways to move their career developmen
 They might need less technical advice, but more career advice, examples job profiles and role models.
 A student interested in a career as a programmer will listen carefully to stories about projects  you have worked on.
 
-### Recognition
+----
+
+## Recognition
 
     :::text
     "I want to get the certificate to apply for jobs."
@@ -92,13 +104,16 @@ Many participants take a course, because they want something they can put on the
 All kinds of certifications, exams and other formal recognition are a core need.
 For some participants, recognition is really important, but this need rarely gets in the way.
 
-### Fun
+----
+
+## Fun
 
     :::text
-    "My employer pays for this, I want to have a good time!"
+    "I want to have a good time!"
 
 Every participant appreciates a course that is enjoyable.
-Working on fun programming exercises, having an entertaining instructor and a group in a good mood are general qualities of a great course. But it is noteworthy that for some participants having a good time is the *only* need. (There is a grumpy subtype of a participant that has to take the course although they don't want to – these can be a bit difficult to deal with).
+Working on fun programming exercises, having an entertaining instructor and a group in a good mood are general qualities of a great course.
+But it is noteworthy that for some participants having a good time is the *only* need. (There is a grumpy subtype of a participant that has to take the course although they don't want to – these can be a bit difficult to deal with).
 
 ----
 
@@ -109,7 +124,7 @@ Being clear what needs you are good helping with helps you establish a healthy s
 
 ----
 
-## Exercise Questions
+## Reflection Questions
 
 * How big is the group? Does that make preparations rather easy or challenging?
 * What can you learn about your participants before preparing?
