@@ -85,6 +85,8 @@ There are many places where you can find online coding Katas for self-study:
 * [Cryptopals](https://cryptopals.com/)
 * [Coding Dojo](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue) – group Kata
 * [Rosalind](http://rosalind.info) – bioinformatics
+* [projecteuler.net](http://projecteuler.net) – Mathematical problems that require programming to solve.
+* [regexone.com/](http://regexone.com/) – Learning regular expressions in 16+ lessons.
 
 ----
 

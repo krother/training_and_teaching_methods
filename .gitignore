@@ -8,3 +8,5 @@ Gemfile.lock
 _site/*
 _build/*
 book.pdf
+build/doctrees build/html
+build/*
