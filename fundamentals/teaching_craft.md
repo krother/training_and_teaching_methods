@@ -1,42 +1,42 @@
 
 # Teaching is a Craft
 
-You are going to conduct a programming course, tutorial or workshop.
-I assume you know a thing or two about programming.
-At least, you know more than your prospective students.
-Since you have little time to prepare, you might do the following:
+When you are reading this book, I assume you are teaching a programming course, tutorial or workshop.
+I also assume you know a thing or two about programming, at least more than your students.
+How will you prepare for you prepare for your next teaching encounter?
+One might do the following:
 
-* *prepare a deck of slides*
-* *take the slides into class*
-* *see what you can cover in the time given*
+1. prepare slides with theory and code examples
+2. present the slides in class
+3. see what questions you can cover in the time given
 
-Isn't that how everybody teaches?
+Imagine you would apply the same approach to programming:
 
-Imagine you would apply a similar approach to programming:
+1. write code
+2. run it
+3. debug things on the fly
 
-* *write some code*
-* *run it*
-* *debug things on the fly*
-
-You probably know that **developing software is a bit more than that!**
+You probably know that **developing software is more than writing and running code!**
 Programming is a craft.
-There are practices like version control, testing and refactoring that produce clean, maintainable code.
-These are established practices every professional developer uses.
-Yet a beginner programmer is not aware they exist. 
-A beginner programmer needs to learn the craft first.
+The craft of programming includes practices such as version control, data modeling, testing and refactoring.
+You need these practices in order to produce clean, maintainable code.
+Every professional programmer needs to have such development practices under their belt.
+However, a beginner programmer is not aware that a skill such as refactoring exists.
+All the beginner sees is the code and the error messages.
+This is why the beginner programmer needs to learn the craft first.
 
-With teaching it is the same.
-
-**Teaching is a craft.**
+With teaching, it is the same.
 
 ## Who is this book for?
 
-This book is an introduction to the craft of teaching programming.
+This book introduces you to the craft of teaching programming.
+I wrote it for developers who teach occasionally and for full-time teachers without a formal background in education.
+The book takes you on a tour of *teaching practices and skills*.
+Some of these practices and skills make your lessons more engaging and fun.
+Some others will be invisible to your students, but help them learn more effectively.
+Or they make your work behind the scenes easier and give you time for other things.
+All teaching practices in the book aim at helping you to become a better programming teacher.
 
-It helps you to become a better programming teacher.
-I wrote it to support junior teachers, part-time teachers and full-time teachers without a formal background in education.
-
-It covers what to do before you enter the classroom, and how to do well in the classroom.
 The book is divided into seven parts:
 
 | part | what you can learn |
