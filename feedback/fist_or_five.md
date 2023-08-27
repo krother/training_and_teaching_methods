@@ -11,7 +11,7 @@
 
 ----
 
-### How to do it?
+## How to do it?
 
 1. After each training module, ask: *"How much did you learn during the lesson? Please show one to five fingers. Raise your hands!"*
 2. Count how often each number of fingers occurred.
@@ -27,7 +27,7 @@ The main value of the Fist or Five technique is that it is easy to execute, it i
 
 ----
 
-### Comments from participants:
+## Comments from participants:
 
 *"It is a good feedback and it is immediate. Although I feel sometimes a little bit shy to express my opinion."*
 
@@ -39,7 +39,7 @@ Also see: [voting procedure to reach consensus in group discussions](http://beco
 
 ----
 
-### Variation: Traffic Light Feedback
+## Variation: Traffic Light Feedback
 
 1. Every participant gets a red, yellow and green card
 2. One participant formulates a statement regarding the course

@@ -11,7 +11,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 Write 1-3 open question on the board, e.g.:
 

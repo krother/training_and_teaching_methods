@@ -12,7 +12,7 @@ Let's start with the technical part:
 
 ----
 
-### 1. Subject Matter Expertise
+## 1. Subject Matter Expertise
 
 ![expertise](../images/teacher/expertise.png)
 
@@ -29,7 +29,7 @@ Being an expert is not **the most important** thing:
 An experienced practitioner is an excellent fit for short lectures and tutorials on their topic (up to 1-2 days).
 This is where very deep knowledge is useful, e.g. when you talk as an expert on *"two-factor authentication"* to other experienced programmers. A typical question the participants have is *"How is this used in practice?"*. Similarly, in an academic lecture you may be expected to connect to the latest research. But you may find yourself in a tradeoff between detail and being understandable, and I believe a teacher should always prefer the latter.
 
-#### Questions:
+### Questions:
 
 * How experienced do you consider yourself in your main programming language?
 * Which other topics would you feel comfortable teaching?
@@ -40,7 +40,7 @@ This is where very deep knowledge is useful, e.g. when you talk as an expert on 
 
 ----
 
-### 2. Teaching methods
+## 2. Teaching methods
 
 ![teaching_methods](../images/teacher/teaching_methods.png)
 
@@ -65,7 +65,7 @@ A programming teacher needs teaching methods for:
 
 Most of this book build your repertoire of teaching methods.
 
-#### Questions:
+### Questions:
 
 * What teaching methods do you know?
 * What public speaking tricks do you know to make a presentation more interesting?
@@ -77,7 +77,7 @@ Most of this book build your repertoire of teaching methods.
 
 ----
 
-### 3. Facilitation skills
+## 3. Facilitation skills
 
 ![facilitation](../images/teacher/facilitation.png)
 
@@ -93,7 +93,7 @@ The stakes in teaching are maybe not as high as in a project worth millions.
 But teaching a group over a longer time has a lasting impact on their life and career.
 As a teacher you might receive a great deal of support with the facilitation part from course organizers and other support staff. They can take a lot of work off your plate and help mitigate difficult situations.
 
-#### Questions:
+### Questions:
 
 * Have you facilitated groups before (e.g. a retrospective)?
 * Have you done mentoring (e.g. code reviews, 1on1s or giving direct feedback)?
@@ -103,7 +103,7 @@ As a teacher you might receive a great deal of support with the facilitation par
 
 ----
 
-### 4. Passion
+## 4. Passion
 
 ![passion](../images/teacher/passion.png)
 
@@ -120,7 +120,7 @@ I have seen junior teachers become the most passionate teachers when they were t
 In my opinion the passion for teaching means that you have genuine love for human beings, to help and enable people, even if you don't like them a lot, or won't ever see them again.
 This love for human beings goes a long way to build a respectful teacher-student relationship.
 
-#### Questions:
+### Questions:
 
 * What do you remember about how you learned programming in the first place?
 * Do you have a favourite "programming story"?
@@ -128,7 +128,7 @@ This love for human beings goes a long way to build a respectful teacher-student
 
 ----
 
-### 5. Resilience
+## 5. Resilience
 
 ![resilience](../images/teacher/resilience.png)
 
@@ -141,7 +141,7 @@ Take care to maintain a healthy life outside teaching.
 
 When you teach people over a longer time, the challenge is to find the right distance to your students. On one hand you care about them, and want to establish a good relationship. On the other hand they will be gone, so you don't want to get emotionally too attached to them. Also, you may have to make hard decisions (e.g. failing exams), so don't treat them as your *"friends"* because you are not theirs.
 
-#### Questions:
+### Questions:
 
 * How comfortable are you improvising?
 * Have you experienced impostor syndrome?
@@ -149,7 +149,7 @@ When you teach people over a longer time, the challenge is to find the right dis
 
 ----
 
-### 6. Humility
+## 6. Humility
 
 ![humility](../images/teacher/humility.png)
 
@@ -165,7 +165,7 @@ Do not judge whether your students are fit to be programmers either. I have writ
 
 If you are a great, inspiring teacher, it will take years for your students to fully blossom. You will not see the fruit of your work (or even be rewarded for it). Knowing that you weave a legacy is what makes teaching so rewarding. But don't take yourself too serious. It takes all the fun away.
 
-#### Questions:
+### Questions:
 
 * what does success as a teacher mean to you?
 * assume one of your students ends up becoming a great programmer. Will you know about it?

@@ -37,7 +37,7 @@ Students may feel their core needs being threatened by the following factors:
 * **Toxic course climate** – any sort of dismissive behavior and speech, harassment and the like. This unfortunately happens in courses as well, which is why I think it is necessary to have a Code of Conduct and decisively act on it.
 * **Being judged by others** – a student who is in the comfort zone may enjoy a bit of competition. If they are not, comparing themselves to others generates stress. A teacher can reinforce that stress easily, e.g. by targeting questions to individuals or even mentioning the possibility of failing. 
 
-#### Greg Wilson says:
+### Greg Wilson says:
 
 *One of the fastest and surest ways to demotivate learners is to use language that suggests that some people are natural programmers and others aren’t. Guzdial has called this the biggest myth about teaching computer science, and backed this up by showing that people see evidence for a “geek gene” where none exists. ...*
 

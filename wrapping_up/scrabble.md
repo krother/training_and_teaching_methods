@@ -12,7 +12,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 * draw an empty Scrabble board.
 * add a few bonus fields along the edges.
@@ -21,7 +21,7 @@
 
 ----
 
-### Comments
+## Comments
 
 Don't take this exercise too seriously. You don't need to enforce rules of normal corsswords meticulously. You don't need to stick precisely to a grid when drawing characters either.
 
@@ -29,7 +29,7 @@ As a variation, I also used giant scrabble tiles that made from cardboard.
 
 ----
 
-### Variation: Boggle
+## Variation: Boggle
 
 | summary     | character soup |
 |-------------|----------------|
@@ -46,7 +46,7 @@ This exercise connects easily to lessons on strings or tables. You can make crea
 
 ----
 
-### Variation: Crossword
+## Variation: Crossword
 
 Here are a few online tools to create crosswords:
 

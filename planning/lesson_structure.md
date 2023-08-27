@@ -10,7 +10,7 @@ Such a well-balanced lesson consists of four phases: **warm-up, introduce conten
 
 Let's look at the four phases in detail:
 
-### 1. Warm-up
+## 1. Warm-up
 
 In the warm-up phase, you invite students into your class.
 You motivate them to learn new things and encourage them to think actively.
@@ -31,7 +31,7 @@ There are many things you can do to motivate and activate students in the warm-u
 In the following chapters, you find lots of warm-up methods.
 
 
-### 2. Introduce content
+## 2. Introduce content
 
 Once the class is warmed up, you can deliver something new to them. 
 New content is usually difficult. It is best delivered in bite-sized chunks.
@@ -48,7 +48,7 @@ As long as you guide them in the process so that they *"look in the right direct
 
 In the following chapters, you find several approaches for introducing content described in more detail.
 
-### 3. Apply content
+## 3. Apply content
 
 The real game changer in a successful lesson is that your students apply their new knowledge actively. They need to **do** something.
 Your students need to experience that their knowledge is useful for something, otherwise their adult brains tend to classify the knowledge as 'irrelevant' and kick it out the next night.
@@ -66,7 +66,7 @@ There are many types of activities your students can do:
 In any case, the task should require using the concepts you just introduced.
 The application phase should be the *longest* part of your lesson.
 
-### 4. Wrap-up
+## 4. Wrap-up
 
 When your lesson approaches the end, you should reserve some time to close things off. The wrap-up section is an opportunity to make sure the content sticks and reflect on the lesson as a whole. There are several things that you can do in the wrap-up phase:
 

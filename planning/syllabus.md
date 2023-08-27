@@ -1,5 +1,5 @@
 
-## Syllabus
+# Syllabus
 
 Sometimes you get a syllabus – a list of topics you are expected to cover.
 A syllabus is raw material for creating lessons.
@@ -11,7 +11,6 @@ Programming comes with a lot of terminology.
 This terminology contains many words that students have heard in a different context.
 Here is what someone who never coded might see when they read a raw syllabus:
 
-    :::text
     Introduction to Programming in Zebra
     ====================================
 
@@ -32,7 +31,6 @@ Here is what someone who never coded might see when they read a raw syllabus:
 While this syllabus might make perfect sense to you, it requires an effort to translate it to students.
 Here is a shorter version:
 
-    :::text
     Getting Started with Zebra
     ==========================
 

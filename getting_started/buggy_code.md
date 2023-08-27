@@ -10,7 +10,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 * take a piece of code from the previous day
 * introduce a 3-5 bugs

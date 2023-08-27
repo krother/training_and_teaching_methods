@@ -3,7 +3,7 @@
 
 This is an example of having students build a software architecture using paper and scissors.
 
-### Goal
+## Goal
 
 The students visualize the interactions between 3 computers in a classroom project.
 They would receive a worksheet like this one (download the SVG file :::file pg_worksheet.svg ):
@@ -20,7 +20,7 @@ There are two ways to use a worksheet like this one:
 1. To introduce a new topic or project. In this case you need **reading material where students find what they should build.**
 2. To recap a project students have been working on
 
-### Preparations
+## Preparations
 
 you need:
 
@@ -31,7 +31,7 @@ you need:
 * glue sticks for each group
 * some black pens
 
-### How to do it
+## How to do it
 
 1. Announce the task: create an overview of the project using the paper parts
 2. They don't have to use all the parts

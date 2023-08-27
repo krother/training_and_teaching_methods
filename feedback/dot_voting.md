@@ -13,7 +13,7 @@ Which topics in a course should be revisited, repeated, or explained in more dep
 
 ----
 
-### How to do it
+## How to do it
 
 1. Visualize all available topics on paper.
 2. Explain the task, e.g. *“Stick dots on topics we should repeat tomorrow.”*
@@ -29,7 +29,7 @@ The beauty of this method is that, in contrast to a poll with raising hands you 
 
 ----
 
-### Variation: Target Feedback
+## Variation: Target Feedback
 
 1. Draw a target (concentric circles) with four quadrants
 2. Label the quadrants "Atmosphere, Content, Method, Trainer, Usefulness, etc."
@@ -41,7 +41,7 @@ The beauty of this method is that, in contrast to a poll with raising hands you 
 
 ----
 
-### Comments
+## Comments
 
 Dot voting is frequently used on **Unconferences**, where it scales up to 100+ participants.
 

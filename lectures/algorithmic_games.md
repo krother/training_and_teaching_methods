@@ -10,7 +10,7 @@ the data, so that the trainees will be able to ”execute” the program.
 In most cases, even a simplified representation allows experiments on
 execution time, order of exercution etc.
 
-### Example: Tree Traversal
+## Example: Tree Traversal
 
 An exercise for a tree traversal algorithm. At least seven students
 arrange themselves as a binary tree (because they have only two arms to

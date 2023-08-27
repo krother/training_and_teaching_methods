@@ -3,20 +3,20 @@
 
 ![](../images/troubleshooting/munch.png)
 
-### Some nervousness is good
+## Some nervousness is good
 
 Being nervous is normal. Is isn't a bad thing, because it keeps you on your toes and – your attention reaches a maximum. You could even say, that when you are not nervous at all, you shouldn't teach, because you won't be able to transmit the excitement necessary to be a great teacher.
 
 If you are teaching for the first time, it is OK to say that you are a little nervous at the beginning. Your participants will appreciate that you are not a robot.
 
-### Too much nervousness is distracting
+## Too much nervousness is distracting
 However, there are situations when nervousness gets in the way. Struggling to find words, stuttering, talking too fast or repeating the same thing over and over makes your content harder to understand. Pacing around the classroom or fiddling with items will distract your participants. Finally, being very nervous lowers your ability to solve problems, not only with code, but also – and more severe – building a successful relation with your participants.
 
 In the worst case, you might focus more on your own nervousness than on the lesson, and, knowing that, become even more nervous.
 
 Fortunately, nervousness almost never destroys your lesson, it is just a distraction. Also, participants will notice only a fraction of the nervousness you are aware of. Finally, there are many things you can do to counter nervousness.
 
-### Check your biological parameters
+## Check your biological parameters
 
 First of all, nervousness is a physiological reaction. Whatever triggers that reaction, a balanced body will handle it much better. The ground rules are:
 
@@ -30,7 +30,7 @@ While conducting trainings in remote locations, walking helped me to wash out th
 
 I don't have any experience with yoga or meditation, but it surely doesn't do any harm. Neither does *Power Posing* (it doesn't do any good either, the statistics behind the research do not hold). 
 
-### Check your timeline
+## Check your timeline
 
 Being in a hurry amplifies any nervousness. The art is to use your time well.
 
@@ -39,7 +39,7 @@ Being in a hurry amplifies any nervousness. The art is to use your time well.
 * arrive early enough
 * plan some buffer time just in case
 
-### Check your content
+## Check your content
 
 Nervousness sometimes results from a lesson plan that is too full. Your lesson is packed with content and it keeps rotating in your head. A related situation is that you don't feel familiar enough with the subject.
 
@@ -57,6 +57,6 @@ On the other hand the opposite could be the case: You don't feel you have prepar
 * is there a program you would like to write . Make a longer coding exercise out of it!
 * read the entire *troubleshooting* section.
 
-### Reward yourself
+## Reward yourself
 
 * do something you enjoy when your work is done.

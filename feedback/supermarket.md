@@ -11,7 +11,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 At the end of a course or day:
 
@@ -21,7 +21,7 @@ At the end of a course or day:
 
 ----
 
-### Comments
+## Comments
 
 If you are closing after this activity, you could ask participants to explain why they placed something in the basket or the freezer (small groups only).
 

@@ -12,7 +12,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 Hang 4 sheets of flipchart paper on different spots of the room. Write a question on each, e.g.:
 
@@ -25,6 +25,6 @@ Give markers to course participants and let them roam around and write for about
 
 ----
 
-### Comments
+## Comments
 
 The four-corner method can be used for a number of purposes: Collecting information on a new topic, facilitating the transfer to everyday practice, or collectively looking for solutions to a problem.

@@ -5,7 +5,7 @@
 2. Visualize 3 questions to ask (e.g. on a flipchart)
 3. **Everybody** gets an opportunity to answer the questions.
 
-### Sample questions:
+## Sample questions:
 
 * How will other people know that you have been in this course?
 * What was fun for me?

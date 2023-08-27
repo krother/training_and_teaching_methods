@@ -13,7 +13,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 In a facilitated discussion, you want to set the topic and prevent the discussion drifting into random directions.
 
@@ -31,7 +31,7 @@ When you run out of space on the board, it is the right time to end the discussi
 
 ----
 
-### Example Questions
+## Example Questions
 
 * How to clean code?
 * Jupyter notebooks vs. Text editors
@@ -39,7 +39,7 @@ When you run out of space on the board, it is the right time to end the discussi
 * Should you use classes?
 
 ----
-### Comments
+## Comments
 
 To work well, your group should be familiar with the topic already. You can connect to previous knowledge, or draw conclusions from something you did in your lesson. 
 

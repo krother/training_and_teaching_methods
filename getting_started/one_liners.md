@@ -10,7 +10,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 Solve a small programming problem with 5-10 lines. Provide participants with comments but no code:
 
@@ -34,7 +34,7 @@ Let them show (or tell) their solutions.
 
 ----
 
-### Comments
+## Comments
 
 The task should be **very easy** for most students.
 I often overestimated their capabilities and we ended up having very long explanations.

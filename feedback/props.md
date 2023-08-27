@@ -10,7 +10,7 @@
 
 ----
 
-### How to do it?
+## How to do it?
 
 1. Bring a set of different objects
 2. Put all objects in a box or bag.
@@ -21,7 +21,7 @@
 
 ----
 
-### Example questions
+## Example questions
 
 | object | question |
 |--------|----------|
@@ -34,7 +34,7 @@
 
 ----
 
-### Comments
+## Comments
 
 * When you do this for the first time, it makes sense to display the questions
 * If the group is large, you might have three people answer the same question. This structures the process.

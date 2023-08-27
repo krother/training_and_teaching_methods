@@ -10,7 +10,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 Ask an open question on your topic, e.g.:
 
@@ -27,7 +27,7 @@ Just make sure your question triggers more than one possible answer.
 
 ----
 
-### Variation: Brainstorming with cards
+## Variation: Brainstorming with cards
 
 If you want to work further with the students' ideas, you might collect the ideas on cards instead.
 This takes a bit longer.

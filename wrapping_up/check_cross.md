@@ -12,7 +12,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 * clear the board.
 * write 7-15 concepts in random locations on the board
@@ -21,7 +21,7 @@
 
 ----
 
-### Comments
+## Comments
 
 Check & Cross helps to repeat if you have 10 minutes left at the end of your lesson. There is little that can go wrong. At worst, people start a discussion on their own. The best thing about this wrap-up technique is that you don't need to prepare anything in advance. This is why I keep this technique in my emergency kit all the time.
 

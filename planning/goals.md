@@ -5,7 +5,7 @@
 
 ## What are Learning Goals?
 
-#### What Lerning Goals are not
+### What Lerning Goals are not
 
 Often you start planning with a **syllabus**, which is simply a list of topics. For instance, your syllabus could contain the topic
 
@@ -27,7 +27,7 @@ It leaves the student at the mercy of your interpretation.
 It is not *specific*, it is not *testable* and is *hard to communicate.*
 Essentially, it is a wordy version of the topic from the syllabus.
 
-#### How does a testable Learning Goal look like?
+### How does a testable Learning Goal look like?
 
 Let's make the learning goal **testable**:
 
@@ -48,7 +48,9 @@ Also, if students can self-check, you have more time to help people.
 
 A single, well-crafted learning goal may power an entire lesson.
 
-#### Adjusting Difficulty
+----
+
+## Adjusting Difficulty
 
 A great thing about testable learning goals is that the same goal works for participants with varying skill levels.
 
@@ -80,7 +82,7 @@ Whatever you do, you may find that the same concepts or material will work for m
 
 Applied to the `for` loop lesson, we can formulate three goals:
 
-#### Reproduce (levels 1+2)
+### Reproduce (levels 1+2)
 
 Participants repeat something they have seen before, e.g.:
 
@@ -89,14 +91,14 @@ Participants repeat something they have seen before, e.g.:
 
 The majority of your goals should be on that level.
 
-#### Apply (levels 3+4)
+### Apply (levels 3+4)
 
 Participants apply a skill or model to a new situation:
 
     :::text
     participants write a for loop creating squares with a range of colors.
 
-#### Evaluate (levels 5+6)
+### Evaluate (levels 5+6)
 
 Participants evaluate information in the context of a topic:
 
@@ -137,11 +139,11 @@ You could combine the three types of goals (Bloom levels, difficulty, competency
 
 ## Practical Questions
 
-#### How many goals should one lesson (45-90 min) have?
+### How many goals should one lesson (45-90 min) have?
 
 One.
 
-#### How about an entire training day?
+### How about an entire training day?
 
 A full one-day training fits 3-5 goals.
 
@@ -149,25 +151,25 @@ If the day includes an intense planning / evaluation session, these can have the
 
 However, if your day involves an intense period where participants work mostly by themselves you may want to give them many micro-goals that guide them through the process (here Blooms Taxonomy is most helpful).
 
-#### Should you communicate goals to the students?
+### Should you communicate goals to the students?
 
 Yes. One at a time. At the start of the lesson.
 
-#### Can the goal be part of a longer exercise that students do on their own?
+### Can the goal be part of a longer exercise that students do on their own?
 
 Yes.
 
-#### Can the teacher give the solution to the students so that they reach the goal?
+### Can the teacher give the solution to the students so that they reach the goal?
 
 Yes, but it's not great.
 
-#### Should you have a goal for every lesson?
+### Should you have a goal for every lesson?
 
 Setting Learning Goals as the very first thing when preparing a new topic is difficult. Many times, your goal will be *"survive the lesson"* rather than the detailed goals above. It is OK to start with a goal that is not immediately tested. If your goal is *"participants can implement for loops"*, and you do an exercise or recap session involving a loop, you will quickly observe how much they really understood.
 
 When you feel more secure, e.g. after having taught a topic once or twice, you can formulate specific goals.
 
-#### What is this "Unit Test" idea?
+### What is this "Unit Test" idea?
 
 Well-written goals have similarity with Unit Tests used to test programs.
 Ideally, you notice when your lesson fails a test, and usually your participants need to be less active for you to get the feedback – you already know what to check.

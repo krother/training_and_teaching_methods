@@ -10,7 +10,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 1. Place 20 cards (more than there are participants) in the classroom
 2. Ask each participant to pick a card
@@ -18,7 +18,7 @@
 
 ----
 
-### Comments
+## Comments
 
 This activity can be done at the beginning of a course.
 It helps participants to leave behind whatever mental load they bring to the classroom.
@@ -30,7 +30,7 @@ The activity is very much open ended and mainly makes the participants feel welc
 
 ----
 
-### Preparing the cards
+## Preparing the cards
 
 I have a set of postcards that I have collected over the years.
 

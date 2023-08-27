@@ -1,3 +1,5 @@
+# scratch
+
 Beginners typically face a lot of practical questions:
 
 * Which Python version should I install?

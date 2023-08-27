@@ -1,11 +1,10 @@
-Exercises: Creating Tables
-==========================
+# Exercises: Creating Tables
 
 **Create a table in SQL and fill it with penguin data.**
 
 ![](penguins.png)
 
-### 1. Connect to Postgres
+## 1. Connect to Postgres
 
 Connect to your Postgres database via the command line:
 
@@ -16,7 +15,7 @@ again.
 
 ------------------------------------------------------------------------
 
-### 2. Create a table
+## 2. Create a table
 
 Copy the SQL command for loading the small penguin file into `psql`:
 
@@ -36,7 +35,7 @@ You should see the response:
 
 ------------------------------------------------------------------------
 
-### 3. Load data
+## 3. Load data
 
 Copy the smaller CSV file `penguins.csv` to the newly created table.
 
@@ -55,7 +54,7 @@ This tells you that 50 rows have been copied into the table.
 
 ------------------------------------------------------------------------
 
-### 4. Inspect the data
+## 4. Inspect the data
 
 Make sure that the data is in your table by typing in the query:
 
@@ -63,7 +62,7 @@ Make sure that the data is in your table by typing in the query:
 
 ------------------------------------------------------------------------
 
-#### 5. Another table
+### 5. Another table
 
 Now load the bigger table `penguins_big.sql`. For this one, you need to
 create a second table. Follow these steps:

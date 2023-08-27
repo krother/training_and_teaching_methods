@@ -4,7 +4,6 @@
 If your participants need to do something, they need instructions that are clear and that they have a good chance of completing themselves.
 An example that does not work well with beginners:
 
-    :::text
     Implement the quicksort algorithm.
 
 There is a big problem with this type of task.
@@ -14,7 +13,6 @@ The result is **cognitive overload**.
 
 An example that might work better is providing a working path:
 
-    :::text
     1. Complete the quicksort code using given code sniplets.
     2. Execute the code on the datasets A and B.
     3. Measure how long the program takes to complete.
@@ -98,7 +96,7 @@ There are a few good options:
 
 Such exercises are valuable but more costly to create. Not only do you need to think of the problem itself, you also need to create a mechanism (or multiple ones) by which participants can assess their progress.
 
-#### Example:
+### Example:
 
 In my [bash tutorial](https://github.com/krother/bash_tutorial), every exercise results in one or a few characters that form a word:
 
@@ -184,5 +182,3 @@ A side effect was that the lightning talk sessions became a lot more enjoyable t
 
 
 *Source: The early victory strategy is based on the teaching of Sun Tzu.*
-
-----

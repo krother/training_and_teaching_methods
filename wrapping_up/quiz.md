@@ -9,7 +9,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 * prepare 20 quiz questions from 4-5 categories
 * place all questions on the board
@@ -19,7 +19,7 @@
 * ask for volunteers to answer the question
 * whoever answered a question gets to pick the next category
 
-### Comments
+## Comments
 
 This is a pleasant way to wrap up a week or entire course.
 It leaves room for students to ask questions that they still might have.
@@ -29,7 +29,7 @@ You can experiment with jokers, timed challenges, sound effects etc.
 
 ----
 
-### Variation: Bar Quiz
+## Variation: Bar Quiz
 
 This is a more relaxed way to run a quiz.
 

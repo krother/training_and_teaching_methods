@@ -11,25 +11,25 @@ You find them in this checklist:
 
 Let's go through the seven points one by one:
 
-### Take Home Message
+## Take Home Message
 
 Summarize your lesson in one (short) sentence. This is a good way to find out what you are really teaching, and what it is useful for. You might use that sentence in class (even multiple times, to make sure it sticks).
 
 If you find that you need two sentences to describe your lesson, you are probably really delivering two separate lessons. In this case, you should say that clearly (and take a break between the two parts).
 
-### Learning Goal
+## Learning Goal
 
 **Learning goals** formalize what you want to achieve. They give your entire lesson a clear direction. Ideally, they allow you to check whether your lesson has worked and your participants to self-assess their progress. In that sense learning goals are the *Unit Tests* of your lesson. In chapter **Learning Goals** we look at goals more closely.
 
-### 4-7 Key Concepts
+## 4-7 Key Concepts
 
 A frequent mistake is to teach too many things at a time. Usually, **less is more**. Limit your content to 4-7 new things you would like to get across. Write them down. Kick out everything that distracts from these 4-7 concepts.
 
-### Concept Map
+## Concept Map
 
 A **Concept Map** is a structured visualization of a small number of key concepts. You can think of it of a highly reduced version of everything your participants need to know. In chapter **Concept Maps** you learn how to develop Concept Maps and how to use them.
 
-### Lesson Plan
+## Lesson Plan
 
 A big helper is to write a **lesson plan**, a table describing what will happen during your lesson. 
 What will be the first thing you do in class? What are you going to say? Do you start with an activity, a visualisation or a speech?
@@ -40,12 +40,12 @@ The lesson plan helps you to balance, time and evaluate your lesson. In chapter 
 
 As a rule of thumb, a single lesson should not be longer than 45' minutes if you are talking most of the time. If there is a larger activity, 90' are a good limit. After that, your participants (and you) will need a break.
 
-### Theme
+## Theme
 
 A theme wraps your entire lesson with one concrete story or problem question – ideally one that is practically relevant. A well-chosen theme motivates your participants and makes your content easier to digest.
 A theme could consist of *data*, *a problem question* and some *eye candy*. The idea of themes will be explored in chapter **Projects**.
 
-### Material
+## Material
 
 The last thing to prepare is what participants actually see: exercises, code examples, data files, lecture material. What material you need depends on the methods you choose. You will find plenty of methods described in all other parts of the book.
 

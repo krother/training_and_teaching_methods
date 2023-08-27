@@ -3,14 +3,14 @@
 
 **quote **
 
-### Time in class
+## Time in class
 
-### Preparation time
+## Preparation time
 
-### Group size
+## Group size
 
-### What you need
+## What you need
 
-### How it is done
+## How it is done
 
-### Comments
+## Comments

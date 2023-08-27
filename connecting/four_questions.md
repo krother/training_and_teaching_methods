@@ -19,7 +19,7 @@ Let participants circle the room, write their answers on the sheets and look at 
 
 ----
 
-### Alternative questions
+## Alternative questions
 
 * What are you curious about?
 * What is your main challenge?

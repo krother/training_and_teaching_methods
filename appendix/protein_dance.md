@@ -22,7 +22,7 @@ January 2006 by Sasha Waltz & Guests with Jan Saam as a dancing
 experiment. It was thereafter executed with students and lay people as
 well.
 
-### Hints
+## Hints
 
 This is an exercise for biology classes, but you may take the idea to develop other *choreography* models.
 

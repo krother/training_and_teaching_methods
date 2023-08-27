@@ -10,7 +10,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 * prepare a pile of words related to your lesson
 * mix in a few concepts that are not programming concepts, but have something to do with your lesson
@@ -19,7 +19,7 @@
 
 ----
 
-### Comments
+## Comments
 
 Once your participants figure out what kind of concepts the game contains, they usually build an efficient question hierarchy very quickly.
 

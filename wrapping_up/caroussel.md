@@ -10,7 +10,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 * split the class in two equal groups
 * arrange the groups in two concentric circles or rows facing each other
@@ -22,7 +22,7 @@
 
 ----
 
-### Comments
+## Comments
 
 If you have a very energetic group you can have them walk the circle or run around. See recording at the [Gulbenkian Training Programme in Bioinformatics](http://gtpb.igc.gulbenkian.pt/bicourses/)
 and [video comment](http://www.youtube.com/embed/N0pPOVesDo0)

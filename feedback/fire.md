@@ -14,7 +14,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 1. Ask *“What will you remember about the course?”*.
 2. Pass around the cup and the matches.
@@ -23,7 +23,7 @@
 
 ----
 
-### Comments
+## Comments
 
 **IT IS A BAD IDEA TO USE THIS METHOD IN A ROOM FULL OF LAPTOPS.**
 This is best executed in a more open meeting space.

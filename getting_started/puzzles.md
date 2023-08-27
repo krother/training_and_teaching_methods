@@ -10,22 +10,21 @@
 
 ----
 
-### How it is done
+## How it is done
 
 Puzzles are a 
 
 ----
 
-### Match pairs
+## Match pairs
 
 e.g. matching pairs of concepts and examples.
 
-    :::text
     0.0       string
 
 ----
 
-### Match descriptions
+## Match descriptions
 
 1. Display an uncommented code example
 2. Present 1-3 questions about the code
@@ -33,7 +32,10 @@ e.g. matching pairs of concepts and examples.
 
 ----
 
-### Label an image
+## Label an image
+
+Take an image, remove the labels and ask students to put them back again.
+
 ----
 
 ## Parsons Problems

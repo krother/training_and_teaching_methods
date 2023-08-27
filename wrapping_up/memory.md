@@ -12,7 +12,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 * write the names of participants on cards
 * write 10-15 concepts on cards of a different color
@@ -24,7 +24,7 @@
 
 ----
 
-### Comments
+## Comments
 
 I have used Memory for repeating content at the beginning and end of a lesson. At the beginning, it makes a great warm-up exercise. The memory cards are easy to prepare on-the-fly, so that you can repeat what was done during a workshop at the end of the day.
 

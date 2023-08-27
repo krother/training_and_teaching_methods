@@ -9,7 +9,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 * create 3-5 multiple-choice questions
 * give students 1-2 minutes per questions to answer them
@@ -20,7 +20,7 @@ My favourite one to integrate into my own material is **[Quizdown](https://githu
 
 ----
 
-### Comments
+## Comments
 
 MC-questions scale up very well. Their main drawback is that it takes time to craft good questions.
 

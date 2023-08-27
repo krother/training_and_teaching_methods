@@ -10,7 +10,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 * ask your participants to sort themselves according to their programming experience
 * point out where the levels are located in the room (on a 1-5 scale)
@@ -23,7 +23,7 @@ If you have a big group, it may help to mark the scale in the room
 
 ----
 
-### Comments
+## Comments
 
 You may give the students some time to bond by asking them to chat about their experience in their respective group.
 The answers you will get will be more representative then.

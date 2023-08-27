@@ -17,7 +17,7 @@ Let's take a closer look at all four of them.
 
 ----
 
-### The attentive student
+## The attentive student
 
 The attentive student is genuinely interested in learning. 
 They generally acknowledge your authority, even if the programming topics you teach them are difficult at first.
@@ -47,7 +47,7 @@ Luckily, the attentive student was the most prevalent type in the courses I have
 
 ----
 
-### The distracted student
+## The distracted student
 
 I recall a lesson where I came with an ambitious plan.
 We started and the class was buzzing with activity.
@@ -88,7 +88,7 @@ Fortunately, distracted students do not create much disruption (because whisperi
 
 ----
 
-### The frustrated student
+## The frustrated student
 
 A **frustrated** student is unhappy during the course, and displays that openly.
 Things that could frustrate a student are:
@@ -121,7 +121,7 @@ If you observe that one or two students absorb half of your energy, they most li
 
 ----
 
-### The productive student
+## The productive student
 
 The productive student is in the flow. They are focused, energized and happy about what they do.
 Typically, the productive student is good at writing code and is working independently.
@@ -147,7 +147,7 @@ In any case, having students in the productive zone is a great asset.
 
 ----
 
-### Conclusion
+## Conclusion
 
 Teaching would be a lot easier if you could look into the students' heads and see whether they are *attentive, distracted, frustrated* or *productive*. In practice, this is more complicated. With 5 students, you will know where they are. With 10 students, you can adjust your lesson with little effort. With a group of 20, finding out their needs is hard work, and with 50+ it is a matter of statistics.
 

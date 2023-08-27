@@ -10,7 +10,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 * write concepts from the last lesson on the cards
 * create two cards more than there are participants
@@ -21,6 +21,6 @@
 
 ----
 
-### Comments
+## Comments
 
 This activity has a self-balancing mechanism: The more cards are already there, the easier it will be to come up with an explanation. If someone gets really stuck, allow them to swap theirs for a spare card

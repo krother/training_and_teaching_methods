@@ -6,7 +6,7 @@ Here is how it works:
 
 ----
 
-### Preparations
+## Preparations
 
 You need:
 
@@ -18,7 +18,7 @@ Ideally, the task is open-ended and tolerates some creative tinkering.
 
 ----
 
-### Part 1: Task Teams
+## Part 1: Task Teams
 
 * Assign people to teams of (3-4) people
 * All teams get the same task (a more complex one)
@@ -28,7 +28,7 @@ Ideally, the task is open-ended and tolerates some creative tinkering.
 
 ----
 
-### Part 2: Topic Teams
+## Part 2: Topic Teams
 
 Now comes the puzzle aspect. The teams regroup:
 
@@ -42,7 +42,7 @@ At the same time, they are never alone!
 
 ----
 
-### Part 3: Coming back
+## Part 3: Coming back
 
 Finally, everybody goes back to their original team:
 

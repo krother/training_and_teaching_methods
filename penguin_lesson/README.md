@@ -23,7 +23,7 @@ In the following, I will describe the parts of the lesson, their use and explain
 
 **Participants load a CSV file with penguin data into a SQL database.**
 
-#### Explanation:
+### Explanation:
 
 Loading the CSV file is a single, specific goal that a teacher or the students can check easily.
 Although this goal is self-sufficient, it can be used in the context of a bigger project.
@@ -35,7 +35,7 @@ For instance, you could follow up with a lesson on `SQL SELECT` that uses the pe
 
 Participants need to have **PostgreSQL** installed and have access via `psql`.
 
-#### Explanation:
+### Explanation:
 
 This prerequisite is important because the installation is a potential time sink.
 I decided for `psql` because it works on all operating systems.
@@ -47,7 +47,7 @@ The `psql` tool could be replaced by a different tool (e.g. pgadmin4 or an ORM),
 
 ![](concept_map.png)
 
-#### Explanation:
+### Explanation:
 
 The concept map contains six key concepts and describes their semantic relationships. 
 The number of six stay one below the recommended maximum of seven.
@@ -66,7 +66,7 @@ But I prefer to have some more material so that the students can *do* something.
 
 ----
 
-### Lesson Plan
+## Lesson Plan
 
 | time (min) | phase | description |
 |------------|-------|-------------|
@@ -80,7 +80,7 @@ But I prefer to have some more material so that the students can *do* something.
 |  70  | wrap-up | discuss common problems you found during the exercise |
 |  85  | wrap-up | show the concept map again |
 
-#### Explanation:
+### Explanation:
 
 This is a complete plan for a 90' lesson, leaving some buffer.
 If you are new to teaching, you might want to have it near while you are teaching.
@@ -95,7 +95,7 @@ I wrote the lesson plan **after** developing the code example and exercise you f
 
 ----
 
-### Material
+## Material
 
 * image with 3 penguin species (:::file penguin_heads.png )
 * example SQL CREATE TABLE statement (:::file penguins.sql )
@@ -106,13 +106,13 @@ I wrote the lesson plan **after** developing the code example and exercise you f
 * PDF with exercises (:::file exercises.pdf )
 * Faded examples  ():::file faded_examples.sql )
 
-#### Explanation:
+### Explanation:
 
 This is very useful for other teachers to check whether their material is complete.
 
 ----
 
-### Code Example
+## Code Example
 
     :::sql
     CREATE TABLE IF NOT EXISTS penguins (
@@ -125,7 +125,7 @@ This is very useful for other teachers to check whether their material is comple
     
     );
 
-#### Explanation:
+### Explanation:
 
 The point of this code example is to cover the basic structure of a `CREATE TABLE` statement.
 With the expection of COPY it contains at least one example of each item from the concept map.
@@ -135,9 +135,9 @@ If you have more time, you might want to iterate over the `CREATE TABLE` stateme
 
 ----
 
-### Exercises
+## Exercises
 
-#### 1. Connect to Postgres
+### 1. Connect to Postgres
 
 Connect to your Postgres database via the command line:
 
@@ -149,7 +149,7 @@ again.
 
 ------------------------------------------------------------------------
 
-#### 2. Create a table
+### 2. Create a table
 
 Copy the SQL command for creating a table for the small penguin file into `psql`:
 
@@ -171,7 +171,7 @@ You should see the response:
 
 ------------------------------------------------------------------------
 
-#### 3. Load data
+### 3. Load data
 
 Copy the smaller CSV file `penguins.csv` to the newly created table.
 
@@ -192,7 +192,7 @@ This tells you that 50 rows have been copied into the table.
 
 ------------------------------------------------------------------------
 
-#### 4. Inspect the data
+### 4. Inspect the data
 
 Make sure that the data is in your table by typing in the query:
 
@@ -201,7 +201,7 @@ Make sure that the data is in your table by typing in the query:
 
 ------------------------------------------------------------------------
 
-#### 5. Another table
+### 5. Another table
 
 Now load the bigger table `penguins_big.sql`. For this one, you need to
 create a second table. Follow these steps:
@@ -216,7 +216,7 @@ create a second table. Follow these steps:
 7.  use `\copy` to load the data
 
 
-#### Explanation:
+### Explanation:
 
 To run the exercises you need to make the exercises and data files available to the students via a repository or LMS.
 
@@ -233,7 +233,7 @@ Exercises 1.-4. are the minimal path for creating a table. Exercise 5 is for bal
 * use the extra exercises in :::file faded_examples.sql
 * if participants are unfamiliar with relational databases, open the Excel sheet and discuss problems with data consistency
 
-#### Explanation:
+### Explanation:
 
 If you are not teaching very often, it will be difficult to estimate the time for activities correctly. 
 Then it helps to write down a few options. If you are more experienced, you might change plans on the fly. I usually do not write down my backup plans.*
@@ -244,7 +244,7 @@ Then it helps to write down a few options. If you are more experienced, you migh
 
 ----
 
-### Penguin Data License
+## Penguin Data License
 
 Data are available by CC-0 license in accordance with the Palmer Station LTER Data Policy and the LTER Data Access Policy for Type I data.
 

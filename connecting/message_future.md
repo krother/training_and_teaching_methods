@@ -12,7 +12,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 At the beginning of a course spanning multiple days, ask your participants to answer three questions, e.g:
 
@@ -24,13 +24,13 @@ The participants write down their answers and read them aloud. Attach all cards 
 
 ----
 
-### Benefits for the teacher
+## Benefits for the teacher
 
 You can adjust your course to the situation at hand. You can fine-tune your material. You don't need to spend sleepless nights creating new material: Focus on the parts participants ask for, give more room to Q & A or even kick out a topic completely. Explaining one straightforward example that students want to hear is much better than ten examples which they are not interested in.
 
 ----
 
-### Benefits for participants
+## Benefits for participants
 
 Asking participants at the very beginning shares responsibility. It also helps them to focus on what they need to learn. After all, they will be distracted by many things while programming.
 

@@ -10,7 +10,7 @@
 
 ----
 
-### How it is done
+## How it is done
 
 * group participants to pairs
 * ask participants to write down keywords for that topic within one minute
