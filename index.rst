@@ -12,9 +12,9 @@ Fundamentals
    :maxdepth: 1
 
    fundamentals/teaching_craft.md
-   fundamentals/programming_is_difficult_to_teach.md
+   fundamentals/programming_is_difficult_to_teach.rst
    fundamentals/teaching_process.md
-   fundamentals/types_of_students.md
+   fundamentals/types_of_students.rst
    fundamentals/students.md
    fundamentals/teacher.md
    fundamentals/external_factors.md
