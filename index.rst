@@ -67,6 +67,7 @@ Warming Up
    getting_started/puzzles.md
    getting_started/storytelling.md
    getting_started/theater.md
+   getting_started/tricks_with_bricks.md
 
 ----
 
@@ -97,6 +98,7 @@ Coding Exercises
    coding_exercises/group_assignments.md
    coding_exercises/debugging.md
    coding_exercises/coding_kata.md
+   coding_exercises/group_puzzle.md
    
 ----
 
@@ -116,6 +118,7 @@ Wrapping up
    wrapping_up/quiz.md
    wrapping_up/lightning_talks.md
    wrapping_up/facilitated_discussion.md
+   wrapping_up/fishbowl.md
    wrapping_up/repeat.md
 
 ----
@@ -172,19 +175,6 @@ Troubleshooting
    troubleshooting/aggression.md
    troubleshooting/paradrop.md
    troubleshooting/jungle.md
-
-----
-
-Advanced Teaching Methods
--------------------------
-
-.. toctree::
-   :maxdepth: 1
-
-   advanced/tricks_with_bricks.md
-   advanced/fishbowl.md
-   advanced/panel_discussion.md
-   advanced/group_puzzle.md
    
 ----
 
