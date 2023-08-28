@@ -10,10 +10,10 @@ Example Lesson: Create Tables in SQL
 --------------
 
 In this chapter, I want to describe an entire lesson, bringing together all elements of from the previous chapters.
-As a topic, I chose the SQL **CREATE TABLE** statement, because I believe all of you will understand the content.
+As a topic, I chose the SQL ``CREATE TABLE`` statement, because I believe all of you will understand the content.
 In the following, I want to explain the parts of the lesson and why it is designed the way it is.
 
-**You find a teaching-ready description of the lesson in :download:`penguin_lesson.zip`.
+You find a classroom-ready description of the lesson in :download:`penguin_lesson.zip`.
 
 --------------
 
@@ -46,7 +46,7 @@ Explanation:
 This prerequisite is important because the installation is a potential
 time sink. I decided for ``psql`` because it works on all operating
 systems. The ``psql`` tool could be replaced by a different tool
-(e.g. pgadmin4 or an ORM), reusing some of the material.
+(e.g. pgadmin4 or an ORM), reusing some of the material.
 
 --------------
 
@@ -69,7 +69,7 @@ cover all its details.
 I used Greg Wilsons very logical concept map style, because I wanted to
 try it. I created a sketch on paper first. Then I drew the concept map
 using Inkscape. Note that the concept map does not cover any **syntax**
-or **enumeration** of e.g. data types.
+or **enumeration** of e.g. data types.
 
 I treat this concept map as the backbone of the lesson. One could
 develop several lessons on the same topic from it, use it to recap or
@@ -112,7 +112,9 @@ I wrote the lesson plan **after** developing the code example and
 exercise you find below.
 
 -  the penguin naming activity in the warm-up section is for **priming**
-   the class.
+   the class on the penguin topic. I want to have a short, fun conversation
+   about penguins so that the class feels comfortable with the topic.
+   Essentially I am building up the punchline **"and in this CSV you have another 300 penguins!"**
 -  the goal can be introduced with any medium (whiteboard, Slack or
    other), but it should be visible all the time.
 -  the order of the two parts in **new content** is interchangeable. I
@@ -132,23 +134,21 @@ exercise you find below.
 Material
 --------
 
--  image with 3 penguin species (:::file penguin_heads.png )
--  example SQL CREATE TABLE statement (:::file penguins.sql )
--  concept map (:::file concept_map.png )
--  CSV file with small penguin dataset (50 rows, 5 columns) (:::file
-   penguins.csv )
--  Excel file with small penguin dataset (:::file penguins.xlsx )
--  CSV file with big penguin dataset (:::file penguins_big.csv )
--  PDF with exercises (:::file exercises.pdf )
--  Faded examples ():::file faded_examples.sql )
+-  image with 3 penguin species (:download:`penguin_heads.png`)
+-  example SQL CREATE TABLE statement (:download:`penguins.sql`)
+-  concept map (:download:`concept_map.png`)
+-  CSV file with small penguin dataset (50 rows, 5 columns) (:download:`penguins.csv`)
+-  Excel file with small penguin dataset (:download:`penguins.xlsx`)
+-  CSV file with big penguin dataset (:download:`penguins_big.csv`)
+-  PDF with exercises (:download:`exercises.pdf`)
+-  Faded examples (:download:`faded_examples.sql`)
 
 .. _explanation-4:
 
 Explanation:
 ~~~~~~~~~~~~
 
-This is very useful for other teachers to check whether their material
-is complete.
+A material list is very useful for checking whether your material is complete.
 
 --------------
 
@@ -173,7 +173,7 @@ Explanation:
 ~~~~~~~~~~~~
 
 The point of this code example is to cover the basic structure of a
-``CREATE TABLE`` statement. With the expection of COPY it contains at
+``CREATE TABLE`` statement. With the expection of ``COPY`` it contains at
 least one example of each item from the concept map.
 
 The difficulty can be adjusted by adding or removing data type and/or
@@ -183,98 +183,7 @@ each time.
 
 --------------
 
-Exercises
----------
-
-1. Connect to Postgres
-~~~~~~~~~~~~~~~~~~~~~~
-
-Connect to your Postgres database via the command line:
-
-::
-
-   psql
-
-If you specified a username (-U) or database name (-d) before, do it
-again.
-
---------------
-
-1. Create a table
-~~~~~~~~~~~~~~~~~
-
-Copy the SQL command for creating a table for the small penguin file
-into ``psql``:
-
-.. code:: sql
-   
-   CREATE TABLE IF NOT EXISTS penguins (
-
-       id SERIAL PRIMARY KEY,    
-       species TEXT,
-       gender VARCHAR(10),
-       bill_length_mm NUMERIC NOT NULL,
-       body_mass_g INT CHECK (body_mass >= 0 AND body_mass < 10000)
-
-   );
-
-You should see the response:
-
-::
-
-   CREATE TABLE
-
---------------
-
-1. Load data
-~~~~~~~~~~~~
-
-Copy the smaller CSV file ``penguins.csv`` to the newly created table.
-
-Use the command:
-
-::
-
-   \copy penguins FROM '<path>/penguins.csv' DELIMITER ',' CSV HEADER;
-
-Replace ``<path>`` by the **absolute path** to your ``penguins.csv``
-using **forward slashes** (``/``).
-
-You should see the response:
-
-::
-
-   :::text
-   COPY 50
-
-This tells you that 50 rows have been copied into the table.
-
---------------
-
-1. Inspect the data
-~~~~~~~~~~~~~~~~~~~
-
-Make sure that the data is in your table by typing in the query:
-
-.. code:: sql
-
-   SELECT * FROM penguins;
-
---------------
-
-1. Another table
-~~~~~~~~~~~~~~~~
-
-Now load the bigger table ``penguins_big.sql``. For this one, you need
-to create a second table. Follow these steps:
-
-1. open the CSV file in a text editor or Excel
-2. note what columns are there and what their respective data types are
-3. write a new ``CREATE TABLE`` statement
-4. select a new name for the table (``penguins`` is already used)
-5. add an entry for each column in the same order as they are in the CSV
-6. execute the ``CREATE TABLE`` statement in ``psql``
-7. use ``\copy`` to load the data
+.. include:: exercises.rst
 
 .. _explanation-6:
 
@@ -285,39 +194,36 @@ To run the exercises you need to make the exercises and data files
 available to the students via a repository or LMS.
 
 The exercises are designed to require some teacher support if the
-students are new to SQL. For strong students or revisiting the material,
-a student might very well complete the exercises on their own. Exercises
-1.-4. are the minimal path for creating a table. Exercise 5 is for
-balancing a heterogeneous group.
+students are new to SQL.
+Exercises 1-4 are easy and show a minimal path for creating a table.
+Exercise 5 is more difficult. A strong student might complete exercises 1.-4. quickly on their own and then be up for a challenge.
+Having a mix of easy and difficult exercises helps you to balance a heterogeneous class (which is frequent).
+Make sure to communicate that you do not expect everybody to finish everything.
 
 --------------
 
 Backup Plans
 ------------
 
--  exercises 1-4 are easy, 5 gives room for quick students to transfer
-   to a new example
--  use the extra exercises in :::file faded_examples.sql
+-  use some of the extra exercises in :download:`faded_examples.sql`
 -  if participants are unfamiliar with relational databases, open the
-   Excel sheet and discuss problems with data consistency
+   CSV file in a spreadsheet application and discuss problems with data consistency
 
 .. _explanation-7:
 
 Explanation:
 ~~~~~~~~~~~~
 
-If you are not teaching very often, it will be difficult to estimate the
-time for activities correctly. Then it helps to write down a few
-options. If you are more experienced, you might change plans on the fly.
-I usually do not write down my backup plans.
+Estimating the time for activities correctly is difficult.
+Having an extra exercise you can add may help you to feel more comfortable.
 
--  The first point is important because it tells you how to deal with a
-   heterogeneous class (which is likely to happen).
--  The second point gives you extra options for fine-tuning difficulty
--  The third point is more of an emergency solution if it turns out that
-   you grossly overestimated the abilities of your class. This could
-   happen if you do not know your audience before, but it happens
-   rarely.
+Examining the data in a spreadsheet is a fallback plan if it turns out that
+you grossly overestimated the abilities of your class.
+This is a good type of plan B if it is your first lesson with a class.
+
+If you are more experienced, you might change plans on the fly.
+I do not write down my backup plans very frequently, but usually I have them.
+If things go well I will trigger a backup plan without any of the students noticing.
 
 --------------
 

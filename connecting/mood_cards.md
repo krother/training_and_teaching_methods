@@ -1,6 +1,8 @@
 
 # Mood Cards
 
+![](../images/postcards.jpg)
+
 | summary | everybody picks a card |
 |---------|------------------------|
 | time  | 10' |
