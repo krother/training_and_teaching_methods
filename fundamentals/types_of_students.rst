@@ -200,7 +200,7 @@ In any case, having students in the productive zone is a great asset.
 Conclusion
 ----------
 
-T ftudents, you can adjust your lesson with little effort. With a group
+With only a few students, you can adjust your lesson with little effort. With a group
 of 20, finding out their needs is hard work, and with 50+ it is a matter
 of statistics.
 

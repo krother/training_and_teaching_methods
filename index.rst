@@ -17,7 +17,7 @@ Fundamentals
    fundamentals/types_of_students.rst
    fundamentals/students.md
    fundamentals/teacher.md
-   fundamentals/external_factors.md
+   fundamentals/room.md
 
 ----
 
@@ -118,6 +118,8 @@ Wrapping up
    wrapping_up/quiz.md
    wrapping_up/lightning_talks.md
    wrapping_up/facilitated_discussion.md
+   wrapping_up/caroussel.md
+   wrapping_up/marketplace.md
    wrapping_up/fishbowl.md
    wrapping_up/repeat.md
 
@@ -185,7 +187,6 @@ Appendix
    :maxdepth: 1
 
    appendix/training_course_design.md
-   appendix/checklists.md
    appendix/quotes_teaching.md
    appendix/links.md
    

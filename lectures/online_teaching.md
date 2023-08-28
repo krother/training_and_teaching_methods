@@ -104,3 +104,23 @@ The advantage of Flipped Class is that it ruthlessly empowers your students to g
 
 * [Short Video with Eric Mazur on Flipped Class](https://www.youtube.com/watch?v=Z9orbxoRofI)
 * [Long Video with Eric Mazur on Flipped Class](https://www.youtube.com/watch?v=WwslBPj8GgI)
+
+----
+
+## Checklist: Online Teaching
+
+![online](../images/setting/online.png)
+
+In case you are teaching online, you need to check the virtual classroom instead.
+Many of the following apply to a on-site course as well:
+
+* What online platform will you use to communicate with students? Have you used it before?
+* Are students expected to have their cameras on?
+* How stable is the internet connection? Are there occasional drop-outs?
+* Are there etiquette that the students have been using?
+* Do you need to admit people manually to the virtual classroom?
+* Can you split the group into breakout sessions?
+* Is there a Learning Management System (LMS) in place?
+* How can you exchange files with the participants?
+* How can you exchange chat messages with the participants?
+* Who can you call if something does not work?

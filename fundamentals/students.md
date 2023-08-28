@@ -1,6 +1,8 @@
 
 # What Students are looking for
 
+![students](../images/setting/students.png)
+
 The first and last thing to keep in mind as a teacher are your students.
 Students are the main ingredient of any teaching.
 Everything else (including yourself) is dispensable, but without students, there is no learning.
@@ -106,12 +108,23 @@ It is OK to be bad at some, and to tell your students.
 They will find out quickly what you can provide for them.
 Being clear what needs you are good helping with helps you establish a healthy student-teacher relationship.
 
+I had students bring babies, spouses and dogs to the classrooms. I had students going to weddings and coming from funerals.
+I heard plenty of construction work and saw yoga groups pass through my classroom.
+I had students who fell asleep, and students who brought cake and wanted to celebrate.
+I had fire alarms and entire classrooms with a hangover. 
+All of these situations are teachable, but you may want to find out who you are dealing with.
+
 ----
 
-## Reflection Questions
+## Checklist
 
-* How big is the group? Does that make preparations rather easy or challenging?
-* What can you learn about your participants before preparing?
-* How heterogeneous or homogeneous is the group?
-* What is their previous state of knowledge?
-* If you have taught a group already, can you assume they can do everything from the previous lesson?
+- how big is the group?
+- how much do they know about *technology X* or programming in general?
+- how heterogeneous or homogeneous is the group?
+- are the students there voluntarily or is it a mandatory course?
+- why are the students taking the course?
+- what is their background?
+- what is the expected impact of the course on their career?
+- do they know each other?
+- can you contact the students prior to the course?
+- are other teachers or organizers present?
