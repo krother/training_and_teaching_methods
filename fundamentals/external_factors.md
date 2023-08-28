@@ -18,7 +18,6 @@ It was a pleasant bike ride, but I found little infrastructure.
 OK, there was a coffee vending machine. I tried it and the coffee was barely drinkable.
 The students slowly trickled in while I was supposed to start. One of them approached me and asked:
 
-    :::text
     """could we have 5 more minutes to set up our coffee machine."""
 
 I kind of got their point. 

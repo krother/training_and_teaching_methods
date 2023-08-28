@@ -33,7 +33,7 @@ Preparing Lessons
    planning/concept_maps.md
    planning/lesson_structure.md
    planning/lesson_plans.md
-   penguin_lesson/README.md
+   penguin_lesson/README.rst
 
 ----
 

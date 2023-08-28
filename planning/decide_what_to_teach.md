@@ -67,7 +67,6 @@ If you want to be on the safe side, select **5 plus/minus 2** concepts and struc
 
 At this point, the expert mind usually starts screaming:
 
-    :::text
     "But you cannot leave away X!"
 
 Imagine you have found an interesting problem, have data and could imagine that your lesson on `CREATE TABLE` will work.
