@@ -1,7 +1,7 @@
 Teaching Programming
 ====================
 
-**by Dr. Kristian Rother**
+**by Dr. Kristian Rother**
 
 |image0|
 
@@ -14,8 +14,8 @@ Fundamentals
    fundamentals/teaching_craft.md
    fundamentals/programming_is_difficult_to_teach.rst
    fundamentals/teaching_process.md
-   fundamentals/types_of_students.rst
    fundamentals/students.md
+   fundamentals/types_of_students.rst
    fundamentals/teacher.md
    fundamentals/room.md
 
@@ -82,6 +82,7 @@ Introducing new Content
    lectures/live_coding.md
    lectures/presenting.md
    lectures/questions.md
+   lectures/knowledge_board.rst
    lectures/paper_and_scissors.md
    lectures/algorithmic_games.md
 

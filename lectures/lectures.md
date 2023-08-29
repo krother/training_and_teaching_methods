@@ -94,25 +94,6 @@ It is well apt to explain mathematical concepts on a whiteboard (where step 3 co
 
 ----
 
-## Knowledge capacitor
-
-![capacitor](../images/Learning_piling-up.jpg)
-
-A knowledge capacitor helps your students to see what concepts they have learned about.
-Ideally, it is visible throughout the course, e.g. as a pin wall in the classroom.
-If you don't have a pin wall, an online spreadsheet or note app also work.
-
-1. prepare predefined categories (your top-level concepts)
-2. use the categories as headings on the pin wall.
-3. create cards for new concepts
-4. add the new cards to the capacitor (during the wrap-up of each lesson)
-4. use the capacitor for warm-up and recap activities
-
-Because the knowledge capacitor is visible all the time, it enhances retention.
-Adding concepts over time to the capacitor also gives participants a feeling of achievement.
-
-----
-
 ## Sweeping Up
 
 One disadvantage of deductive instruction is that you may miss out some concepts that students care about.
