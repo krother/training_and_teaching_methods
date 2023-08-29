@@ -1,3 +1,5 @@
+.. _pingu_lesson:
+
 Example Lesson: Create Tables in SQL
 ====================================
 
