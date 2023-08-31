@@ -78,7 +78,7 @@ Introducing new Content
    :maxdepth: 1
 
    lectures/lectures.md
-   lectures/alternatives_to_frontal_teaching.md
+   lectures/alternatives_to_presenting.rst
    lectures/live_coding.md
    lectures/presenting.md
    lectures/questions.md
