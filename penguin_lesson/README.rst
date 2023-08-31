@@ -17,6 +17,10 @@ In the following, I want to explain the parts of the lesson and why it is design
 
 You find a classroom-ready description of the lesson in :download:`penguin_lesson.zip`.
 
+.. seealso::
+
+   `How to teach DS <https://www.youtube.com/watch?v=ko30CvexaT0>`__ – talk explaining this lesson (low resolution)
+
 --------------
 
 Goal
@@ -244,4 +248,6 @@ and environmental variability within a community of Antarctic penguins
 
 .. |image0| image:: penguin_heads.png
 .. |image1| image:: concept_map.png
+
+----
 

@@ -107,3 +107,8 @@ Fortunately, most disruptive behavior can be smoothed out with a friendly conver
 
 ![live long and prosper](images/vulcan.png)
 
+----
+
+## Also see:
+
+* [Paloma Oliveira – The code of conduct has been broken. Now what? on YouTube](https://www.youtube.com/watch?v=RBZrYMEJFXA)

@@ -101,3 +101,6 @@ Unfortunately we don't have an established system where you get colored belts (o
 ## Further Reading
 
 * [RandoriKata](http://codingdojo.org/RandoriKata/) – writeup of the kata method
+* [Remote Mob Programming](https://www.remotemobprogramming.org/) – detailed description of a team kata method
+* [pydantic data-kat](https://github.com/tmylk/data-kata/tree/main/validation/pydantic) – coding exercises for an ensemble programming session on pydantic
+* [Mob Timer](https://mobti.me/mobrpg)
