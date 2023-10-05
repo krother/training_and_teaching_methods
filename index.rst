@@ -5,19 +5,25 @@ Teaching Programming
 
 |image0|
 
+.. toctree::
+   :maxdepth: 1
+
+   preface
+
 Fundamentals
 ------------
 
 .. toctree::
    :maxdepth: 1
 
-   fundamentals/teaching_craft.md
+   fundamentals/index
    fundamentals/programming_is_difficult_to_teach.rst
    fundamentals/teaching_process.md
    fundamentals/students.md
    fundamentals/types_of_students.rst
    fundamentals/teacher.md
    fundamentals/room.md
+
 
 ----
 
@@ -175,7 +181,6 @@ Troubleshooting
    troubleshooting/passive.md
    troubleshooting/under_pressure.md
    troubleshooting/energizers.md
-   troubleshooting/aggression.md
    troubleshooting/paradrop.md
    troubleshooting/jungle.md
    
