@@ -26,7 +26,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'de/*']
 
 language = 'ls'
 
-# -- Options for HTML output -------------------------------------------------
+# ---- Options for HTML output ----
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'academis_sphinx_theme'
@@ -47,4 +47,10 @@ html_theme_options = {
     'github_repo': 'training_and_teaching_methods',
     'show_relbar_top' : True,
     'show_relbar_bottom' : True,
+}
+
+# ---- Options for PDF output ----
+
+latex_elements = {
+    'preamble': "\linespread{1.25}",
 }

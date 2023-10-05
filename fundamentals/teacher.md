@@ -19,14 +19,14 @@ Let's start with the technical part:
 A programming teacher needs to know programming.
 This is usually the first thing prospective teachers think of.
 For a junior programming teacher, knowing the subject well is really important to feel comfortable in class.
-But in my opinion, experienced programmers tend to overrate their expertise a bit.
+But in my opinion, many experienced programmers overrate the importance of their expertise.
 Being an expert is not **the most important** thing:
 
-* First of all, a teacher is rather a generalist. In a generic programming or data analysis course, you need to know the basics well. 
+* First of all, a teacher is rather a generalist. In most programming or data analysis courses, you need to know the basics well. 
 * Second, the field of IT evolves quickly and you will find yourself learning along with your students.
 * Third, it is OK for a programmer not to know everything right away. That is a valuable message in itself.
 
-An experienced practitioner is an excellent fit for short lectures and tutorials on their topic (up to 1-2 days).
+An experienced practitioner is an excellent fit for short lectures and tutorials on their topic (up to a few days).
 This is where very deep knowledge is useful, e.g. when you talk as an expert on *"two-factor authentication"* to other experienced programmers. A typical question the participants have is *"How is this used in practice?"*. Similarly, in an academic lecture you may be expected to connect to the latest research. But you may find yourself in a tradeoff between detail and being understandable, and I believe a teacher should always prefer the latter.
 
 ### Questions:
@@ -38,7 +38,6 @@ This is where very deep knowledge is useful, e.g. when you talk as an expert on 
 * What problem-solving strategies do you find essential when programming?
 * What area would you like to know more about?
 
-----
 
 ## 2. Teaching methods
 
@@ -63,7 +62,7 @@ A programming teacher needs teaching methods for:
 * designing exercises
 * backup procedures when unexpected things happen
 
-Most of this book build your repertoire of teaching methods.
+Most of this book builds your repertoire of teaching methods.
 
 ### Questions:
 
@@ -75,7 +74,6 @@ Most of this book build your repertoire of teaching methods.
 * Do you prefer teaching a small or big audience?
 * Do you enjoy drawing?
 
-----
 
 ## 3. Facilitation skills
 
@@ -101,7 +99,6 @@ As a teacher you might receive a great deal of support with the facilitation par
 * Do you have a procedure for conflict resolution?
 * What can you do to make members of underrepresented or underpriviledged groups more welcome?
 
-----
 
 ## 4. Passion
 
@@ -126,7 +123,6 @@ This love for human beings goes a long way to build a respectful teacher-student
 * Do you have a favourite "programming story"?
 * What did you learn yourself recently?
 
-----
 
 ## 5. Resilience
 
@@ -147,7 +143,6 @@ When you teach people over a longer time, the challenge is to find the right dis
 * Have you experienced impostor syndrome?
 * Who can you reach out for support in difficult teaching situations?
 
-----
 
 ## 6. Humility
 
@@ -161,7 +156,8 @@ After all, you are looking up stuff on StackOverflow, are you?
 
 Do not judge what your participants should or should not do. You cannot read their minds. Give them encouraging exercises and helpful feedback and earn their trust. You cannot force them to learn either. It is the student who decides whether to learn or not. The only thing you can do is to decide what is on the menu, propose something and make it interesting. And to try again and again if it didn't work.
 
-Do not judge whether your students are fit to be programmers either. I have written useful programs with 10000 lines and with 10 lines. Who knows what programming skills we will need in the future? Is it enough to have computational literacy? Is everybody going to be a programmer? Or nobody? Prepare your students as good as you can and let them find out as the future unfolds.
+Do not judge whether your students are fit to be programmers either. I have written useful programs with 10000 lines and with 10 lines. Who knows what programming skills we will need in the future? Is it enough to have computational literacy? Is everybody going to be a programmer? Or nobody? We do not know.
+Prepare your students as good as you can and let them find out as the future unfolds.
 
 If you are a great, inspiring teacher, it will take years for your students to fully blossom. You will not see the fruit of your work (or even be rewarded for it). Knowing that you weave a legacy is what makes teaching so rewarding. But don't take yourself too serious. It takes all the fun away.
 

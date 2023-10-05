@@ -4,12 +4,7 @@ Many novice teachers assume that preparing a lesson means preparing the *content
 This assumption is at best incomplete.
 In the same way, a piece of software consists of more than what users see on the screen.
 
-In this chapter, we take a look at the parts of a lesson you need to think about.
-You find them in this checklist:
-
-![Lesson Checklist](../images/checklist.svg)
-
-Let's go through the seven points one by one:
+In this chapter, we take a look at seven parts of a lesson you need to think about.
 
 ## Take Home Message
 
@@ -49,12 +44,11 @@ A theme could consist of *data*, *a problem question* and some *eye candy*. The 
 
 The last thing to prepare is what participants actually see: exercises, code examples, data files, lecture material. What material you need depends on the methods you choose. You will find plenty of methods described in all other parts of the book.
 
-----
 
 ## Concluding Remarks
 
-I do not prepare all seven points from this checklist for every lesson.
-Often, a lesson prepared with just 2 or 3 of the seven points works very reliably.
+I rarely prepare all seven points from this checklist for every lesson.
+Often, a lesson prepared with two or three of the seven points works very reliably.
 Sometimes I decide on the theme or goals in my head without writing them down explicitly.
 
 But if the lesson is difficult or you are starting to teach, covering all seven points is a good idea.

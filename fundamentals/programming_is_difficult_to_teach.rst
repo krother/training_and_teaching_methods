@@ -9,10 +9,9 @@ However, teaching programming is special. There are specific challenges
 that many programming teachers face. In this chapter I would like to
 point out four of them.
 
---------------
 
-Challenge #1: Programming is difficult to learn
------------------------------------------------
+Programming is difficult to learn
+---------------------------------
 
 Consider you are teaching an introductory Python course. As a classroom
 project, your students are going to analyze a tabular file with penguin
@@ -29,13 +28,14 @@ data. You would like them to write a small program like this one:
    print(f'There are {ade} Adelie penguins in the file.')
 
 What difficulties do students face when writing such a program?
-Here are a few things a beginner programmer might struggle with:
+Here are a few things many beginner programmers struggle with:
 
--  set up their Python environment properly
+-  set up their Python environment
 -  decompose the problem into elementary steps
--  understand the abstraction encoded by the `for` loop
+-  understand the abstraction behind the `for` loop
 -  combine the `for` loop with a conditional statement (two abstractions)
 -  type in the instructions correctly
+-  write a correct path to the CSV file
 
 In all these steps, details matter. Getting one tiny detail wrong usually ruins everything.
 In this aspect, learning to program is fundamentally different from e.g. learning a spoken language.
@@ -56,13 +56,12 @@ Understanding why a particular line is correct or wrong requires a lot of contex
 A student of programming needs the entire context to make a program work.
 This is what makes programming difficult to learn.
 
---------------
 
-Challenge #2: Programming requires multiple skills
---------------------------------------------------
+Programming requires multiple skills
+------------------------------------
 
 To count the penguins in Python, you could also use `pandas`, a popular Python library for data analysis.
-Essentially, `pandas` simplifies your code by making control flow statements unnecessary:
+Essentially, `pandas` allows you to process tabular data without control flow statements:
 
 .. code:: python3
 
@@ -75,10 +74,10 @@ Essentially, `pandas` simplifies your code by making control flow statements unn
 
 This program still counts penguins.
 But which of the two penguin counter programs is better?
-The first program (with the `for` loop) uses only basic language features and will work in any Python environment. 
+The first program with the `for` loop uses only basic language features and will work in any Python environment. 
 It is easy to understand for anyone who used a different imperative programming language before.
-The second program (with `pandas`), gives your students a powerful data analysis tool.
-On the other hand, `pandas` code is not always easy to read, and the students will learn little about control flow.
+The second program using `pandas`, gives your students a powerful data analysis tool.
+On the other hand, an extra library needs to be installed, `pandas` code is not always easy to read, and the students will learn nothing about control flow.
 
 Professional programmers face decisions between alternative approaches very frequently.
 So, in addition to **writing code**, they also **make design decisions**.
@@ -88,7 +87,7 @@ Making design decisions is an important skill that is orthogonal to writing code
 
    A senior programmer might comment that both implementations are bad,
    because there are no tests, bad documentation and the scope of the program is not defined.
-   **testing**, **documenting** and **requirements engineering** are more examples of skills a programmer needs.
+   **testing**, **documenting** and **requirements engineering** are more skills a programmer needs.
 
 In the table below you find examples of skills (*competencies* in educational jargon) that programmers typically use:
 
@@ -132,15 +131,14 @@ Yet, most introductory programming books and courses focus entirely on the skill
 What about the other skills? Can they be taught?
 Yes, of course, all of them can be taught.
 But it is difficult to find the right balance of skills and to communicate it clearly.
-But in my opinion, teaching programming is **all about finding that balance**.
+But in my opinion, **teaching programming is all about finding that balance**.
 
---------------
 
-Challenge #3: The content is unstable
--------------------------------------
+The content is unstable
+-----------------------
 
 I once had the pleasure to attend a meeting of math teachers at a primary school.
-The teachers discussed strategies to work with students who struggle with arithmetics of integers up to 20).
+The teachers discussed strategies to work with students who struggle with arithmetics of integers up to 20.
 One of the teachers pulled out a box full of cards with exercises.
 Each card was tailored at a specific sub-problem (e.g. adding `9`)
 that the teacher could briefly explain to the student and then help the rest of the class.
@@ -156,12 +154,11 @@ Practically, every teaching institution uses their own.
 You can expect that every teaching format has to be uniquely structured from scratch.
 Crafting content covering the many skills of programming is not easy.
 To make matters worse, the technologies we work with evolve rapidly.
-So whatever you create, will have to be regularly reviewed and updated.
+Whatever you create, will have to be regularly reviewed, refined and updated.
 
---------------
 
-Challenge #4: Non-linear skill growth
--------------------------------------
+Non-linear skill growth
+-----------------------
 
 *“Things that took me 2 days a year ago now take me 10 minutes”*
 
@@ -205,7 +202,6 @@ Be prepared to deal with the non-linear nature of
 the learning curve and the resulting side effects. 
 Be prepared to deal with the non-linear nature of
 the learning curve and the resulting side effects. 
---------------
 
 Summary
 -------
@@ -216,4 +212,3 @@ interesting. Let's take up the challenge and see how we can approach
 these challenges systematically.
 
 .. |image0| image:: confucius.png
-

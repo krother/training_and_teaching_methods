@@ -31,25 +31,12 @@ With teaching, it is the same.
 
 This book introduces you to the craft of teaching programming.
 I wrote it for developers who teach occasionally and for full-time teachers without a formal background in education.
-The book takes you on a tour of *teaching practices and skills*.
-Some of these practices and skills make your lessons more engaging and fun.
-Some others will be invisible to your students, but help them learn more effectively.
-Or they make your work behind the scenes easier and give you time for other things.
-All teaching practices in the book aim at helping you to become a better programming teacher.
+This book takes you on a tour of *teaching practices and skills*.
+You can use the book as a guide to create a course from scratch or fish for ideas to spice up your classes.
 
-The book is divided into seven parts:
+Some of the practices and skills make your lessons more engaging and fun.
+Others will be invisible to your students, but help them learn.
+Most of them make your work easier, so that you can focus on what matters – your students.
+All chapters cover time-tested techniques that I collected teaching coding, data science and many other subjects during the past 20 years.
 
-| part | what you can learn |
-|------|--------------------|
-| **Fundamentals** | what teaching is about |
-| **Preparing Lessons** | what do do before you go into the classroom |
-| **Warming Up** | how to master the beginning of a lesson or course |
-| **Introducing New Content** | how to expose your class to new concepts |
-| **Programming Exercises** | how to make your class apply the new concepts |
-| **Wrapping Up** | how to finish a lesson |
-| **Troubleshooting** | what to do if things take an unexpected turn |
-
-The chapters covers time-tested techniques for teaching programming that I collected over the past 20 years.
-You can use them as a guide to create a course from scratch or fish for ideas to spice up your classes.
-
-**Let's get started.**
+I hope this book helps you become a great programming teacher.
