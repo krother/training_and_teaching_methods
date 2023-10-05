@@ -1,9 +1,7 @@
 
-# How to react if students show disruptive behavior?
+# How to react to disruptive behavior?
 
-OR
-
-**The Starfleet Guide for handling aggressive lifeforms**
+**or: The Starfleet Guide for handling aggressive lifeforms**
 
 ## The Problem
 
@@ -97,8 +95,17 @@ You need someone who can act as a counselor or facilitator.
 Turn to a person who is emotionally not involved and can take over the conversation.
 
 Involving someone else also helps if the entire group is on the edge or frustrated.
-Letting off some steam in small portions can be done in a small feedback session.
-But do not start a big discussion under any circumstances. It is likely to make matters worse.
+Letting off steam in small portions can be done in a small feedback session.
+If you need to resolve the conflict within the group, you need to establish very clear rules such as:
+
+* everybody is heard
+* nobody is interrupted
+* everybody tells things from their own perspective ("in my opinion..")
+* no justifications
+* time-box the discussion
+
+Under any circumstances, keep the discussion short. 
+If it takes longer, it is likely to make matters worse.
 
 If you face a situations where frustration and grudges build up over a couple of weeks, things are more difficult.
 As someone teaching a masterclass of a few days, this should not be on your plate.
