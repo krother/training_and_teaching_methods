@@ -5,154 +5,23 @@
 
 ![](images/teaching.png)
 
+This book is to help coding teachers make their lessons more effective and enjoyable.
 
-# Contents
+You can find the live version on [www.academis.eu/teaching/](http://www.academis.eu/teaching/)
 
-## Fundamentals
+## Building the documentation
 
-* [Teaching is a Craft](fundamentals/teaching_craft.md)
-* [Programming is difficult to teach](fundamentals/programming_is_difficult_to_teach.md)
-* [The Teaching Process](fundamentals/teaching_process.md)
-* [Types of Students](fundamentals/types_of_students.md)
-* [What Students are looking for](fundamentals/students.md)
-* [The Teacher](fundamentals/teacher.md)
-* [External Factors](fundamentals/external_factors.md)
+Install Python and run from a terminal
 
-----
+    pip install -r requirements.txt
+    make html
 
-## Preparing Lessons
+You should find the HTML version in ``build/html/`` .
+To build a PDF, you also need to install LaTeX and type:
 
-* [Preparing Lessons](planning/preparing_lessons.md)
-* [Decide what to teach](planning/decide_what_to_teach.md)
-* [Learning Goals](planning/goals.md)
-* [Concept Maps](planning/concept_maps.md)
-* [Structure of a Lesson](planning/lesson_structure.md)
-* [Lesson Plans](planning/lesson_plans.md)
-* [Example Lesson: Create Tables in SQL](penguin_lesson/README.md)
-
-----
-
-## Connecting with your Students
-
-* [Managing expectations](connecting/expectations.md)
-* [The first minute](connecting/the_first_minute.md)
-* [Selling your Lesson](connecting/selling.md)
-* [Mood Cards](connecting/mood_cards.md)
-* [Four Questions](connecting/four_questions.md)
-* [Scale](connecting/scale.md)
-* [Getting to know each other](connecting/getting_to_know.md)
+    make latexpdf
 
 
-## Warming Up
-
-* [Priming](getting_started/priming.md)
-* [One-Liners](getting_started/one_liners.md)
-* [Buggy Code](getting_started/buggy_code.md)
-* [Upside-Down](getting_started/upside_down.md)
-* [Brainstorming](getting_started/brainstorming.md)
-* [Puzzles](getting_started/puzzles.md)
-* [Storytelling](getting_started/storytelling.md)
-* [Theater](getting_started/theater.md)
-
-----
-
-## Introducing new Content
-
-* [Structuring Concepts in Frontal Teaching](lectures/lectures.md)
-* [Alternatives to Frontal Teaching](lectures/alternatives_to_frontal_teaching.md)
-* [Live coding](lectures/live_coding.md)
-* [Visual Media](lectures/presenting.md)
-* [Questions](lectures/questions.md)
-* [Paper-and-Scissors Worksheets](lectures/paper_and_scissors.md)
-* [Algorithmic Games](lectures/algorithmic_games.md)
-
-----
-
-## Coding Exercises
-
-* [Facilitating Coding Exercises](coding_exercises/reduced_examples.md)
-* [How to prevent Installation Problems?](coding_exercises/prevent_install_failure.md)
-* [Group Assignments](coding_exercises/group_assignments.md)
-* [Debugging](coding_exercises/debugging.md)
-* [Coding Kata](coding_exercises/coding_kata.md)
-
-----
-
-## Wrapping up
-
-* [Multiple Choice Questions](wrapping_up/mc_questions.md)
-* [20 Questions](wrapping_up/twenty_questions.md)
-* [Check & Cross](wrapping_up/check_cross.md)
-* [Memory](wrapping_up/memory.md)
-* [Scrabble](wrapping_up/scrabble.md)
-* [Domino](wrapping_up/domino.md)
-* [Telepathy](wrapping_up/telepathy.md)
-* [Quizzes](wrapping_up/quiz.md)
-* [Lightning Talks](wrapping_up/lightning_talks.md)
-* [Facilitated Discussion](wrapping_up/facilitated_discussion.md)
-* [More Recap Methods](wrapping_up/repeat.md)
-
-----
-
-## Collecting Feedback
-
-* [Dot Voting](feedback/dot_voting.md)
-* [Feedback Props](feedback/props.md)
-* [Start a Fire](feedback/fire.md)
-* [Fist or Five](feedback/fist_or_five.md)
-* [Four Corners](feedback/four_corners.md)
-* [Round Robin Questions](feedback/round_robin.md)
-* [Supermarket](feedback/supermarket.md)
-* [Voting Box](feedback/voting_box.md)
-* [More Feedback Methods](feedback/feedback.md)
-
-----
-
-## Online Teaching
-
-* [Online Teaching](lectures/online_teaching.md)
-* [How to save preparation time?](online_teaching/save_preparation_time.md)
-* [How to start an online lesson?](online_teaching/start_class.md)
-* [How to create engaging coding exercises?](online_teaching/engaging_coding_exercises.md)
-* [How to select material for self-study?](online_teaching/self_study_material.md)
-* [How to encourage students to work together?](online_teaching/students_work_together.md)
-* [How to get instant feedback from students?](online_teaching/instant_feedback.md)
-
-
-----
-
-## Troubleshooting
-
-* [How to teach with little time to prepare?](troubleshooting/no_prep.md)
-* [How to be a less nervous teacher?](troubleshooting/nervousness.md)
-* [How to teach when your plan doesn't work?](troubleshooting/plan_b.md)
-* [How to deal with technology failures?](troubleshooting/tech_failures.md)
-* [How to handle heterogeneous skill levels?](troubleshooting/heterogeneous.md)
-* [How to react if students show disruptive behavior?](troubleshooting/disruptive_behavior.md)
-* [How to handle passive participants?](troubleshooting/passive.md)
-* [How to handle participants under pressure?](troubleshooting/under_pressure.md)
-* [How to wake up your class?](troubleshooting/energizers.md)
-* [How to handle aggressive participants?](troubleshooting/aggression.md)
-* [How to teach in an unfamiliar environment?](troubleshooting/paradrop.md)
-* [How to teach a subject you know little about?](troubleshooting/jungle.md)
-
-----
-
-## Advanced Teaching Methods
-
-* [Tricks with Bricks](advanced/tricks_with_bricks.md)
-* [Fishbowl with Experts](advanced/fishbowl.md)
-* [Panel Discussion](advanced/panel_discussion.md)
-* [Group Puzzle](advanced/group_puzzle.md)
-
-----
-
-## Appendix
-
-* [A recipe for designing courses](appendix/training_course_design.md)
-* [Checklists](appendix/checklists.md)
-* [Quotes on Teaching](appendix/quotes_teaching.md)
-* [Links](appendix/links.md)
 
 ## Acknowledgements
 
@@ -160,6 +29,6 @@ I dedicate this document to Bettina Ritter-Mamczek and Cornelius Frömmel, to wh
 
 ## License
 
-(c) 2021 Dr. Kristian Rother
+(c) 2023 Dr. Kristian Rother
 
 Distributed under the conditions of the Creative Commons Attribution Share-Alike License 4.0

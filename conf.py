@@ -18,6 +18,7 @@ extensions = [
     'sphinx_design',
     'sphinx_copybutton',
     'myst_parser',
+    'sphinxcontrib.cairosvgconverter',
     ]
 
 templates_path = ['_templates']
