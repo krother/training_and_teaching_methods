@@ -1,19 +1,17 @@
 
 # The Classroom
 
-![](../images/hamburg_sunset.jpg)
+![](hamburg_berlin.jpg)
+
+*Siemens Villa: A.Savin, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons*
 
 I once had the pleasure to teach in Hamburg at the waterside. There was an amazing harbor skyline right outside the window.
 It was a university seated in the thriving heart of the city.
 The students were on time, eager to learn and were focused throughout the entire day.
 Soon, the lesson was running under full sail.
 
-![](../images/siemens_villa.jpg)
-
-*Siemens Villa: A.Savin (WikiCommons), CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons*
-
-Another time, I was to deliver the exactly same content in Berlin. In a university hosted in an actual castle. 
-The castle was located outside the city center in a quiet area.
+Another time, I delivered the exactly same content in a university hosted, in an actual castle.
+The castle was located far from the center of Berlin in a quiet area.
 It was a marvellous place with a huge garden. 
 However, there was not much else apart from a vending machine.
 While the students came in, one of them approached me and asked:
@@ -22,15 +20,13 @@ While the students came in, one of them approached me and asked:
 
 I got their point as soon as I tried the coffee from the vending machine.
 Getting everyone supplied with coffee took a while, so we had time to chat.
-It took us longer to start than with the first group, but had in-depth conversations that went beyond the curriculum.
-Plus we had a continuous supply of coffee right in the classroom.
+It took us longer to start than with the first group, but we had in-depth conversations that went beyond the curriculum.
+Plus we had a continuous supply of coffee in the classroom.
 
 The point of the story is that whatever your lesson is about, the place where you teach influences your teaching a lot.
 In the best case, the room puts everybody in a good mood. In the worst case, it produces serious impediments.
 
 ## Checklist: The Room
-
-![classroom](../images/setting/classroom.png)
 
 Here you find a checklist you can use to assess the pros and cons of a room in which you will teach for the first time:
 
@@ -41,7 +37,7 @@ Here you find a checklist you can use to assess the pros and cons of a room in w
 * Are there any visual obstacles? *(huge screens, pillars)*
 * Where is the door? *(will stragglers pop right into your stage?)*
 * Can you move around freely to help the partipants?
-* Do the pens work? *(default is `no`, bring a spare pen)*
+* Do the pens work? *(default is no, bring a spare pen)*
 * Where is the light coming from? Are there blinds in case of sun glare?
 * How to open the windows / turn on the air condition?
 * Can you move the tables?
