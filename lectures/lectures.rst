@@ -98,7 +98,9 @@ knowledge of the subject to pick the right problem questions and code
 examples that are not too trivial. This type of deductive instruction
 makes it easy to establish a continuous dialog with your students.
 
-The iterative strategy works better if you can draw/reveal parts of your concept map as you introduce new concepts. 
+The iterative strategy works best if your concepts can be explained in an onion-like manner:
+Start with a simple code example and improve it in the next iterations.
+Draw or reveal parts of your concept map as you introduce new concepts.
 It is well apt to explain mathematical concepts on a whiteboard
 (where step 3 could also be a diagram, equation or proof).
 The iterative approach is also compatible with a live coding session.
@@ -114,7 +116,7 @@ Often, students specifically as for it, e.g.:
 
 ::
 
-   Could you explain us the most important data structures?
+   "Could you explain the most important data structures?"
 
 |image0|
 

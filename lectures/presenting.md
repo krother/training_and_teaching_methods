@@ -1,7 +1,8 @@
 
 # Visual Media
 
-Most lessons will require you to
+Once upon a time, a teacher was the main source of information in the classroom. But today, course participants find information on any programming topic or entire courses themselves in no time. In comparison, lecturing is an ineffective method to convey information: You have to guess what information your participants are looking for, prepare it in the right granularity and convey it at the right pace. It's a risky business.
+
 ## Pin board
 
 One of the most useful visual media are pin boards. You can use it to attach paper cards or posters using pin needles. It allows you to combine prepared with ad-hoc content and to rearrange items on the fly.
@@ -116,36 +117,8 @@ up a training.
 
 ----
 
-### Dramaturgy of presentations
-Read about how theater plays, shows, or books are structured to have a rising tension and climax.
-
-### Yes/No poll
-Find out what students know/think by raising their hand.
-
-### Acronym
-Create an acronym, where the first characters stand for important concepts.
-The acronym can be visualized nicely.
-
-Example: **SOLID Object-Oriented Design**:
-
-    :::text
-    S - Single-responsiblity Principle
-    O - Open-closed Principle
-    L - Liskov Substitution Principle
-    I - Interface Segregation Principle
-    D - Dependency Inversion Principle
-
-Please use this tool sparingly.
-Forcing an acronym into every lesson is **B**loated, **A**rguably-not-helpful, **D**istracting.
-
-## Onion model
-Repeat your main concept five times, every time adding something new.
-
 ### Contrast pictures
 Show two pictures showing different concepts (e.g. healthy/disease). Ask students to compare them & describe the differences.
-
-### Fix learning goals
-Summarize goals at the beginning
 
 ----
 
@@ -170,4 +143,17 @@ Use physical props to display the items on your agenda
 
 ----
 
-Once upon a time, a teacher was the main source of information in the classroom. But today, course participants find information on any programming topic or entire courses themselves in no time. In comparison, lecturing is an ineffective method to convey information: You have to guess what information your participants are looking for, prepare it in the right granularity and convey it at the right pace. It's a risky business.
+### Acronym
+Create an acronym, where the first characters stand for important concepts.
+The acronym can be visualized nicely.
+
+Example: **SOLID Object-Oriented Design**:
+
+    S - Single-responsiblity Principle
+    O - Open-closed Principle
+    L - Liskov Substitution Principle
+    I - Interface Segregation Principle
+    D - Dependency Inversion Principle
+
+Please use this tool sparingly.
+Forcing an acronym into every one of your lessons is **B**loated, **A**rguably-not-helpful and **D**istracting.

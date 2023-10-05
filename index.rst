@@ -84,7 +84,7 @@ Introducing new Content
    lectures/questions.md
    lectures/knowledge_board.rst
    lectures/paper_and_scissors.md
-   lectures/algorithmic_games.md
+   lectures/algorithmic_games.rst
 
 ----
 
