@@ -69,9 +69,9 @@ Warming Up
    getting_started/one_liners.rst
    getting_started/buggy_code.rst
    getting_started/upside_down.rst
-   getting_started/brainstorming.md
-   getting_started/storytelling.md
-   getting_started/theater.md
+   getting_started/brainstorming.rst
+   getting_started/storytelling.rst
+   getting_started/theater.rst
    getting_started/tricks_with_bricks.rst
 
 ----
