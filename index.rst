@@ -72,7 +72,7 @@ Warming Up
    getting_started/brainstorming.md
    getting_started/storytelling.md
    getting_started/theater.md
-   getting_started/tricks_with_bricks.md
+   getting_started/tricks_with_bricks.rst
 
 ----
 
@@ -119,7 +119,6 @@ Wrapping up
    wrapping_up/check_cross.md
    wrapping_up/memory.md
    wrapping_up/scrabble.md
-   wrapping_up/domino.md
    wrapping_up/telepathy.md
    wrapping_up/quiz.md
    wrapping_up/lightning_talks.md

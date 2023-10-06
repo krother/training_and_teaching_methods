@@ -1,21 +1,6 @@
 
 # Puzzles
 
-| summary | solve a small programming problem |
-|---------|-----------------------------------|
-| time  | 20'    |
-| preparation time  | 20'    |
-| group size | all |
-| material | screen |
-
-----
-
-## How it is done
-
-Puzzles are a 
-
-----
-
 ## Match pairs
 
 e.g. matching pairs of concepts and examples.
