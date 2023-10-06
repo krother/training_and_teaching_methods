@@ -34,7 +34,7 @@ As an example you want to use bicycle rental data (check out [Bike Sharing Deman
 
 Let's look at a few things you could do at the start:
 
-### 1. Arrive Early
+### Arrive Early
 
 When the lesson starts, you don't want the technical setup to get in the way.
 Be there 10 minutes earlier at least.
@@ -45,12 +45,11 @@ Conduct your tech-check with the first person that pops up.
 Make use of the remaining time to chat a little and get a feeling for the audience.
 A good starter question when you join a longer course for a few days is:
 
-    :::text
     "What did you learn yesterday?"
 
 When it is time to start, start with 1-2 of the following strategies:
 
-### 2. Sell your lesson in one minute
+### Sell your lesson in one minute
 
 ![Yoda sells a lesson](images/yoda_sells_lesson.png)
 
@@ -66,7 +65,6 @@ An easy strategy is to answer four questions at the beginning:
 
 For the bicycle lesson, your introduction could be:
 
-    :::text
     Welcome to the lesson "Time Series Forecasting".
     I want you to forecast bicycle rentals <show the above image>.
 
@@ -83,7 +81,7 @@ For the bicycle lesson, your introduction could be:
     We will use plotly to create diagrams,
     because this is my favourite library (HIGHLIGHT)
 
-### 3. Show something impressive
+### Show something impressive
 
 If this is your first lesson with a new group, you may want to establish yourself as the go-to-expert first.
 Summarizing your entire CV is usually a bit boring.
@@ -96,28 +94,11 @@ You could pick one of:
 
 Whatever you show, keep it short (firmly below 5 minutes).
 
-### 3. Priming
+### Priming
 
-**Priming** is a psychological effect a stimulus influences the response to a subsequent stimulus (see [Priming on Wikipedia](https://en.wikipedia.org/wiki/Priming_(psychology)).
-In plain English priming means:
+see *Priming*
 
-    :::text
-    You see a picture of a bicycle.
-    If someone asks you 2 minutes later to name a vehicle,
-    the response "bicycle" is a lot more likely.
-
-    Your brain had already heated up its "bicycle" area.
-
-In teaching, you can use priming to make your students immerse into the topic of the lesson.
-Here are a few easy and fun activities that work for priming:
-
-![priming activities](images/priming.png)
-
-In general, you can prime both on the **theme** (the bicycles) and the **topic** (forecasting) of a lesson.
-I would recommend going for the theme when introducing a project that lasts 1+ days, and prime for the topic for a shorter lesson.
-The activities remain the same.
-
-### 4. Recap
+### Recap
 
 When you are with the same group for more than one day, starting becomes easier from day two.
 You can start your lesson revisiting topics from the previous day.
@@ -125,7 +106,6 @@ A recap activity could consist of 1-3 interview questions, 3-5 quiz questions (s
 
 One of my favourite recap activities is to ask students to write **five easy lines of code**:
 
-    :::python3
     # starter code:
     import seaborn as sns
     df = sns.load_dataset('flights')

@@ -65,12 +65,11 @@ Warming Up
 .. toctree::
    :maxdepth: 1
 
-   getting_started/priming.md
-   getting_started/one_liners.md
-   getting_started/buggy_code.md
-   getting_started/upside_down.md
+   getting_started/priming.rst
+   getting_started/one_liners.rst
+   getting_started/buggy_code.rst
+   getting_started/upside_down.rst
    getting_started/brainstorming.md
-   getting_started/puzzles.md
    getting_started/storytelling.md
    getting_started/theater.md
    getting_started/tricks_with_bricks.md
