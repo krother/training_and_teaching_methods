@@ -1,33 +1,11 @@
 
-# More Feedback Methods
+# Other Feedback Methods
 
 ![guest book](../images/guestbook.jpg)
 
 *Over 4 years, I brought a guest book to all my trainings to collect comments and autographs of participants. Originally, I wanted to squeeze some constructive feedback out of the participants. In the end, it turned out to be a – much nicer – collection of memories and drawings. But it's still feedback.*
 
-----
-
-## Normative and Formative Feedback
-
-There are two main types of feedback:
-
-**Normative Feedback** – to fine-tune a course while it is running:
-
-* find out what to prepare for the next lesson
-* find out what your participants learned
-* make your participants aware of what they learned
-* improve a future edition of your course
-* help participants to close the course mentally
-
-**Formative Feedback** – collect more objective information to benchmark different courses against each other. Also see [Formative Assessment methods](https://www.edutopia.org/groups/assessment/250941).
-
-Most of the methods in this chapter you find my favourite methods.
-
-----
-
-## Other methods
-
-Things I did not write out in detail or haven't tried yet:
+Some extra methods I did not describe in detail:
 
 | technique | description |
 |-----------|-------------|

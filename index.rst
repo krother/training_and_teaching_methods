@@ -137,6 +137,7 @@ Collecting Feedback
 .. toctree::
    :maxdepth: 1
 
+   feedback/index.rst
    feedback/dot_voting.md
    feedback/props.md
    feedback/fire.md
@@ -160,7 +161,6 @@ Online Teaching
    online_teaching/engaging_coding_exercises.md
    online_teaching/self_study_material.md
    online_teaching/students_work_together.md
-   online_teaching/instant_feedback.md
    
 ----
 
