@@ -51,7 +51,7 @@ Connecting with your Students
 
    connecting/expectations.md
    connecting/the_first_minute.md
-   connecting/selling.md
+   connecting/selling.rst
    connecting/mood_cards.md
    connecting/four_questions.md
    connecting/scale.md
@@ -65,6 +65,7 @@ Warming Up
 .. toctree::
    :maxdepth: 1
 
+   getting_started/index.rst
    getting_started/priming.rst
    getting_started/one_liners.rst
    getting_started/buggy_code.rst
@@ -156,7 +157,6 @@ Online Teaching
 
    lectures/online_teaching.md
    online_teaching/save_preparation_time.md
-   online_teaching/start_class.md
    online_teaching/engaging_coding_exercises.md
    online_teaching/self_study_material.md
    online_teaching/students_work_together.md
