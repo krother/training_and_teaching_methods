@@ -19,29 +19,32 @@ Provide participants with comments but no code:
 
 .. code:: python
 
-   # 1. activate the plotting library
-   ...
-   # 2. create numbers from 1-20 (x)
-   ...
-   # 3. create squares of the numbers (y)
-   ...
-   # 4. plot both x and y
-   ...
-   # 5. save the plot to a file
-   ...
+   # starter code
+   import seaborn as sns
+   df = sns.load_dataset('flights')
 
-Give the students the task. Let them work in pairs. 
-Ask them to indicate when they are done.
+   # 1. Check the number of rows and columns
 
-Let them show (or tell) their solutions.
+   # 2. Show all data for 1950
+
+   # 3. Calculate the average passenger number
+
+   # 4. Plot the 'passenger' column
+
+   # 5. Save the data to a new CSV file
+
+
+Give students 5-10 minutes to work on the taks in pairs.
+Then go through the results together.
 
 Comments
 --------
 
 The tasks should be **very easy** for most students.
-I often overestimated their capabilities and we ended up having very long explanations.
-
+This type of activity is a brain massage, not a test.
 The solutions give you a good impression what the group is comfortable with.
+If everyone succeeds in the first 10 minutes, they will make you
+succeed during the rest of the lesson.
 
 This type of exercise goes together well with an online platform for interactive coding such 
 as `binder <https://mybinder.org/>`__, `gitpod <https://www.gitpod.io/>`__ or `JupyterLite <https://jupyter.org/try-jupyter/lab/>`__.

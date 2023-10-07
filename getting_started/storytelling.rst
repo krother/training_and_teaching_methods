@@ -164,9 +164,8 @@ You may want to rehearse your story one or twice or write it down.
 
 .. seealso::
 
-   Check out the teachings of `Master
-Foo <http://catb.org/esr/writings/unix-koans/ten-thousand.html>`__
-although they are a bit ancient.
+   Check out the teachings of `Master Foo <http://catb.org/esr/writings/unix-koans/ten-thousand.html>`__
+   although they are a bit ancient.
 
    If you are interested in techniques used by experienced public speakers
    and on big stages, check out

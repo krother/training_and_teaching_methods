@@ -35,3 +35,7 @@ Here are a few easy and fun activities that work for priming:
 In general, you can prime both on the **theme** (e.g. *"bicycles"*) and the **topic** (e.g. *"time series forecasting"*) of a lesson.
 I recommend priming the theme when introducing a longer project, and prime for the topic for a shorter lesson.
 The activities remain the same.
+
+.. seealso::
+   
+   check out `Googles self-driving bicycles <https://www.youtube.com/watch?v=LSZPNwZex9s>`__.
