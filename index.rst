@@ -85,7 +85,7 @@ Introducing new Content
 
    lectures/lectures.md
    lectures/alternatives_to_presenting.rst
-   lectures/live_coding.md
+   lectures/live_coding.rst
    lectures/presenting.md
    lectures/questions.md
    lectures/knowledge_board.rst
@@ -100,7 +100,8 @@ Coding Exercises
 .. toctree::
    :maxdepth: 1
 
-   coding_exercises/reduced_examples.md
+   coding_exercises/index.rst
+   coding_exercises/reduced_examples.rst
    coding_exercises/prevent_install_failure.md
    coding_exercises/group_assignments.md
    coding_exercises/debugging.md
@@ -158,7 +159,6 @@ Online Teaching
 
    lectures/online_teaching.md
    online_teaching/save_preparation_time.md
-   online_teaching/engaging_coding_exercises.md
    online_teaching/self_study_material.md
    online_teaching/students_work_together.md
    
