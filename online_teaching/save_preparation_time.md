@@ -1,29 +1,9 @@
 
-# How to save preparation time?
-
-## The Problem
-
-Many new teachers spend lots of time preparing lessons.
-In fact, You can easily end up in a sort of endless loop:
-
-![preparing inifitely long](images/infinity.png)
-
-How to can you prepare lessons without wasting a lot of time?
-
-----
-
-## Solution
-
-In this article you find tools that get your preparation straight to the point.
-To prepare a lesson you may want to cover four areas: warm-up, theory, exercises and wrap-up.
-
 ![](images/lesson_structure.png)
 
 Every lesson starts with a **warm-up** part and ends with a **wrap-up**.
 The next lesson connects to the previous one. 
 This is why the diagram is a circle.
-
-Let's go through each of thee four sections.
 
 ### 1. Start with a Problem
 
@@ -34,7 +14,6 @@ Let's look at an example.
 Suppose you want to teach a lesson on SQL `CREATE TABLE`.
 What you want to achieve is:
 
-    :::text
     students understand CREATE TABLE.
 
 Unfortunately, this is not very useful as a goal.
@@ -42,7 +21,6 @@ You cannot look into your students head and check whether they understood it.
 Also, it is way too unspecific. It does not tell you what exactly to prepare.
 An improvement would be:
 
-    :::text
     students implement a CREATE TABLE statement.
 
 This second statement is better.
@@ -51,14 +29,12 @@ You could have an exercise where the students have to write a `CREATE TABLE`.
 Still, it does not give students any reason why they would want to do this.
 We can improve the goal further to:
 
-    :::text
     students load a CSV file into an SQL table.
 
 Now, students are faced with a challenge, and the `CREATE TABLE` becomes a useful tool.
 Also, students can self-test easily – the data is in the table or not.
 Finally, let's add a theme:
 
-    :::text
     students load a CSV file with penguin data into an SQL table.
 
 Using penguin data (or any other specific dataset) makes it easier for you to get the students on board.
@@ -97,51 +73,6 @@ If you want your students to type in the same code right away, you may easily fi
 
 Creating a visual overview is the backbone of a successful lesson.
 
-### 3. Exercises
-
-At some point, you may want your students to work on **coding exercises**.
-The goal for the students is to solve the problem you presented initially.
-The trick is to *provide as little help as possible but as much as necessary*.
-
-To prepare an exercise, you may want to write a complete solution first.
-Then leave away as much as you dare:
-
-| method     | difficulty |
-|------------|------------|
-| write step-by-step instructions | easy | 
-| fill-the-gap puzzles | easy |
-| give them buggy code | medium |
-| give them pseudocode | medium |
-| problem only | hard |
-
-Choosing any of these options on the same code example help you to tune the difficulty of a lesson.
-
-Also see the [Engaging Coding Exercises](engaging_coding_exercises.md) chapter.
-
-### 4. Questions
-
-For the **wrap-up** part you may want to review the work students did.
-Let one or a few of them share the screen and talk about the code together.
-If they got stuck you may want to discuss your ideal solution instead.
-
-It is useful to prepare 3-5 questions, e.g.:
-
-1. Does every table need a PRIMARY KEY?
-2. What COPY command did you use to load the data?
-3. What advantages does SQL have over Python?
-4. What difficulties did you face?
-
-These questions help you to guide the discussion.
-Questions 1-2 focus on facts. Question 3 connects to other fields. Question 4 reviews the process.
-It is good to mix question types.
-You can also go through common **interview questions**.
-
-Questions are a great backup if the students don't come up with questions on their own or got terribly stuck.
-You might post the questions right at the start of the wrap-up and give students a few minutes to think about them.
-
-### 5. Further Reading
-
-Students generally appreciate if you give them 2-4 links to web pages, blog posts or videos that explain the main concepts.
 
 
 ### 6. Write a lesson plan

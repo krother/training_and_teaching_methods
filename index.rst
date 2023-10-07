@@ -33,7 +33,7 @@ Preparing Lessons
 .. toctree::
    :maxdepth: 1
 
-   planning/preparing_lessons.md
+   planning/preparing_lessons.rst
    planning/decide_what_to_teach.md
    planning/goals.md
    planning/concept_maps.md
@@ -107,6 +107,8 @@ Coding Exercises
    coding_exercises/debugging.md
    coding_exercises/coding_kata.md
    coding_exercises/group_puzzle.md
+   coding_exercises/code_reviews.rst
+   coding_exercises/self_study_material.md
    
 ----
 
@@ -158,8 +160,6 @@ Online Teaching
    :maxdepth: 1
 
    lectures/online_teaching.md
-   online_teaching/save_preparation_time.md
-   online_teaching/self_study_material.md
    online_teaching/students_work_together.md
    
 ----

@@ -78,14 +78,19 @@ To create a reduced example, create a complete solution first and then omit or m
 .. figure:: images/reduced_examples.png
    :alt: reduced code examples
 
--  code with gaps
--  sort code lines
--  sort code blocks
--  fix unindented code
--  empty function headers
--  sequence of small tasks
--  pseudocode
--  fix buggy code
+========================= ====================
+method                    difficulty
+========================= ====================
+step-by-step instructions easy 
+code with gaps            easy
+sort code lines           easy
+sort code blocks          easy
+fix unindented code       easy
+solution with bugs        medium
+pseudocode                medium
+empty function headers    medium
+problem only              hard
+========================= ====================
 
 
 Reduced examples can be used in many situations:

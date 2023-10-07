@@ -77,24 +77,3 @@ Here you find some very mature and detailed step-by-step guides:
 * [DjangoGirls Tutorial](https://tutorial.djangogirls.org/en/)
 * [Full Stack Open](https://fullstackopen.com/en/)
 * [Software Carpentry](https://software-carpentry.org/lessons/)
-
-### 4. Kata
-
-A coding Kata is a well-defined coding challenge.
-Like in martial arts, the purpose of a coding Kata is to aim for perfect execution.
-A student can solve the same Kata many times, improving their own programming every time or trying new programming techniques.
-
-![coding kata](images/coding_kata.png)
-
-For instance, you could implement the Hello World program in Python, C++, Java, bash, Postgres, Docker or brainf*** .
-Likewise, you could use the MNIST digits dataset to exercise RandomForest models, neural networks, CNNs, PCA and so on.
-
-In contrast to step-by-step guides, Coding Kata are much easier to write.
-All you need to do is to come up with a clear description of the problem.
-The typical Kata can be finished in 10-60 minutes.
-
-You find a lot of coding Kata on:
-
-* [Graphics with Numpy](https://www.academis.eu/numpy_graphics)
-* [CheckIO](https://checkio.org/)
-* [Advent of Code](https://adventofcode.com/)

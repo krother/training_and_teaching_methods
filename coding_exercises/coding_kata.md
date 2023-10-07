@@ -1,19 +1,28 @@
 
 # Coding Kata
 
-A **Coding Kata** is a coding challenge to rehearse coding skills together.
+A **Coding Kata** is a well-defined coding challenge to rehearse skills.
+Like in martial arts, the purpose of a coding Kata is to aim for perfect execution.
+A student can solve the same Kata many times, improving their own programming every time or trying new programming techniques.
 
-A **Coding Kata** could be:
+![coding kata](images/coding_kata.png)
 
-* Write a *"Hello, World"* program
-* Calculate numbers from the *Fibonacci series*
-* Find the exit from a maze
+A **Coding Kata** could be: 
+
+* write a *"Hello, World"* program
+* calculate numbers from the *Fibonacci series*
+* find the exit from a maze
+
+For instance, you could implement the Hello World program in Python, C++, Java, bash, Postgres, Docker or brainf*** .
+Likewise, you could use the MNIST digits dataset to exercise RandomForest models, neural networks, CNNs, PCA and so on.
+
+In contrast to step-by-step guides, Coding Kata are much easier to write.
+All you need to do is to come up with a clear description of the problem.
+The typical Kata can be finished in 10-60 minutes.
 
 ----
 
 ## How to run a Kata?
-
-**Summary:**
 
 1. Pick a challenge
 2. Set a time limit
@@ -22,15 +31,14 @@ A **Coding Kata** could be:
 
 ### 1. Pick a Challenge
 
-* Go to [www.academis.eu](http://www.academis.eu/) and pick a challenge from one of the sections.
-* If you do this for the first time, the *"Postcard"* and *"Baby Name Generator"* are easy to facilitate.
+* Check the list below and pick a challenge
 * Read through the challenge and make sure you understand the task
 * Announce the task to the group
 * Send them a link to the challenge
 
 ### 2. Set a time limit
 
-* A good time limit is between 10 minutes (for a one-star or warmup exercise) and 45 minutes (a three-star challenge) in a group of beginners.
+* A good time limit is between 10 minutes (for a warmup exercise) and 45 minutes (a medium challenge)
 * Announce the time limit
 * Make sure the timer is clearly visible
 
@@ -79,7 +87,10 @@ There are several ways to run a Coding Kata:
 
 There are many places where you can find online coding Katas for self-study:
 
-* [Checkio](https://checkio.org/)
+* [Graphics with Numpy](https://www.academis.eu/numpy_graphics)
+* [Material on Academis](http://www.academis.eu/)
+* [Advent of Code](https://adventofcode.com/)
+* [CheckIO](https://checkio.org/)
 * [Codingbat](http://codingbat.com/)
 * [Codewars](http://www.codewars.com)
 * [Cryptopals](https://cryptopals.com/)
