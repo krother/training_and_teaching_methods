@@ -35,12 +35,14 @@ exercises that reduce the cognitive load.
 Step-by-Step tutorials
 ----------------------
 
-Probably the easiest way to facilitate a practical exercise is to take
-the participants by the hand and bring them home safely. Write down
-every single step necessary to complete a task. Most of the time that
-the tutorial is telling the participants exactly what to do, which lines
-of code to write etc. If they manage to follow the instructions by the
-letter, they will probably succeed.
+Probably the easiest way to facilitate a practical exercise is to write down
+every single step necessary to complete a task.
+Most of the time the tutorial is telling the participants exactly what to do,
+which lines of code to write etc.
+If they manage to follow the recipe, they will probably succeed.
+This is a good approach for longer exercises, because students need 
+to read and implement each step carefully.
+Step-by-step instructions let students proceed at their own pace.
 
 If you want to see a highly developed step-by-step guide, take a look at
 the `Django Girls Tutorial <https://tutorial.djangogirls.org/en/>`__.
@@ -54,10 +56,11 @@ allow you to focus on matters where your full attention is required.
 Also, they lead to success for most participants quickly. On the other
 hand, following a step-by-step guide is not very challenging for
 advanced students. As a participant, you are aware that you are
-following a *“safe path for tourists”*. This could limiting the learning
-experience. Also, it takes a while to create a step-by-step instruction
-that works under most circumstances. Python installations, environments,
-missing libraries or a simple typo could still require your help.
+following a *“safe path for tourists”*. This could limit the learning
+experience.
+Also, reliable step-by-step instructions need time to prepare. 
+Python installations, environments, missing libraries or
+a simple typo in the the instructions will require your help.
 
 Concluding, step-by-step tutorials are a useful method for a first
 confrontation with a new technology.
@@ -66,8 +69,14 @@ Reduced examples
 ----------------
 
 Writing a program from scratch is difficult. It works better to provide
-a **reduced example**, where a clear problem-solving strategy is made
-available:
+a **reduced example**.
+A reduced example means that you prepare an incomplete solution.
+The incomplete solutions puts an otherwise difficult problem in arms reach of
+your students.
+To create a reduced example, create a complete solution first and then omit or mix some parts:
+
+.. figure:: images/reduced_examples.png
+   :alt: reduced code examples
 
 -  code with gaps
 -  sort code lines
@@ -78,8 +87,28 @@ available:
 -  pseudocode
 -  fix buggy code
 
-Reduced examples are a powerful technique that spice up a lesson and
+
+Reduced examples can be used in many situations:
+
+-  a 5-minute puzzle that helps you to introduce a new concept
+-  a longer exercise where students need to apply something you explained earlier
+-  repeat something that you did the previous day
+
+Reduced examples are great because you can fine-tune difficulty.
+
+.. figure:: images/recycle_code.png
+   :alt: recycle code
+
+Reduced examples allow you to recycle code examples from earlier
+lessons. It saves a lot of time if you slightly modify an exercise you
+know well to adapt it to a specific audience.
+
+Taken togehter, reduced examples are a powerful technique that spice up a lesson and
 trigger interesting questions.
+
+.. seealso::
+   
+   `Faded Examples <https://teachtogether.tech/en/index.html#s:architecture-load>`__ by Greg Wilson.
 
 Programming from a model
 ------------------------
