@@ -40,6 +40,7 @@ Preparing Lessons
    planning/lesson_structure.md
    planning/lesson_plans.md
    penguin_lesson/README.rst
+   lectures/online_teaching.md
 
 ----
 
@@ -151,17 +152,6 @@ Collecting Feedback
    feedback/voting_box.md
    feedback/feedback.md
 
-----
-
-Online Teaching
----------------
-
-.. toctree::
-   :maxdepth: 1
-
-   lectures/online_teaching.md
-   online_teaching/students_work_together.md
-   
 ----
 
 Troubleshooting
