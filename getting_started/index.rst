@@ -1,8 +1,5 @@
-How to start a lesson?
-======================
-
-The Problem
------------
+Warming Up
+==========
 
 Suppose you want to deliver a lesson on **time series forecasting**.
 You have the lesson fully worked out with theory and exercises.
@@ -39,3 +36,16 @@ class. After the first 10 minutes you want to get to more serious stuff.
    :alt: all of that in 10 minutes
 
 In the following chapters we will look at a few things you could do in the beginning.
+
+
+.. toctree::
+   :maxdepth: 1
+
+   priming.rst
+   one_liners.rst
+   buggy_code.rst
+   upside_down.rst
+   brainstorming.rst
+   storytelling.rst
+   theater.rst
+   tricks_with_bricks.rst

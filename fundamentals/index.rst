@@ -29,3 +29,13 @@ all a beginner sees is code and error messages.
 The beginner programmer needs to learn the craft first.
 
 With teaching, it is the same.
+
+.. toctree::
+   :maxdepth: 1
+
+   programming_is_difficult_to_teach.rst
+   teaching_process.md
+   students.md
+   types_of_students.rst
+   teacher.md
+   room.md

@@ -1,10 +1,8 @@
-How to get feedback from students?
-==================================
+Collecting Feedback
+===================
 
 .. figure:: images/pingu.png
    :alt: pingu asking for feedback
-
-   pingu asking for feedback
 
 The Problem
 -----------
@@ -14,22 +12,16 @@ You have **no idea** what is going on in your class.
 .. figure:: images/wall_of_silence.png
    :alt: the wall of silence
 
-   the wall of silence
-
 or worse, you **know** something is going on:
 
 .. figure:: images/are_you_mad_at_me.png
    :alt: teacher trying to talk to student
-
-   teacher trying to talk to student
 
 or everything is great and you would like to take a moment to
 **reflect** with your students:
 
 .. figure:: images/feedback_reflect.png
    :alt: students reflect
-
-   students reflect
 
 
 Normative and Formative Feedback
@@ -67,8 +59,6 @@ student can have a guess:
 .. figure:: images/feedback_multiple_choice.png
    :alt: multiple choice quiz
 
-   multiple choice quiz
-
 There are many tools that allow you to create single-choice or
 multiple-choice quizzes. Most **Learning Management Systems (LMS)** have
 a quiz app built in, Zoom has a **Poll app**, and on Slack you have the
@@ -80,8 +70,6 @@ responses. Here are True/False questions:
 
 .. figure:: images/slack_yesno.png
    :alt: yes no question on Slack
-
-   yes no question on Slack
 
 Quizzes like these are low-risk. They focus on the content and let you
 know how far the class is overall. Students can also assess their own
@@ -101,8 +89,6 @@ mutual trust. Here are three questions that are easy to start with:
 .. figure:: images/feedback_temp_check.png
    :alt: three questions
 
-   three questions
-
 Collecting ideas on multiple questions allows you to mix information on
 technical aspects (*“which topic is difficult”*) or do an emotional
 **temperature check** (*“what do you like”*, *“what frustrates you”*).
@@ -111,8 +97,6 @@ in a controlled way.
 
 .. figure:: images/thermo.png
    :alt: penguin with thermometer
-
-   penguin with thermometer
 
 Like with the quizzes, you can post your questions in a chat program and
 collect results there. If you need a bit more freedom, a shared **Google
@@ -130,8 +114,6 @@ session.
 .. figure:: images/feedback_barplot.png
    :alt: feedback barplot
 
-   feedback barplot
-
 Technically, this works the same way as a quiz. But the purpose is
 different – the voting empowers the students and makes it more likely
 they will talk.
@@ -145,8 +127,6 @@ allows you to cover many topics in a short time. It works as follows:
 
 .. figure:: images/lean_coffee.png
    :alt: lean coffee method
-
-   lean coffee method
 
 The method needs some time (2 minutes for explaining, 5 minutes for
 collecting topics and voting plus 20-30 minutes for discussions). It
@@ -167,10 +147,21 @@ the course.
 .. figure:: images/agent_topsecret.png
    :alt: confidential meeting
 
-   confidential meeting
+.. seealso::
 
-Further Reading
-~~~~~~~~~~~~~~~
+   You find a lot of online facilitation tools on
+   `www.funretrospectives.com <https://www.funretrospectives.com>`__.
 
-You find a lot of online facilitation tools on
-`www.funretrospectives.com <https://www.funretrospectives.com>`__.
+
+.. toctree::
+   :maxdepth: 1
+
+   dot_voting.md
+   props.md
+   fire.md
+   fist_or_five.md
+   four_corners.md
+   round_robin.md
+   supermarket.md
+   voting_box.md
+   feedback.md

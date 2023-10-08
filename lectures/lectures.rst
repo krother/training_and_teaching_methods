@@ -1,10 +1,7 @@
-Strategies to Introduce New Concepts 
-====================================
+Deductive Instruction
+=====================
 
-The content of your lesson is well prepared.
-You have set a goal, divided the topic into key concepts, created a Concept Map and a few exercises.
-Now, how do you get your nicely structured concepts into the heads of students?
-The most obvious approach is that you introduce and explain the new concepts yourself.
+The most obvious approach to introduce new concepts is that you explain them yourself.
 This teacher-centric approach is commonly known as **deductive instruction**.
 In **deductive instruction**, the concepts are predefined and you set the pace of learning.
 Therefore, deductive insruction is very predictable and often the easier choice for beginners.

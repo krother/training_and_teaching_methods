@@ -5,172 +5,21 @@ Teaching Programming
 
 |image0|
 
+
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
+   :titlesonly:
 
    preface
-
-Fundamentals
-------------
-
-.. toctree::
-   :maxdepth: 1
-
    fundamentals/index
-   fundamentals/programming_is_difficult_to_teach.rst
-   fundamentals/teaching_process.md
-   fundamentals/students.md
-   fundamentals/types_of_students.rst
-   fundamentals/teacher.md
-   fundamentals/room.md
-
-
-----
-
-Preparing Lessons
------------------
-
-.. toctree::
-   :maxdepth: 1
-
    planning/preparing_lessons.rst
-   planning/decide_what_to_teach.md
-   planning/goals.md
-   planning/concept_maps.md
-   planning/lesson_structure.md
-   planning/lesson_plans.md
-   penguin_lesson/README.rst
-   lectures/online_teaching.md
-
-----
-
-Connecting with your Students
------------------------------
-
-.. toctree::
-   :maxdepth: 1
-
-   connecting/expectations.md
-   connecting/the_first_minute.md
-   connecting/selling.rst
-   connecting/mood_cards.md
-   connecting/four_questions.md
-   connecting/scale.md
-   connecting/getting_to_know.md
-   
-----
-
-Warming Up
-----------
-
-.. toctree::
-   :maxdepth: 1
-
-   getting_started/index.rst
-   getting_started/priming.rst
-   getting_started/one_liners.rst
-   getting_started/buggy_code.rst
-   getting_started/upside_down.rst
-   getting_started/brainstorming.rst
-   getting_started/storytelling.rst
-   getting_started/theater.rst
-   getting_started/tricks_with_bricks.rst
-
-----
-
-Introducing new Content
------------------------
-
-.. toctree::
-   :maxdepth: 1
-
-   lectures/lectures.md
-   lectures/alternatives_to_presenting.rst
-   lectures/live_coding.rst
-   lectures/presenting.md
-   lectures/questions.md
-   lectures/knowledge_board.rst
-   lectures/paper_and_scissors.md
-   lectures/algorithmic_games.rst
-
-----
-
-Coding Exercises
-----------------
-
-.. toctree::
-   :maxdepth: 1
-
-   coding_exercises/index.rst
-   coding_exercises/reduced_examples.rst
-   coding_exercises/prevent_install_failure.md
-   coding_exercises/group_assignments.md
-   coding_exercises/debugging.md
-   coding_exercises/coding_kata.md
-   coding_exercises/group_puzzle.md
-   coding_exercises/code_reviews.rst
-   coding_exercises/self_study_material.md
-   
-----
-
-Wrapping up
------------
-
-.. toctree::
-   :maxdepth: 1
-
-   wrapping_up/mc_questions.md
-   wrapping_up/twenty_questions.md
-   wrapping_up/check_cross.md
-   wrapping_up/memory.md
-   wrapping_up/scrabble.md
-   wrapping_up/telepathy.md
-   wrapping_up/quiz.md
-   wrapping_up/lightning_talks.md
-   wrapping_up/facilitated_discussion.md
-   wrapping_up/caroussel.md
-   wrapping_up/marketplace.md
-   wrapping_up/fishbowl.md
-   wrapping_up/repeat.md
-
-----
-
-Collecting Feedback
--------------------
-
-.. toctree::
-   :maxdepth: 1
-
-   feedback/index.rst
-   feedback/dot_voting.md
-   feedback/props.md
-   feedback/fire.md
-   feedback/fist_or_five.md
-   feedback/four_corners.md
-   feedback/round_robin.md
-   feedback/supermarket.md
-   feedback/voting_box.md
-   feedback/feedback.md
-
-----
-
-Troubleshooting
----------------
-
-.. toctree::
-   :maxdepth: 1
-
-   troubleshooting/no_prep.md
-   troubleshooting/nervousness.md
-   troubleshooting/plan_b.md
-   troubleshooting/tech_failures.md
-   troubleshooting/heterogeneous.md
-   troubleshooting/disruptive_behavior.md
-   troubleshooting/passive.md
-   troubleshooting/under_pressure.md
-   troubleshooting/energizers.md
-   troubleshooting/paradrop.md
-   troubleshooting/jungle.md
+   connecting/index
+   getting_started/index
+   lectures/index
+   coding_exercises/index
+   wrapping_up/index
+   feedback/index
+   troubleshooting/index
    
 ----
 

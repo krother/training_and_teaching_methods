@@ -104,3 +104,15 @@ without writing them down explicitly.
 But if the lesson is difficult or you are starting to teach, covering
 all seven points is a good idea. Covering the entire plan prevents
 failure and makes it easier to reuse your lesson in the future.
+
+
+.. toctree::
+   :maxdepth: 1
+
+   decide_what_to_teach.md
+   goals.md
+   concept_maps.md
+   lesson_structure.md
+   lesson_plans.md
+   ../penguin_lesson/README.rst
+   ../lectures/online_teaching.md
