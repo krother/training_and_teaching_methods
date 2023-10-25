@@ -110,9 +110,10 @@ failure and makes it easier to reuse your lesson in the future.
    :maxdepth: 1
 
    decide_what_to_teach.md
-   goals.md
+   goals.rst
    concept_maps.md
    lesson_structure.md
    lesson_plans.md
    ../penguin_lesson/README.rst
+   blooms_taxonomy.rst
    ../lectures/online_teaching.md
