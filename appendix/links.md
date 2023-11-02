@@ -45,6 +45,7 @@ https://people.neilon.software/)
 - [Open Tech School Intro to Python](http://opentechschool.github.io/python-beginners/)
 * [Code + Go Robot Mouse](https://www.learningresources.com/code-gor-robot-mouse-activity-set)
 * [Lego Education](https://education.lego.com/de-de)
+* [Beginners Glossary of Coding and Programming Terms](https://www.qualtrics.com/blog/glossary-of-coding-and-programming-terms/)
 
 ## Flipped Class
 
