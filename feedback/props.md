@@ -25,12 +25,11 @@
 
 | object | question |
 |--------|----------|
-| smiley | What was fun for you during the training? |
 | heart  | What did you like about the training? |
-| brain  | What are your thoughts right now? |
-| globe  | Where can you apply what you learned outside? |
-| spiky ball | What did you not like? |
-| duck | What bugs did you have this week? |
+| brain  | What did you learn? |
+| car  | How can you apply what you learned? |
+| spiky ball | What did you find difficult? |
+| duck | What else would you like to share? |
 
 ----
 
