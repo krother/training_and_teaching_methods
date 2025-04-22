@@ -20,18 +20,7 @@ Teaching Programming
    wrapping_up/index
    feedback/index
    troubleshooting/index
-   
-----
-
-Appendix
---------
-
-.. toctree::
-   :maxdepth: 1
-
-   appendix/training_course_design.md
-   appendix/quotes_teaching.md
-   appendix/links.md
+   appendix
    
 ----
 
@@ -54,7 +43,7 @@ Appendix
 
 .. topic:: License
 
-   © 2021 Dr. Kristian Rother
+   © 2025 Dr. Kristian Rother
 
    Usable under the conditions of the Creative Commons Attribution Share-alike License 4.0 (CC-BY-SA 4.0).
    See `creativecommons.org <https://creativecommons.org/licenses/by-sa/4.0/>`__ for details

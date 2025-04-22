@@ -7,9 +7,7 @@ Gamified exercises have the potential to promote deep understanding of a new top
 In this chapter, you find some general rules for designing your own gamified exercises.
 Here is an example:
 
-.. topic::
-
-   **Tree Traversal**
+.. topic:: Tree Traversal
 
    This algorithmic game simulates recursively visiting all nodes of a tree.
    At least seven students position themselves in a binary tree.
