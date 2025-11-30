@@ -33,7 +33,6 @@ https://people.neilon.software/)
 ## Teaching Programming to Kids
 
 * [Rapid Router](https://www.codeforlife.education/rapidrouter/) – 100 Blockly programming exercises
-* [Computer Science Fun for Kids](https://www.hp.com/ca-en/shop/Offer.aspx?p=computer-science-fun-for-kids) – links curated by HP
 * [Programmieren mit der Maus](https://programmieren.wdrmaus.de/) – Blockly programming tutorial in German
 * [Lightbot](http://lightbot.com/) – programming a small robot
 * [Scratch](https://scratch.mit.edu/) – programming environment by MIT
@@ -45,7 +44,6 @@ https://people.neilon.software/)
 - [Open Tech School Intro to Python](http://opentechschool.github.io/python-beginners/)
 * [Code + Go Robot Mouse](https://www.learningresources.com/code-gor-robot-mouse-activity-set)
 * [Lego Education](https://education.lego.com/de-de)
-* [Beginners Glossary of Coding and Programming Terms](https://www.qualtrics.com/blog/glossary-of-coding-and-programming-terms/)
 
 ## Flipped Class
 
