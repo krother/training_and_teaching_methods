@@ -1,0 +1,15 @@
+[project]
+name = "teaching"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "sphinx==8.2.3",
+    "sphinx-design",
+    "sphinx-copybutton",
+    "roman-numerals",
+    "myst-parser",
+    "furo",
+    "sphinxcontrib-svg2pdfconverter[CairoSVG]", 
+]
