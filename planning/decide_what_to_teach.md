@@ -12,12 +12,12 @@ This sometimes gets in the way of good teaching:
 
 ![knowing too much is a problem](images/agent.png)
 
-Of course, whatever you know is only a small subset of all the knowledge that exists on any given subject:
+Of course, whatever you know is only a subset of all the knowledge that exists on any given subject:
 
 ![all vs known](images/knowledge_all.png)
 
 Still, it is very tempting to try and cover a little bit of everything.
-Trying to cover everything is probably among the worst things that you can do in an online setting. 
+Trying to cover everything is probably among the worst things that you can go for. 
 Cramming in a lot of content leaves little room for engaging the students.
 At the same time the things you cover will still be somewhat superficial.
 

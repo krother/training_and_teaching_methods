@@ -30,6 +30,9 @@ The beginner programmer needs to learn the craft first.
 
 With teaching, it is the same.
 
+Contents
+--------
+
 .. toctree::
    :maxdepth: 1
 

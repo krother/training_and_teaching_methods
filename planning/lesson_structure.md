@@ -1,7 +1,8 @@
 
 # The Structure of a Lesson
 
-How does a **lesson** differ from a **presentation**? While your students passively consume content in a presentation, a lesson has interactive components.
+How does a **lesson** differ from a **presentation**?
+While your students passively consume content in a presentation, many lessons have interactive components.
 But where should you put the interactive parts and how much of them?
 In this chapter, I would like to suggest a model for building well-balanced lessons from 45 minutes to full days.
 Such a well-balanced lesson consists of four phases: **warm-up, introduce content, apply content,** and **wrap-up**.
@@ -12,7 +13,7 @@ Let's look at the four phases in detail:
 
 ## 1. Warm-up
 
-In the warm-up phase, you invite students into your class.
+In the warm-up phase, you invite students to participate in your class.
 You motivate them to learn new things and encourage them to think actively.
 Warming up is very important in a programming course, because it protects your participants from frustration.
 The warm-up part should leave your students curious or already with a feeling of achievement.
@@ -24,7 +25,7 @@ There are many things you can do to motivate and activate students in the warm-u
 * introduce each other
 * give an overview what the lesson is about
 * elicit expectations from the group
-* **prime** the class for a new topic. I believe this is the most important warm-up function
+* **prime** the class for a new topic. I believe this is the most important purpose of warming-up.
 * ask quiz questions from a previous lesson
 * do an easy coding exercise everybody can complete
 
@@ -35,8 +36,8 @@ In the following chapters, you find lots of warm-up methods.
 
 Once the class is warmed up, you can deliver something new to them. 
 New content is usually difficult. It is best delivered in bite-sized chunks.
-Your most important job in this phase is not to convey as many facts as possible, but provide a structure to your subject.
-Students will use this structure to organize new information on their own.
+Your most important job in this phase is not to cram in as many facts as possible, but convey a structure clearly.
+Students will use this structure to organize information on their own.
 
 So, you would typically introduce a limited number of around 7 new concepts. 
 Ideally, you have a good visual, a concept map where all the new concepts are shown.
@@ -78,15 +79,8 @@ When your lesson approaches the end, you should reserve some time to close thing
 
 ## Conclusions
 
-The four basic phases of a teaching unit provide you with a scaffolding that give you a safe structure to construct quality teaching units
-In the figure you can see that the warm-up and wrap-up parts are generally shorter than the other two (usually 10-20% each). 
-The model in the figure is circular.
-The end of one lesson feeds into the beginning of the next.
-For instance, it is often a good idea to start the next lesson with a warm-up activity that repeats content introduced in the last one.
-
-A single cycle should last at least 45'.
-You can cycle over it several times during a day (in my experience up to four times).
-But with very intense work phases, reserving half a day or a full day also works fine.
-
-The four phase model gives you a lot of freedom how to deliver each of the phases.
-At the same time, the model helps you to keep the overall learning process balanced.
+These four basic phases are a scaffolding for constructing quality teaching units.
+A full cycle could last anything between one hour and a full day. Typically I run 3-4 cycles during a day.
+The warm-up and wrap-up parts are generally shorter than the other two (usually 10-20% each). 
+The end of one cycle connects to the start of the next one.
+For instance a lesson could starting with a recap of the last one.
